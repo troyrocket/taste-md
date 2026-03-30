@@ -575,7 +575,7 @@ const mainIndexHTML = `<!DOCTYPE html>
   <meta name="description" content="Machine-readable restaurant pages optimized for AI discovery. ${count} restaurants across ${sortedHoods.length} San Francisco neighborhoods.">
   <style>
     body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
-    h1 { font-size: 2.8rem; color: #FF3008; }
+    h1 { font-size: 5rem; color: #FF3008; }
     h2 { font-size: 1.3rem; margin-top: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.3rem; }
     h2 a { color: #222; text-decoration: none; }
     h2 a:hover { color: #0066cc; }
