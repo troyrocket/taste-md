@@ -59,6 +59,24 @@ I came to Little Skillet with high hopes. A spot serving Black American comfort 
 
 The f..." — **Hamidah Ross** (6 months ago)
 
+## Frequently Asked Questions
+
+**Q: Is Little Skillet good for soul food?**
+Opinions are divided. Some call it exceptional with warm, inviting atmosphere and great fried chicken. Others found the chicken lacked seasoning and the greens were horrible.
+
+**Q: What should I order at Little Skillet?**
+The fried chicken is the main draw. When done well, it's praised. The pulled pork and mac and cheese also get mentions, particularly for kids.
+
+**Q: What's the atmosphere like?**
+Warm, inviting, with great music and character. Multiple reviewers describe it as having a unique soul food vibe. Great spot near the Giants stadium.
+
+**Q: Any concerns about Little Skillet?**
+Inconsistent quality. Some found fried chicken well-executed, while others found it lacking seasoning. Sides like greens and cornbread got mixed reviews.
+
+**Q: Is it near the ballpark?**
+Yes, it's near the Giants game area. A good option if you're looking for soul food before or after a game.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

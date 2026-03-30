@@ -58,6 +58,24 @@ The ribs were tender, smoky, and full of flavor, and the brisk..." — **Kty** (
 They have a very solid spirits menu. Ive already told a couple of people about this place" — **Gilbert Espinoza** (3 months ago)
 - ★★★★★ "Came on a very busy day with it being Folsom street fair weekend, but the staff was rushing around to make sure everyone was taken care of. Their food, and especially their blackened catfish - fantastic!!! Was very pleasantly surprised by the quality of BBQ here, especially being in SF. 100% will re..." — **Rachael Nevsimal** (6 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's best at Hardwood Bar & Smokery?**
+The burger and blackened catfish are standouts. The house-made sauces are killer, especially the dill ranch and tangy mustard.
+
+**Q: How's the BBQ at Hardwood Bar & Smokery?**
+Mixed. The sides and sauces are amazing, but some reviewers found the brisket too dry with thick cuts, and ribs tough. Others enjoyed the BBQ.
+
+**Q: Do they have good drinks?**
+Yes, they have a very solid spirits menu. Good for having a drink with your meal.
+
+**Q: How's the service?**
+Amazing. Even on very busy days, the waitstaff rushes around to make sure everyone is taken care of. Servers are friendly and helpful.
+
+**Q: Any downsides to Hardwood?**
+The smoked meats can be hit-or-miss. Multiple reviewers found the brisket and ribs dry. The sides and sauces make up for it, but the meat is inconsistent.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

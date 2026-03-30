@@ -7,6 +7,91 @@ import 'dotenv/config';
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
 import { marked } from 'marked';
+import Anthropic from '@anthropic-ai/sdk';
+
+const anthropic = new Anthropic();
+
+async function generateFAQ(restaurant) {
+  const name = restaurant.displayName?.text || 'Unknown';
+  const reviews = restaurant.reviews || [];
+  if (reviews.length === 0) return null;
+
+  const reviewTexts = reviews.map((r, i) =>
+    `Review ${i + 1} (${r.rating}★): ${r.text?.text || ''}`
+  ).join('\n\n');
+
+  const cuisine = (restaurant.types || [])
+    .filter(t => !['restaurant', 'food', 'point_of_interest', 'establishment'].includes(t))
+    .map(t => t.replace(/_/g, ' ')).join(', ');
+  const price = restaurant.priceLevel || '';
+  const address = restaurant.formattedAddress || '';
+
+  const prompt = `Based on these real customer reviews for ${name} (${cuisine}, ${address}), generate 5-8 Q&A pairs that answer the questions someone would ask an AI assistant about this restaurant.
+
+Reviews:
+${reviewTexts}
+
+Rules:
+- Questions should be natural, like "Is this place good for date night?" or "What should I order here?"
+- Answers must be based ONLY on information in the reviews. Do not make anything up.
+- Keep answers concise (1-3 sentences).
+- Cover: food recommendations, atmosphere/vibe, service quality, who it's best for, any negatives.
+- Format each Q&A exactly like this:
+Q: [question]
+A: [answer]
+
+Generate the Q&A pairs now:`;
+
+  try {
+    const message = await anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 1024,
+      messages: [{ role: 'user', content: prompt }],
+    });
+    return message.content[0].text;
+  } catch (err) {
+    console.error(`  FAQ generation failed for ${name}: ${err.message}`);
+    return null;
+  }
+}
+
+function parseFAQ(faqText) {
+  if (!faqText) return [];
+  const pairs = [];
+  const lines = faqText.split('\n');
+  let currentQ = null;
+  for (const line of lines) {
+    if (line.startsWith('Q:')) {
+      currentQ = line.slice(2).trim();
+    } else if (line.startsWith('A:') && currentQ) {
+      pairs.push({ q: currentQ, a: line.slice(2).trim() });
+      currentQ = null;
+    }
+  }
+  return pairs;
+}
+
+function faqToMarkdown(pairs) {
+  if (!pairs.length) return '';
+  return '\n## Frequently Asked Questions\n\n' +
+    pairs.map(p => `**Q: ${p.q}**\n${p.a}`).join('\n\n') + '\n';
+}
+
+function faqToSchemaJSON(pairs, restaurantName) {
+  if (!pairs.length) return null;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: pairs.map(p => ({
+      '@type': 'Question',
+      name: p.q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: p.a,
+      },
+    })),
+  };
+}
 
 const dataFile = join(process.cwd(), 'data', 'restaurants.json');
 if (!existsSync(dataFile)) {
@@ -151,7 +236,7 @@ function buildParking(r) {
   return opts.length ? opts.join(' · ') : null;
 }
 
-function generateMarkdown(r, hoodSlug, hood) {
+function generateMarkdown(r, hoodSlug, hood, faqPairs) {
   const name = r.displayName?.text || 'Unknown Restaurant';
   const address = r.formattedAddress || '';
   const phone = r.nationalPhoneNumber || '';
@@ -225,6 +310,10 @@ function generateMarkdown(r, hoodSlug, hood) {
 
   sections.push(`\n## What Diners Say\n${reviews}`);
 
+  if (faqPairs && faqPairs.length) {
+    sections.push(faqToMarkdown(faqPairs));
+  }
+
   sections.push(`\n---\n\n*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*`);
 
   return sections.join('\n') + '\n';
@@ -292,9 +381,12 @@ function escapeHTML(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-function generateHTML(md, schema, name, neighborhood) {
+function generateHTML(md, schema, name, neighborhood, faqSchema) {
   const htmlBody = marked(md);
   const schemaTag = `<script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n</script>`;
+  const faqSchemaTag = faqSchema
+    ? `\n  <script type="application/ld+json">\n${JSON.stringify(faqSchema, null, 2)}\n  </script>`
+    : '';
   const escapedMd = escapeHTML(md);
 
   return `<!DOCTYPE html>
@@ -304,7 +396,7 @@ function generateHTML(md, schema, name, neighborhood) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${name} — ${neighborhood} — taste.md</title>
   <meta name="description" content="AI-optimized restaurant page for ${name} in ${neighborhood}, San Francisco. Find cuisine, hours, price, reviews, and location.">
-  ${schemaTag}
+  ${schemaTag}${faqSchemaTag}
   <style>
     body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
     h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
@@ -316,6 +408,8 @@ function generateHTML(md, schema, name, neighborhood) {
     li { margin-bottom: 0.8rem; }
     a { color: #0066cc; }
     hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
     .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
     .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
     .breadcrumb a { color: #0066cc; }
@@ -382,9 +476,18 @@ if (location.hash === '#md') switchView('md');
 </html>`;
 }
 
+// --- FAQ cache: avoid re-generating if already cached ---
+const faqCacheFile = join(process.cwd(), 'data', 'faq-cache.json');
+let faqCache = {};
+if (existsSync(faqCacheFile)) {
+  try { faqCache = JSON.parse(readFileSync(faqCacheFile, 'utf-8')); } catch {}
+}
+
 // Generate all pages, organized by neighborhood
 let count = 0;
 const neighborhoodMap = {}; // { neighborhood: [entries] }
+
+const SKIP_FAQ = process.argv.includes('--skip-faq');
 
 for (const r of restaurants) {
   const name = r.displayName?.text || 'Unknown';
@@ -396,9 +499,27 @@ for (const r of restaurants) {
   mkdirSync(join(mdDir, hoodSlug), { recursive: true });
   mkdirSync(join(distDir, hoodSlug), { recursive: true });
 
-  const md = generateMarkdown(r, hoodSlug, hood);
+  // Generate FAQ from reviews
+  let faqPairs = [];
+  let faqSchema = null;
+  const cacheKey = r.id || s;
+
+  if (!SKIP_FAQ && r.reviews?.length) {
+    if (faqCache[cacheKey]) {
+      faqPairs = faqCache[cacheKey];
+      console.log(`  [cached] FAQ for ${name}`);
+    } else if (!process.argv.includes('--cache-only')) {
+      console.log(`  Generating FAQ for ${name}...`);
+      const faqText = await generateFAQ(r);
+      faqPairs = parseFAQ(faqText);
+      faqCache[cacheKey] = faqPairs;
+    }
+    if (faqPairs.length) faqSchema = faqToSchemaJSON(faqPairs, name);
+  }
+
+  const md = generateMarkdown(r, hoodSlug, hood, faqPairs);
   const schema = generateSchemaJSON(r);
-  const html = generateHTML(md, schema, name, hood);
+  const html = generateHTML(md, schema, name, hood, faqSchema);
 
   writeFileSync(join(mdDir, hoodSlug, `${s}.md`), md);
   writeFileSync(join(distDir, hoodSlug, `${s}.html`), html);
@@ -408,6 +529,9 @@ for (const r of restaurants) {
   neighborhoodMap[hood].push(entry);
   count++;
 }
+
+// Save FAQ cache
+writeFileSync(faqCacheFile, JSON.stringify(faqCache, null, 2));
 
 // Sort neighborhoods alphabetically, entries by rating
 const sortedHoods = Object.keys(neighborhoodMap).sort();

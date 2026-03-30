@@ -50,6 +50,24 @@ Sunday: Closed
 - ★★★★ "I met with friends and we had burgers. The burger I ordered was the bacon mushroom cheese burger on a sesame bun with onion rings. It was delicious, hot and thoroughly satisfying. The owner and cook were friendly and cheerful. The ambiance was utilitarian in an industrial neighborhood frequented by ..." — **Nelson Doon** (8 months ago)
 - ★★★★★ "Teriyaki chicken plate is delicious! I love the side salad that comes with it too; it’s fresh and the dressing tastes great." — **Vanessa R** (a year ago)
 
+## Frequently Asked Questions
+
+**Q: What kind of food does City Lunch Restaurant serve?**
+Korean and American food. They serve Korean marinated short ribs (galbi), spicy beef soup (yukgaejang), galbi tang, plus burgers and breakfast items.
+
+**Q: Is City Lunch good for breakfast?**
+Yes, it's a great spot for quick breakfast with focused menu options. Popular with workers in the area. The breakfast service is fast.
+
+**Q: What's the best Korean dish at City Lunch?**
+The Gal Bi Tang (Korean beef rib soup) is perfect for cold days. The teriyaki chicken plate is delicious with a fresh side salad.
+
+**Q: What's the atmosphere like?**
+Set up for workers in the warehouse district. Quick service, friendly owner and cook. Not gourmet, but satisfying and authentic.
+
+**Q: Any parking issues?**
+Parking and traffic can be difficult at times, but worth a visit if you're looking for quick, good food in the area.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

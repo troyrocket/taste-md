@@ -54,6 +54,24 @@ The fried chicken is lightly battered and spiced. Smoke Soul Salad (with fried c
 - ★★★ "Found this place online locally. Ordered the chicken & waffles, husband ordered the bacon biscuit sando. Didn’t get a picture though. Chicken & waffles was delicious, the fruit added sweetness to it. And for the price it was great. Unfortunately the bacon biscuit sando had potential but it was very ..." — **Jessica Henriquez** (6 months ago)
 - ★★★★★ "5 star brunch all around! Everything we ordered was super tasty with great hospitality. TV to catch a game while you grub as well. I'll be thinking about that Mac n cheese til I return. Can't wait to try the rest of the menu!" — **Marie Osuna Gutierrez** (11 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's the best dish at Smoke Soul Kitchen?**
+The chicken and waffles are the standout, with one reviewer calling them the best in the city. The Off the Porch Breakfast is also popular.
+
+**Q: Is Smoke Soul Kitchen good for breakfast?**
+Yes, it's a popular breakfast spot serving Southern classics like chicken and waffles. It packs a lot of flavor according to reviewers.
+
+**Q: What's the service like at Smoke Soul Kitchen?**
+Mixed. The food quality is praised, but some reviewers mention a sign-up and wait system that can be frustrating, especially when the restaurant isn't full.
+
+**Q: Does Smoke Soul Kitchen have good mac and cheese?**
+Yes, one reviewer said they'll be thinking about the mac and cheese until they return. The sides are generally well-regarded.
+
+**Q: Any downsides to Smoke Soul Kitchen?**
+Some reviewers found the food just okay and not standout. The wait system (signing up to be called) frustrated some visitors, and portions may not impress everyone.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

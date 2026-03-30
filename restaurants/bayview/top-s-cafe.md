@@ -49,6 +49,24 @@ Sunday: 8:00 AM – 6:00 PM
 - ★★★ "Came back to SF and searching for nostalgia. Top's was a place o frequented back in the days
 Surprised you find there is no longer sit down dining and the menu is only BBQ and cabbage is the only vegetable available. Since we were there, might as well get some BBQ as we are heading to a friend's for..." — **Evald Li** (6 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's Top's Cafe known for?**
+Best roast duck and rice plate in SF for around $10-11. They specialize in Chinese BBQ takeout.
+
+**Q: Is there indoor dining at Top's Cafe?**
+No, indoor dining is no longer available. It's now a takeout/deli-style service for BBQ items. There's usually a line.
+
+**Q: What should I order at Top's Cafe?**
+The BBQ duck with rice is the go-to. BBQ pork is also popular but may sell out by evening. Items are spot on for Chinese BBQ.
+
+**Q: Is it cash only?**
+Possibly. One reviewer was told cash only unless ordering over a certain amount. Come prepared with cash.
+
+**Q: Any concerns about Top's Cafe?**
+Changed ownership in late 2025. Some longtime customers report less honest service under new management. The menu is now BBQ-only with limited vegetable options.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

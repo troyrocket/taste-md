@@ -55,6 +55,24 @@ Choice of two fish and fries ($16.99) can easily feed two. Calamari and Whiting,
 Though a Chicago chain, a solidly Bayview establ..." — **Christopher Chung** (11 months ago)
 - ★★★★ "As the pictures show, a ton of food. The food was made to order. The catfish & chicken were seasoned right. I didn't mind the 15-minute wait. My food came out piping hot. Well worth the 45-minute drive in the rain and over the bridge for the food. If you don't want to wait just call your order in. I..." — **Solomoca** (2 years ago)
 
+## Frequently Asked Questions
+
+**Q: Is JJ Fish and Chicken one of the best in SF?**
+Reviewers think so. The fish is freshly breaded and fried to order with perfect seasoning. Multiple reviewers call it the best fried fish they've had.
+
+**Q: What should I order at JJ Fish and Chicken?**
+The catfish and shrimp combo with fries is popular. Hush puppies are moist and delicious, and the okra is perfectly crispy. Don't skip the German chocolate cake.
+
+**Q: How are the portions at JJ Fish and Chicken?**
+Huge. A ton of food as shown in photos. The choice of two fish and fries runs about $16.99 with generous portions.
+
+**Q: Is it worth the wait?**
+Yes. Food is made to order so expect about 15 minutes. It comes out piping hot and fresh. One reviewer drove 45 minutes and said it was worth it.
+
+**Q: What desserts do they have?**
+Great selection of cake including red velvet, yellow chocolate, banana pudding, and German chocolate. The cakes are a pleasant surprise.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

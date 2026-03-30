@@ -59,6 +59,24 @@ Atmosphere : just normal" — **Dby Dragon (Dragon)** (9 months ago)
 - ★★★★★ "VALUE! $26 all you can eat hotpot with a huge menu! They have everything from the standard hotpot meats/veggies/noodles, plus BBQ meats from their front store, plus many other miscellaneous Chinese dishes. The meats were solid but not the best. (I thought lamb was the best.) My favorites were their ..." — **Nop Jiarathanakul** (7 years ago)
 - ★★★★★ "Chef Li's cafe started to serving HongKong style B.B.Q since August 1, we will happy to serving you the best quality food and best service. Highly recommend to try the roasted duck 😍" — **Allen Jiang** (3 years ago)
 
+## Frequently Asked Questions
+
+**Q: What's special about Chef Li's Cafe?**
+Their $26 all-you-can-eat hotpot with a huge menu is the standout value. They also serve Hong Kong-style BBQ with roasted duck as a highlight.
+
+**Q: Is Chef Li's good for hotpot?**
+Great value. The all-you-can-eat hotpot includes standard meats, veggies, noodles, plus BBQ meats from their front store and many other Chinese dishes.
+
+**Q: What about the BBQ at Chef Li's?**
+The roasted duck is highly recommended. The roasted pork belly has good portions but can be salty. The skin isn't crispy, but overall it's decent.
+
+**Q: How's the service at Chef Li's?**
+Quick service with nice, friendly people. Can be busy around holidays like Lunar New Year. Customer service is consistently praised.
+
+**Q: Is it good value?**
+Excellent value, especially the all-you-can-eat hotpot at $26 with an extensive menu. The portions on regular dishes are also generous.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
