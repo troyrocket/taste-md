@@ -1,4 +1,4 @@
-# taste.md
+<h1><strong style="color: #FF3008;">>_ taste.md</strong></h1>
 
 **The Yelp that AI reads.** AI-optimized restaurant pages for San Francisco.
 
