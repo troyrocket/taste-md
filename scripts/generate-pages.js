@@ -451,7 +451,6 @@ Sitemap: ${DOMAIN}/sitemap.xml
 `;
 writeFileSync(join(distDir, 'robots.txt'), robots);
 
-// serve.json will be generated after all neighborhoods are known
 
 // --- Shared styles & script for toggle ---
 const toggleStyles = `
@@ -527,7 +526,7 @@ ${entries.map(e => `- [${e.name}](${e.slug}.html) — ${e.rating ? e.rating + '�
   <meta name="description" content="AI-optimized restaurant directory for ${hood}, San Francisco. ${entries.length} restaurants indexed.">
   <style>
     body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
-    h1 { font-size: 2.8rem; color: #FF3008; }
+    h1 { font-size: 2rem; }
     .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
     .breadcrumb a { color: #0066cc; }
     .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
@@ -582,7 +581,7 @@ const mainIndexHTML = `<!DOCTYPE html>
     h2 a:hover { color: #0066cc; }
     .hood-count { font-weight: normal; color: #999; font-size: 0.9rem; }
     .restaurant { padding: 0.4rem 0; }
-    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a { color: #222; text-decoration: none; font-weight: normal; }
     .restaurant a:hover { text-decoration: underline; }
     .meta { font-size: 0.85rem; color: #666; display: inline; }
     .see-all { font-size: 0.85rem; } .see-all a { color: #999; }
@@ -610,18 +609,6 @@ ${entries.length > 5 ? `<div class="see-all"><a href="${hSlug}/">See all ${entri
 </body>
 </html>`;
 writeFileSync(join(distDir, 'index.html'), mainIndexHTML);
-
-// Generate serve.json (disable clean URLs to preserve .html links + hash)
-const serveRewrites = [
-  { source: "/", destination: "/index.html" },
-  ...sortedHoods.map(hood => ({
-    source: `/${neighborhoodSlug(hood)}/`,
-    destination: `/${neighborhoodSlug(hood)}/index.html`
-  })),
-];
-// Add catch-all rewrite: /neighborhood/slug → /neighborhood/slug.html
-serveRewrites.push({ source: "/:hood/:slug", destination: "/:hood/:slug.html" });
-writeFileSync(join(distDir, 'serve.json'), JSON.stringify({ cleanUrls: false, rewrites: serveRewrites }, null, 2));
 
 console.log(`Generated ${count} restaurant pages across ${sortedHoods.length} neighborhoods.`);
 console.log(`Markdown: ./restaurants/<neighborhood>/`);
