@@ -527,7 +527,7 @@ ${entries.map(e => `- [${e.name}](${e.slug}.html) â€” ${e.rating ? e.rating + 'â
   <meta name="description" content="AI-optimized restaurant directory for ${hood}, San Francisco. ${entries.length} restaurants indexed.">
   <style>
     body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
-    h1 { font-size: 2rem; }
+    h1 { font-size: 2.8rem; color: #FF3008; }
     .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
     .breadcrumb a { color: #0066cc; }
     .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
@@ -557,7 +557,7 @@ ${entries.map(e => `<div class="restaurant">
 }
 
 // --- Generate main index page ---
-const mainIndexMd = `# taste.md
+const mainIndexMd = `# >_ taste.md
 
 AI-optimized restaurant directory for San Francisco. ${count} restaurants across ${sortedHoods.length} neighborhoods.
 
@@ -576,7 +576,7 @@ const mainIndexHTML = `<!DOCTYPE html>
   <meta name="description" content="Machine-readable restaurant pages optimized for AI discovery. ${count} restaurants across ${sortedHoods.length} San Francisco neighborhoods.">
   <style>
     body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
-    h1 { font-size: 2rem; }
+    h1 { font-size: 2.8rem; color: #FF3008; }
     h2 { font-size: 1.3rem; margin-top: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.3rem; }
     h2 a { color: #222; text-decoration: none; }
     h2 a:hover { color: #0066cc; }
@@ -592,7 +592,7 @@ const mainIndexHTML = `<!DOCTYPE html>
 <body>
 ${toggleButtons}
 <div id="html-view">
-<h1>taste.md</h1>
+<h1>&gt;_ taste.md</h1>
 <p>AI-optimized restaurant directory for San Francisco. <strong>${count}</strong> restaurants across <strong>${sortedHoods.length}</strong> neighborhoods.</p>
 ${sortedHoods.map(hood => {
   const entries = neighborhoodMap[hood];
