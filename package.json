@@ -1,0 +1,19 @@
+{
+  "name": "taste-md",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-restaurants.js",
+    "generate": "node scripts/generate-pages.js",
+    "build": "npm run fetch && npm run generate",
+    "preview": "npx serve dist"
+  },
+  "keywords": [],
+  "author": "Troy Yan",
+  "license": "MIT",
+  "description": "AI-optimized restaurant pages. The Yelp that AI reads.",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "marked": "^17.0.5"
+  }
+}
