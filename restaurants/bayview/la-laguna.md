@@ -56,6 +56,24 @@ Sunday: Closed
 And if you ask for more salsa there's an extra charge
 If you ask for chips there's an extra ch..." — **Wayne Leong** (6 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's La Laguna known for?**
+Their nachos are legendary. They use real nacho cheese with other cheeses. One reviewer has been coming for 20 years specifically for the nachos.
+
+**Q: How long has La Laguna been in Bayview?**
+Ray the owner has had the restaurant for 25 years in Bayview. It's a true neighborhood institution.
+
+**Q: Is La Laguna worth visiting?**
+Mixed reviews. Loyal customers love the nachos and the friendly service from Ray. But some warn about greasy food and billing concerns.
+
+**Q: How's the service at La Laguna?**
+The service is fantastic and friendly, with the owner Ray knowing his regulars. The place is clean. However, some reviewers have had negative billing experiences.
+
+**Q: Any concerns about La Laguna?**
+Some reviewers report very greasy food that caused stomach issues, and one reported being overcharged with a non-itemized receipt. Check your bill.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

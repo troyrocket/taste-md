@@ -1,6 +1,7 @@
 node_modules/
 .env
 dist/
-data/
+data/restaurants.json
+data/reviews-for-faq.json
 .DS_Store
 *.png

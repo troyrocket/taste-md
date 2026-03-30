@@ -54,6 +54,21 @@ Sunday: 10:00 AM – 9:00 PM
 - ★★★★★ "I had the fried fish plate. It was awesome! I left feeling upbeat and full of life from a wholesome and filling meal. And had a nice bottle of Nicaraguan beer to compliment the dish. Carry on!" — **Gary Gordon** (3 years ago)
 - ★★★★★ "The PUPUSAS. THEY ARE SO TASTY!" — **Stephanie Whalen** (4 weeks ago)
 
+## Frequently Asked Questions
+
+**Q: What kind of food does Las Isletas serve?**
+Central American food spanning Honduras, Nicaragua, El Salvador, and Mexico. Protein-focused plates with rice, beans, and salad.
+
+**Q: Are the pupusas good at Las Isletas?**
+Taste-wise yes, reviewers love them. But overall quality is inconsistent. Some dishes come greasy, and some items like tamales have gotten negative reviews.
+
+**Q: What's the best thing to order at Las Isletas?**
+The fried fish plate gets strong praise. The pupusas are tasty. The Nicaraguan beer pairs well with meals.
+
+**Q: Any concerns about Las Isletas?**
+Inconsistency is the main issue. Some food is greasy, tamales had too many chickpeas and undercooked potato, and some meat items taste burnt.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

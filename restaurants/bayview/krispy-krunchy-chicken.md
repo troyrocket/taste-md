@@ -50,6 +50,21 @@ Sunday: 10:30 AM – 7:00 PM
 The reason for the 3..." — **Benjii gaming online** (3 years ago)
 - ★★★★★ "Super tasty chicken. Tender, juicy and perfectly spiced!" — **Arjun Arkal Rao** (6 years ago)
 
+## Frequently Asked Questions
+
+**Q: How's the fried chicken at Krispy Krunchy?**
+Mixed. Some say it's better than Popeyes and KFC with great seasoning. Others find it pre-made and sitting under a heat lamp.
+
+**Q: How are the portions?**
+Big pieces and a lot of food for the price. Delivery quality matches in-person quality.
+
+**Q: What else is good besides chicken?**
+The honey biscuits and jambalaya rice get praise. They also serve burritos. The food is generally tasty and satisfying.
+
+**Q: Any downsides?**
+Sides are too small according to some reviewers. The chicken isn't always freshly fried. Value is decent but some feel the price is high for what you get.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

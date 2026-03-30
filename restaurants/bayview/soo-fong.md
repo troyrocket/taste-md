@@ -58,6 +58,24 @@ Good:
 - ★★★★ "Well priced quick and simple Chinese restaurant. Don’t expect anything gourmet but for what you pay the size of each dish and quality is good. The staff here is also friendly. There’s not many Chinese food options near Bayview and I recommend that if you’re by this area you should come here. I order..." — **Omar Ghani** (6 years ago)
 - ★★★★★ "Very finely seasoned and cooked food, reasonable price. Very friendly and quick waitress. The Chow Fun is great! One downside: the House option is better than the Seafood (and virtually any other option)." — **Dang Nguyen** (6 years ago)
 
+## Frequently Asked Questions
+
+**Q: What's good at Soo Fong?**
+The spicy broccoli with rice, salt and pepper chicken wings, and chow fun are popular choices. The house special option is recommended over seafood.
+
+**Q: Is Soo Fong good value?**
+Yes, well-priced with good portion sizes for a quick and simple Chinese restaurant. Don't expect gourmet, but the quality-to-price ratio is solid.
+
+**Q: Is Soo Fong a hole-in-the-wall spot?**
+Yes, it's hard to spot but worth finding. The food is finely seasoned and well-cooked, and the staff is friendly and quick.
+
+**Q: Does Soo Fong deliver?**
+Yes, they're available on DoorDash. Reviewers note the food holds up well for delivery.
+
+**Q: Any tips for ordering at Soo Fong?**
+Go for the House option over the Seafood option. The Chow Fun is great, and the pineapple fried rice gets good mentions too.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

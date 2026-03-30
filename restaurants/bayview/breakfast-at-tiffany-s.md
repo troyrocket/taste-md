@@ -58,6 +58,24 @@ The place is super cozy and cute, really a place that has a view of you feel in 
 The food its good! We got a French toast with eggs and corn beef hash and it was very delicious and the price super well fo..." — **Ana Fellerman** (2 years ago)
 - ★★★★ "Several friends have told me to try this place.  Came here on a Saturday morning. Felt like a normal wait time of 30 minutes for 2 people. When we were seated, we noticed several unflipped tables. My friend had the French toast special and I appreciate when breakfast places keep a sweet-savory combo..." — **E Lee** (3 years ago)
 
+## Frequently Asked Questions
+
+**Q: What should I order at Breakfast At Tiffany's?**
+The waffle special, veggie omelette, and western skillet are popular. The orange juice is freshly squeezed and highly recommended.
+
+**Q: What's the atmosphere like at Breakfast At Tiffany's?**
+Super cozy and cute with a nostalgic 90s breakfast diner feel. It's a great place for a weekend morning out.
+
+**Q: How are the portions at Breakfast At Tiffany's?**
+Very large portions. You'll leave full. The food is described as good, fresh, and well-prepared.
+
+**Q: Is there a wait at Breakfast At Tiffany's?**
+On Saturday mornings, expect about a 30-minute wait for 2 people. It's a popular spot, especially on weekends.
+
+**Q: How's the staff at Breakfast At Tiffany's?**
+The server is described as very cheerful and accommodating. The overall atmosphere is welcoming and friendly.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

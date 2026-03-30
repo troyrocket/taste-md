@@ -61,6 +61,24 @@ Sumac Fried Chicken Sandwich, slightly s..." — **Christopher Chung** (7 months
 - ★★★★★ "Nice spot, limited but very fresh menu.
 I’ll come back and try more things for sure." — **Prune and Leo** (2 months ago)
 
+## Frequently Asked Questions
+
+**Q: What kind of food does Hungry Cafe serve?**
+California-style Mediterranean dishes including falafel with carrot hummus, dolmas, and pickled vegetables. Great for breakfast or lunch.
+
+**Q: Is Hungry Cafe a good place to work or study?**
+Yes, reviewers praise the peaceful atmosphere, free wifi, comforting yet spacious space, and beautiful outdoor spots nearby. Great for a work date.
+
+**Q: Does Hungry Cafe have halal options?**
+Yes, they offer halal chicken as a bonus alongside their Mediterranean menu.
+
+**Q: What are the coffee drinks like at Hungry Cafe?**
+They offer unique latte flavors like orange blossom, rosemary, and hibiscus. Coffee quality is well-regarded.
+
+**Q: Is Hungry Cafe good for a casual visit?**
+Yes, staff is super friendly, the menu is limited but very fresh, and it's a nice spot to relax and read or catch up with someone.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

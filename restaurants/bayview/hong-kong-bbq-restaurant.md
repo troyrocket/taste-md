@@ -52,6 +52,21 @@ I could see that hey have generous portions." — **Kathryn Chen** (12 months ag
 Nice people work there
 Very friendly" — **Ana Laura Lalys Malagon** (8 years ago)
 
+## Frequently Asked Questions
+
+**Q: What's good at Hong Kong BBQ Restaurant?**
+The roast pork and ribs are tasty with generous portions. Fish and chicken wings are also popular. Good for quick takeout.
+
+**Q: Is Hong Kong BBQ good value?**
+Great value. A small portion is decent size for only $1.50, so you can get three smalls for $4.50. Delicious and affordable.
+
+**Q: Is it good for takeout?**
+Yes, great takeout choices for lunch. The busiest place on the block, which speaks to the quality. Nice lady serving there.
+
+**Q: How's the cooking style?**
+Regular homestyle Chinese cooking with good, flavorful food. Friendly staff who are knowledgeable about the dishes.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

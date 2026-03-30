@@ -50,6 +50,21 @@ Carnitas, pollo asado and tripas tacos, all yum — with choice of green or red 
 - ★★★★★ "Cheese pupusas were heavenly and the staff is friendly and fast. I wish I lived here so I could come back again!" — **MoDeLa** (7 months ago)
 - ★★★★★ "Delicious food, good quality food service, amazing customer service, and the best, great prices." — **Kenny blanco cayetano** (5 years ago)
 
+## Frequently Asked Questions
+
+**Q: What is MDJK?**
+A serious taco truck deep in industrial Bayview-Hunters Point. A welcome food oasis in an area with few options, serving Nicaraguan-style food.
+
+**Q: What should I order at MDJK?**
+The cheese pupusas are heavenly, and the Nicaraguan-style burritos are delicious. Carnitas, pollo asado, and tripas tacos are all good.
+
+**Q: Is MDJK friendly?**
+Yes, the staff is friendly and fast, and the food is high quality at great prices. Multiple reviewers wish they could come back more often.
+
+**Q: Does MDJK serve pupusas?**
+Yes, the cheese pupusas are a standout. Reviewers describe them as heavenly and keep coming back specifically for them.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -44,6 +44,18 @@ Sunday: 8:00 AM – 1:00 AM
 - ★ "If I could put a zero I so would. This is the most disappointing worst food experience in my LIFE. The pictures on Uber eats from this place looked good I was excited. but once it arrived my head never flew more back. WHAT WAS THAT. The wings, dry barely seasoned, the fries stale, the ranch, I can’t..." — **Anastasia Hilll** (2 years ago)
 - ★ "I’m am extremely angry about this completely unprofessional establishment. I ordered from Uber eats last night. I had to cancel my order because I realized I had the delivery address incorrect. I immediately reordered the same exact order with the correct address. Now, I wait over an hour  for my or..." — **Pinky (Pinky)** (2 years ago)
 
+## Frequently Asked Questions
+
+**Q: Should I try Wing SZN in Bayview?**
+Probably not. Multiple reviewers report poor wing quality, inconsistent breading, dry and salty wings, barely-fried fries, and no dipping sauce. Most reviews are 1-2 stars.
+
+**Q: Is there anything good about Wing SZN?**
+The customer service is praised as great. It's a new restaurant that reviewers hope will improve over time.
+
+**Q: Are the prices reasonable?**
+No, reviewers describe the prices as ridiculous. $40+ for wings, onion rings, and fries that were poorly prepared.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

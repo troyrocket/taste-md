@@ -51,6 +51,21 @@ Sunday: 7:30 AM – 3:00 PM
 - ★★★★★ "Really bad place to eat but the food is really good!!" — **Gio Giinsky** (10 months ago)
 - ★★★★★ "Very good Customer service, breakfast hot link sandwich, fries" — **Derrick Johnson** (2 weeks ago)
 
+## Frequently Asked Questions
+
+**Q: Is B&J Burgers good?**
+The food is really good despite the rough exterior. Breakfast with grits, potatoes, eggs, and toast is a standout. Don't judge by appearances.
+
+**Q: What should I order at B&J Burgers?**
+Breakfast items and the hot link sandwich are popular. The french fries are a longtime customer favorite.
+
+**Q: Any concerns about B&J Burgers?**
+Service is very slow (30+ minutes). Some hygiene concerns noted by reviewers regarding staff not wearing gloves and having chipped nail polish.
+
+**Q: Is it fast food?**
+No, expect a wait. The food is made to order and takes time. Plan for at least 30 minutes.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

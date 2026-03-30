@@ -55,6 +55,24 @@ Sunday: Closed
 - ★★★★★ "I tried their Cocoa Carrot Muffin, Stumptown Nitro Brew, sipping chocolate with seasonal marshmallow and an added espresso shot (I asked : ) making it a Hulk Smash of a mocha, and their Rebel Within (recommend it warm).  We also got a travel cake and croissant to go. Everything we tried was deliciou..." — **Charley G** (9 years ago)
 - ★★★★ "Enjoyed the rebel egg muffin, Valhrona chocolate financier, biscone and croissant" — **Div M** (8 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's the signature item at Craftsman and Wolves the Den?**
+The Rebel Within, their famous savory muffin with a soft-cooked egg inside. It's smaller than expected but highly praised.
+
+**Q: Is Craftsman and Wolves the Den expensive?**
+It feels pricey at $15-20 for a cafe item, but reviewers note the quality justifies it. The pastries are beautifully made.
+
+**Q: What else is good besides The Rebel Within?**
+The avocado toast, cocoa carrot muffin, Roxanne cookie, Valrhona chocolate financier, and the sipping chocolate are all recommended.
+
+**Q: What's the vibe at Craftsman and Wolves the Den?**
+Bright and slick with an impressive selection of baked goods. It's a proper artisan bakery-cafe experience.
+
+**Q: Do they have good coffee?**
+Yes, they serve Stumptown coffee including nitro brew. The drink options are well-regarded.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

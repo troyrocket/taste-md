@@ -52,6 +52,24 @@ It reminded me of breakfast tacos back in Austin from Tacorrido. Just missing th
 Definitely coming back." — **Francis Cancio** (a month ago)
 - ★ "Got Scammed.  Paid $20 for double meat breakfast burrito, and basically got a vegetarian room temperature  burrito." — **Monique Nielsen** (5 months ago)
 
+## Frequently Asked Questions
+
+**Q: What's the best item at Tiffanys Cafe?**
+The Healthy Start Wrap is a customer favorite. The breakfast burrito is called the best in town, comparable to Austin breakfast tacos.
+
+**Q: Is Tiffanys Cafe good for breakfast?**
+Yes, excellent breakfast bagel sandwiches made exactly to your desire. Everything bagels with fried eggs, choice of meat, avocado, and grilled onions.
+
+**Q: How's the coffee at Tiffanys Cafe?**
+The coffee is a hit, and the lattes are described as fantastic. Good quality for a neighborhood cafe.
+
+**Q: How's the service?**
+Great counter service from Harry and the cooking staff. Friendly and quick.
+
+**Q: Any concerns?**
+One reviewer felt scammed paying $20 for a double meat breakfast burrito that arrived as basically a vegetarian, room-temperature burrito. Quality may vary.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

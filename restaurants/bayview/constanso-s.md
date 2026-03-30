@@ -49,6 +49,24 @@ This place is a community landmark, having served up very reasonably priced lunc
 Admittedly, I was skeptical about the quality because of how cheap the sandwiches are. But all of that doubt was cast aside  after the first bite. Everything was super fresh....and the size.....OMG!!! This thing was bi..." — **Jesse Reyes** (8 years ago)
 - ★★★★★ "Good sandwiches for a great value. Awesome guys working behind the counter. Make sure to have cash. If you're in a rush they have freshly made sandwiches prepared, otherwise they'll make it for you on the spot. Their salami sandwich on sourdough is my favorite!" — **Charley G** (9 years ago)
 
+## Frequently Asked Questions
+
+**Q: What makes Constanso's special?**
+Giant made-to-order deli sandwiches for under $7. Generous portions of cold cuts on a wide choice of bread. It's a community landmark.
+
+**Q: How are the prices at Constanso's?**
+Incredibly affordable. $6-7 for a big, made-to-order sandwich with generous meat portions. One of the best values in SF.
+
+**Q: Do I need cash at Constanso's?**
+Yes, make sure to have cash. They also have freshly made grab-and-go sandwiches if you're in a rush.
+
+**Q: How long has Constanso's been around?**
+It's a community landmark that has been serving reasonably priced lunches for a very long time in the construction workers' area.
+
+**Q: How fast is the service?**
+Fast. The guys behind the counter work quickly. They can make it fresh to order, or you can grab a pre-made sandwich for even quicker service.
+
+
 ---
 
 *This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
