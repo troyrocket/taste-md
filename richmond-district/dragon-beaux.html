@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dragon Beaux — Richmond District — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Dragon Beaux in Richmond District, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Dragon Beaux",
+  "servesCuisine": [
+    "chinese restaurant",
+    "dim sum restaurant",
+    "cantonese restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "5700 Geary Blvd",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94121",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 333-8899",
+  "url": "http://www.dragonbeaux.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "2051"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.780462199999995,
+    "longitude": -122.48062979999999
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Friday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Saturday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM",
+    "Sunday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "James Bui"
+      },
+      "reviewBody": "This has been my favorite dim sum restaurant in the city in the past 10 years.\n\nThe food was always super fresh, and flavorful. You can taste it in the shrimps, the fish, and everything you ordered he"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Paul Cheong"
+      },
+      "reviewBody": "The food was hit or miss. The grouper was good but was not cleanly deboned. The chow fun lacked seasoning. The soup dumplings were tasty. As was the squid.\n\nThe service wasn’t great. Our servers did t"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Hi I Am"
+      },
+      "reviewBody": "Made a reservation for 6pm on the day before thanksgiving. Good thing I did because the restaurant was packed. However by 7:30pm, a lot of the groups left. On this day they had a thanksgiving menu. Wh"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Richmond District</a></p>
+<h1>Dragon Beaux</h1>
+<p>Chic Asian-fusion spot with booth seating &amp; an upscale vibe for dim sum, hot pots, dumplings &amp; more.</p>
+<h2>Cuisine</h2>
+<p><strong>Chinese restaurant</strong> — chinese restaurant, dim sum restaurant, cantonese restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 2,051 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted<br><strong>Meals:</strong> Breakfast · Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>5700 Geary Blvd, San Francisco, CA 94121, USA<br>Phone: (415) 333-8899<br>Website: <a href="http://www.dragonbeaux.com/">http://www.dragonbeaux.com/</a><br><a href="https://maps.google.com/?cid=6924344292273102319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.780462199999995, -122.48062979999999</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Friday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Saturday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM<br>Sunday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;This has been my favorite dim sum restaurant in the city in the past 10 years.</li>
+</ul>
+<p>The food was always super fresh, and flavorful. You can taste it in the shrimps, the fish, and everything you ordered here. With their top notch quality and i really mean it, their price is very fair and reasonable. They...&quot; — <strong>James Bui</strong> (2 months ago)</p>
+<ul>
+<li>★★★ &quot;The food was hit or miss. The grouper was good but was not cleanly deboned. The chow fun lacked seasoning. The soup dumplings were tasty. As was the squid.</li>
+</ul>
+<p>The service wasn’t great. Our servers did their job but they were neither attentive nor friendly.</p>
+<p>The ambiance wasn’t bad but it wasn’t partic...&quot; — <strong>Paul Cheong</strong> (2 months ago)</p>
+<ul>
+<li>★★★★ &quot;Made a reservation for 6pm on the day before thanksgiving. Good thing I did because the restaurant was packed. However by 7:30pm, a lot of the groups left. On this day they had a thanksgiving menu. Which just means the menu was limited but still had a lot of options. We wanted salted egg yolk crab b...&quot; — <strong>Hi I Am</strong> (4 months ago)</li>
+<li>★★★★ &quot;Went here for Dim Sum.  This place offered some dim sum i have never had before. Quality and taste was very good. Even the tea was delicious. Some pics we started to eat before i could snap.&quot; — <strong>S Chang</strong> (3 months ago)</li>
+<li>★★★★★ &quot;had to write a review after coming back 3 times. not only is the food SO GOOD with a large variety of items, but our server jackie, was so great. he was very attentive, quick, and you can tell he’s just great at what he does. i looove the chili oil wontons, lava egg custard buns, garlic string beans...&quot; — <strong>Andrea</strong> (3 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Richmond District](index.html)
+
+# Dragon Beaux
+Chic Asian-fusion spot with booth seating &amp; an upscale vibe for dim sum, hot pots, dumplings &amp; more.
+
+## Cuisine
+**Chinese restaurant** — chinese restaurant, dim sum restaurant, cantonese restaurant
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 2,051 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted  
+**Meals:** Breakfast · Brunch · Lunch · Dinner  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+5700 Geary Blvd, San Francisco, CA 94121, USA  
+Phone: (415) 333-8899  
+Website: [http://www.dragonbeaux.com/](http://www.dragonbeaux.com/)  
+[View on Google Maps](https://maps.google.com/?cid=6924344292273102319&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.780462199999995, -122.48062979999999
+
+## Hours
+
+Monday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Friday: 11:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Saturday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM  
+Sunday: 10:00 AM – 2:45 PM, 5:00 – 8:45 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;This has been my favorite dim sum restaurant in the city in the past 10 years.
+
+The food was always super fresh, and flavorful. You can taste it in the shrimps, the fish, and everything you ordered here. With their top notch quality and i really mean it, their price is very fair and reasonable. They...&quot; — **James Bui** (2 months ago)
+- ★★★ &quot;The food was hit or miss. The grouper was good but was not cleanly deboned. The chow fun lacked seasoning. The soup dumplings were tasty. As was the squid.
+
+The service wasn’t great. Our servers did their job but they were neither attentive nor friendly.
+
+The ambiance wasn’t bad but it wasn’t partic...&quot; — **Paul Cheong** (2 months ago)
+- ★★★★ &quot;Made a reservation for 6pm on the day before thanksgiving. Good thing I did because the restaurant was packed. However by 7:30pm, a lot of the groups left. On this day they had a thanksgiving menu. Which just means the menu was limited but still had a lot of options. We wanted salted egg yolk crab b...&quot; — **Hi I Am** (4 months ago)
+- ★★★★ &quot;Went here for Dim Sum.  This place offered some dim sum i have never had before. Quality and taste was very good. Even the tea was delicious. Some pics we started to eat before i could snap.&quot; — **S Chang** (3 months ago)
+- ★★★★★ &quot;had to write a review after coming back 3 times. not only is the food SO GOOD with a large variety of items, but our server jackie, was so great. he was very attentive, quick, and you can tell he’s just great at what he does. i looove the chili oil wontons, lava egg custard buns, garlic string beans...&quot; — **Andrea** (3 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

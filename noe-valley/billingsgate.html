@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Billingsgate — Noe Valley — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Billingsgate in Noe Valley, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Billingsgate",
+  "servesCuisine": [
+    "market"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3859 24th St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94114",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 590-3001",
+  "url": "http://www.billingsgatesf.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "150"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.751540999999996,
+    "longitude": -122.4287947
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Joshua Nguyen"
+      },
+      "reviewBody": "Love this place. I am a loyal Sun Fat guy for the past 10+ years, but Billingsgate is a welcomed addition to the mix.\n\nPrices are competitive for the quality.\n\nHappy hour Mondays is great (oysters, ca"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Premila Anand"
+      },
+      "reviewBody": "Amazing fresh seafood options. The staff is so friendly and helpful and everything is so delicious. Their catering is top notch too!  My guests loved the chowder, poke and oysters. I can’t wait to use"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Garrett Hayashida"
+      },
+      "reviewBody": "Went for Friday happy hour and they have a happy hour discount. The staff is friendly and helpful. The fish is very fresh. We got octopus and hamachi and both were delicious. Also got the salmon salad"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Noe Valley</a></p>
+<h1>Billingsgate</h1>
+<h2>Cuisine</h2>
+<p><strong>Market</strong> — market</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.7 stars — 150 reviews</p>
+<h2>Location &amp; Contact</h2>
+<p>3859 24th St, San Francisco, CA 94114, USA<br>Phone: (415) 590-3001<br>Website: <a href="http://www.billingsgatesf.com/">http://www.billingsgatesf.com/</a><br><a href="https://maps.google.com/?cid=14237663135610903136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.751540999999996, -122.4287947</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 7:00 PM<br>Tuesday: 10:00 AM – 7:00 PM<br>Wednesday: 10:00 AM – 7:00 PM<br>Thursday: 10:00 AM – 7:00 PM<br>Friday: 10:00 AM – 7:00 PM<br>Saturday: 9:00 AM – 7:00 PM<br>Sunday: 10:00 AM – 7:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Love this place. I am a loyal Sun Fat guy for the past 10+ years, but Billingsgate is a welcomed addition to the mix.</li>
+</ul>
+<p>Prices are competitive for the quality.</p>
+<p>Happy hour Mondays is great (oysters, carpaccio, chowder), esp for parents who are dropping kids off nearby for after school activities.</p>
+<p>An...&quot; — <strong>Joshua Nguyen</strong> (4 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Amazing fresh seafood options. The staff is so friendly and helpful and everything is so delicious. Their catering is top notch too!  My guests loved the chowder, poke and oysters. I can’t wait to use them for another party.&quot; — <strong>Premila Anand</strong> (3 weeks ago)</li>
+<li>★★★★ &quot;Went for Friday happy hour and they have a happy hour discount. The staff is friendly and helpful. The fish is very fresh. We got octopus and hamachi and both were delicious. Also got the salmon salad. It was good but the least special of the three.&quot; — <strong>Garrett Hayashida</strong> (a year ago)</li>
+<li>★★★★★ &quot;A seafood store with flavors of Italy and Japan. You can order seafood to take home and eat or prepare, or dine in. Service was welcoming and helpful.</li>
+</ul>
+<p>We had the Spanish octopus carpaccio and Wild Scallop Ceviche both of which were light and tasty.</p>
+<p>They also had a nice section of Japanese shoyu an...&quot; — <strong>Ernie P.</strong> (a year ago)</p>
+<ul>
+<li>★★★★★ &quot;This is one of those reviews that as a local I almost don’t want to post because Billingsgate is that good. Freshest seafood in The City, and the service is phenomenal. They also have all of the fresh herbs you could need for any of your seafood dishes which is a nice touch, and their food is fantas...&quot; — <strong>Damon Berger</strong> (5 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Noe Valley](index.html)
+
+# Billingsgate
+
+## Cuisine
+**Market** — market
+
+## Price Range
+Unknown
+
+## Rating
+4.7 stars — 150 reviews
+
+## Location &amp; Contact
+
+3859 24th St, San Francisco, CA 94114, USA  
+Phone: (415) 590-3001  
+Website: [http://www.billingsgatesf.com/](http://www.billingsgatesf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=14237663135610903136&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.751540999999996, -122.4287947
+
+## Hours
+
+Monday: 10:00 AM – 7:00 PM  
+Tuesday: 10:00 AM – 7:00 PM  
+Wednesday: 10:00 AM – 7:00 PM  
+Thursday: 10:00 AM – 7:00 PM  
+Friday: 10:00 AM – 7:00 PM  
+Saturday: 9:00 AM – 7:00 PM  
+Sunday: 10:00 AM – 7:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;Love this place. I am a loyal Sun Fat guy for the past 10+ years, but Billingsgate is a welcomed addition to the mix.
+
+Prices are competitive for the quality.
+
+Happy hour Mondays is great (oysters, carpaccio, chowder), esp for parents who are dropping kids off nearby for after school activities.
+
+An...&quot; — **Joshua Nguyen** (4 months ago)
+- ★★★★★ &quot;Amazing fresh seafood options. The staff is so friendly and helpful and everything is so delicious. Their catering is top notch too!  My guests loved the chowder, poke and oysters. I can’t wait to use them for another party.&quot; — **Premila Anand** (3 weeks ago)
+- ★★★★ &quot;Went for Friday happy hour and they have a happy hour discount. The staff is friendly and helpful. The fish is very fresh. We got octopus and hamachi and both were delicious. Also got the salmon salad. It was good but the least special of the three.&quot; — **Garrett Hayashida** (a year ago)
+- ★★★★★ &quot;A seafood store with flavors of Italy and Japan. You can order seafood to take home and eat or prepare, or dine in. Service was welcoming and helpful.
+
+We had the Spanish octopus carpaccio and Wild Scallop Ceviche both of which were light and tasty.
+
+They also had a nice section of Japanese shoyu an...&quot; — **Ernie P.** (a year ago)
+- ★★★★★ &quot;This is one of those reviews that as a local I almost don’t want to post because Billingsgate is that good. Freshest seafood in The City, and the service is phenomenal. They also have all of the fresh herbs you could need for any of your seafood dishes which is a nice touch, and their food is fantas...&quot; — **Damon Berger** (5 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

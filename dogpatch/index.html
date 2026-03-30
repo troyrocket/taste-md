@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dogpatch Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Dogpatch, San Francisco. 27 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Dogpatch</div>
+<h1>Dogpatch</h1>
+<p>27 restaurants in Dogpatch, San Francisco.</p>
+<div class="restaurant">
+  <a href="together-wine-lounge-dogpatch.html">Together Wine Lounge Dogpatch</a>
+  <div class="meta">4.9★ (103 reviews) — 2490 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wolfsbane.html">Wolfsbane</a>
+  <div class="meta">4.9★ (16 reviews) — 2495 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jolt-n-bolt-bakery-cafe.html">Jolt N Bolt Bakery & Cafe</a>
+  <div class="meta">4.8★ (56 reviews) — 2325 3rd St UNIT 100, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bay-of-burma.html">Bay of Burma</a>
+  <div class="meta">4.8★ (200 reviews) — 1174 Folsom St Unit B, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="long-bridge-pizza-company.html">Long Bridge Pizza Company</a>
+  <div class="meta">4.6★ (1157 reviews) — 2347 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spark-social-sf.html">SPARK Social SF</a>
+  <div class="meta">4.6★ (3911 reviews) — 601 Mission Bay Blvd North, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="harmonic-brewing-thrive-city.html">Harmonic Brewing Thrive City</a>
+  <div class="meta">4.6★ (123 reviews) — 7 Warriors Wy Suite 206, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="street-meet-taco-truck.html">Street Meet Taco Truck</a>
+  <div class="meta">4.6★ (50 reviews) — 777 Mariposa St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="garaje.html">Garaje</a>
+  <div class="meta">4.6★ (2220 reviews) — 475 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piccino-coffee-bar.html">Piccino Coffee Bar</a>
+  <div class="meta">4.5★ (227 reviews) — 845 22nd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-palm-court-at-rh-san-francisco.html">The Palm Court at RH San Francisco</a>
+  <div class="meta">4.5★ (433 reviews) — 590 20th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="moshi-moshi.html">Moshi Moshi</a>
+  <div class="meta">4.4★ (821 reviews) — 2092 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hard-knox-cafe-soma.html">Hard Knox Cafe SoMa</a>
+  <div class="meta">4.4★ (1527 reviews) — 60 Morris St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="atwater-tavern.html">ATWater Tavern</a>
+  <div class="meta">4.4★ (1176 reviews) — 295 Terry A Francois Blvd, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sf-kebab.html">SF Kebab</a>
+  <div class="meta">4.4★ (759 reviews) — 550 16th St, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="street-taco.html">Street Taco</a>
+  <div class="meta">4.4★ (307 reviews) — 980 16th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-front-porch.html">The Front Porch</a>
+  <div class="meta">4.4★ (1295 reviews) — 65 29th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-ramp-restaurant.html">The Ramp Restaurant</a>
+  <div class="meta">4.3★ (2029 reviews) — 855 Terry A Francois Blvd, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="souvla.html">Souvla</a>
+  <div class="meta">4.3★ (198 reviews) — 2505 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="stem-kitchen-garden.html">STEM Kitchen | Garden</a>
+  <div class="meta">4.3★ (374 reviews) — 499 Illinois St, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bandit.html">Bandit</a>
+  <div class="meta">4.3★ (198 reviews) — 632 20th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="breadbelly-b12-dogpatch.html">Breadbelly B12 - Dogpatch</a>
+  <div class="meta">4.3★ (79 reviews) — 1070 Maryland St suite 122, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gott-s-roadside.html">Gott’s Roadside</a>
+  <div class="meta">4.2★ (273 reviews) — 151 Warriors Wy Suite 102, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-time.html">Dumpling Time</a>
+  <div class="meta">4.2★ (310 reviews) — 191 Warriors Wy Suite 101, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eagle-cafe.html">Eagle Cafe</a>
+  <div class="meta">4.2★ (1461 reviews) — Pier 39 Level, Beach St Space A-201, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-plant-cafe-organic.html">THE PLANT cafe organic</a>
+  <div class="meta">4.1★ (222 reviews) — 2335 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="besharam.html">Besharam</a>
+  <div class="meta">4★ (771 reviews) — 1275 Minnesota St, San Francisco, CA 94107, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Dogpatch — San Francisco Restaurants
+
+27 restaurants in Dogpatch.
+
+- [Together Wine Lounge Dogpatch](together-wine-lounge-dogpatch.html) — 4.9★ (103 reviews)
+- [Wolfsbane](wolfsbane.html) — 4.9★ (16 reviews)
+- [Jolt N Bolt Bakery &amp; Cafe](jolt-n-bolt-bakery-cafe.html) — 4.8★ (56 reviews)
+- [Bay of Burma](bay-of-burma.html) — 4.8★ (200 reviews)
+- [Long Bridge Pizza Company](long-bridge-pizza-company.html) — 4.6★ (1157 reviews)
+- [SPARK Social SF](spark-social-sf.html) — 4.6★ (3911 reviews)
+- [Harmonic Brewing Thrive City](harmonic-brewing-thrive-city.html) — 4.6★ (123 reviews)
+- [Street Meet Taco Truck](street-meet-taco-truck.html) — 4.6★ (50 reviews)
+- [Garaje](garaje.html) — 4.6★ (2220 reviews)
+- [Piccino Coffee Bar](piccino-coffee-bar.html) — 4.5★ (227 reviews)
+- [The Palm Court at RH San Francisco](the-palm-court-at-rh-san-francisco.html) — 4.5★ (433 reviews)
+- [Moshi Moshi](moshi-moshi.html) — 4.4★ (821 reviews)
+- [Hard Knox Cafe SoMa](hard-knox-cafe-soma.html) — 4.4★ (1527 reviews)
+- [ATWater Tavern](atwater-tavern.html) — 4.4★ (1176 reviews)
+- [SF Kebab](sf-kebab.html) — 4.4★ (759 reviews)
+- [Street Taco](street-taco.html) — 4.4★ (307 reviews)
+- [The Front Porch](the-front-porch.html) — 4.4★ (1295 reviews)
+- [The Ramp Restaurant](the-ramp-restaurant.html) — 4.3★ (2029 reviews)
+- [Souvla](souvla.html) — 4.3★ (198 reviews)
+- [STEM Kitchen | Garden](stem-kitchen-garden.html) — 4.3★ (374 reviews)
+- [Bandit](bandit.html) — 4.3★ (198 reviews)
+- [Breadbelly B12 - Dogpatch](breadbelly-b12-dogpatch.html) — 4.3★ (79 reviews)
+- [Gott’s Roadside](gott-s-roadside.html) — 4.2★ (273 reviews)
+- [Dumpling Time](dumpling-time.html) — 4.2★ (310 reviews)
+- [Eagle Cafe](eagle-cafe.html) — 4.2★ (1461 reviews)
+- [THE PLANT cafe organic](the-plant-cafe-organic.html) — 4.1★ (222 reviews)
+- [Besharam](besharam.html) — 4★ (771 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

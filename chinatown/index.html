@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinatown Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Chinatown, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Chinatown</div>
+<h1>Chinatown</h1>
+<p>59 restaurants in Chinatown, San Francisco.</p>
+<div class="restaurant">
+  <a href="today-food.html">Today Food</a>
+  <div class="meta">4.8★ (455 reviews) — 601 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cantoo-latin-asian-rotisserie.html">Cantoo Latin Asian Rotisserie</a>
+  <div class="meta">4.7★ (522 reviews) — 572 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spicy-cloud-restaurant.html">spicy & cloud restaurant</a>
+  <div class="meta">4.6★ (194 reviews) — 823 Clay St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sohunan-of-henry-s-hunan.html">Sohunan of Henry's Hunan</a>
+  <div class="meta">4.6★ (418 reviews) — 674 Sacramento St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="z-y-peking-duck.html">御食园 Z & Y Peking Duck</a>
+  <div class="meta">4.5★ (1302 reviews) — 606 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rice-roll-express.html">Rice Roll Express</a>
+  <div class="meta">4.5★ (307 reviews) — 1131 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="quack-house-aka-hing-lung-company.html">QUACK HOUSE aka Hing Lung Company</a>
+  <div class="meta">4.5★ (190 reviews) — 927 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hong-kong-clay-pot-restaurant.html">Hong Kong Clay Pot Restaurant</a>
+  <div class="meta">4.4★ (1741 reviews) — 960 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-lun-ting-cafe.html">New Lun Ting Cafe</a>
+  <div class="meta">4.4★ (347 reviews) — 670 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="city-view-restaurant.html">City View Restaurant</a>
+  <div class="meta">4.4★ (1365 reviews) — 33 Walter U Lum Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="delicious-dim-sum.html">Delicious Dim Sum</a>
+  <div class="meta">4.4★ (536 reviews) — 752 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-fortune-restaurant.html">New Fortune Restaurant</a>
+  <div class="meta">4.4★ (421 reviews) — 815 Stockton St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ramen-hiroshi-san-francisco.html">Ramen Hiroshi San Francisco</a>
+  <div class="meta">4.4★ (237 reviews) — 322 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="r-g-lounge.html">R & G Lounge</a>
+  <div class="meta">4.3★ (3780 reviews) — 631 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="begoni-bistro.html">Begoni Bistro</a>
+  <div class="meta">4.3★ (1038 reviews) — 615 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mister-jiu-s.html">Mister Jiu's</a>
+  <div class="meta">4.3★ (1160 reviews) — 28 Waverly Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="capital.html">Capital</a>
+  <div class="meta">4.3★ (917 reviews) — 839 Clay St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-star-vietnamese-restaurant.html">Golden Star Vietnamese Restaurant</a>
+  <div class="meta">4.3★ (933 reviews) — 11 Walter U Lum Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="snow-garden.html">Snow Garden</a>
+  <div class="meta">4.3★ (205 reviews) — 712 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-moon.html">New Moon</a>
+  <div class="meta">4.3★ (97 reviews) — 1247 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="good-mong-kok-bakery.html">Good Mong Kok Bakery</a>
+  <div class="meta">4.2★ (2426 reviews) — 1039 Stockton St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hon-s-wun-tun-house.html">Hon’s Wun-Tun House 洪記面家</a>
+  <div class="meta">4.2★ (709 reviews) — 733 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-garden-restaurant.html">The Garden Restaurant</a>
+  <div class="meta">4.2★ (297 reviews) — 716 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spicy-king.html">Spicy King</a>
+  <div class="meta">4.2★ (1029 reviews) — 65 Waverly Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="house-of-xian-dumpling.html">House Of Xian Dumpling</a>
+  <div class="meta">4.2★ (976 reviews) — 925 Kearny St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="china-live.html">China Live</a>
+  <div class="meta">4.2★ (2949 reviews) — 644 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sam-wo-restaurant.html">Sam Wo Restaurant</a>
+  <div class="meta">4.2★ (1353 reviews) — 713 Clay St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lai-hong-lounge.html">Lai Hong Lounge</a>
+  <div class="meta">4.2★ (799 reviews) — 1416 Powell St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fusion-dumpling.html">FUSION DUMPLING</a>
+  <div class="meta">4.2★ (669 reviews) — 650 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dim-sum-bistro.html">Dim Sum Bistro</a>
+  <div class="meta">4.2★ (596 reviews) — 675 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dol-ho-restaurant.html">Dol Ho Restaurant</a>
+  <div class="meta">4.2★ (343 reviews) — 808 Pacific Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-lucky-creation-vegetarian-restaurant.html">The Lucky Creation Vegetarian Restaurant</a>
+  <div class="meta">4.2★ (526 reviews) — 854 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rock-japanese-cuisine.html">Rock Japanese Cuisine</a>
+  <div class="meta">4.2★ (395 reviews) — 614 Pine St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="house-of-nanking.html">House of Nanking</a>
+  <div class="meta">4.1★ (5128 reviews) — 919 Kearny St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="z-y-restaurant.html">Z & Y Restaurant</a>
+  <div class="meta">4.1★ (3746 reviews) — 655 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hon-s-wun-tun-house.html">Hon's Wun-Tun House</a>
+  <div class="meta">4.1★ (865 reviews) — 648 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chong-qing-xiao-mian.html">Chong Qing Xiao Mian</a>
+  <div class="meta">4.1★ (1250 reviews) — 915 Kearny St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="four-kings.html">Four Kings 四大天王</a>
+  <div class="meta">4.1★ (285 reviews) — 710 Commercial St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="empress-by-boon.html">Empress by Boon</a>
+  <div class="meta">4.1★ (512 reviews) — 838 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-spicy-shrimp.html">The Spicy Shrimp</a>
+  <div class="meta">4.1★ (297 reviews) — 150 Waverly Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fang.html">Fang</a>
+  <div class="meta">4.1★ (1663 reviews) — 660 Howard St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="great-eastern-restaurant.html">Great Eastern Restaurant</a>
+  <div class="meta">4★ (1826 reviews) — 649 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="grant-place-restaurant.html">Grant Place Restaurant</a>
+  <div class="meta">4★ (1057 reviews) — 737 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-woey-loy-goey-restaurant.html">New Woey Loy Goey Restaurant</a>
+  <div class="meta">4★ (448 reviews) — 699 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kam-lok-restaurant.html">Kam Lok Restaurant</a>
+  <div class="meta">4★ (150 reviews) — 834 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yuet-lee-seafood-restaurant.html">Yuet Lee Seafood Restaurant</a>
+  <div class="meta">4★ (705 reviews) — 1300 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hunan-house.html">Hunan House</a>
+  <div class="meta">4★ (639 reviews) — 826 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gourmet-kitchen.html">Gourmet Kitchen</a>
+  <div class="meta">4★ (122 reviews) — 1051 Stockton St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-golden-daisy.html">New Golden Daisy</a>
+  <div class="meta">4★ (82 reviews) — 1041 Stockton St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nam-yuen-restaurant.html">Nam Yuen Restaurant</a>
+  <div class="meta">4★ (4 reviews) — 742 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chinatown-restaurant.html">Chinatown Restaurant</a>
+  <div class="meta">3.9★ (1623 reviews) — 744 Washington St 1st Floor, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hang-ah-tea-room.html">Hang Ah Tea Room</a>
+  <div class="meta">3.9★ (627 reviews) — 1 Pagoda Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="far-east-cafe.html">Far East Cafe</a>
+  <div class="meta">3.9★ (978 reviews) — 631 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taishan-restaurant.html">台山风味Taishan Restaurant（第二分店）</a>
+  <div class="meta">3.9★ (74 reviews) — 622 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yee-s-restaurant.html">Yee's Restaurant</a>
+  <div class="meta">3.8★ (603 reviews) — 1131 Grant Ave #1133, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taishan-cuisine.html">Taishan Cuisine</a>
+  <div class="meta">3.8★ (361 reviews) — 781 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sum-dim-sum.html">Sum Dim Sum</a>
+  <div class="meta">3.8★ (697 reviews) — 601 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="vip-coffee-cake-shop.html">Vip Coffee & Cake Shop</a>
+  <div class="meta">3.8★ (188 reviews) — 671 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-dragon-restaurant.html">Golden Dragon Restaurant</a>
+  <div class="meta">3.5★ (60 reviews) — 822 Washington St, San Francisco, CA 94108, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Chinatown — San Francisco Restaurants
+
+59 restaurants in Chinatown.
+
+- [Today Food](today-food.html) — 4.8★ (455 reviews)
+- [Cantoo Latin Asian Rotisserie](cantoo-latin-asian-rotisserie.html) — 4.7★ (522 reviews)
+- [spicy &amp; cloud restaurant](spicy-cloud-restaurant.html) — 4.6★ (194 reviews)
+- [Sohunan of Henry's Hunan](sohunan-of-henry-s-hunan.html) — 4.6★ (418 reviews)
+- [御食园 Z &amp; Y Peking Duck](z-y-peking-duck.html) — 4.5★ (1302 reviews)
+- [Rice Roll Express](rice-roll-express.html) — 4.5★ (307 reviews)
+- [QUACK HOUSE aka Hing Lung Company](quack-house-aka-hing-lung-company.html) — 4.5★ (190 reviews)
+- [Hong Kong Clay Pot Restaurant](hong-kong-clay-pot-restaurant.html) — 4.4★ (1741 reviews)
+- [New Lun Ting Cafe](new-lun-ting-cafe.html) — 4.4★ (347 reviews)
+- [City View Restaurant](city-view-restaurant.html) — 4.4★ (1365 reviews)
+- [Delicious Dim Sum](delicious-dim-sum.html) — 4.4★ (536 reviews)
+- [New Fortune Restaurant](new-fortune-restaurant.html) — 4.4★ (421 reviews)
+- [Ramen Hiroshi San Francisco](ramen-hiroshi-san-francisco.html) — 4.4★ (237 reviews)
+- [R &amp; G Lounge](r-g-lounge.html) — 4.3★ (3780 reviews)
+- [Begoni Bistro](begoni-bistro.html) — 4.3★ (1038 reviews)
+- [Mister Jiu's](mister-jiu-s.html) — 4.3★ (1160 reviews)
+- [Capital](capital.html) — 4.3★ (917 reviews)
+- [Golden Star Vietnamese Restaurant](golden-star-vietnamese-restaurant.html) — 4.3★ (933 reviews)
+- [Snow Garden](snow-garden.html) — 4.3★ (205 reviews)
+- [New Moon](new-moon.html) — 4.3★ (97 reviews)
+- [Good Mong Kok Bakery](good-mong-kok-bakery.html) — 4.2★ (2426 reviews)
+- [Hon’s Wun-Tun House 洪記面家](hon-s-wun-tun-house.html) — 4.2★ (709 reviews)
+- [The Garden Restaurant](the-garden-restaurant.html) — 4.2★ (297 reviews)
+- [Spicy King](spicy-king.html) — 4.2★ (1029 reviews)
+- [House Of Xian Dumpling](house-of-xian-dumpling.html) — 4.2★ (976 reviews)
+- [China Live](china-live.html) — 4.2★ (2949 reviews)
+- [Sam Wo Restaurant](sam-wo-restaurant.html) — 4.2★ (1353 reviews)
+- [Lai Hong Lounge](lai-hong-lounge.html) — 4.2★ (799 reviews)
+- [FUSION DUMPLING](fusion-dumpling.html) — 4.2★ (669 reviews)
+- [Dim Sum Bistro](dim-sum-bistro.html) — 4.2★ (596 reviews)
+- [Dol Ho Restaurant](dol-ho-restaurant.html) — 4.2★ (343 reviews)
+- [The Lucky Creation Vegetarian Restaurant](the-lucky-creation-vegetarian-restaurant.html) — 4.2★ (526 reviews)
+- [Rock Japanese Cuisine](rock-japanese-cuisine.html) — 4.2★ (395 reviews)
+- [House of Nanking](house-of-nanking.html) — 4.1★ (5128 reviews)
+- [Z &amp; Y Restaurant](z-y-restaurant.html) — 4.1★ (3746 reviews)
+- [Hon's Wun-Tun House](hon-s-wun-tun-house.html) — 4.1★ (865 reviews)
+- [Chong Qing Xiao Mian](chong-qing-xiao-mian.html) — 4.1★ (1250 reviews)
+- [Four Kings 四大天王](four-kings.html) — 4.1★ (285 reviews)
+- [Empress by Boon](empress-by-boon.html) — 4.1★ (512 reviews)
+- [The Spicy Shrimp](the-spicy-shrimp.html) — 4.1★ (297 reviews)
+- [Fang](fang.html) — 4.1★ (1663 reviews)
+- [Great Eastern Restaurant](great-eastern-restaurant.html) — 4★ (1826 reviews)
+- [Grant Place Restaurant](grant-place-restaurant.html) — 4★ (1057 reviews)
+- [New Woey Loy Goey Restaurant](new-woey-loy-goey-restaurant.html) — 4★ (448 reviews)
+- [Kam Lok Restaurant](kam-lok-restaurant.html) — 4★ (150 reviews)
+- [Yuet Lee Seafood Restaurant](yuet-lee-seafood-restaurant.html) — 4★ (705 reviews)
+- [Hunan House](hunan-house.html) — 4★ (639 reviews)
+- [Gourmet Kitchen](gourmet-kitchen.html) — 4★ (122 reviews)
+- [New Golden Daisy](new-golden-daisy.html) — 4★ (82 reviews)
+- [Nam Yuen Restaurant](nam-yuen-restaurant.html) — 4★ (4 reviews)
+- [Chinatown Restaurant](chinatown-restaurant.html) — 3.9★ (1623 reviews)
+- [Hang Ah Tea Room](hang-ah-tea-room.html) — 3.9★ (627 reviews)
+- [Far East Cafe](far-east-cafe.html) — 3.9★ (978 reviews)
+- [台山风味Taishan Restaurant（第二分店）](taishan-restaurant.html) — 3.9★ (74 reviews)
+- [Yee's Restaurant](yee-s-restaurant.html) — 3.8★ (603 reviews)
+- [Taishan Cuisine](taishan-cuisine.html) — 3.8★ (361 reviews)
+- [Sum Dim Sum](sum-dim-sum.html) — 3.8★ (697 reviews)
+- [Vip Coffee &amp; Cake Shop](vip-coffee-cake-shop.html) — 3.8★ (188 reviews)
+- [Golden Dragon Restaurant](golden-dragon-restaurant.html) — 3.5★ (60 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

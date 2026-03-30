@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moshi Moshi — Dogpatch — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Moshi Moshi in Dogpatch, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Moshi Moshi",
+  "servesCuisine": [
+    "japanese restaurant",
+    "asian restaurant",
+    "bar and grill",
+    "cocktail bar",
+    "seafood restaurant",
+    "sushi restaurant",
+    "bar"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2092 3rd St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94107",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 861-8285",
+  "url": "http://www.moshimoshisf.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "821"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7631665,
+    "longitude": -122.38906119999999
+  },
+  "openingHours": [
+    "Monday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM",
+    "Tuesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM",
+    "Wednesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM",
+    "Thursday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM",
+    "Friday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM",
+    "Saturday: 5:00 – 8:45 PM",
+    "Sunday: Closed"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "A Blogger"
+      },
+      "reviewBody": "Moshi Moshi is one of my favorite restaurants in San Francisco!\n\nMoshi Moshi has an extensive menu with so many great items! Every last detail is thought of. The fish is never anything but fresh. The "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Christopher Chung"
+      },
+      "reviewBody": "Solid neighborhood Japanese, with a little something for everybody — a wide selection of hot and cold appetizers, nigiri, rolls, noodle soups and classic entrees. Though maybe not a culinary destinati"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Christine Hendrickson"
+      },
+      "reviewBody": "I've been into Moshi Moshi a few times now and I've always enjoyed my meals. There is excellent variety, fun cocktails, and the staff is always so friendly and accommodating. The bartenders are very a"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Dogpatch</a></p>
+<h1>Moshi Moshi</h1>
+<p>Sushi &amp; soba are among the classic eats at this low-key Japanese eatery with an outdoor patio.</p>
+<h2>Cuisine</h2>
+<p><strong>Japanese restaurant</strong> — japanese restaurant, asian restaurant, bar and grill, cocktail bar, seafood restaurant, sushi restaurant, bar</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 821 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for groups · Dog-friendly · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>2092 3rd St, San Francisco, CA 94107, USA<br>Phone: (415) 861-8285<br>Website: <a href="http://www.moshimoshisf.com/">http://www.moshimoshisf.com/</a><br><a href="https://maps.google.com/?cid=10326220872660902495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7631665, -122.38906119999999</p>
+<h2>Hours</h2>
+<p>Monday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM<br>Tuesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM<br>Wednesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM<br>Thursday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM<br>Friday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM<br>Saturday: 5:00 – 8:45 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Moshi Moshi is one of my favorite restaurants in San Francisco!</li>
+</ul>
+<p>Moshi Moshi has an extensive menu with so many great items! Every last detail is thought of. The fish is never anything but fresh. The rice is prepared perfectly each time, and the dishes come out looking and tasting perfect without fa...&quot; — <strong>A Blogger</strong> (2 weeks ago)</p>
+<ul>
+<li>★★★★ &quot;Solid neighborhood Japanese, with a little something for everybody — a wide selection of hot and cold appetizers, nigiri, rolls, noodle soups and classic entrees. Though maybe not a culinary destination, a fashionable local option frequented by Dogpatch regulars. Outdoor patio seating. Dog-friendly,...&quot; — <strong>Christopher Chung</strong> (6 months ago)</li>
+<li>★★★★★ &quot;I&#39;ve been into Moshi Moshi a few times now and I&#39;ve always enjoyed my meals. There is excellent variety, fun cocktails, and the staff is always so friendly and accommodating. The bartenders are very attentive and friendly !&quot; — <strong>Christine Hendrickson</strong> (2 months ago)</li>
+<li>★★★★ &quot;Solid spot for good quality sushi at a reasonable price :)</li>
+</ul>
+<p>Hamachi toro nigiri and kibinago nigiri in particular were delicious.&quot; — <strong>S Kim</strong> (3 months ago)</p>
+<ul>
+<li>★★★★★ &quot;The whiskey flights, the high quality of fish served here, the chill heated patio. Nothing about this spot id want to change. Add in the fact that the prices are super reasonable…. It’s probably my favorite ‘low key’ sushi spot in the 7x7. Highly recommend the Uni. Cheers!&quot; — <strong>Gnome Chomsky</strong> (a year ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Dogpatch](index.html)
+
+# Moshi Moshi
+Sushi &amp; soba are among the classic eats at this low-key Japanese eatery with an outdoor patio.
+
+## Cuisine
+**Japanese restaurant** — japanese restaurant, asian restaurant, bar and grill, cocktail bar, seafood restaurant, sushi restaurant, bar
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 821 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for groups · Dog-friendly · Restroom available
+
+## Location &amp; Contact
+
+2092 3rd St, San Francisco, CA 94107, USA  
+Phone: (415) 861-8285  
+Website: [http://www.moshimoshisf.com/](http://www.moshimoshisf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=10326220872660902495&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7631665, -122.38906119999999
+
+## Hours
+
+Monday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM  
+Tuesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM  
+Wednesday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM  
+Thursday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM  
+Friday: 11:30 AM – 1:45 PM, 5:00 – 8:45 PM  
+Saturday: 5:00 – 8:45 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Moshi Moshi is one of my favorite restaurants in San Francisco!
+
+Moshi Moshi has an extensive menu with so many great items! Every last detail is thought of. The fish is never anything but fresh. The rice is prepared perfectly each time, and the dishes come out looking and tasting perfect without fa...&quot; — **A Blogger** (2 weeks ago)
+- ★★★★ &quot;Solid neighborhood Japanese, with a little something for everybody — a wide selection of hot and cold appetizers, nigiri, rolls, noodle soups and classic entrees. Though maybe not a culinary destination, a fashionable local option frequented by Dogpatch regulars. Outdoor patio seating. Dog-friendly,...&quot; — **Christopher Chung** (6 months ago)
+- ★★★★★ &quot;I've been into Moshi Moshi a few times now and I've always enjoyed my meals. There is excellent variety, fun cocktails, and the staff is always so friendly and accommodating. The bartenders are very attentive and friendly !&quot; — **Christine Hendrickson** (2 months ago)
+- ★★★★ &quot;Solid spot for good quality sushi at a reasonable price :)
+
+Hamachi toro nigiri and kibinago nigiri in particular were delicious.&quot; — **S Kim** (3 months ago)
+- ★★★★★ &quot;The whiskey flights, the high quality of fish served here, the chill heated patio. Nothing about this spot id want to change. Add in the fact that the prices are super reasonable…. It’s probably my favorite ‘low key’ sushi spot in the 7x7. Highly recommend the Uni. Cheers!&quot; — **Gnome Chomsky** (a year ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

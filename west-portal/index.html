@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>West Portal Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for West Portal, San Francisco. 44 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / West Portal</div>
+<h1>West Portal</h1>
+<p>44 restaurants in West Portal, San Francisco.</p>
+<div class="restaurant">
+  <a href="binu-bonu.html">Binu Bonu</a>
+  <div class="meta">5★ (40 reviews) — 230 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sherpa-house.html">Sherpa House</a>
+  <div class="meta">5★ (157 reviews) — 733 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="apres-vous.html">Apres Vous</a>
+  <div class="meta">4.9★ (75 reviews) — 345 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taste-of-india-authentic-indian-restaurant-san-francisco.html">Taste of India – Authentic Indian Restaurant [San Francisco]</a>
+  <div class="meta">4.8★ (183 reviews) — 321 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-zone.html">Dumpling Zone</a>
+  <div class="meta">4.8★ (237 reviews) — 408 Dewey Blvd, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="copper-chimney-indian-restaurant.html">COPPER CHIMNEY INDIAN RESTAURANT</a>
+  <div class="meta">4.8★ (423 reviews) — 489a 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="submarine-center.html">Submarine Center</a>
+  <div class="meta">4.7★ (618 reviews) — 820 Ulloa St, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sushi-sheng.html">Sushi Sheng 鮨昇</a>
+  <div class="meta">4.7★ (511 reviews) — 118 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="that-s-amore-sf.html">That's Amore SF</a>
+  <div class="meta">4.7★ (261 reviews) — 1901 Ocean Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-original-joe-s.html">Little Original Joe's</a>
+  <div class="meta">4.6★ (552 reviews) — 393 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="khao-tiew.html">Khao Tiew</a>
+  <div class="meta">4.6★ (285 reviews) — 272 Claremont Blvd, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="snow-bliss-cafe.html">Snow Bliss Cafe</a>
+  <div class="meta">4.6★ (121 reviews) — 250 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="unwine-d-sf.html">Unwine'd SF</a>
+  <div class="meta">4.6★ (96 reviews) — 9 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lion-west-portal.html">Lion West Portal</a>
+  <div class="meta">4.6★ (79 reviews) — 301 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bursa.html">Bursa</a>
+  <div class="meta">4.5★ (689 reviews) — 60 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mozzarella-di-bufala.html">Mozzarella di Bufala</a>
+  <div class="meta">4.5★ (491 reviews) — 69 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mccarthy-s-irish-bar.html">McCarthy's Irish Bar</a>
+  <div class="meta">4.5★ (154 reviews) — 46 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="burrito-loco.html">Burrito Loco</a>
+  <div class="meta">4.5★ (301 reviews) — 850 Ulloa St, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marugame-udon.html">Marugame Udon</a>
+  <div class="meta">4.5★ (2177 reviews) — 3251 20th Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dinosaurs-sandwiches.html">Dinosaurs Sandwiches</a>
+  <div class="meta">4.5★ (386 reviews) — 2522 Ocean Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spiazzo-ristorante.html">Spiazzo Ristorante</a>
+  <div class="meta">4.4★ (629 reviews) — 33 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="george-s-donuts-merriment.html">George’s Donuts & Merriment</a>
+  <div class="meta">4.4★ (198 reviews) — 163 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roti-indian-bistro.html">Roti Indian Bistro</a>
+  <div class="meta">4.4★ (583 reviews) — 53 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bay-pocha.html">Bay Pocha</a>
+  <div class="meta">4.4★ (351 reviews) — 2642 Ocean Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lost-and-found-cocktail-bar.html">Lost and Found Cocktail Bar</a>
+  <div class="meta">4.4★ (206 reviews) — 1439 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="viet-quan-vietnamese-noodle-house.html">Viet Quan Vietnamese Noodle House</a>
+  <div class="meta">4.4★ (169 reviews) — 1757 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="elena-s-mexican-restaurant.html">Elena's Mexican Restaurant</a>
+  <div class="meta">4.3★ (588 reviews) — 255 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="calibur-inc.html">Calibur Inc</a>
+  <div class="meta">4.3★ (548 reviews) — 68 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sushi-suki.html">Sushi Suki</a>
+  <div class="meta">4.3★ (191 reviews) — 360 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="goat-hill-pizza.html">Goat Hill Pizza</a>
+  <div class="meta">4.3★ (279 reviews) — 170 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tower-burger.html">Tower Burger</a>
+  <div class="meta">4.3★ (299 reviews) — 729 Portola Dr, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="champa-garden-restaurant.html">Champa Garden Restaurant</a>
+  <div class="meta">4.3★ (428 reviews) — 613 Faxon Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chouchou-french-bistro.html">ChouChou French Bistro</a>
+  <div class="meta">4.3★ (345 reviews) — 400 Dewey Blvd, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-toreador.html">El Toreador</a>
+  <div class="meta">4.2★ (535 reviews) — 50 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="proposition-chicken.html">Proposition Chicken</a>
+  <div class="meta">4.2★ (47 reviews) — 16 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tang-bar.html">Tang Bar</a>
+  <div class="meta">4.2★ (432 reviews) — 3251 20th Ave Second Floor, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="clay-oven-indian-restaurant.html">Clay Oven Indian Restaurant</a>
+  <div class="meta">4.1★ (496 reviews) — 385 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="s-e-cafe-accept-ebt.html">S & E Cafe 东南风美食屋 (ACCEPT EBT)</a>
+  <div class="meta">4★ (143 reviews) — 2406 19th Ave, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lazy-susan.html">Lazy Susan</a>
+  <div class="meta">3.9★ (113 reviews) — 811 Ulloa St, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="smile-house-cafe.html">Smile House Cafe</a>
+  <div class="meta">3.9★ (418 reviews) — 1030 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-coast-restaurant.html">Golden Coast Restaurant</a>
+  <div class="meta">3.9★ (330 reviews) — 1540 Ocean Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="old-pier-hong-kong-bbq.html">Old Pier Hong Kong BBQ</a>
+  <div class="meta">3.9★ (70 reviews) — 1033 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tsing-s-chinese-restaurant.html">Tsing's Chinese Restaurant</a>
+  <div class="meta">3.7★ (135 reviews) — 361 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tur.html">Tur</a>
+  <div class="meta">  — 1 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# West Portal — San Francisco Restaurants
+
+44 restaurants in West Portal.
+
+- [Binu Bonu](binu-bonu.html) — 5★ (40 reviews)
+- [Sherpa House](sherpa-house.html) — 5★ (157 reviews)
+- [Apres Vous](apres-vous.html) — 4.9★ (75 reviews)
+- [Taste of India – Authentic Indian Restaurant [San Francisco]](taste-of-india-authentic-indian-restaurant-san-francisco.html) — 4.8★ (183 reviews)
+- [Dumpling Zone](dumpling-zone.html) — 4.8★ (237 reviews)
+- [COPPER CHIMNEY INDIAN RESTAURANT](copper-chimney-indian-restaurant.html) — 4.8★ (423 reviews)
+- [Submarine Center](submarine-center.html) — 4.7★ (618 reviews)
+- [Sushi Sheng 鮨昇](sushi-sheng.html) — 4.7★ (511 reviews)
+- [That's Amore SF](that-s-amore-sf.html) — 4.7★ (261 reviews)
+- [Little Original Joe's](little-original-joe-s.html) — 4.6★ (552 reviews)
+- [Khao Tiew](khao-tiew.html) — 4.6★ (285 reviews)
+- [Snow Bliss Cafe](snow-bliss-cafe.html) — 4.6★ (121 reviews)
+- [Unwine'd SF](unwine-d-sf.html) — 4.6★ (96 reviews)
+- [Lion West Portal](lion-west-portal.html) — 4.6★ (79 reviews)
+- [Bursa](bursa.html) — 4.5★ (689 reviews)
+- [Mozzarella di Bufala](mozzarella-di-bufala.html) — 4.5★ (491 reviews)
+- [McCarthy's Irish Bar](mccarthy-s-irish-bar.html) — 4.5★ (154 reviews)
+- [Burrito Loco](burrito-loco.html) — 4.5★ (301 reviews)
+- [Marugame Udon](marugame-udon.html) — 4.5★ (2177 reviews)
+- [Dinosaurs Sandwiches](dinosaurs-sandwiches.html) — 4.5★ (386 reviews)
+- [Spiazzo Ristorante](spiazzo-ristorante.html) — 4.4★ (629 reviews)
+- [George’s Donuts &amp; Merriment](george-s-donuts-merriment.html) — 4.4★ (198 reviews)
+- [Roti Indian Bistro](roti-indian-bistro.html) — 4.4★ (583 reviews)
+- [Bay Pocha](bay-pocha.html) — 4.4★ (351 reviews)
+- [Lost and Found Cocktail Bar](lost-and-found-cocktail-bar.html) — 4.4★ (206 reviews)
+- [Viet Quan Vietnamese Noodle House](viet-quan-vietnamese-noodle-house.html) — 4.4★ (169 reviews)
+- [Elena's Mexican Restaurant](elena-s-mexican-restaurant.html) — 4.3★ (588 reviews)
+- [Calibur Inc](calibur-inc.html) — 4.3★ (548 reviews)
+- [Sushi Suki](sushi-suki.html) — 4.3★ (191 reviews)
+- [Goat Hill Pizza](goat-hill-pizza.html) — 4.3★ (279 reviews)
+- [Tower Burger](tower-burger.html) — 4.3★ (299 reviews)
+- [Champa Garden Restaurant](champa-garden-restaurant.html) — 4.3★ (428 reviews)
+- [ChouChou French Bistro](chouchou-french-bistro.html) — 4.3★ (345 reviews)
+- [El Toreador](el-toreador.html) — 4.2★ (535 reviews)
+- [Proposition Chicken](proposition-chicken.html) — 4.2★ (47 reviews)
+- [Tang Bar](tang-bar.html) — 4.2★ (432 reviews)
+- [Clay Oven Indian Restaurant](clay-oven-indian-restaurant.html) — 4.1★ (496 reviews)
+- [S &amp; E Cafe 东南风美食屋 (ACCEPT EBT)](s-e-cafe-accept-ebt.html) — 4★ (143 reviews)
+- [Lazy Susan](lazy-susan.html) — 3.9★ (113 reviews)
+- [Smile House Cafe](smile-house-cafe.html) — 3.9★ (418 reviews)
+- [Golden Coast Restaurant](golden-coast-restaurant.html) — 3.9★ (330 reviews)
+- [Old Pier Hong Kong BBQ](old-pier-hong-kong-bbq.html) — 3.9★ (70 reviews)
+- [Tsing's Chinese Restaurant](tsing-s-chinese-restaurant.html) — 3.7★ (135 reviews)
+- [Tur](tur.html) —  
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Paz — Potrero Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for La Paz in Potrero Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "La Paz",
+  "servesCuisine": [],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1028 Potrero Ave",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94110",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 550-8313",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "198"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7556291,
+    "longitude": -122.40678630000001
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Fatima Saldivar"
+      },
+      "reviewBody": "I stumbled upon this place by chance, without reading any reviews beforehand, and I don't regret it at all.\n\nThe place is small, but it doesn't feel cramped. You can tell they keep it clean, well-main"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Camila Raimond"
+      },
+      "reviewBody": "Can’t believe I’ve never been here before. Came back a second time just a couple days later. Super friendly staff, family restaurant vibes, here for the food not the decor. The pupusas are made to ord"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Erin Parsley"
+      },
+      "reviewBody": "Wonderful, cheerful spot right across from San Francisco General Hospital. Sofia, the owner is very kind. She makes good strong coffee, and my breakfast burrito was excellent. I’ll definitely return t"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Potrero Hill</a></p>
+<h1>La Paz</h1>
+<p>Easygoing option doling out pupusas, wet burritos &amp; other homestyle Latin American staples.</p>
+<h2>Cuisine</h2>
+<p><strong>Restaurant</strong> — Restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 198 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout<br><strong>Meals:</strong> Breakfast · Lunch · Dinner<br><strong>Drinks:</strong> Beer</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1028 Potrero Ave, San Francisco, CA 94110, USA<br>Phone: (415) 550-8313<br><a href="https://maps.google.com/?cid=14103038887331612647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7556291, -122.40678630000001</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 9:00 PM<br>Tuesday: 10:00 AM – 9:00 PM<br>Wednesday: 10:00 AM – 9:00 PM<br>Thursday: 10:00 AM – 9:00 PM<br>Friday: 10:00 AM – 9:00 PM<br>Saturday: 10:00 AM – 9:00 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;I stumbled upon this place by chance, without reading any reviews beforehand, and I don&#39;t regret it at all.</li>
+</ul>
+<p>The place is small, but it doesn&#39;t feel cramped. You can tell they keep it clean, well-maintained, and brightly lit.</p>
+<p>The staff is fantastic; they explain everything with a smile, and you can...&quot; — <strong>Fatima Saldivar</strong> (3 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Can’t believe I’ve never been here before. Came back a second time just a couple days later. Super friendly staff, family restaurant vibes, here for the food not the decor. The pupusas are made to order my the mother daughter duo and they are crispy and delicious especially with a mountain of curtid...&quot; — <strong>Camila Raimond</strong> (7 months ago)</li>
+<li>★★★★★ &quot;Wonderful, cheerful spot right across from San Francisco General Hospital. Sofia, the owner is very kind. She makes good strong coffee, and my breakfast burrito was excellent. I’ll definitely return to try the lunch dishes..&quot; — <strong>Erin Parsley</strong> (7 months ago)</li>
+<li>★★★★★ &quot;Mmm mmm mm! Just remembering what I had makes my mouth water. The pupusas were hot and delicious and the curtiddo and salsa were the cherry on top. Come try for yourself and you won&#39;t regret it&quot; — <strong>Brian Raul</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Good spot for lunch by the hospital. I got the pupusa combo plate 1 (two pupusas, some plátanos, and a couple fried yucca). It was a good deal and you get to try a bit of everything. If you get the combo, you have the option to get two different pupusa fillings, so I got one queso con loroco, one re...&quot; — <strong>Rachel Alfaro</strong> (a year ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Potrero Hill](index.html)
+
+# La Paz
+Easygoing option doling out pupusas, wet burritos &amp; other homestyle Latin American staples.
+
+## Cuisine
+**Restaurant** — Restaurant
+
+## Price Range
+$
+
+## Rating
+4.3 stars — 198 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout  
+**Meals:** Breakfast · Lunch · Dinner  
+**Drinks:** Beer
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1028 Potrero Ave, San Francisco, CA 94110, USA  
+Phone: (415) 550-8313  
+[View on Google Maps](https://maps.google.com/?cid=14103038887331612647&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7556291, -122.40678630000001
+
+## Hours
+
+Monday: 10:00 AM – 9:00 PM  
+Tuesday: 10:00 AM – 9:00 PM  
+Wednesday: 10:00 AM – 9:00 PM  
+Thursday: 10:00 AM – 9:00 PM  
+Friday: 10:00 AM – 9:00 PM  
+Saturday: 10:00 AM – 9:00 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;I stumbled upon this place by chance, without reading any reviews beforehand, and I don't regret it at all.
+
+The place is small, but it doesn't feel cramped. You can tell they keep it clean, well-maintained, and brightly lit.
+
+The staff is fantastic; they explain everything with a smile, and you can...&quot; — **Fatima Saldivar** (3 months ago)
+- ★★★★★ &quot;Can’t believe I’ve never been here before. Came back a second time just a couple days later. Super friendly staff, family restaurant vibes, here for the food not the decor. The pupusas are made to order my the mother daughter duo and they are crispy and delicious especially with a mountain of curtid...&quot; — **Camila Raimond** (7 months ago)
+- ★★★★★ &quot;Wonderful, cheerful spot right across from San Francisco General Hospital. Sofia, the owner is very kind. She makes good strong coffee, and my breakfast burrito was excellent. I’ll definitely return to try the lunch dishes..&quot; — **Erin Parsley** (7 months ago)
+- ★★★★★ &quot;Mmm mmm mm! Just remembering what I had makes my mouth water. The pupusas were hot and delicious and the curtiddo and salsa were the cherry on top. Come try for yourself and you won't regret it&quot; — **Brian Raul** (3 months ago)
+- ★★★★★ &quot;Good spot for lunch by the hospital. I got the pupusa combo plate 1 (two pupusas, some plátanos, and a couple fried yucca). It was a good deal and you get to try a bit of everything. If you get the combo, you have the option to get two different pupusa fillings, so I got one queso con loroco, one re...&quot; — **Rachel Alfaro** (a year ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

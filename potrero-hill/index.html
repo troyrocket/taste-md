@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Potrero Hill Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Potrero Hill, San Francisco. 49 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Potrero Hill</div>
+<h1>Potrero Hill</h1>
+<p>49 restaurants in Potrero Hill, San Francisco.</p>
+<div class="restaurant">
+  <a href="chevio-s-food-truck.html">Chevio’s Food truck</a>
+  <div class="meta">4.9★ (41 reviews) — 388 Potrero Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jb-s-place.html">JB's Place</a>
+  <div class="meta">4.8★ (332 reviews) — 1435 17th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="caprizza-ristorante.html">Caprizza Ristorante</a>
+  <div class="meta">4.8★ (44 reviews) — 2704, 2706 24th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="newkirk-s.html">Newkirk's</a>
+  <div class="meta">4.8★ (315 reviews) — 1002 Potrero Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marcella-s-lasagneria.html">Marcella's Lasagneria</a>
+  <div class="meta">4.8★ (656 reviews) — 1099 Tennessee St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="progeny-coffee.html">Progeny Coffee</a>
+  <div class="meta">4.8★ (119 reviews) — 1395 22nd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chez-maman-east.html">Chez Maman East</a>
+  <div class="meta">4.7★ (1704 reviews) — 1401 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="poboys-kitchen.html">PoBoys Kitchen</a>
+  <div class="meta">4.7★ (436 reviews) — 317 Connecticut St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="waterfall-cevicheria.html">Waterfall cevicheria</a>
+  <div class="meta">4.7★ (152 reviews) — 1000 Potrero Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="two-sons-sandwiches.html">Two Sons' Sandwiches</a>
+  <div class="meta">4.7★ (396 reviews) — 2249 17th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bottom-of-the-hill.html">Bottom of the Hill</a>
+  <div class="meta">4.7★ (1049 reviews) — 1233 17th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="destapas-sf.html">Destapas SF</a>
+  <div class="meta">4.7★ (433 reviews) — 2708 24th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="le-march-cezanne.html">Le Marché Cezanne</a>
+  <div class="meta">4.7★ (72 reviews) — 1426 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="alimentari-aurora.html">Alimentari Aurora</a>
+  <div class="meta">4.7★ (67 reviews) — 1415 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sons-daughters.html">Sons & Daughters</a>
+  <div class="meta">4.7★ (375 reviews) — 2875 18th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="parker-potrero.html">Parker Potrero</a>
+  <div class="meta">4.6★ (360 reviews) — 1399 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="papito.html">Papito</a>
+  <div class="meta">4.6★ (849 reviews) — 1457 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cracked-battered.html">Cracked & Battered</a>
+  <div class="meta">4.6★ (936 reviews) — 1434 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wooly-pig.html">Wooly Pig</a>
+  <div class="meta">4.6★ (443 reviews) — 2295 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hazel-s-kitchen-sandwich-shop.html">Hazel's Kitchen (Sandwich Shop)</a>
+  <div class="meta">4.6★ (300 reviews) — 1319 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ganim-s.html">Ganim's</a>
+  <div class="meta">4.6★ (410 reviews) — 1135 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ungrafted.html">Ungrafted</a>
+  <div class="meta">4.6★ (317 reviews) — 2419 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-stazione-cannoli-co.html">La Stazione / Cannoli & Co.</a>
+  <div class="meta">4.6★ (231 reviews) — 701 Pennsylvania Ave (at, 22nd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="giuliana-s-just-for-you-cafe.html">Giuliana's Just For You Cafe</a>
+  <div class="meta">4.6★ (1177 reviews) — 732 22nd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="stable-cafe.html">Stable Cafe</a>
+  <div class="meta">4.6★ (1031 reviews) — 2128 Folsom St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="connecticut-yankee.html">Connecticut Yankee</a>
+  <div class="meta">4.5★ (911 reviews) — 100 Connecticut St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-rincon-de-jorgito.html">El Rincon de Jorgito</a>
+  <div class="meta">4.5★ (159 reviews) — 1850 Cesar Chavez St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piccino.html">Piccino</a>
+  <div class="meta">4.5★ (1357 reviews) — 1001 Minnesota St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="umi.html">Umi</a>
+  <div class="meta">4.5★ (313 reviews) — 1328 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="next-level-burger-potrero-hill.html">Next Level Burger Potrero Hill</a>
+  <div class="meta">4.5★ (465 reviews) — 450 Rhode Island St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="miller-lux-restaurant.html">Miller & Lux Restaurant</a>
+  <div class="meta">4.5★ (390 reviews) — 700 Terry A Francois Blvd, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wolfe-s-lunch.html">Wolfe's Lunch</a>
+  <div class="meta">4.5★ (277 reviews) — 1220 16th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="movida.html">Movida</a>
+  <div class="meta">4.5★ (213 reviews) — 555 2nd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="plow.html">Plow</a>
+  <div class="meta">4.4★ (2837 reviews) — 1299 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-connessa.html">La Connessa</a>
+  <div class="meta">4.4★ (271 reviews) — 1695 Mariposa St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mochica.html">Mochica</a>
+  <div class="meta">4.4★ (990 reviews) — 1469 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="za-atar-levantine-inspired-street-food.html">Za'atar | Levantine Inspired Street Food</a>
+  <div class="meta">4.4★ (208 reviews) — 1750 Cesar Chavez St Unit D, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sohn.html">SOHN</a>
+  <div class="meta">4.4★ (211 reviews) — 2535 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sunflower-potrero-hill.html">Sunflower Potrero Hill</a>
+  <div class="meta">4.3★ (530 reviews) — 288 Connecticut St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="live-sushi-bar.html">Live Sushi Bar</a>
+  <div class="meta">4.3★ (718 reviews) — 2001 17th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="goat-hill-pizza.html">Goat Hill Pizza</a>
+  <div class="meta">4.3★ (852 reviews) — 300 Connecticut St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-paz.html">La Paz</a>
+  <div class="meta">4.3★ (198 reviews) — 1028 Potrero Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saap-ver-damn-good-thai-street-food.html">Saap Ver Damn Good! Thai street food</a>
+  <div class="meta">4.3★ (865 reviews) — 88 Division St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-pirata.html">Il Pirata</a>
+  <div class="meta">4.3★ (112 reviews) — 2007 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="next-level-clucker.html">Next Level Clucker</a>
+  <div class="meta">4.3★ (8 reviews) — 450 Rhode Island St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="louie-s-original.html">Louie's Original</a>
+  <div class="meta">4.2★ (227 reviews) — 1685 Mariposa St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="steep-brew.html">Steep Brew</a>
+  <div class="meta">4.2★ (38 reviews) — 450 Rhode Island St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="potrero-center.html">Potrero Center</a>
+  <div class="meta">4.1★ (5267 reviews) — 2300 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="j-e.html">J & E</a>
+  <div class="meta">4★ (199 reviews) — 3508, 2537 24th St, San Francisco, CA 94110, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Potrero Hill — San Francisco Restaurants
+
+49 restaurants in Potrero Hill.
+
+- [Chevio’s Food truck](chevio-s-food-truck.html) — 4.9★ (41 reviews)
+- [JB's Place](jb-s-place.html) — 4.8★ (332 reviews)
+- [Caprizza Ristorante](caprizza-ristorante.html) — 4.8★ (44 reviews)
+- [Newkirk's](newkirk-s.html) — 4.8★ (315 reviews)
+- [Marcella's Lasagneria](marcella-s-lasagneria.html) — 4.8★ (656 reviews)
+- [Progeny Coffee](progeny-coffee.html) — 4.8★ (119 reviews)
+- [Chez Maman East](chez-maman-east.html) — 4.7★ (1704 reviews)
+- [PoBoys Kitchen](poboys-kitchen.html) — 4.7★ (436 reviews)
+- [Waterfall cevicheria](waterfall-cevicheria.html) — 4.7★ (152 reviews)
+- [Two Sons' Sandwiches](two-sons-sandwiches.html) — 4.7★ (396 reviews)
+- [Bottom of the Hill](bottom-of-the-hill.html) — 4.7★ (1049 reviews)
+- [Destapas SF](destapas-sf.html) — 4.7★ (433 reviews)
+- [Le Marché Cezanne](le-march-cezanne.html) — 4.7★ (72 reviews)
+- [Alimentari Aurora](alimentari-aurora.html) — 4.7★ (67 reviews)
+- [Sons &amp; Daughters](sons-daughters.html) — 4.7★ (375 reviews)
+- [Parker Potrero](parker-potrero.html) — 4.6★ (360 reviews)
+- [Papito](papito.html) — 4.6★ (849 reviews)
+- [Cracked &amp; Battered](cracked-battered.html) — 4.6★ (936 reviews)
+- [Wooly Pig](wooly-pig.html) — 4.6★ (443 reviews)
+- [Hazel's Kitchen (Sandwich Shop)](hazel-s-kitchen-sandwich-shop.html) — 4.6★ (300 reviews)
+- [Ganim's](ganim-s.html) — 4.6★ (410 reviews)
+- [Ungrafted](ungrafted.html) — 4.6★ (317 reviews)
+- [La Stazione / Cannoli &amp; Co.](la-stazione-cannoli-co.html) — 4.6★ (231 reviews)
+- [Giuliana's Just For You Cafe](giuliana-s-just-for-you-cafe.html) — 4.6★ (1177 reviews)
+- [Stable Cafe](stable-cafe.html) — 4.6★ (1031 reviews)
+- [Connecticut Yankee](connecticut-yankee.html) — 4.5★ (911 reviews)
+- [El Rincon de Jorgito](el-rincon-de-jorgito.html) — 4.5★ (159 reviews)
+- [Piccino](piccino.html) — 4.5★ (1357 reviews)
+- [Umi](umi.html) — 4.5★ (313 reviews)
+- [Next Level Burger Potrero Hill](next-level-burger-potrero-hill.html) — 4.5★ (465 reviews)
+- [Miller &amp; Lux Restaurant](miller-lux-restaurant.html) — 4.5★ (390 reviews)
+- [Wolfe's Lunch](wolfe-s-lunch.html) — 4.5★ (277 reviews)
+- [Movida](movida.html) — 4.5★ (213 reviews)
+- [Plow](plow.html) — 4.4★ (2837 reviews)
+- [La Connessa](la-connessa.html) — 4.4★ (271 reviews)
+- [Mochica](mochica.html) — 4.4★ (990 reviews)
+- [Za'atar | Levantine Inspired Street Food](za-atar-levantine-inspired-street-food.html) — 4.4★ (208 reviews)
+- [SOHN](sohn.html) — 4.4★ (211 reviews)
+- [Sunflower Potrero Hill](sunflower-potrero-hill.html) — 4.3★ (530 reviews)
+- [Live Sushi Bar](live-sushi-bar.html) — 4.3★ (718 reviews)
+- [Goat Hill Pizza](goat-hill-pizza.html) — 4.3★ (852 reviews)
+- [La Paz](la-paz.html) — 4.3★ (198 reviews)
+- [Saap Ver Damn Good! Thai street food](saap-ver-damn-good-thai-street-food.html) — 4.3★ (865 reviews)
+- [Il Pirata](il-pirata.html) — 4.3★ (112 reviews)
+- [Next Level Clucker](next-level-clucker.html) — 4.3★ (8 reviews)
+- [Louie's Original](louie-s-original.html) — 4.2★ (227 reviews)
+- [Steep Brew](steep-brew.html) — 4.2★ (38 reviews)
+- [Potrero Center](potrero-center.html) — 4.1★ (5267 reviews)
+- [J &amp; E](j-e.html) — 4★ (199 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

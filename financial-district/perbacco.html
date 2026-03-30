@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perbacco — Financial District — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Perbacco in Financial District, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Perbacco",
+  "servesCuisine": [
+    "italian restaurant",
+    "wine bar",
+    "bar"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "230 California St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94111",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 955-0663",
+  "url": "https://www.perbaccosf.com/",
+  "priceRange": "$$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "1016"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7934333,
+    "longitude": -122.39931390000001
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:30 AM – 9:00 PM",
+    "Wednesday: 11:30 AM – 9:00 PM",
+    "Thursday: 11:30 AM – 9:00 PM",
+    "Friday: 11:30 AM – 9:00 PM",
+    "Saturday: 5:30 – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "June Wong"
+      },
+      "reviewBody": "Food: 5/5\nService: 5/5\nAtmosphere: 5/5\nNoise Level: moderately loud\n\nJust about everything was perfect for this dinner. Our server Jamie was personable and efficient.\n\nThe Italian 75 and Mamma Mia coc"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "cantik"
+      },
+      "reviewBody": "Perbacco has always been my favorite Italian restaurant in the city, and it never disappoints. From the service to the drinks to the food, everything is excellent. The only minor drawback is that the "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael Hunter"
+      },
+      "reviewBody": "Very good experience at Perbacco. Good service from the staff. I felt the food could have been better. We ordered the roasted octopus for an appetizer and then halibut and risotto for the main course."
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Financial District</a></p>
+<h1>Perbacco</h1>
+<p>Upscale, bi-level restaurant serving a seasonal menu of Piedmont-influenced Italian fare &amp; wines.</p>
+<h2>Cuisine</h2>
+<p><strong>Italian restaurant</strong> — italian restaurant, wine bar, bar</p>
+<h2>Price Range</h2>
+<p>$$$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 1,016 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Dog-friendly · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>230 California St, San Francisco, CA 94111, USA<br>Phone: (415) 955-0663<br>Website: <a href="https://www.perbaccosf.com/">https://www.perbaccosf.com/</a><br><a href="https://maps.google.com/?cid=14848773536599269184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7934333, -122.39931390000001</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: 11:30 AM – 9:00 PM<br>Wednesday: 11:30 AM – 9:00 PM<br>Thursday: 11:30 AM – 9:00 PM<br>Friday: 11:30 AM – 9:00 PM<br>Saturday: 5:30 – 9:00 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Valet parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Food: 5/5
+Service: 5/5
+Atmosphere: 5/5
+Noise Level: moderately loud</li>
+</ul>
+<p>Just about everything was perfect for this dinner. Our server Jamie was personable and efficient.</p>
+<p>The Italian 75 and Mamma Mia cocktails were great.</p>
+<p>The Acme bread and parmigiano butter were delicious. The butter was nice and sof...&quot; — <strong>June Wong</strong> (3 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Perbacco has always been my favorite Italian restaurant in the city, and it never disappoints. From the service to the drinks to the food, everything is excellent. The only minor drawback is that the decor feels a bit dated. That said, the food is reasonably priced for the quality—delicious dishes w...&quot; — <strong>cantik</strong> (5 months ago)</li>
+<li>★★★★★ &quot;Very good experience at Perbacco. Good service from the staff. I felt the food could have been better. We ordered the roasted octopus for an appetizer and then halibut and risotto for the main course. The risotto was tasty, but the halibut was a little dry and the octopus was a bit tough. For desser...&quot; — <strong>Michael Hunter</strong> (4 months ago)</li>
+<li>★★★ &quot;This is touted as an upscale Italian restaurant. I went after work and so did everyone else it seems. The crowd was dressed business casual to casual. The bar was lively and crowded. The lighting was dim/moody. There were table cloths and linen napkins. Our waiter spoke in Italian. He was very over ...&quot; — <strong>Ce Cee</strong> (3 months ago)</li>
+<li>★★★★ &quot;Perbacco is a fantastic lunch spot in the Financial District if you’re craving classic, authentic Italian food. You can’t go wrong with the burrata plate. I don’t often finish a plate of pasta, but I enjoyed every last bite of the pesto pasta here. Of course, a meal isn’t complete without dessert, s...&quot; — <strong>Sunshine Puppy</strong> (2 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Financial District](index.html)
+
+# Perbacco
+Upscale, bi-level restaurant serving a seasonal menu of Piedmont-influenced Italian fare &amp; wines.
+
+## Cuisine
+**Italian restaurant** — italian restaurant, wine bar, bar
+
+## Price Range
+$$$
+
+## Rating
+4.5 stars — 1,016 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Dog-friendly · Restroom available
+
+## Location &amp; Contact
+
+230 California St, San Francisco, CA 94111, USA  
+Phone: (415) 955-0663  
+Website: [https://www.perbaccosf.com/](https://www.perbaccosf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=14848773536599269184&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7934333, -122.39931390000001
+
+## Hours
+
+Monday: Closed  
+Tuesday: 11:30 AM – 9:00 PM  
+Wednesday: 11:30 AM – 9:00 PM  
+Thursday: 11:30 AM – 9:00 PM  
+Friday: 11:30 AM – 9:00 PM  
+Saturday: 5:30 – 9:00 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Valet parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Food: 5/5
+Service: 5/5
+Atmosphere: 5/5
+Noise Level: moderately loud
+
+Just about everything was perfect for this dinner. Our server Jamie was personable and efficient.
+
+The Italian 75 and Mamma Mia cocktails were great.
+
+The Acme bread and parmigiano butter were delicious. The butter was nice and sof...&quot; — **June Wong** (3 months ago)
+- ★★★★★ &quot;Perbacco has always been my favorite Italian restaurant in the city, and it never disappoints. From the service to the drinks to the food, everything is excellent. The only minor drawback is that the decor feels a bit dated. That said, the food is reasonably priced for the quality—delicious dishes w...&quot; — **cantik** (5 months ago)
+- ★★★★★ &quot;Very good experience at Perbacco. Good service from the staff. I felt the food could have been better. We ordered the roasted octopus for an appetizer and then halibut and risotto for the main course. The risotto was tasty, but the halibut was a little dry and the octopus was a bit tough. For desser...&quot; — **Michael Hunter** (4 months ago)
+- ★★★ &quot;This is touted as an upscale Italian restaurant. I went after work and so did everyone else it seems. The crowd was dressed business casual to casual. The bar was lively and crowded. The lighting was dim/moody. There were table cloths and linen napkins. Our waiter spoke in Italian. He was very over ...&quot; — **Ce Cee** (3 months ago)
+- ★★★★ &quot;Perbacco is a fantastic lunch spot in the Financial District if you’re craving classic, authentic Italian food. You can’t go wrong with the burrata plate. I don’t often finish a plate of pasta, but I enjoyed every last bite of the pesto pasta here. Of course, a meal isn’t complete without dessert, s...&quot; — **Sunshine Puppy** (2 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

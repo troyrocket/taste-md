@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Good Mong Kok Bakery — Chinatown — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Good Mong Kok Bakery in Chinatown, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Good Mong Kok Bakery",
+  "servesCuisine": [
+    "dim sum restaurant",
+    "cantonese restaurant",
+    "dumpling restaurant",
+    "chinese restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1039 Stockton St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94108",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 397-2688",
+  "url": "https://goodmongkokbakery.com/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "2426"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.795455,
+    "longitude": -122.40835600000001
+  },
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Thomas Reeh"
+      },
+      "reviewBody": "⭐⭐⭐⭐☆ 4 Stars\nGood Mong Kok Bakery is a Chinatown staple and a must-visit for anyone craving fresh, no-frills dim sum at unbeatable prices. It’s a classic grab-and-go spot — no seating, usually a line"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "jin hee ahn"
+      },
+      "reviewBody": "Dim sum and buns here are big enough and yummy enough 🤩🤩\nDim sum skins are little bit thick but you won't even care about it when you taste the fillings at such a low price.\nPork and shrimp dumpling"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Abbey"
+      },
+      "reviewBody": "Good Mong Kok Bakery is highly recommended for dim sum, offering consistently tasty food at very reasonable prices. Note that they are takeout only and do not have indoor seating. You must try their P"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Chinatown</a></p>
+<h1>Good Mong Kok Bakery</h1>
+<p>Celebrated Chinese fixture boasts a variety of homemade dim sum &amp; baked goods in a compact interior.</p>
+<h2>Cuisine</h2>
+<p><strong>Dim sum restaurant</strong> — dim sum restaurant, cantonese restaurant, dumpling restaurant, chinese restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.2 stars — 2,426 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Takeout<br><strong>Meals:</strong> Breakfast · Lunch</p>
+<h2>Location &amp; Contact</h2>
+<p>1039 Stockton St, San Francisco, CA 94108, USA<br>Phone: (415) 397-2688<br>Website: <a href="https://goodmongkokbakery.com/">https://goodmongkokbakery.com/</a><br><a href="https://maps.google.com/?cid=9766319468625916757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.795455, -122.40835600000001</p>
+<h2>Hours</h2>
+<p>Monday: 7:00 AM – 6:00 PM<br>Tuesday: 7:00 AM – 6:00 PM<br>Wednesday: 7:00 AM – 6:00 PM<br>Thursday: 7:00 AM – 6:00 PM<br>Friday: 7:00 AM – 6:00 PM<br>Saturday: 7:00 AM – 6:00 PM<br>Sunday: 7:00 AM – 6:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;⭐⭐⭐⭐☆ 4 Stars
+Good Mong Kok Bakery is a Chinatown staple and a must-visit for anyone craving fresh, no-frills dim sum at unbeatable prices. It’s a classic grab-and-go spot — no seating, usually a line out the door, and absolutely worth the wait.
+The highlight? Their freshly made egg custard tart for...&quot; — <strong>Thomas Reeh</strong> (a month ago)</li>
+<li>★★★★★ &quot;Dim sum and buns here are big enough and yummy enough 🤩🤩
+Dim sum skins are little bit thick but you won&#39;t even care about it when you taste the fillings at such a low price.
+Pork and shrimp dumpling was amazing, and steamed BBQ pork bun was impressive, not to mention sesame balls.
+You might think ...&quot; — <strong>jin hee ahn</strong> (a month ago)</li>
+<li>★★★★★ &quot;Good Mong Kok Bakery is highly recommended for dim sum, offering consistently tasty food at very reasonable prices. Note that they are takeout only and do not have indoor seating. You must try their Pork bun and Siu Mai.&quot; — <strong>Abbey</strong> (3 months ago)</li>
+<li>★★★★ &quot;Went there on a Sunday at around 10h. There was one, two people in front of me. The service was very fast, counter could speak Cantonese and Mandarin.
+Don&#39;t expect the waitress to make some talk to you. She just asks what you want and you pay :)
+The Charsiubao could be filled more, I got 85% dough a...&quot; — <strong>Annabelle Sri</strong> (4 months ago)</li>
+<li>★★★★ &quot;The pastries were really tasty and prepared well. Don’t expect the ladies at the counter to speak english and to be friendly, they’re just doing their work. But everything is so cheap and worth a try!&quot; — <strong>Zein Chehab</strong> (3 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Chinatown](index.html)
+
+# Good Mong Kok Bakery
+Celebrated Chinese fixture boasts a variety of homemade dim sum &amp; baked goods in a compact interior.
+
+## Cuisine
+**Dim sum restaurant** — dim sum restaurant, cantonese restaurant, dumpling restaurant, chinese restaurant
+
+## Price Range
+$
+
+## Rating
+4.2 stars — 2,426 reviews
+
+## Dining Options
+
+**Service:** Takeout  
+**Meals:** Breakfast · Lunch
+
+## Location &amp; Contact
+
+1039 Stockton St, San Francisco, CA 94108, USA  
+Phone: (415) 397-2688  
+Website: [https://goodmongkokbakery.com/](https://goodmongkokbakery.com/)  
+[View on Google Maps](https://maps.google.com/?cid=9766319468625916757&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.795455, -122.40835600000001
+
+## Hours
+
+Monday: 7:00 AM – 6:00 PM  
+Tuesday: 7:00 AM – 6:00 PM  
+Wednesday: 7:00 AM – 6:00 PM  
+Thursday: 7:00 AM – 6:00 PM  
+Friday: 7:00 AM – 6:00 PM  
+Saturday: 7:00 AM – 6:00 PM  
+Sunday: 7:00 AM – 6:00 PM
+
+## Practical Info
+
+**Payment:** Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking
+
+## What Diners Say
+- ★★★★ &quot;⭐⭐⭐⭐☆ 4 Stars
+Good Mong Kok Bakery is a Chinatown staple and a must-visit for anyone craving fresh, no-frills dim sum at unbeatable prices. It’s a classic grab-and-go spot — no seating, usually a line out the door, and absolutely worth the wait.
+The highlight? Their freshly made egg custard tart for...&quot; — **Thomas Reeh** (a month ago)
+- ★★★★★ &quot;Dim sum and buns here are big enough and yummy enough 🤩🤩
+Dim sum skins are little bit thick but you won't even care about it when you taste the fillings at such a low price.
+Pork and shrimp dumpling was amazing, and steamed BBQ pork bun was impressive, not to mention sesame balls.
+You might think ...&quot; — **jin hee ahn** (a month ago)
+- ★★★★★ &quot;Good Mong Kok Bakery is highly recommended for dim sum, offering consistently tasty food at very reasonable prices. Note that they are takeout only and do not have indoor seating. You must try their Pork bun and Siu Mai.&quot; — **Abbey** (3 months ago)
+- ★★★★ &quot;Went there on a Sunday at around 10h. There was one, two people in front of me. The service was very fast, counter could speak Cantonese and Mandarin.
+Don't expect the waitress to make some talk to you. She just asks what you want and you pay :)
+The Charsiubao could be filled more, I got 85% dough a...&quot; — **Annabelle Sri** (4 months ago)
+- ★★★★ &quot;The pastries were really tasty and prepared well. Don’t expect the ladies at the counter to speak english and to be friendly, they’re just doing their work. But everything is so cheap and worth a try!&quot; — **Zein Chehab** (3 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

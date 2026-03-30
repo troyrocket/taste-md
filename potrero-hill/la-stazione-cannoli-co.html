@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Stazione / Cannoli & Co. — Potrero Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for La Stazione / Cannoli & Co. in Potrero Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "La Stazione / Cannoli & Co.",
+  "servesCuisine": [
+    "cafe",
+    "pastry shop",
+    "coffee shop",
+    "dessert shop",
+    "bakery",
+    "confectionery",
+    "italian restaurant",
+    "food store",
+    "store"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 Pennsylvania Ave (at",
+    "addressLocality": "22nd St",
+    "addressRegion": "San Francisco",
+    "addressCountry": "US"
+  },
+  "telephone": "(628) 225-2387",
+  "url": "http://lastazionesf.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "231"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.757359,
+    "longitude": -122.3928782
+  },
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "bran"
+      },
+      "reviewBody": "Cannoli’s are way too sweet and I personally don’t like them. But I can recognize that this is the highest quality cannoli I’ve ever had, suuper rich cream! Very filling and satisfying to bite into.\nI"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Zenan Vong"
+      },
+      "reviewBody": "Delicious cannolis that are excellently creamy, and hit the right balance of sweetness. They are assembled to order so the shells are nice and crisp as you get them."
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Alex Kopelyan"
+      },
+      "reviewBody": "I’m not really a cannoli person, and these were absolutely delicious cannolis. Crunchy flakes outside, not too sweet while being creamy, and each is a nice portion split between two people (tho could "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Potrero Hill</a></p>
+<h1>La Stazione / Cannoli &amp; Co.</h1>
+<p>This cozy corner cafe with an Italian slant features espresso drinks, panini &amp; hard-to-find wines.</p>
+<h2>Cuisine</h2>
+<p><strong>Cafe</strong> — cafe, pastry shop, coffee shop, dessert shop, bakery, confectionery, italian restaurant, food store</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.6 stars — 231 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Breakfast · Lunch<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Dog-friendly</p>
+<h2>Location &amp; Contact</h2>
+<p>701 Pennsylvania Ave (at, 22nd St, San Francisco, CA 94107, USA<br>Phone: (628) 225-2387<br>Website: <a href="http://lastazionesf.com/">http://lastazionesf.com/</a><br><a href="https://maps.google.com/?cid=406906911691540287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.757359, -122.3928782</p>
+<h2>Hours</h2>
+<p>Monday: 7:00 AM – 9:00 PM<br>Tuesday: 7:00 AM – 9:00 PM<br>Wednesday: 7:00 AM – 9:00 PM<br>Thursday: 7:00 AM – 9:00 PM<br>Friday: 7:00 AM – 9:00 PM<br>Saturday: 8:00 AM – 9:00 PM<br>Sunday: 8:00 AM – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Debit cards · NFC / contactless<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Cannoli’s are way too sweet and I personally don’t like them. But I can recognize that this is the highest quality cannoli I’ve ever had, suuper rich cream! Very filling and satisfying to bite into.
+I preferred the chocolate chip cannoli over the pistachio. The nutella latte is also very comforting ...&quot; — <strong>bran</strong> (11 months ago)</li>
+<li>★★★★★ &quot;Delicious cannolis that are excellently creamy, and hit the right balance of sweetness. They are assembled to order so the shells are nice and crisp as you get them.&quot; — <strong>Zenan Vong</strong> (8 months ago)</li>
+<li>★★★★★ &quot;I’m not really a cannoli person, and these were absolutely delicious cannolis. Crunchy flakes outside, not too sweet while being creamy, and each is a nice portion split between two people (tho could easily eat solo).</li>
+</ul>
+<p>I definitely recommend!&quot; — <strong>Alex Kopelyan</strong> (a year ago)</p>
+<ul>
+<li>★★★★★ &quot;We ordered one original cannoli and a cup of cold brew, both are excellent. The store was closed after 2pm but they accept online order till 9pm. The staff are nice and friendly. Highly recommend!&quot; — <strong>Shun Sun</strong> (5 months ago)</li>
+<li>★★★★★ &quot;Really the best cannoli in San Francisco and Bay Area I would say! Ingredients are super fresh and taste exactly as the ones you’ll find in Sicily. Also the pick up from 7am-9pm is so convenient and flexible. Highly recommend to try it and you will be 100% fall in love with it!&quot; — <strong>Carlo Vetralla</strong> (6 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Potrero Hill](index.html)
+
+# La Stazione / Cannoli &amp; Co.
+This cozy corner cafe with an Italian slant features espresso drinks, panini &amp; hard-to-find wines.
+
+## Cuisine
+**Cafe** — cafe, pastry shop, coffee shop, dessert shop, bakery, confectionery, italian restaurant, food store
+
+## Price Range
+$$
+
+## Rating
+4.6 stars — 231 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Breakfast · Lunch  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Dog-friendly
+
+## Location &amp; Contact
+
+701 Pennsylvania Ave (at, 22nd St, San Francisco, CA 94107, USA  
+Phone: (628) 225-2387  
+Website: [http://lastazionesf.com/](http://lastazionesf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=406906911691540287&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.757359, -122.3928782
+
+## Hours
+
+Monday: 7:00 AM – 9:00 PM  
+Tuesday: 7:00 AM – 9:00 PM  
+Wednesday: 7:00 AM – 9:00 PM  
+Thursday: 7:00 AM – 9:00 PM  
+Friday: 7:00 AM – 9:00 PM  
+Saturday: 8:00 AM – 9:00 PM  
+Sunday: 8:00 AM – 9:00 PM
+
+## Practical Info
+
+**Payment:** Debit cards · NFC / contactless  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Cannoli’s are way too sweet and I personally don’t like them. But I can recognize that this is the highest quality cannoli I’ve ever had, suuper rich cream! Very filling and satisfying to bite into.
+I preferred the chocolate chip cannoli over the pistachio. The nutella latte is also very comforting ...&quot; — **bran** (11 months ago)
+- ★★★★★ &quot;Delicious cannolis that are excellently creamy, and hit the right balance of sweetness. They are assembled to order so the shells are nice and crisp as you get them.&quot; — **Zenan Vong** (8 months ago)
+- ★★★★★ &quot;I’m not really a cannoli person, and these were absolutely delicious cannolis. Crunchy flakes outside, not too sweet while being creamy, and each is a nice portion split between two people (tho could easily eat solo).
+
+I definitely recommend!&quot; — **Alex Kopelyan** (a year ago)
+- ★★★★★ &quot;We ordered one original cannoli and a cup of cold brew, both are excellent. The store was closed after 2pm but they accept online order till 9pm. The staff are nice and friendly. Highly recommend!&quot; — **Shun Sun** (5 months ago)
+- ★★★★★ &quot;Really the best cannoli in San Francisco and Bay Area I would say! Ingredients are super fresh and taste exactly as the ones you’ll find in Sicily. Also the pick up from 7am-9pm is so convenient and flexible. Highly recommend to try it and you will be 100% fall in love with it!&quot; — **Carlo Vetralla** (6 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

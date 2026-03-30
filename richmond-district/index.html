@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Richmond District Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Richmond District, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Richmond District</div>
+<h1>Richmond District</h1>
+<p>59 restaurants in Richmond District, San Francisco.</p>
+<div class="restaurant">
+  <a href="iggy-s-place.html">Iggy's Place</a>
+  <div class="meta">4.9★ (265 reviews) — 3519 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="phi-long.html">Phi Long</a>
+  <div class="meta">4.9★ (56 reviews) — 4605 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-richmond.html">The Richmond</a>
+  <div class="meta">4.8★ (185 reviews) — 615 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bao-bao-dumpling.html">Bao Bao Dumpling</a>
+  <div class="meta">4.8★ (125 reviews) — 5145 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cantina-los-mayas.html">Cantina Los Mayas</a>
+  <div class="meta">4.8★ (250 reviews) — 431 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-art-bistro.html">The Art Bistro</a>
+  <div class="meta">4.8★ (446 reviews) — 2960 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chapeau.html">Chapeau</a>
+  <div class="meta">4.7★ (770 reviews) — 126 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ramen-kameko.html">Ramen Kameko</a>
+  <div class="meta">4.7★ (104 reviews) — 910 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="big-fish-house.html">Big Fish House</a>
+  <div class="meta">4.7★ (141 reviews) — 2109 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cinderella-bakery-cafe.html">Cinderella Bakery & Cafe</a>
+  <div class="meta">4.7★ (3015 reviews) — 436 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noodle-in-a-haystack.html">Noodle in a Haystack</a>
+  <div class="meta">4.7★ (61 reviews) — 4601 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pacific-cafe.html">Pacific Cafe</a>
+  <div class="meta">4.7★ (696 reviews) — 7000 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oraan-thai-eatery.html">Oraan Thai Eatery</a>
+  <div class="meta">4.7★ (168 reviews) — 3750 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wenchang-dumpling-restaurant.html">WenChang Dumpling Restaurant</a>
+  <div class="meta">4.7★ (369 reviews) — 1650 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lokma.html">Lokma</a>
+  <div class="meta">4.6★ (1423 reviews) — 1801 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pearl-6101.html">Pearl 6101</a>
+  <div class="meta">4.6★ (639 reviews) — 6101 California St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bella-trattoria.html">Bella Trattoria</a>
+  <div class="meta">4.6★ (1054 reviews) — 3854 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzetta-211.html">Pizzetta 211</a>
+  <div class="meta">4.6★ (1035 reviews) — 211 23rd Ave, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="breadbelly.html">Breadbelly</a>
+  <div class="meta">4.6★ (635 reviews) — 1408 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="teawood-cafe.html">TeaWood Cafe</a>
+  <div class="meta">4.6★ (74 reviews) — 3944 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="khob-khun-thai-cuisine-breakfast.html">Khob Khun Thai cuisine & breakfast</a>
+  <div class="meta">4.6★ (345 reviews) — 3809 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bento-peak.html">Bento Peak</a>
+  <div class="meta">4.6★ (79 reviews) — 4724 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="muukata6395.html">MuuKaTa6395</a>
+  <div class="meta">4.6★ (220 reviews) — 4217 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="burma-superstar.html">Burma Superstar</a>
+  <div class="meta">4.6★ (3893 reviews) — 309 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="aziza.html">Aziza</a>
+  <div class="meta">4.6★ (856 reviews) — 5800 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taqueria-los-mayas.html">Taqueria Los Mayas</a>
+  <div class="meta">4.6★ (1391 reviews) — 331 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="khaosoi-thai-cuisine.html">Khaosoi Thai Cuisine</a>
+  <div class="meta">4.6★ (297 reviews) — 4403 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lost-marbles-brewery.html">Lost Marbles Brewery</a>
+  <div class="meta">4.6★ (380 reviews) — 823 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pagan-restaurant.html">Pagan Restaurant</a>
+  <div class="meta">4.6★ (372 reviews) — 3199 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hummus-bodega.html">Hummus Bodega</a>
+  <div class="meta">4.6★ (647 reviews) — 5549 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="que-chulada.html">Que Chulada</a>
+  <div class="meta">4.6★ (332 reviews) — 5850 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="muguboka-restaurant.html">Muguboka Restaurant</a>
+  <div class="meta">4.6★ (464 reviews) — 401 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="foghorn-taproom-balboa.html">Foghorn Taproom (Balboa)</a>
+  <div class="meta">4.6★ (255 reviews) — 450 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lily.html">Lily</a>
+  <div class="meta">4.5★ (445 reviews) — 225 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiorella-clement.html">Fiorella Clement</a>
+  <div class="meta">4.5★ (715 reviews) — 2339 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kitchen-istanbul.html">Kitchen Istanbul</a>
+  <div class="meta">4.5★ (443 reviews) — 349 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jijime.html">Jijime</a>
+  <div class="meta">4.5★ (376 reviews) — 5524 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chinoyang-s-hunan-and-mandarin-cuisine.html">ChinoYang’s Hunan and Mandarin Cuisine</a>
+  <div class="meta">4.5★ (181 reviews) — 1820 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="xiaoyu-s-kitchen.html">Xiaoyu’s Kitchen</a>
+  <div class="meta">4.5★ (88 reviews) — 560 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="richmond-republic-draught-house.html">Richmond Republic Draught House</a>
+  <div class="meta">4.5★ (744 reviews) — 642 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="osteria-bella.html">Osteria Bella</a>
+  <div class="meta">4.5★ (82 reviews) — 3848 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brothers-restaurant.html">Brothers Restaurant</a>
+  <div class="meta">4.5★ (671 reviews) — 4128 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="moku-yakitori-ya.html">Moku Yakitori-Ya</a>
+  <div class="meta">4.5★ (149 reviews) — 312 8th Ave, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="b-star.html">B Star</a>
+  <div class="meta">4.4★ (779 reviews) — 127 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dragon-beaux.html">Dragon Beaux</a>
+  <div class="meta">4.4★ (2051 reviews) — 5700 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eats.html">Eats</a>
+  <div class="meta">4.4★ (707 reviews) — 50 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="han-il-kwan.html">Han Il Kwan</a>
+  <div class="meta">4.4★ (1482 reviews) — 1802 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hard-knox-cafe.html">Hard Knox Cafe</a>
+  <div class="meta">4.4★ (1450 reviews) — 2448 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mandalay-restaurant.html">Mandalay Restaurant</a>
+  <div class="meta">4.4★ (1306 reviews) — 4348 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="koja-kitchen.html">Koja Kitchen</a>
+  <div class="meta">4.4★ (531 reviews) — 309 6th Ave, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sonamu-korean-restaurant.html">Sonamu Korean Restaurant</a>
+  <div class="meta">4.4★ (114 reviews) — 5716 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="heritage-restaurant-bar.html">Heritage Restaurant & Bar</a>
+  <div class="meta">4.4★ (328 reviews) — 708 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="good-luck-dim-sum.html">Good Luck Dim Sum</a>
+  <div class="meta">4.4★ (910 reviews) — 736 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mamahuhu.html">Mamahuhu</a>
+  <div class="meta">4.4★ (598 reviews) — 517 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-claypot-house.html">The Claypot House</a>
+  <div class="meta">4.3★ (320 reviews) — 1000 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="violet-s.html">Violet's</a>
+  <div class="meta">4.3★ (285 reviews) — 2301 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sichuan-tasty-restaurant.html">Sichuan Tasty Restaurant</a>
+  <div class="meta">4.3★ (315 reviews) — 1829 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hong-kong-lounge.html">Hong Kong Lounge</a>
+  <div class="meta">4.2★ (1629 reviews) — 5322 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="l-h-restaurant.html">L H Restaurant（联兴烧腊）</a>
+  <div class="meta">3.4★ (54 reviews) — 4142 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Richmond District — San Francisco Restaurants
+
+59 restaurants in Richmond District.
+
+- [Iggy's Place](iggy-s-place.html) — 4.9★ (265 reviews)
+- [Phi Long](phi-long.html) — 4.9★ (56 reviews)
+- [The Richmond](the-richmond.html) — 4.8★ (185 reviews)
+- [Bao Bao Dumpling](bao-bao-dumpling.html) — 4.8★ (125 reviews)
+- [Cantina Los Mayas](cantina-los-mayas.html) — 4.8★ (250 reviews)
+- [The Art Bistro](the-art-bistro.html) — 4.8★ (446 reviews)
+- [Chapeau](chapeau.html) — 4.7★ (770 reviews)
+- [Ramen Kameko](ramen-kameko.html) — 4.7★ (104 reviews)
+- [Big Fish House](big-fish-house.html) — 4.7★ (141 reviews)
+- [Cinderella Bakery &amp; Cafe](cinderella-bakery-cafe.html) — 4.7★ (3015 reviews)
+- [Noodle in a Haystack](noodle-in-a-haystack.html) — 4.7★ (61 reviews)
+- [Pacific Cafe](pacific-cafe.html) — 4.7★ (696 reviews)
+- [Oraan Thai Eatery](oraan-thai-eatery.html) — 4.7★ (168 reviews)
+- [WenChang Dumpling Restaurant](wenchang-dumpling-restaurant.html) — 4.7★ (369 reviews)
+- [Lokma](lokma.html) — 4.6★ (1423 reviews)
+- [Pearl 6101](pearl-6101.html) — 4.6★ (639 reviews)
+- [Bella Trattoria](bella-trattoria.html) — 4.6★ (1054 reviews)
+- [Pizzetta 211](pizzetta-211.html) — 4.6★ (1035 reviews)
+- [Breadbelly](breadbelly.html) — 4.6★ (635 reviews)
+- [TeaWood Cafe](teawood-cafe.html) — 4.6★ (74 reviews)
+- [Khob Khun Thai cuisine &amp; breakfast](khob-khun-thai-cuisine-breakfast.html) — 4.6★ (345 reviews)
+- [Bento Peak](bento-peak.html) — 4.6★ (79 reviews)
+- [MuuKaTa6395](muukata6395.html) — 4.6★ (220 reviews)
+- [Burma Superstar](burma-superstar.html) — 4.6★ (3893 reviews)
+- [Aziza](aziza.html) — 4.6★ (856 reviews)
+- [Taqueria Los Mayas](taqueria-los-mayas.html) — 4.6★ (1391 reviews)
+- [Khaosoi Thai Cuisine](khaosoi-thai-cuisine.html) — 4.6★ (297 reviews)
+- [Lost Marbles Brewery](lost-marbles-brewery.html) — 4.6★ (380 reviews)
+- [Pagan Restaurant](pagan-restaurant.html) — 4.6★ (372 reviews)
+- [Hummus Bodega](hummus-bodega.html) — 4.6★ (647 reviews)
+- [Que Chulada](que-chulada.html) — 4.6★ (332 reviews)
+- [Muguboka Restaurant](muguboka-restaurant.html) — 4.6★ (464 reviews)
+- [Foghorn Taproom (Balboa)](foghorn-taproom-balboa.html) — 4.6★ (255 reviews)
+- [Lily](lily.html) — 4.5★ (445 reviews)
+- [Fiorella Clement](fiorella-clement.html) — 4.5★ (715 reviews)
+- [Kitchen Istanbul](kitchen-istanbul.html) — 4.5★ (443 reviews)
+- [Jijime](jijime.html) — 4.5★ (376 reviews)
+- [ChinoYang’s Hunan and Mandarin Cuisine](chinoyang-s-hunan-and-mandarin-cuisine.html) — 4.5★ (181 reviews)
+- [Xiaoyu’s Kitchen](xiaoyu-s-kitchen.html) — 4.5★ (88 reviews)
+- [Richmond Republic Draught House](richmond-republic-draught-house.html) — 4.5★ (744 reviews)
+- [Osteria Bella](osteria-bella.html) — 4.5★ (82 reviews)
+- [Brothers Restaurant](brothers-restaurant.html) — 4.5★ (671 reviews)
+- [Moku Yakitori-Ya](moku-yakitori-ya.html) — 4.5★ (149 reviews)
+- [B Star](b-star.html) — 4.4★ (779 reviews)
+- [Dragon Beaux](dragon-beaux.html) — 4.4★ (2051 reviews)
+- [Eats](eats.html) — 4.4★ (707 reviews)
+- [Han Il Kwan](han-il-kwan.html) — 4.4★ (1482 reviews)
+- [Hard Knox Cafe](hard-knox-cafe.html) — 4.4★ (1450 reviews)
+- [Mandalay Restaurant](mandalay-restaurant.html) — 4.4★ (1306 reviews)
+- [Koja Kitchen](koja-kitchen.html) — 4.4★ (531 reviews)
+- [Sonamu Korean Restaurant](sonamu-korean-restaurant.html) — 4.4★ (114 reviews)
+- [Heritage Restaurant &amp; Bar](heritage-restaurant-bar.html) — 4.4★ (328 reviews)
+- [Good Luck Dim Sum](good-luck-dim-sum.html) — 4.4★ (910 reviews)
+- [Mamahuhu](mamahuhu.html) — 4.4★ (598 reviews)
+- [The Claypot House](the-claypot-house.html) — 4.3★ (320 reviews)
+- [Violet's](violet-s.html) — 4.3★ (285 reviews)
+- [Sichuan Tasty Restaurant](sichuan-tasty-restaurant.html) — 4.3★ (315 reviews)
+- [Hong Kong Lounge](hong-kong-lounge.html) — 4.2★ (1629 reviews)
+- [L H Restaurant（联兴烧腊）](l-h-restaurant.html) — 3.4★ (54 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

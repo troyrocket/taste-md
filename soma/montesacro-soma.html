@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Montesacro SoMa — SoMa — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Montesacro SoMa in SoMa, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Montesacro SoMa",
+  "servesCuisine": [
+    "pizza restaurant",
+    "wine bar",
+    "italian restaurant",
+    "meal takeaway",
+    "bar",
+    "pizza delivery",
+    "meal delivery",
+    "food delivery"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "510 Stevenson St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94103",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 795-3040",
+  "url": "https://www.montesacro.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "1619"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7815509,
+    "longitude": -122.4101336
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+    "Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+    "Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM",
+    "Friday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+    "Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM",
+    "Sunday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Cory Sakai"
+      },
+      "reviewBody": "Delicious pizza with a special recipe dough.  It's just a little bit different, but not blatantly obviously so.  Regardless it's delicious!  Great friendly knowledgeable service.  Wildly interesting e"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Charles Reynolds"
+      },
+      "reviewBody": "We absolutely loved dining here! The pesto and the eggplant with red pepper pinsas were outstanding, and the cauliflower salad appetizer was bursting with flavor. The atmosphere has a charming vintage"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sonya Hu"
+      },
+      "reviewBody": "Super tasty Roman-style pizza (with a great selection of antipasti too) served in a cozy, gorgeous space. I stopped by Montesacro SoMa with a friend for a weekend dinner after receiving multiple recom"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">SoMa</a></p>
+<h1>Montesacro SoMa</h1>
+<p>Industrial-chic enoteca for Roman-style pizza (called &quot;pinsa&quot;) from a brick oven, plus wine &amp; beer.</p>
+<h2>Cuisine</h2>
+<p><strong>Pizza restaurant</strong> — pizza restaurant, wine bar, italian restaurant, meal takeaway, bar, pizza delivery, meal delivery, food delivery</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 1,619 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>510 Stevenson St, San Francisco, CA 94103, USA<br>Phone: (415) 795-3040<br>Website: <a href="https://www.montesacro.com/">https://www.montesacro.com/</a><br><a href="https://maps.google.com/?cid=11576266575661012832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7815509, -122.4101336</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM<br>Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM<br>Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM<br>Friday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM<br>Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM<br>Sunday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Delicious pizza with a special recipe dough.  It&#39;s just a little bit different, but not blatantly obviously so.  Regardless it&#39;s delicious!  Great friendly knowledgeable service.  Wildly interesting eclectic decor, especially the washroom.  The neighbourhood is a little more gritty but not dangerous...&quot; — <strong>Cory Sakai</strong> (3 months ago)</li>
+<li>★★★★★ &quot;We absolutely loved dining here! The pesto and the eggplant with red pepper pinsas were outstanding, and the cauliflower salad appetizer was bursting with flavor. The atmosphere has a charming vintage feel that makes the place so inviting, and the staff’s kindness made the experience even better. Ca...&quot; — <strong>Charles Reynolds</strong> (4 months ago)</li>
+<li>★★★★ &quot;Super tasty Roman-style pizza (with a great selection of antipasti too) served in a cozy, gorgeous space. I stopped by Montesacro SoMa with a friend for a weekend dinner after receiving multiple recommendations for this spot from several coworkers / friends. I got there a few minutes early, so I was...&quot; — <strong>Sonya Hu</strong> (7 months ago)</li>
+<li>★★★★★ &quot;I love this place because I love the food an the cool spaces. But be forewarned, the &quot;pizza&quot; is a very particular recipe with a flour that does not appeal to all palates. You want perfect, classic pizza in San Francisco? That&#39;s what Il Casaro, Delfina and above all A16 are for. You want a low-fi ama...&quot; — <strong>Peter deLappe</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Wow! I&#39;ve often walked past this place and seen people eating at the sidewalk tables. A friend suggested we have lunch there today and what a surprise! The pizza special was delicious. It&#39;s a cool spot, almost feels like you&#39;re in Italy. And the service is exceptional -- as good as you&#39;ll get in any...&quot; — <strong>Daniel Strickland</strong> (7 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [SoMa](index.html)
+
+# Montesacro SoMa
+Industrial-chic enoteca for Roman-style pizza (called &quot;pinsa&quot;) from a brick oven, plus wine &amp; beer.
+
+## Cuisine
+**Pizza restaurant** — pizza restaurant, wine bar, italian restaurant, meal takeaway, bar, pizza delivery, meal delivery, food delivery
+
+## Price Range
+$$
+
+## Rating
+4.5 stars — 1,619 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Brunch · Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+510 Stevenson St, San Francisco, CA 94103, USA  
+Phone: (415) 795-3040  
+Website: [https://www.montesacro.com/](https://www.montesacro.com/)  
+[View on Google Maps](https://maps.google.com/?cid=11576266575661012832&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7815509, -122.4101336
+
+## Hours
+
+Monday: Closed  
+Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM  
+Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM  
+Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM  
+Friday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM  
+Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM  
+Sunday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Delicious pizza with a special recipe dough.  It's just a little bit different, but not blatantly obviously so.  Regardless it's delicious!  Great friendly knowledgeable service.  Wildly interesting eclectic decor, especially the washroom.  The neighbourhood is a little more gritty but not dangerous...&quot; — **Cory Sakai** (3 months ago)
+- ★★★★★ &quot;We absolutely loved dining here! The pesto and the eggplant with red pepper pinsas were outstanding, and the cauliflower salad appetizer was bursting with flavor. The atmosphere has a charming vintage feel that makes the place so inviting, and the staff’s kindness made the experience even better. Ca...&quot; — **Charles Reynolds** (4 months ago)
+- ★★★★ &quot;Super tasty Roman-style pizza (with a great selection of antipasti too) served in a cozy, gorgeous space. I stopped by Montesacro SoMa with a friend for a weekend dinner after receiving multiple recommendations for this spot from several coworkers / friends. I got there a few minutes early, so I was...&quot; — **Sonya Hu** (7 months ago)
+- ★★★★★ &quot;I love this place because I love the food an the cool spaces. But be forewarned, the &quot;pizza&quot; is a very particular recipe with a flour that does not appeal to all palates. You want perfect, classic pizza in San Francisco? That's what Il Casaro, Delfina and above all A16 are for. You want a low-fi ama...&quot; — **Peter deLappe** (3 months ago)
+- ★★★★★ &quot;Wow! I've often walked past this place and seen people eating at the sidewalk tables. A friend suggested we have lunch there today and what a surprise! The pizza special was delicious. It's a cool spot, almost feels like you're in Italy. And the service is exceptional -- as good as you'll get in any...&quot; — **Daniel Strickland** (7 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

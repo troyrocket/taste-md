@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parkside Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Parkside, San Francisco. 17 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Parkside</div>
+<h1>Parkside</h1>
+<p>17 restaurants in Parkside, San Francisco.</p>
+<div class="restaurant">
+  <a href="ben-tre-restaurant.html">Ben Tre Restaurant</a>
+  <div class="meta">4.8★ (8 reviews) — 2650 Ocean Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chaa-roen-pohn.html">Chaa Roen Pohn</a>
+  <div class="meta">4.8★ (91 reviews) — 1241 Vicente St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="obrien-s-irish-pub.html">Obrien's Irish Pub</a>
+  <div class="meta">4.7★ (123 reviews) — 1940 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="parkside-market-sandwich-liquor.html">Parkside Market Sandwich & Liquor</a>
+  <div class="meta">4.7★ (106 reviews) — 1600 Hayes St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lou-s-cafe.html">Lou's Cafe</a>
+  <div class="meta">4.7★ (396 reviews) — 1508 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mumu-hot-pot.html">Mumu Hot Pot</a>
+  <div class="meta">4.6★ (90 reviews) — 2 Varela Ave Ste 203, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brochette-dumpling.html">Brochette Dumpling</a>
+  <div class="meta">4.5★ (180 reviews) — 31 Cambon Dr, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="grubbin.html">Grubbin'</a>
+  <div class="meta">4.5★ (169 reviews) — 1404 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-four-deuces.html">The Four Deuces</a>
+  <div class="meta">4.5★ (164 reviews) — 2319 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="java-beach-at-the-zoo.html">Java Beach At The Zoo</a>
+  <div class="meta">4.4★ (718 reviews) — 2650 Sloat Blvd, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nar-doner-grill.html">NAR Doner & Grill</a>
+  <div class="meta">4.4★ (144 reviews) — 3251 20th Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taraval-okazu-ya-restaurant.html">Taraval Okazu Ya Restaurant</a>
+  <div class="meta">4.3★ (388 reviews) — 1735 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shanghai-dumpling-king.html">Shanghai Dumpling King</a>
+  <div class="meta">4.3★ (577 reviews) — 696 Monterey Blvd, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="riverside-seafood-restaurant.html">Riverside Seafood Restaurant</a>
+  <div class="meta">4.2★ (473 reviews) — 1201 Vicente St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="stix.html">STIX</a>
+  <div class="meta">4.2★ (228 reviews) — 1155 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="park-chalet.html">Park Chalet</a>
+  <div class="meta">4.1★ (1077 reviews) — 1000 Great Hwy, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ming-s-diner.html">Ming's Diner</a>
+  <div class="meta">4★ (119 reviews) — 2129 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Parkside — San Francisco Restaurants
+
+17 restaurants in Parkside.
+
+- [Ben Tre Restaurant](ben-tre-restaurant.html) — 4.8★ (8 reviews)
+- [Chaa Roen Pohn](chaa-roen-pohn.html) — 4.8★ (91 reviews)
+- [Obrien's Irish Pub](obrien-s-irish-pub.html) — 4.7★ (123 reviews)
+- [Parkside Market Sandwich &amp; Liquor](parkside-market-sandwich-liquor.html) — 4.7★ (106 reviews)
+- [Lou's Cafe](lou-s-cafe.html) — 4.7★ (396 reviews)
+- [Mumu Hot Pot](mumu-hot-pot.html) — 4.6★ (90 reviews)
+- [Brochette Dumpling](brochette-dumpling.html) — 4.5★ (180 reviews)
+- [Grubbin'](grubbin.html) — 4.5★ (169 reviews)
+- [The Four Deuces](the-four-deuces.html) — 4.5★ (164 reviews)
+- [Java Beach At The Zoo](java-beach-at-the-zoo.html) — 4.4★ (718 reviews)
+- [NAR Doner &amp; Grill](nar-doner-grill.html) — 4.4★ (144 reviews)
+- [Taraval Okazu Ya Restaurant](taraval-okazu-ya-restaurant.html) — 4.3★ (388 reviews)
+- [Shanghai Dumpling King](shanghai-dumpling-king.html) — 4.3★ (577 reviews)
+- [Riverside Seafood Restaurant](riverside-seafood-restaurant.html) — 4.2★ (473 reviews)
+- [STIX](stix.html) — 4.2★ (228 reviews)
+- [Park Chalet](park-chalet.html) — 4.1★ (1077 reviews)
+- [Ming's Diner](ming-s-diner.html) — 4★ (119 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

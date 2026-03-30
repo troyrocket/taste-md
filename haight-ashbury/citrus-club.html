@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Citrus Club — Haight-Ashbury — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Citrus Club in Haight-Ashbury, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Citrus Club",
+  "servesCuisine": [
+    "asian restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1790 Haight St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94117",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 387-6366",
+  "url": "https://order.online/store/citrus-club-san-francisco-24154713/?hideModal=true&pickup=true",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "417"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.769583499999996,
+    "longitude": -122.4516406
+  },
+  "openingHours": [
+    "Monday: 11:30 AM – 9:00 PM",
+    "Tuesday: 11:30 AM – 9:00 PM",
+    "Wednesday: 11:30 AM – 9:00 PM",
+    "Thursday: 11:30 AM – 9:00 PM",
+    "Friday: 11:30 AM – 10:00 PM",
+    "Saturday: 11:30 AM – 10:00 PM",
+    "Sunday: 11:30 AM – 10:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ciara McCoppin"
+      },
+      "reviewBody": "Superrrrr delicious meal! Wok tossed bok choy, shiitake mushrooms and beef. Good price and vibe. Worth every bit"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Max L"
+      },
+      "reviewBody": "Hole in the wall with some really delicious Thai food. I love egg noodles so when I saw fresh egg noodles in the window I knew it would be good. My bf and I shared the khao soy (isn’t on their inside "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anand Kamble"
+      },
+      "reviewBody": "It’s a decent place, not anything fancy. Tried the Pho here. Good stuff!!! And the quantity was pretty good too. It was a lot of food for around $22."
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Haight-Ashbury</a></p>
+<h1>Citrus Club</h1>
+<p>Popular Pan-Asian restaurant serving noodles &amp; soups, plus creative cocktails, in cool, casual digs.</p>
+<h2>Cuisine</h2>
+<p><strong>Asian restaurant</strong> — asian restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.2 stars — 417 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1790 Haight St, San Francisco, CA 94117, USA<br>Phone: (415) 387-6366<br>Website: <a href="https://order.online/store/citrus-club-san-francisco-24154713/?hideModal=true&pickup=true">https://order.online/store/citrus-club-san-francisco-24154713/?hideModal=true&amp;pickup=true</a><br><a href="https://maps.google.com/?cid=7587343524566052916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.769583499999996, -122.4516406</p>
+<h2>Hours</h2>
+<p>Monday: 11:30 AM – 9:00 PM<br>Tuesday: 11:30 AM – 9:00 PM<br>Wednesday: 11:30 AM – 9:00 PM<br>Thursday: 11:30 AM – 9:00 PM<br>Friday: 11:30 AM – 10:00 PM<br>Saturday: 11:30 AM – 10:00 PM<br>Sunday: 11:30 AM – 10:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Superrrrr delicious meal! Wok tossed bok choy, shiitake mushrooms and beef. Good price and vibe. Worth every bit&quot; — <strong>Ciara McCoppin</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Hole in the wall with some really delicious Thai food. I love egg noodles so when I saw fresh egg noodles in the window I knew it would be good. My bf and I shared the khao soy (isn’t on their inside menu but was featured outside) and it was AMAZING! Have had a lot of khao soy and this definitely hi...&quot; — <strong>Max L</strong> (2 months ago)</li>
+<li>★★★★★ &quot;It’s a decent place, not anything fancy. Tried the Pho here. Good stuff!!! And the quantity was pretty good too. It was a lot of food for around $22.&quot; — <strong>Anand Kamble</strong> (7 months ago)</li>
+<li>★★★★★ &quot;Really good. Big portions, everything tasted fresh. Had the Tofu Bahn Mi and Chili glazed Tofu Noodels, we can recommend both!&quot; — <strong>Tamara Says</strong> (7 months ago)</li>
+<li>★★★★ &quot;Good lunch! Restaurant is a bit dark so my eyes were surprised when I exited. Soup was good and the beer too. Nothing too fancy but it was just what I needed. The portion size was huge so I had a hard time finishing it.&quot; — <strong>Johan Karlsteen</strong> (7 years ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Haight-Ashbury](index.html)
+
+# Citrus Club
+Popular Pan-Asian restaurant serving noodles &amp; soups, plus creative cocktails, in cool, casual digs.
+
+## Cuisine
+**Asian restaurant** — asian restaurant
+
+## Price Range
+$$
+
+## Rating
+4.2 stars — 417 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1790 Haight St, San Francisco, CA 94117, USA  
+Phone: (415) 387-6366  
+Website: [https://order.online/store/citrus-club-san-francisco-24154713/?hideModal=true&amp;pickup=true](https://order.online/store/citrus-club-san-francisco-24154713/?hideModal=true&amp;pickup=true)  
+[View on Google Maps](https://maps.google.com/?cid=7587343524566052916&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.769583499999996, -122.4516406
+
+## Hours
+
+Monday: 11:30 AM – 9:00 PM  
+Tuesday: 11:30 AM – 9:00 PM  
+Wednesday: 11:30 AM – 9:00 PM  
+Thursday: 11:30 AM – 9:00 PM  
+Friday: 11:30 AM – 10:00 PM  
+Saturday: 11:30 AM – 10:00 PM  
+Sunday: 11:30 AM – 10:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Superrrrr delicious meal! Wok tossed bok choy, shiitake mushrooms and beef. Good price and vibe. Worth every bit&quot; — **Ciara McCoppin** (2 months ago)
+- ★★★★★ &quot;Hole in the wall with some really delicious Thai food. I love egg noodles so when I saw fresh egg noodles in the window I knew it would be good. My bf and I shared the khao soy (isn’t on their inside menu but was featured outside) and it was AMAZING! Have had a lot of khao soy and this definitely hi...&quot; — **Max L** (2 months ago)
+- ★★★★★ &quot;It’s a decent place, not anything fancy. Tried the Pho here. Good stuff!!! And the quantity was pretty good too. It was a lot of food for around $22.&quot; — **Anand Kamble** (7 months ago)
+- ★★★★★ &quot;Really good. Big portions, everything tasted fresh. Had the Tofu Bahn Mi and Chili glazed Tofu Noodels, we can recommend both!&quot; — **Tamara Says** (7 months ago)
+- ★★★★ &quot;Good lunch! Restaurant is a bit dark so my eyes were surprised when I exited. Soup was good and the beer too. Nothing too fancy but it was just what I needed. The portion size was huge so I had a hard time finishing it.&quot; — **Johan Karlsteen** (7 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

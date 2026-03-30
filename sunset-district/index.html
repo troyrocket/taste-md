@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunset District Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Sunset District, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Sunset District</div>
+<h1>Sunset District</h1>
+<p>59 restaurants in Sunset District, San Francisco.</p>
+<div class="restaurant">
+  <a href="ruby-s.html">Ruby’s</a>
+  <div class="meta">4.8★ (78 reviews) — 4300 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bearing-west-bar-and-galley.html">Bearing West Bar and Galley</a>
+  <div class="meta">4.8★ (137 reviews) — 2325 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yoma-cafe-japanese-bento-box-sushi-sandwiches-snacks-boba-drinks.html">Yoma Cafe - Japanese Bento Box, Sushi, Sandwiches, Snacks, Boba Drinks</a>
+  <div class="meta">4.8★ (378 reviews) — 1518 Irving St (cross, 16th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lomo-libre-peruvian-kitchen.html">Lomo Libre Peruvian Kitchen</a>
+  <div class="meta">4.7★ (154 reviews) — 1824 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-taraval-cafe.html">New Taraval Cafe</a>
+  <div class="meta">4.7★ (644 reviews) — 1054 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saigon-bbq-noodle-house.html">Saigon BBQ Noodle House</a>
+  <div class="meta">4.7★ (251 reviews) — 1936 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rusty-ladle.html">Rusty Ladle</a>
+  <div class="meta">4.7★ (110 reviews) — 3645 Lawton St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chalos.html">CHALOS</a>
+  <div class="meta">4.7★ (444 reviews) — 2240 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hook-fish-co.html">Hook Fish Co</a>
+  <div class="meta">4.6★ (2673 reviews) — 4542 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fifty-vara.html">Fifty Vara</a>
+  <div class="meta">4.6★ (85 reviews) — 1735 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="devil-s-teeth-baking-company.html">Devil's Teeth Baking Company</a>
+  <div class="meta">4.6★ (1557 reviews) — 3876 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mama-mu-s-bistro.html">Mama Mu's Bistro</a>
+  <div class="meta">4.6★ (106 reviews) — 1316 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mixto-latin-cuisine.html">Mixto Latin Cuisine</a>
+  <div class="meta">4.6★ (181 reviews) — 3914 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="galinette.html">Galinette</a>
+  <div class="meta">4.6★ (190 reviews) — 3554-3560 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="palm-city.html">Palm City</a>
+  <div class="meta">4.6★ (400 reviews) — 4055 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="house-of-pancakes.html">House of Pancakes</a>
+  <div class="meta">4.6★ (904 reviews) — 937 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yuanbao-jiaozi.html">Yuanbao Jiaozi 元寶餃子</a>
+  <div class="meta">4.6★ (674 reviews) — 2110 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-bites.html">Dumpling Bites</a>
+  <div class="meta">4.6★ (108 reviews) — 1556 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="day-moon.html">Day Moon</a>
+  <div class="meta">4.6★ (152 reviews) — 3928 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ebisu-restaurant.html">Ebisu Restaurant</a>
+  <div class="meta">4.6★ (1206 reviews) — 1283 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="damnfine-pizza.html">DAMNFiNE pizza</a>
+  <div class="meta">4.6★ (608 reviews) — 3410 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gurung-kitchen.html">Gurung Kitchen</a>
+  <div class="meta">4.6★ (394 reviews) — 1033 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sunset-cantina.html">Sunset Cantina</a>
+  <div class="meta">4.5★ (650 reviews) — 3414 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cach.html">Caché</a>
+  <div class="meta">4.5★ (224 reviews) — 1235 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-gold-mirror-italian-restaurant.html">The Gold Mirror | Italian Restaurant</a>
+  <div class="meta">4.5★ (548 reviews) — 800 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mini-potstickers.html">Mini Potstickers</a>
+  <div class="meta">4.5★ (212 reviews) — 2045 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="thanh-long-restaurant.html">Thanh Long Restaurant</a>
+  <div class="meta">4.5★ (1660 reviews) — 4101 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shin-toe-bul-yi.html">Shin Toe Bul Yi</a>
+  <div class="meta">4.5★ (166 reviews) — 2001 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="judahlicious.html">Judahlicious</a>
+  <div class="meta">4.5★ (684 reviews) — 3906 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiorella-sunset.html">Fiorella Sunset</a>
+  <div class="meta">4.4★ (460 reviews) — 1240 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="underdogs-tres.html">Underdogs Tres</a>
+  <div class="meta">4.4★ (1625 reviews) — 1224 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="java-beach-cafe.html">Java Beach Cafe</a>
+  <div class="meta">4.4★ (1648 reviews) — 1396 La Playa St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="crepevine-restaurants.html">Crepevine Restaurants</a>
+  <div class="meta">4.4★ (1686 reviews) — 624 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="toyose.html">Toyose</a>
+  <div class="meta">4.4★ (265 reviews) — 3814 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="underdogs-too.html">Underdogs Too</a>
+  <div class="meta">4.4★ (801 reviews) — 3600 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-kitchen.html">Dumpling Kitchen</a>
+  <div class="meta">4.4★ (1095 reviews) — 1935 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yonkers-cafe.html">Yonkers Cafe</a>
+  <div class="meta">4.4★ (307 reviews) — 3815 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kingdom-of-dumpling.html">Kingdom Of Dumpling</a>
+  <div class="meta">4.4★ (298 reviews) — 1713 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gao-viet-kitchen.html">Gao Viet Kitchen</a>
+  <div class="meta">4.4★ (433 reviews) — 1900 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="king-of-noodles.html">King of Noodles</a>
+  <div class="meta">4.4★ (500 reviews) — 1639 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noodlepanda-restaurant-sf.html">NoodlePanda Restaurant SF</a>
+  <div class="meta">4.4★ (123 reviews) — 1055 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiery-hot-pot-and-grill.html">Fiery Hot Pot and Grill</a>
+  <div class="meta">4.4★ (107 reviews) — 2333 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kevin-chris-s-noodle-house.html">Kevin & Chris’s Noodle House</a>
+  <div class="meta">4.4★ (1333 reviews) — 1833 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pacific-catch.html">Pacific Catch</a>
+  <div class="meta">4.3★ (2123 reviews) — 1200 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="outerlands.html">Outerlands</a>
+  <div class="meta">4.3★ (1693 reviews) — 4001 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tartine-inner-sunset.html">Tartine Inner Sunset</a>
+  <div class="meta">4.3★ (691 reviews) — 1226 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marnee-thai-restaurant.html">Marnee Thai Restaurant</a>
+  <div class="meta">4.3★ (717 reviews) — between Irving & Lincoln, 1243 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="papa-mak-s-burgers.html">Papa Mak's Burgers</a>
+  <div class="meta">4.3★ (597 reviews) — 3755 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lavash.html">Lavash</a>
+  <div class="meta">4.3★ (1158 reviews) — 511 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dim-sum-club.html">Dim Sum Club 點心薈</a>
+  <div class="meta">4.3★ (378 reviews) — 2237 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sf-hole-in-the-wall-pizza.html">SF Hole In The Wall Pizza</a>
+  <div class="meta">4.3★ (804 reviews) — 1825 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tennessee-grill.html">Tennessee Grill</a>
+  <div class="meta">4.3★ (662 reviews) — 1128 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="szechuan-cuisine.html">Szechuan cuisine</a>
+  <div class="meta">4.3★ (376 reviews) — 1920 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marnee-thai-restaurant.html">Marnee Thai Restaurant</a>
+  <div class="meta">4.2★ (621 reviews) — 2225 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noriega-cafe.html">Noriega Cafe</a>
+  <div class="meta">4.2★ (75 reviews) — 1245 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="celia-s-by-the-beach.html">Celia's by the Beach</a>
+  <div class="meta">4.2★ (432 reviews) — 4019 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-bakery-restaurant.html">Cafe Bakery Restaurant</a>
+  <div class="meta">4.2★ (393 reviews) — 1365 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sunset-s-best-seafood-restaurant.html">Sunset's Best Seafood Restaurant</a>
+  <div class="meta">4.1★ (86 reviews) — 3060 Taraval St, San Francisco, CA 94116, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fung-wong-sf.html">Fung Wong SF</a>
+  <div class="meta">3.7★ (206 reviews) — 2500 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Sunset District — San Francisco Restaurants
+
+59 restaurants in Sunset District.
+
+- [Ruby’s](ruby-s.html) — 4.8★ (78 reviews)
+- [Bearing West Bar and Galley](bearing-west-bar-and-galley.html) — 4.8★ (137 reviews)
+- [Yoma Cafe - Japanese Bento Box, Sushi, Sandwiches, Snacks, Boba Drinks](yoma-cafe-japanese-bento-box-sushi-sandwiches-snacks-boba-drinks.html) — 4.8★ (378 reviews)
+- [Lomo Libre Peruvian Kitchen](lomo-libre-peruvian-kitchen.html) — 4.7★ (154 reviews)
+- [New Taraval Cafe](new-taraval-cafe.html) — 4.7★ (644 reviews)
+- [Saigon BBQ Noodle House](saigon-bbq-noodle-house.html) — 4.7★ (251 reviews)
+- [Rusty Ladle](rusty-ladle.html) — 4.7★ (110 reviews)
+- [CHALOS](chalos.html) — 4.7★ (444 reviews)
+- [Hook Fish Co](hook-fish-co.html) — 4.6★ (2673 reviews)
+- [Fifty Vara](fifty-vara.html) — 4.6★ (85 reviews)
+- [Devil's Teeth Baking Company](devil-s-teeth-baking-company.html) — 4.6★ (1557 reviews)
+- [Mama Mu's Bistro](mama-mu-s-bistro.html) — 4.6★ (106 reviews)
+- [Mixto Latin Cuisine](mixto-latin-cuisine.html) — 4.6★ (181 reviews)
+- [Galinette](galinette.html) — 4.6★ (190 reviews)
+- [Palm City](palm-city.html) — 4.6★ (400 reviews)
+- [House of Pancakes](house-of-pancakes.html) — 4.6★ (904 reviews)
+- [Yuanbao Jiaozi 元寶餃子](yuanbao-jiaozi.html) — 4.6★ (674 reviews)
+- [Dumpling Bites](dumpling-bites.html) — 4.6★ (108 reviews)
+- [Day Moon](day-moon.html) — 4.6★ (152 reviews)
+- [Ebisu Restaurant](ebisu-restaurant.html) — 4.6★ (1206 reviews)
+- [DAMNFiNE pizza](damnfine-pizza.html) — 4.6★ (608 reviews)
+- [Gurung Kitchen](gurung-kitchen.html) — 4.6★ (394 reviews)
+- [Sunset Cantina](sunset-cantina.html) — 4.5★ (650 reviews)
+- [Caché](cach.html) — 4.5★ (224 reviews)
+- [The Gold Mirror | Italian Restaurant](the-gold-mirror-italian-restaurant.html) — 4.5★ (548 reviews)
+- [Mini Potstickers](mini-potstickers.html) — 4.5★ (212 reviews)
+- [Thanh Long Restaurant](thanh-long-restaurant.html) — 4.5★ (1660 reviews)
+- [Shin Toe Bul Yi](shin-toe-bul-yi.html) — 4.5★ (166 reviews)
+- [Judahlicious](judahlicious.html) — 4.5★ (684 reviews)
+- [Fiorella Sunset](fiorella-sunset.html) — 4.4★ (460 reviews)
+- [Underdogs Tres](underdogs-tres.html) — 4.4★ (1625 reviews)
+- [Java Beach Cafe](java-beach-cafe.html) — 4.4★ (1648 reviews)
+- [Crepevine Restaurants](crepevine-restaurants.html) — 4.4★ (1686 reviews)
+- [Toyose](toyose.html) — 4.4★ (265 reviews)
+- [Underdogs Too](underdogs-too.html) — 4.4★ (801 reviews)
+- [Dumpling Kitchen](dumpling-kitchen.html) — 4.4★ (1095 reviews)
+- [Yonkers Cafe](yonkers-cafe.html) — 4.4★ (307 reviews)
+- [Kingdom Of Dumpling](kingdom-of-dumpling.html) — 4.4★ (298 reviews)
+- [Gao Viet Kitchen](gao-viet-kitchen.html) — 4.4★ (433 reviews)
+- [King of Noodles](king-of-noodles.html) — 4.4★ (500 reviews)
+- [NoodlePanda Restaurant SF](noodlepanda-restaurant-sf.html) — 4.4★ (123 reviews)
+- [Fiery Hot Pot and Grill](fiery-hot-pot-and-grill.html) — 4.4★ (107 reviews)
+- [Kevin &amp; Chris’s Noodle House](kevin-chris-s-noodle-house.html) — 4.4★ (1333 reviews)
+- [Pacific Catch](pacific-catch.html) — 4.3★ (2123 reviews)
+- [Outerlands](outerlands.html) — 4.3★ (1693 reviews)
+- [Tartine Inner Sunset](tartine-inner-sunset.html) — 4.3★ (691 reviews)
+- [Marnee Thai Restaurant](marnee-thai-restaurant.html) — 4.3★ (717 reviews)
+- [Papa Mak's Burgers](papa-mak-s-burgers.html) — 4.3★ (597 reviews)
+- [Lavash](lavash.html) — 4.3★ (1158 reviews)
+- [Dim Sum Club 點心薈](dim-sum-club.html) — 4.3★ (378 reviews)
+- [SF Hole In The Wall Pizza](sf-hole-in-the-wall-pizza.html) — 4.3★ (804 reviews)
+- [Tennessee Grill](tennessee-grill.html) — 4.3★ (662 reviews)
+- [Szechuan cuisine](szechuan-cuisine.html) — 4.3★ (376 reviews)
+- [Marnee Thai Restaurant](marnee-thai-restaurant.html) — 4.2★ (621 reviews)
+- [Noriega Cafe](noriega-cafe.html) — 4.2★ (75 reviews)
+- [Celia's by the Beach](celia-s-by-the-beach.html) — 4.2★ (432 reviews)
+- [Cafe Bakery Restaurant](cafe-bakery-restaurant.html) — 4.2★ (393 reviews)
+- [Sunset's Best Seafood Restaurant](sunset-s-best-seafood-restaurant.html) — 4.1★ (86 reviews)
+- [Fung Wong SF](fung-wong-sf.html) — 3.7★ (206 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

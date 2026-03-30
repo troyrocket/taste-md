@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tommaso's — North Beach — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Tommaso's in North Beach, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Tommaso's",
+  "servesCuisine": [
+    "italian restaurant",
+    "pizza restaurant",
+    "seafood restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1042 Kearny St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94133",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 398-9696",
+  "url": "https://www.tommasos.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "893"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7977991,
+    "longitude": -122.40524200000002
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 5:00 – 9:00 PM",
+    "Thursday: 5:00 – 9:00 PM",
+    "Friday: 5:00 – 10:00 PM",
+    "Saturday: 5:00 – 10:00 PM",
+    "Sunday: 5:00 – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Allison Bauser"
+      },
+      "reviewBody": "I stumbled upon this restaurant while staying in the area. I'm originally from NY and have a high standard for Italian food. The service was amazing, warm and inviting waitstaff as well as the hostess"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "2"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ryan"
+      },
+      "reviewBody": "Ordered pasta for takeout. After I brought the food home, I noticed that the Parmesan that came with my order was moldy. Very obviously too, so it took some negligence for this to end up with my order"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "S A"
+      },
+      "reviewBody": "Per the recommendation of a friend, I came without reservation to San Tommaso. I waited very little for a table on a clearly very busy night. My server Tomás was incredibly kind, competent, and made s"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">North Beach</a></p>
+<h1>Tommaso&#39;s</h1>
+<p>Family-run institution (since 1935) firing up thin-crust pizzas in its original wood-burning oven.</p>
+<h2>Cuisine</h2>
+<p><strong>Italian restaurant</strong> — italian restaurant, pizza restaurant, seafood restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 893 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1042 Kearny St, San Francisco, CA 94133, USA<br>Phone: (415) 398-9696<br>Website: <a href="https://www.tommasos.com/">https://www.tommasos.com/</a><br><a href="https://maps.google.com/?cid=1604612803613866043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7977991, -122.40524200000002</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: Closed<br>Wednesday: 5:00 – 9:00 PM<br>Thursday: 5:00 – 9:00 PM<br>Friday: 5:00 – 10:00 PM<br>Saturday: 5:00 – 10:00 PM<br>Sunday: 5:00 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;I stumbled upon this restaurant while staying in the area. I&#39;m originally from NY and have a high standard for Italian food. The service was amazing, warm and inviting waitstaff as well as the hostess. It&#39;s a very cozy family styled restaurant which makes you feel right at home. The food felt homema...&quot; — <strong>Allison Bauser</strong> (a month ago)</li>
+<li>★★ &quot;Ordered pasta for takeout. After I brought the food home, I noticed that the Parmesan that came with my order was moldy. Very obviously too, so it took some negligence for this to end up with my order. And I doubt this is the only moldy cup of Parmesan in the restaurant.</li>
+</ul>
+<p>I don’t know if they just d...&quot; — <strong>Ryan</strong> (a month ago)</p>
+<ul>
+<li>★★★★★ &quot;Per the recommendation of a friend, I came without reservation to San Tommaso. I waited very little for a table on a clearly very busy night. My server Tomás was incredibly kind, competent, and made suggestions that were perfect for what I was wanting. It was truly a lovely dining experience. Not to...&quot; — <strong>S A</strong> (8 months ago)</li>
+<li>★★★★★ &quot;Tommaso’s stands out among some classic North Beach restaurants and has loads of charm, delicious food and wine, and it feels like you arrived home. I was greeted by the staff with a welcoming vibe like, “ah, there you are… we’ve been waiting for you all day.” As you step down into the space you see...&quot; — <strong>Tristan Thomas</strong> (2 months ago)</li>
+<li>★★★★★ &quot;My wife amd I had dinner before a show. No big sign out front. A nice little family restaurant with a short flight of stairs behind the front door. The service was very good and friendly. The food was very good. The owner stopped by to visit. Everyone is very nice. A good ambience.&quot; — <strong>Lynn R</strong> (3 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [North Beach](index.html)
+
+# Tommaso's
+Family-run institution (since 1935) firing up thin-crust pizzas in its original wood-burning oven.
+
+## Cuisine
+**Italian restaurant** — italian restaurant, pizza restaurant, seafood restaurant
+
+## Price Range
+$$
+
+## Rating
+4.5 stars — 893 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Lunch · Dinner  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1042 Kearny St, San Francisco, CA 94133, USA  
+Phone: (415) 398-9696  
+Website: [https://www.tommasos.com/](https://www.tommasos.com/)  
+[View on Google Maps](https://maps.google.com/?cid=1604612803613866043&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7977991, -122.40524200000002
+
+## Hours
+
+Monday: Closed  
+Tuesday: Closed  
+Wednesday: 5:00 – 9:00 PM  
+Thursday: 5:00 – 9:00 PM  
+Friday: 5:00 – 10:00 PM  
+Saturday: 5:00 – 10:00 PM  
+Sunday: 5:00 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking
+
+## What Diners Say
+- ★★★★★ &quot;I stumbled upon this restaurant while staying in the area. I'm originally from NY and have a high standard for Italian food. The service was amazing, warm and inviting waitstaff as well as the hostess. It's a very cozy family styled restaurant which makes you feel right at home. The food felt homema...&quot; — **Allison Bauser** (a month ago)
+- ★★ &quot;Ordered pasta for takeout. After I brought the food home, I noticed that the Parmesan that came with my order was moldy. Very obviously too, so it took some negligence for this to end up with my order. And I doubt this is the only moldy cup of Parmesan in the restaurant.
+
+I don’t know if they just d...&quot; — **Ryan** (a month ago)
+- ★★★★★ &quot;Per the recommendation of a friend, I came without reservation to San Tommaso. I waited very little for a table on a clearly very busy night. My server Tomás was incredibly kind, competent, and made suggestions that were perfect for what I was wanting. It was truly a lovely dining experience. Not to...&quot; — **S A** (8 months ago)
+- ★★★★★ &quot;Tommaso’s stands out among some classic North Beach restaurants and has loads of charm, delicious food and wine, and it feels like you arrived home. I was greeted by the staff with a welcoming vibe like, “ah, there you are… we’ve been waiting for you all day.” As you step down into the space you see...&quot; — **Tristan Thomas** (2 months ago)
+- ★★★★★ &quot;My wife amd I had dinner before a show. No big sign out front. A nice little family restaurant with a short flight of stairs behind the front door. The service was very good and friendly. The food was very good. The owner stopped by to visit. Everyone is very nice. A good ambience.&quot; — **Lynn R** (3 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

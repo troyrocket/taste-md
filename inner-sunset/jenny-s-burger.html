@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jenny's Burger — Inner Sunset — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Jenny's Burger in Inner Sunset, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Jenny's Burger",
+  "servesCuisine": [
+    "hamburger restaurant",
+    "american restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1233 9th Ave",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94122",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 753-1453",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "732"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.765290799999995,
+    "longitude": -122.46655870000001
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 4:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 7:30 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Amrutha Joshi"
+      },
+      "reviewBody": "I recently tried a Hawaiian vegetarian burger, and wow,  it was incredibly delicious. The combination of pineapple and teriyaki made it one of the best burgers I’ve had so far. The sweetness of the pi"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Harry"
+      },
+      "reviewBody": "Finished a 5K run in GGP and wanted a burger before heading home and decided to try this place over Super Duper (which is also nearby).\n\nI got the Cheeseburger combo. The cheese came unmelted. They ha"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Ho"
+      },
+      "reviewBody": "2026 update: Good news. Jenny's Burger has green leaf lettuce again. For the past few months, they were serving iceberg lettuce. While OK, I prefer green leaf lettuce. My cheeseburger $10.50 and curry"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Inner Sunset</a></p>
+<h1>Jenny&#39;s Burger</h1>
+<p>Pocket-size local burger joint doling out patties, fries &amp; more to parkgoers &amp; other patrons.</p>
+<h2>Cuisine</h2>
+<p><strong>Hamburger restaurant</strong> — hamburger restaurant, american restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 732 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for kids</p>
+<h2>Location &amp; Contact</h2>
+<p>1233 9th Ave, San Francisco, CA 94122, USA<br>Phone: (415) 753-1453<br><a href="https://maps.google.com/?cid=15534094505895180553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.765290799999995, -122.46655870000001</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 4:00 PM<br>Tuesday: 11:00 AM – 8:00 PM<br>Wednesday: 11:00 AM – 9:00 PM<br>Thursday: 11:00 AM – 9:00 PM<br>Friday: 11:00 AM – 9:00 PM<br>Saturday: 11:00 AM – 9:00 PM<br>Sunday: 11:00 AM – 7:30 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;I recently tried a Hawaiian vegetarian burger, and wow,  it was incredibly delicious. The combination of pineapple and teriyaki made it one of the best burgers I’ve had so far. The sweetness of the pineapple paired perfectly with the sauce, giving it a tropical twist while still keeping that satisfy...&quot; — <strong>Amrutha Joshi</strong> (3 months ago)</li>
+<li>★★★★ &quot;Finished a 5K run in GGP and wanted a burger before heading home and decided to try this place over Super Duper (which is also nearby).</li>
+</ul>
+<p>I got the Cheeseburger combo. The cheese came unmelted. They have a do-it-yourself toppings bar which is a unique experience and allows you to go crazy on toppings...&quot; — <strong>Harry</strong> (5 months ago)</p>
+<ul>
+<li>★★★★★ &quot;2026 update: Good news. Jenny&#39;s Burger has green leaf lettuce again. For the past few months, they were serving iceberg lettuce. While OK, I prefer green leaf lettuce. My cheeseburger $10.50 and curry fries $5.35 were awesome. Love how I can sit facing the window and watch people walk by while eatin...&quot; — <strong>Jeff Ho</strong> (a month ago)</li>
+<li>★★★★★ &quot;Lots of options and a self serve toppings. Got the mushroom burger and the sauteed shrooms were so well seasoned. They had The pickled carrots and jalapenos available as a topping!
+Burger itself is really well done, even the bun held up to all the stuff I threw on it!
+Definitely coming back when I&#39;m...&quot; — <strong>Jaime Old</strong> (3 weeks ago)</li>
+<li>★★★★ &quot;Solid burger joint within walking distance of Golden Gate Park.</li>
+</ul>
+<p>Each burger is made-to-order and affordable (by SF standards). My favorite part was the self-service condiment bar; I got exactly what I wanted on my burger with the perfect amount of sauce-to-toppings ratio. More places should do it t...&quot; — <strong>Matty Easton</strong> (a year ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Inner Sunset](index.html)
+
+# Jenny's Burger
+Pocket-size local burger joint doling out patties, fries &amp; more to parkgoers &amp; other patrons.
+
+## Cuisine
+**Hamburger restaurant** — hamburger restaurant, american restaurant
+
+## Price Range
+$
+
+## Rating
+4.5 stars — 732 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery  
+**Meals:** Lunch · Dinner  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for kids
+
+## Location &amp; Contact
+
+1233 9th Ave, San Francisco, CA 94122, USA  
+Phone: (415) 753-1453  
+[View on Google Maps](https://maps.google.com/?cid=15534094505895180553&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.765290799999995, -122.46655870000001
+
+## Hours
+
+Monday: 11:00 AM – 4:00 PM  
+Tuesday: 11:00 AM – 8:00 PM  
+Wednesday: 11:00 AM – 9:00 PM  
+Thursday: 11:00 AM – 9:00 PM  
+Friday: 11:00 AM – 9:00 PM  
+Saturday: 11:00 AM – 9:00 PM  
+Sunday: 11:00 AM – 7:30 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;I recently tried a Hawaiian vegetarian burger, and wow,  it was incredibly delicious. The combination of pineapple and teriyaki made it one of the best burgers I’ve had so far. The sweetness of the pineapple paired perfectly with the sauce, giving it a tropical twist while still keeping that satisfy...&quot; — **Amrutha Joshi** (3 months ago)
+- ★★★★ &quot;Finished a 5K run in GGP and wanted a burger before heading home and decided to try this place over Super Duper (which is also nearby).
+
+I got the Cheeseburger combo. The cheese came unmelted. They have a do-it-yourself toppings bar which is a unique experience and allows you to go crazy on toppings...&quot; — **Harry** (5 months ago)
+- ★★★★★ &quot;2026 update: Good news. Jenny's Burger has green leaf lettuce again. For the past few months, they were serving iceberg lettuce. While OK, I prefer green leaf lettuce. My cheeseburger $10.50 and curry fries $5.35 were awesome. Love how I can sit facing the window and watch people walk by while eatin...&quot; — **Jeff Ho** (a month ago)
+- ★★★★★ &quot;Lots of options and a self serve toppings. Got the mushroom burger and the sauteed shrooms were so well seasoned. They had The pickled carrots and jalapenos available as a topping!
+Burger itself is really well done, even the bun held up to all the stuff I threw on it!
+Definitely coming back when I'm...&quot; — **Jaime Old** (3 weeks ago)
+- ★★★★ &quot;Solid burger joint within walking distance of Golden Gate Park.
+
+Each burger is made-to-order and affordable (by SF standards). My favorite part was the self-service condiment bar; I got exactly what I wanted on my burger with the perfect amount of sauce-to-toppings ratio. More places should do it t...&quot; — **Matty Easton** (a year ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

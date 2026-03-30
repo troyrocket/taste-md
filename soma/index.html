@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SoMa Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for SoMa, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / SoMa</div>
+<h1>SoMa</h1>
+<p>59 restaurants in SoMa, San Francisco.</p>
+<div class="restaurant">
+  <a href="boochmania.html">Boochmania</a>
+  <div class="meta">4.9★ (259 reviews) — 685 Harrison St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zevi-cafe-bistro.html">Zevi Cafe & Bistro</a>
+  <div class="meta">4.7★ (460 reviews) — 67 5th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pie-punks.html">Pie Punks</a>
+  <div class="meta">4.7★ (643 reviews) — 145 2nd St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-du-soleil.html">Cafe du Soleil</a>
+  <div class="meta">4.7★ (225 reviews) — 345 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mariposas.html">Mariposas</a>
+  <div class="meta">4.6★ (189 reviews) — 825 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-bird.html">The Bird</a>
+  <div class="meta">4.6★ (3031 reviews) — 115 New Montgomery St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wabi-sabi-sf-at-soma.html">Wabi-Sabi SF at Soma</a>
+  <div class="meta">4.6★ (438 reviews) — 246 Ritch St APT 101, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="birdsong.html">Birdsong</a>
+  <div class="meta">4.6★ (460 reviews) — 1085 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hk-lounge-bistro.html">HK Lounge Bistro</a>
+  <div class="meta">4.6★ (315 reviews) — 1136 Folsom St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tycoon-kitchen.html">Tycoon Kitchen</a>
+  <div class="meta">4.6★ (150 reviews) — 47 Minna St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pazzia-ristorante-italiano.html">Pazzia Ristorante Italiano</a>
+  <div class="meta">4.6★ (684 reviews) — 337 3rd St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="moya.html">Moya</a>
+  <div class="meta">4.6★ (362 reviews) — 121 9th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="1601-bar-kitchen.html">1601 Bar & Kitchen</a>
+  <div class="meta">4.6★ (201 reviews) — 1601 Howard St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="montesacro-soma.html">Montesacro SoMa</a>
+  <div class="meta">4.5★ (1619 reviews) — 510 Stevenson St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sisterita.html">Sisterita</a>
+  <div class="meta">4.5★ (687 reviews) — 669 Commercial St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-melt.html">The Melt</a>
+  <div class="meta">4.5★ (4803 reviews) — 925 Market Street, 5th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tempest-bar-box-kitchen.html">Tempest Bar & Box Kitchen</a>
+  <div class="meta">4.5★ (2018 reviews) — 2940 431 Natoma St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="t-lan.html">Tú Lan</a>
+  <div class="meta">4.5★ (1061 reviews) — 8 6th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mkt-restaurant-and-bar.html">MKT Restaurant and Bar</a>
+  <div class="meta">4.5★ (526 reviews) — 757 Market St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="t-n-vietnamese.html">Tín Vietnamese</a>
+  <div class="meta">4.5★ (1090 reviews) — 937 Howard St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.5★ (2761 reviews) — 783 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="superprime-steakhouse.html">Superprime Steakhouse</a>
+  <div class="meta">4.5★ (59 reviews) — 545 Mission St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-grove-restaurant-bar.html">The Grove Restaurant & Bar</a>
+  <div class="meta">4.4★ (4852 reviews) — 690 Mission St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="54-mint-cucina-romana.html">54 Mint Cucina Romana</a>
+  <div class="meta">4.4★ (1455 reviews) — 16 Mint Plaza, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="burma-love.html">Burma Love</a>
+  <div class="meta">4.4★ (853 reviews) — 8 Mint Plaza, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-view-lounge.html">The View Lounge</a>
+  <div class="meta">4.4★ (3159 reviews) — 780 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-cavalier.html">The Cavalier</a>
+  <div class="meta">4.4★ (1044 reviews) — 360 Jessie St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="soma-eats.html">Soma Eats</a>
+  <div class="meta">4.4★ (499 reviews) — 186 2nd St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="basil-canteen.html">BASIL CANTEEN</a>
+  <div class="meta">4.4★ (414 reviews) — 1489 Folsom St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.4★ (6835 reviews) — 721 Market St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-dorado-latin-fusion.html">EL DORADO Latin Fusion</a>
+  <div class="meta">4.4★ (175 reviews) — 701 Folsom St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-soci-t-bar-caf.html">La Société Bar & Café</a>
+  <div class="meta">4.4★ (199 reviews) — 50 3rd St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="per-diem-transit-center.html">Per Diem - Transit Center</a>
+  <div class="meta">4.4★ (62 reviews) — 41 Minna St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-fly-trap.html">The Fly Trap</a>
+  <div class="meta">4.4★ (685 reviews) — 606 Folsom St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-luce-room.html">The Luce Room</a>
+  <div class="meta">4.4★ (328 reviews) — 888 Howard St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oren-s-hummus.html">Oren's Hummus</a>
+  <div class="meta">4.4★ (1891 reviews) — 71 3rd St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="novela.html">Novela</a>
+  <div class="meta">4.4★ (1678 reviews) — 662 Mission St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cable55.html">Cable55</a>
+  <div class="meta">4.4★ (158 reviews) — 55 Cyril Magnin St 2nd Floor, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tropisueno.html">Tropisueno</a>
+  <div class="meta">4.3★ (3827 reviews) — 75 Yerba Buena Ln, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="soma-restaurant-bar.html">Soma Restaurant & Bar</a>
+  <div class="meta">4.3★ (859 reviews) — 85 5th St Suite A, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marlowe.html">Marlowe</a>
+  <div class="meta">4.3★ (1927 reviews) — 500 Brannan St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-harlequin.html">The Harlequin</a>
+  <div class="meta">4.3★ (831 reviews) — 68 4th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mo-z-cafe.html">Mo'z Cafe</a>
+  <div class="meta">4.3★ (1428 reviews) — 36 5th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="villon.html">Villon</a>
+  <div class="meta">4.3★ (437 reviews) — Proper Hotel, 1100 Market St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ippudo-san-francisco.html">IPPUDO San Francisco</a>
+  <div class="meta">4.3★ (2381 reviews) — 18 Yerba Buena Ln, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="joyride-pizza-yerba-buena-gardens.html">Joyride Pizza - Yerba Buena Gardens</a>
+  <div class="meta">4.3★ (1005 reviews) — 730 Howard St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-lark.html">The Lark</a>
+  <div class="meta">4.3★ (679 reviews) — 685 Market St Suite 140 A, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="matador.html">Matador</a>
+  <div class="meta">4.3★ (1427 reviews) — 679 Sutter St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lao-table.html">Lao Table</a>
+  <div class="meta">4.2★ (1406 reviews) — 149 2nd St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="delarosa-downtown.html">Delarosa Downtown</a>
+  <div class="meta">4.2★ (2080 reviews) — 37 Yerba Buena Ln, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dirty-habit.html">Dirty Habit</a>
+  <div class="meta">4.2★ (653 reviews) — 12 4th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-garden-court.html">The Garden Court</a>
+  <div class="meta">4.2★ (432 reviews) — 2 New Montgomery St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shelby-s-rooftop.html">Shelby’s Rooftop</a>
+  <div class="meta">4.1★ (567 reviews) — 250 4th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gyu-kaku-japanese-bbq.html">Gyu-Kaku Japanese BBQ</a>
+  <div class="meta">4.1★ (519 reviews) — 855 Howard St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mel-s-drive-in.html">Mel's Drive-In</a>
+  <div class="meta">4.1★ (5445 reviews) — 801 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="seven-square-restaurant-taproom-lounge.html">Seven Square Restaurant & Taproom Lounge</a>
+  <div class="meta">4.1★ (34 reviews) — 299 2nd St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="amber-india-restaurant.html">Amber India Restaurant</a>
+  <div class="meta">4.1★ (2060 reviews) — 25 Yerba Buena Ln, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rise-over-run.html">Rise Over Run</a>
+  <div class="meta">3.9★ (183 reviews) — 33 Turk St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="soma-food-court.html">SoMa Food Court</a>
+  <div class="meta">3.2★ (55 reviews) — 60 Morris St #23, San Francisco, CA 94107, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# SoMa — San Francisco Restaurants
+
+59 restaurants in SoMa.
+
+- [Boochmania](boochmania.html) — 4.9★ (259 reviews)
+- [Zevi Cafe &amp; Bistro](zevi-cafe-bistro.html) — 4.7★ (460 reviews)
+- [Pie Punks](pie-punks.html) — 4.7★ (643 reviews)
+- [Cafe du Soleil](cafe-du-soleil.html) — 4.7★ (225 reviews)
+- [Mariposas](mariposas.html) — 4.6★ (189 reviews)
+- [The Bird](the-bird.html) — 4.6★ (3031 reviews)
+- [Wabi-Sabi SF at Soma](wabi-sabi-sf-at-soma.html) — 4.6★ (438 reviews)
+- [Birdsong](birdsong.html) — 4.6★ (460 reviews)
+- [HK Lounge Bistro](hk-lounge-bistro.html) — 4.6★ (315 reviews)
+- [Tycoon Kitchen](tycoon-kitchen.html) — 4.6★ (150 reviews)
+- [Pazzia Ristorante Italiano](pazzia-ristorante-italiano.html) — 4.6★ (684 reviews)
+- [Moya](moya.html) — 4.6★ (362 reviews)
+- [1601 Bar &amp; Kitchen](1601-bar-kitchen.html) — 4.6★ (201 reviews)
+- [Montesacro SoMa](montesacro-soma.html) — 4.5★ (1619 reviews)
+- [Sisterita](sisterita.html) — 4.5★ (687 reviews)
+- [The Melt](the-melt.html) — 4.5★ (4803 reviews)
+- [Tempest Bar &amp; Box Kitchen](tempest-bar-box-kitchen.html) — 4.5★ (2018 reviews)
+- [Tú Lan](t-lan.html) — 4.5★ (1061 reviews)
+- [MKT Restaurant and Bar](mkt-restaurant-and-bar.html) — 4.5★ (526 reviews)
+- [Tín Vietnamese](t-n-vietnamese.html) — 4.5★ (1090 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.5★ (2761 reviews)
+- [Superprime Steakhouse](superprime-steakhouse.html) — 4.5★ (59 reviews)
+- [The Grove Restaurant &amp; Bar](the-grove-restaurant-bar.html) — 4.4★ (4852 reviews)
+- [54 Mint Cucina Romana](54-mint-cucina-romana.html) — 4.4★ (1455 reviews)
+- [Burma Love](burma-love.html) — 4.4★ (853 reviews)
+- [The View Lounge](the-view-lounge.html) — 4.4★ (3159 reviews)
+- [The Cavalier](the-cavalier.html) — 4.4★ (1044 reviews)
+- [Soma Eats](soma-eats.html) — 4.4★ (499 reviews)
+- [BASIL CANTEEN](basil-canteen.html) — 4.4★ (414 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.4★ (6835 reviews)
+- [EL DORADO Latin Fusion](el-dorado-latin-fusion.html) — 4.4★ (175 reviews)
+- [La Société Bar &amp; Café](la-soci-t-bar-caf.html) — 4.4★ (199 reviews)
+- [Per Diem - Transit Center](per-diem-transit-center.html) — 4.4★ (62 reviews)
+- [The Fly Trap](the-fly-trap.html) — 4.4★ (685 reviews)
+- [The Luce Room](the-luce-room.html) — 4.4★ (328 reviews)
+- [Oren's Hummus](oren-s-hummus.html) — 4.4★ (1891 reviews)
+- [Novela](novela.html) — 4.4★ (1678 reviews)
+- [Cable55](cable55.html) — 4.4★ (158 reviews)
+- [Tropisueno](tropisueno.html) — 4.3★ (3827 reviews)
+- [Soma Restaurant &amp; Bar](soma-restaurant-bar.html) — 4.3★ (859 reviews)
+- [Marlowe](marlowe.html) — 4.3★ (1927 reviews)
+- [The Harlequin](the-harlequin.html) — 4.3★ (831 reviews)
+- [Mo'z Cafe](mo-z-cafe.html) — 4.3★ (1428 reviews)
+- [Villon](villon.html) — 4.3★ (437 reviews)
+- [IPPUDO San Francisco](ippudo-san-francisco.html) — 4.3★ (2381 reviews)
+- [Joyride Pizza - Yerba Buena Gardens](joyride-pizza-yerba-buena-gardens.html) — 4.3★ (1005 reviews)
+- [The Lark](the-lark.html) — 4.3★ (679 reviews)
+- [Matador](matador.html) — 4.3★ (1427 reviews)
+- [Lao Table](lao-table.html) — 4.2★ (1406 reviews)
+- [Delarosa Downtown](delarosa-downtown.html) — 4.2★ (2080 reviews)
+- [Dirty Habit](dirty-habit.html) — 4.2★ (653 reviews)
+- [The Garden Court](the-garden-court.html) — 4.2★ (432 reviews)
+- [Shelby’s Rooftop](shelby-s-rooftop.html) — 4.1★ (567 reviews)
+- [Gyu-Kaku Japanese BBQ](gyu-kaku-japanese-bbq.html) — 4.1★ (519 reviews)
+- [Mel's Drive-In](mel-s-drive-in.html) — 4.1★ (5445 reviews)
+- [Seven Square Restaurant &amp; Taproom Lounge](seven-square-restaurant-taproom-lounge.html) — 4.1★ (34 reviews)
+- [Amber India Restaurant](amber-india-restaurant.html) — 4.1★ (2060 reviews)
+- [Rise Over Run](rise-over-run.html) — 3.9★ (183 reviews)
+- [SoMa Food Court](soma-food-court.html) — 3.2★ (55 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

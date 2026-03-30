@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nari — Japantown — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Nari in Japantown, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Nari",
+  "servesCuisine": [
+    "thai restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1625 Post St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94115",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 868-6274",
+  "url": "http://www.narisf.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "555"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7854185,
+    "longitude": -122.42878879999999
+  },
+  "openingHours": [
+    "Monday: 5:30 – 9:00 PM",
+    "Tuesday: 5:30 – 9:00 PM",
+    "Wednesday: 5:30 – 9:00 PM",
+    "Thursday: 5:30 – 9:00 PM",
+    "Friday: 5:30 – 9:15 PM",
+    "Saturday: 5:30 – 9:15 PM",
+    "Sunday: 5:30 – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Steph Kwan"
+      },
+      "reviewBody": "Overall the food and service was amazing. The decor was also nice. We chose the tasting menu so we can try more dishes. The stand out items were the duck curry puff, pork jowel, and ox tail curry. The"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "1"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Joshua Michael"
+      },
+      "reviewBody": "Nari has a very nice ambiance, but unfortunately everything beyond that was a disappointment. While the space itself is polished and inviting, the overall dining experience fell far short of expectati"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "henry l"
+      },
+      "reviewBody": "I finally tried this Thai place after walking past it for ages, and I'm so glad I did! The food had an amazing, strong spicy flavor that really hit the spot. The service was also excellent, and the st"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Japantown</a></p>
+<h1>Nari</h1>
+<p>Sophisticated venue for contemporary Thai-Californian cuisine &amp; inventive cocktails.</p>
+<h2>Cuisine</h2>
+<p><strong>Thai restaurant</strong> — thai restaurant</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.2 stars — 555 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Reservations accepted<br><strong>Meals:</strong> Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1625 Post St, San Francisco, CA 94115, USA<br>Phone: (415) 868-6274<br>Website: <a href="http://www.narisf.com/">http://www.narisf.com/</a><br><a href="https://maps.google.com/?cid=17431474946500495682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7854185, -122.42878879999999</p>
+<h2>Hours</h2>
+<p>Monday: 5:30 – 9:00 PM<br>Tuesday: 5:30 – 9:00 PM<br>Wednesday: 5:30 – 9:00 PM<br>Thursday: 5:30 – 9:00 PM<br>Friday: 5:30 – 9:15 PM<br>Saturday: 5:30 – 9:15 PM<br>Sunday: 5:30 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking · Paid garage parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;Overall the food and service was amazing. The decor was also nice. We chose the tasting menu so we can try more dishes. The stand out items were the duck curry puff, pork jowel, and ox tail curry. These were top notch. The other items we had were executed well, but not quite at a higher level. Our o...&quot; — <strong>Steph Kwan</strong> (a month ago)</li>
+<li>★ &quot;Nari has a very nice ambiance, but unfortunately everything beyond that was a disappointment. While the space itself is polished and inviting, the overall dining experience fell far short of expectations.</li>
+</ul>
+<p>Service was a major issue. Our server came across as rushed, unwelcoming, and disengaged. At f...&quot; — <strong>Joshua Michael</strong> (2 months ago)</p>
+<ul>
+<li>★★★★ &quot;I finally tried this Thai place after walking past it for ages, and I&#39;m so glad I did! The food had an amazing, strong spicy flavor that really hit the spot. The service was also excellent, and the staff were very friendly and attentive. It&#39;s a nice spot to enjoy a delicious meal, especially since t...&quot; — <strong>henry l</strong> (5 months ago)</li>
+<li>★★★★★ &quot;I had dinner at Nari, and it was an incredible experience from start to finish. The restaurant has a beautiful, modern atmosphere that still feels warm and welcoming. Service was attentive, knowledgeable, and thoughtful throughout the evening.
+The food was the real highlight—each dish was layered wi...&quot; — <strong>Andy Correa</strong> (6 months ago)</li>
+<li>★★ &quot;Context:
+I took a date here for Valentines day on Feb 15th 2026. The restaurant atmospher was beautiful, but food was poor, especially for the price and status.</li>
+</ul>
+<p>Food:
+Overall everything was incredibly salty. We had the squid and pork jowl, namtok nuea and crab curry with garlic noodles. The pork an...&quot; — <strong>Ethan Lee</strong> (a month ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Japantown](index.html)
+
+# Nari
+Sophisticated venue for contemporary Thai-Californian cuisine &amp; inventive cocktails.
+
+## Cuisine
+**Thai restaurant** — thai restaurant
+
+## Price Range
+Unknown
+
+## Rating
+4.2 stars — 555 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Reservations accepted  
+**Meals:** Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Restroom available
+
+## Location &amp; Contact
+
+1625 Post St, San Francisco, CA 94115, USA  
+Phone: (415) 868-6274  
+Website: [http://www.narisf.com/](http://www.narisf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=17431474946500495682&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7854185, -122.42878879999999
+
+## Hours
+
+Monday: 5:30 – 9:00 PM  
+Tuesday: 5:30 – 9:00 PM  
+Wednesday: 5:30 – 9:00 PM  
+Thursday: 5:30 – 9:00 PM  
+Friday: 5:30 – 9:15 PM  
+Saturday: 5:30 – 9:15 PM  
+Sunday: 5:30 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking · Paid garage parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
+
+## What Diners Say
+- ★★★★ &quot;Overall the food and service was amazing. The decor was also nice. We chose the tasting menu so we can try more dishes. The stand out items were the duck curry puff, pork jowel, and ox tail curry. These were top notch. The other items we had were executed well, but not quite at a higher level. Our o...&quot; — **Steph Kwan** (a month ago)
+- ★ &quot;Nari has a very nice ambiance, but unfortunately everything beyond that was a disappointment. While the space itself is polished and inviting, the overall dining experience fell far short of expectations.
+
+Service was a major issue. Our server came across as rushed, unwelcoming, and disengaged. At f...&quot; — **Joshua Michael** (2 months ago)
+- ★★★★ &quot;I finally tried this Thai place after walking past it for ages, and I'm so glad I did! The food had an amazing, strong spicy flavor that really hit the spot. The service was also excellent, and the staff were very friendly and attentive. It's a nice spot to enjoy a delicious meal, especially since t...&quot; — **henry l** (5 months ago)
+- ★★★★★ &quot;I had dinner at Nari, and it was an incredible experience from start to finish. The restaurant has a beautiful, modern atmosphere that still feels warm and welcoming. Service was attentive, knowledgeable, and thoughtful throughout the evening.
+The food was the real highlight—each dish was layered wi...&quot; — **Andy Correa** (6 months ago)
+- ★★ &quot;Context:
+I took a date here for Valentines day on Feb 15th 2026. The restaurant atmospher was beautiful, but food was poor, especially for the price and status.
+
+Food:
+Overall everything was incredibly salty. We had the squid and pork jowl, namtok nuea and crab curry with garlic noodles. The pork an...&quot; — **Ethan Lee** (a month ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

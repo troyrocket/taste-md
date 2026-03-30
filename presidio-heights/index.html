@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Presidio Heights Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Presidio Heights, San Francisco. 21 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Presidio Heights</div>
+<h1>Presidio Heights</h1>
+<p>21 restaurants in Presidio Heights, San Francisco.</p>
+<div class="restaurant">
+  <a href="presidio-golf-course-clubhouse-terrace.html">Presidio Golf Course Clubhouse & Terrace</a>
+  <div class="meta">5★ (16 reviews) — 300 Finley Rd, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barista-coffee-brunch.html">Barista Coffee & Brunch</a>
+  <div class="meta">4.8★ (391 reviews) — 3313 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-rx.html">Cafe RX</a>
+  <div class="meta">4.7★ (218 reviews) — Thoreau Center in, 1013 Torney Ave, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="picnix-bistro-carry-out.html">Picnix Bistro & Carry Out</a>
+  <div class="meta">4.7★ (93 reviews) — 3872 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sociale.html">Sociale</a>
+  <div class="meta">4.6★ (315 reviews) — 3665 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.5★ (386 reviews) — 3401 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-europa.html">Cafe Europa</a>
+  <div class="meta">4.5★ (495 reviews) — 4318 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="presidio-golf-course.html">Presidio Golf Course</a>
+  <div class="meta">4.5★ (894 reviews) — 300 Finley Rd, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="magic-flute-restaurant.html">Magic Flute Restaurant</a>
+  <div class="meta">4.4★ (324 reviews) — 3673 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="colibri-mexican-bistro.html">Colibri Mexican Bistro</a>
+  <div class="meta">4.4★ (757 reviews) — 50 Moraga Ave, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ashley-s-cafe.html">Ashley's Cafe</a>
+  <div class="meta">4.4★ (384 reviews) — 4454 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="garibaldis-restaurant.html">Garibaldis Restaurant</a>
+  <div class="meta">4.3★ (241 reviews) — 347 Presidio Ave, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="presidio-pizza-company.html">Presidio Pizza Company</a>
+  <div class="meta">4.3★ (394 reviews) — 1862 Divisadero St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-city-taqueria.html">The City Taqueria</a>
+  <div class="meta">4.3★ (453 reviews) — 1836 Divisadero St Ste B, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzeria-avellino.html">Pizzeria Avellino</a>
+  <div class="meta">4.3★ (470 reviews) — 2769 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ironwoods.html">Ironwoods</a>
+  <div class="meta">4.2★ (119 reviews) — 300 Finley Rd, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="as-quoted.html">As Quoted</a>
+  <div class="meta">4.2★ (362 reviews) — 3613 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="proposition-chicken.html">Proposition Chicken</a>
+  <div class="meta">4.2★ (929 reviews) — 3465 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eliza-s.html">Eliza's</a>
+  <div class="meta">4.2★ (257 reviews) — 2877 California St #2879, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wise-sons-jcc-sf.html">Wise Sons JCC SF</a>
+  <div class="meta">3.7★ (32 reviews) — 3200 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-parco.html">Il Parco</a>
+  <div class="meta">3.4★ (251 reviews) — 215 Lincoln Blvd, San Francisco, CA 94129, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Presidio Heights — San Francisco Restaurants
+
+21 restaurants in Presidio Heights.
+
+- [Presidio Golf Course Clubhouse &amp; Terrace](presidio-golf-course-clubhouse-terrace.html) — 5★ (16 reviews)
+- [Barista Coffee &amp; Brunch](barista-coffee-brunch.html) — 4.8★ (391 reviews)
+- [Cafe RX](cafe-rx.html) — 4.7★ (218 reviews)
+- [Picnix Bistro &amp; Carry Out](picnix-bistro-carry-out.html) — 4.7★ (93 reviews)
+- [Sociale](sociale.html) — 4.6★ (315 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.5★ (386 reviews)
+- [Cafe Europa](cafe-europa.html) — 4.5★ (495 reviews)
+- [Presidio Golf Course](presidio-golf-course.html) — 4.5★ (894 reviews)
+- [Magic Flute Restaurant](magic-flute-restaurant.html) — 4.4★ (324 reviews)
+- [Colibri Mexican Bistro](colibri-mexican-bistro.html) — 4.4★ (757 reviews)
+- [Ashley's Cafe](ashley-s-cafe.html) — 4.4★ (384 reviews)
+- [Garibaldis Restaurant](garibaldis-restaurant.html) — 4.3★ (241 reviews)
+- [Presidio Pizza Company](presidio-pizza-company.html) — 4.3★ (394 reviews)
+- [The City Taqueria](the-city-taqueria.html) — 4.3★ (453 reviews)
+- [Pizzeria Avellino](pizzeria-avellino.html) — 4.3★ (470 reviews)
+- [Ironwoods](ironwoods.html) — 4.2★ (119 reviews)
+- [As Quoted](as-quoted.html) — 4.2★ (362 reviews)
+- [Proposition Chicken](proposition-chicken.html) — 4.2★ (929 reviews)
+- [Eliza's](eliza-s.html) — 4.2★ (257 reviews)
+- [Wise Sons JCC SF](wise-sons-jcc-sf.html) — 3.7★ (32 reviews)
+- [Il Parco](il-parco.html) — 3.4★ (251 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

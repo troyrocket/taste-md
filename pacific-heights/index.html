@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pacific Heights Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Pacific Heights, San Francisco. 50 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Pacific Heights</div>
+<h1>Pacific Heights</h1>
+<p>50 restaurants in Pacific Heights, San Francisco.</p>
+<div class="restaurant">
+  <a href="kolaj.html">Kolaj</a>
+  <div class="meta">5★ (171 reviews) — 1977 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="maria-isabel.html">Maria Isabel</a>
+  <div class="meta">5★ (56 reviews) — 500 Presidio Ave, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="anomaly-sf.html">Anomaly SF</a>
+  <div class="meta">4.8★ (200 reviews) — 2600 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rise-set.html">Rise & Set</a>
+  <div class="meta">4.7★ (103 reviews) — 1247 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chemin.html">Cheminé</a>
+  <div class="meta">4.7★ (145 reviews) — 3030 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pinsa-rossa-san-francisco.html">Pinsa Rossa San Francisco</a>
+  <div class="meta">4.7★ (365 reviews) — 2101 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="presidio-kebab-mediterranean-restaurant.html">Presidio Kebab Mediterranean Restaurant</a>
+  <div class="meta">4.7★ (633 reviews) — 3277 Sacramento St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="house-of-prime-rib.html">House of Prime Rib</a>
+  <div class="meta">4.7★ (7172 reviews) — 1906 Van Ness Ave, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sweet-maple.html">Sweet Maple</a>
+  <div class="meta">4.6★ (4475 reviews) — 2101 Sutter St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="routier.html">Routier</a>
+  <div class="meta">4.6★ (304 reviews) — 2801 California St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-progress.html">The Progress</a>
+  <div class="meta">4.6★ (1275 reviews) — 1525 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fermentation-lab-japantown.html">Fermentation Lab Japantown</a>
+  <div class="meta">4.6★ (160 reviews) — 1700A Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="matterhorn-restaurant-and-bakery.html">Matterhorn Restaurant and Bakery</a>
+  <div class="meta">4.6★ (429 reviews) — 2323 Van Ness Ave, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="opa-cafe.html">Opa Cafe</a>
+  <div class="meta">4.6★ (327 reviews) — 2401 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spruce.html">Spruce</a>
+  <div class="meta">4.6★ (1734 reviews) — 3640 Sacramento St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-mediterranee.html">La Mediterranee</a>
+  <div class="meta">4.5★ (965 reviews) — 2210 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="via-veneto.html">Via Veneto</a>
+  <div class="meta">4.5★ (226 reviews) — 2244 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="scopo-divino.html">Scopo Divino</a>
+  <div class="meta">4.5★ (336 reviews) — 2800 California St #101, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marufuku-ramen.html">Marufuku Ramen</a>
+  <div class="meta">4.5★ (2967 reviews) — 1581 Webster St #235, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="state-bird-provisions.html">State Bird Provisions</a>
+  <div class="meta">4.5★ (2407 reviews) — 1529 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-social-study.html">The Social Study</a>
+  <div class="meta">4.5★ (635 reviews) — 1795 Geary Blvd, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sorrel.html">Sorrel</a>
+  <div class="meta">4.5★ (512 reviews) — 3228 Sacramento St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="troya-restaurant.html">Troya Restaurant</a>
+  <div class="meta">4.4★ (634 reviews) — 2125 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="woodhouse-fish-co.html">Woodhouse Fish Co.</a>
+  <div class="meta">4.4★ (1454 reviews) — 1914 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-story-fillmore.html">Dumpling Story - Fillmore</a>
+  <div class="meta">4.4★ (366 reviews) — 2114 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzeria-delfina.html">Pizzeria Delfina</a>
+  <div class="meta">4.4★ (929 reviews) — 2406 California St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="florio-bar-cafe.html">Florio Bar & Cafe</a>
+  <div class="meta">4.4★ (236 reviews) — 1915 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-boulangerie-de-san-francisco.html">La Boulangerie de San Francisco</a>
+  <div class="meta">4.4★ (468 reviews) — 2325 Pine St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roam-artisan-burgers.html">Roam Artisan Burgers</a>
+  <div class="meta">4.4★ (1835 reviews) — 1923 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dynasty-dumpling.html">Dynasty Dumpling</a>
+  <div class="meta">4.4★ (204 reviews) — 2786 California St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-tailor-s-son.html">The Tailor's Son</a>
+  <div class="meta">4.3★ (444 reviews) — 2049 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="palmer-s-tavern.html">Palmer's Tavern</a>
+  <div class="meta">4.3★ (510 reviews) — 2298 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spqr.html">SPQR</a>
+  <div class="meta">4.3★ (784 reviews) — 1911 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blue-fog-market.html">Blue Fog Market</a>
+  <div class="meta">4.3★ (271 reviews) — 2567 Gough St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mattina-restaurant.html">MATTINA Restaurant</a>
+  <div class="meta">4.3★ (161 reviews) — 2232 Bush St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="copra.html">Copra</a>
+  <div class="meta">4.3★ (1018 reviews) — 1700 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacko.html">Tacko</a>
+  <div class="meta">4.3★ (1162 reviews) — 3115 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="my-father-s-kitchen.html">My Father's Kitchen</a>
+  <div class="meta">4.3★ (251 reviews) — 1655 Divisadero St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-post-room.html">The Post Room</a>
+  <div class="meta">4.3★ (94 reviews) — 450 Powell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-shucker.html">little shucker</a>
+  <div class="meta">4.2★ (258 reviews) — 2016 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jane-on-fillmore.html">Jane on Fillmore</a>
+  <div class="meta">4.2★ (1011 reviews) — 2123 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jackson-fillmore-trattoria.html">Jackson Fillmore Trattoria</a>
+  <div class="meta">4.2★ (321 reviews) — 2506 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="harry-s-bar-sf.html">Harry's Bar SF</a>
+  <div class="meta">4.2★ (651 reviews) — 2020 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sweet-lime-thai-cuisine.html">Sweet Lime Thai Cuisine</a>
+  <div class="meta">4.2★ (344 reviews) — 2100 Sutter St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tratto.html">Tratto</a>
+  <div class="meta">4.2★ (924 reviews) — 501 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taco-primo.html">Taco Primo</a>
+  <div class="meta">4.2★ (102 reviews) — 2301 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chouquet-s.html">Chouquet's</a>
+  <div class="meta">4.1★ (704 reviews) — 2500 Washington St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacobar.html">TacoBar</a>
+  <div class="meta">4.1★ (369 reviews) — 2401 California St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bun-mee.html">Bun Mee</a>
+  <div class="meta">4.1★ (401 reviews) — 2015 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bubu.html">BUBU</a>
+  <div class="meta">3.9★ (102 reviews) — 1800 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Pacific Heights — San Francisco Restaurants
+
+50 restaurants in Pacific Heights.
+
+- [Kolaj](kolaj.html) — 5★ (171 reviews)
+- [Maria Isabel](maria-isabel.html) — 5★ (56 reviews)
+- [Anomaly SF](anomaly-sf.html) — 4.8★ (200 reviews)
+- [Rise &amp; Set](rise-set.html) — 4.7★ (103 reviews)
+- [Cheminé](chemin.html) — 4.7★ (145 reviews)
+- [Pinsa Rossa San Francisco](pinsa-rossa-san-francisco.html) — 4.7★ (365 reviews)
+- [Presidio Kebab Mediterranean Restaurant](presidio-kebab-mediterranean-restaurant.html) — 4.7★ (633 reviews)
+- [House of Prime Rib](house-of-prime-rib.html) — 4.7★ (7172 reviews)
+- [Sweet Maple](sweet-maple.html) — 4.6★ (4475 reviews)
+- [Routier](routier.html) — 4.6★ (304 reviews)
+- [The Progress](the-progress.html) — 4.6★ (1275 reviews)
+- [Fermentation Lab Japantown](fermentation-lab-japantown.html) — 4.6★ (160 reviews)
+- [Matterhorn Restaurant and Bakery](matterhorn-restaurant-and-bakery.html) — 4.6★ (429 reviews)
+- [Opa Cafe](opa-cafe.html) — 4.6★ (327 reviews)
+- [Spruce](spruce.html) — 4.6★ (1734 reviews)
+- [La Mediterranee](la-mediterranee.html) — 4.5★ (965 reviews)
+- [Via Veneto](via-veneto.html) — 4.5★ (226 reviews)
+- [Scopo Divino](scopo-divino.html) — 4.5★ (336 reviews)
+- [Marufuku Ramen](marufuku-ramen.html) — 4.5★ (2967 reviews)
+- [State Bird Provisions](state-bird-provisions.html) — 4.5★ (2407 reviews)
+- [The Social Study](the-social-study.html) — 4.5★ (635 reviews)
+- [Sorrel](sorrel.html) — 4.5★ (512 reviews)
+- [Troya Restaurant](troya-restaurant.html) — 4.4★ (634 reviews)
+- [Woodhouse Fish Co.](woodhouse-fish-co.html) — 4.4★ (1454 reviews)
+- [Dumpling Story - Fillmore](dumpling-story-fillmore.html) — 4.4★ (366 reviews)
+- [Pizzeria Delfina](pizzeria-delfina.html) — 4.4★ (929 reviews)
+- [Florio Bar &amp; Cafe](florio-bar-cafe.html) — 4.4★ (236 reviews)
+- [La Boulangerie de San Francisco](la-boulangerie-de-san-francisco.html) — 4.4★ (468 reviews)
+- [Roam Artisan Burgers](roam-artisan-burgers.html) — 4.4★ (1835 reviews)
+- [Dynasty Dumpling](dynasty-dumpling.html) — 4.4★ (204 reviews)
+- [The Tailor's Son](the-tailor-s-son.html) — 4.3★ (444 reviews)
+- [Palmer's Tavern](palmer-s-tavern.html) — 4.3★ (510 reviews)
+- [SPQR](spqr.html) — 4.3★ (784 reviews)
+- [Blue Fog Market](blue-fog-market.html) — 4.3★ (271 reviews)
+- [MATTINA Restaurant](mattina-restaurant.html) — 4.3★ (161 reviews)
+- [Copra](copra.html) — 4.3★ (1018 reviews)
+- [Tacko](tacko.html) — 4.3★ (1162 reviews)
+- [My Father's Kitchen](my-father-s-kitchen.html) — 4.3★ (251 reviews)
+- [The Post Room](the-post-room.html) — 4.3★ (94 reviews)
+- [little shucker](little-shucker.html) — 4.2★ (258 reviews)
+- [Jane on Fillmore](jane-on-fillmore.html) — 4.2★ (1011 reviews)
+- [Jackson Fillmore Trattoria](jackson-fillmore-trattoria.html) — 4.2★ (321 reviews)
+- [Harry's Bar SF](harry-s-bar-sf.html) — 4.2★ (651 reviews)
+- [Sweet Lime Thai Cuisine](sweet-lime-thai-cuisine.html) — 4.2★ (344 reviews)
+- [Tratto](tratto.html) — 4.2★ (924 reviews)
+- [Taco Primo](taco-primo.html) — 4.2★ (102 reviews)
+- [Chouquet's](chouquet-s.html) — 4.1★ (704 reviews)
+- [TacoBar](tacobar.html) — 4.1★ (369 reviews)
+- [Bun Mee](bun-mee.html) — 4.1★ (401 reviews)
+- [BUBU](bubu.html) — 3.9★ (102 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

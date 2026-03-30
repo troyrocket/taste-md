@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cow Hollow Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Cow Hollow, San Francisco. 16 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Cow Hollow</div>
+<h1>Cow Hollow</h1>
+<p>16 restaurants in Cow Hollow, San Francisco.</p>
+<div class="restaurant">
+  <a href="la-fromagerie-cheese-shop.html">La Fromagerie Cheese Shop</a>
+  <div class="meta">5★ (138 reviews) — 2260 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dork-eat-s.html">Dork Eat's</a>
+  <div class="meta">4.7★ (28 reviews) — 1540a Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-italian-homemade-company.html">The Italian Homemade Company</a>
+  <div class="meta">4.6★ (1721 reviews) — 1919 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wildseed.html">Wildseed</a>
+  <div class="meta">4.6★ (1473 reviews) — 2000 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roaming-goat.html">Roaming Goat</a>
+  <div class="meta">4.6★ (180 reviews) — 1830 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-blue-light.html">The Blue Light</a>
+  <div class="meta">4.6★ (905 reviews) — 1979 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="howells.html">Howells</a>
+  <div class="meta">4.6★ (97 reviews) — 2373 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="atelier-crenn.html">Atelier Crenn</a>
+  <div class="meta">4.6★ (757 reviews) — 3127 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-union.html">Dumpling Union</a>
+  <div class="meta">4.5★ (322 reviews) — 1809 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marina-submarine.html">Marina Submarine</a>
+  <div class="meta">4.5★ (283 reviews) — 2299 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="left-door.html">Left Door</a>
+  <div class="meta">4.4★ (145 reviews) — 1905 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cultivar-san-francisco.html">Cultivar San Francisco</a>
+  <div class="meta">4.4★ (224 reviews) — 2379 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roam-artisan-burgers.html">Roam Artisan Burgers</a>
+  <div class="meta">4.4★ (1406 reviews) — 1785 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bottles-bites.html">Bottles & bites</a>
+  <div class="meta">4.3★ (45 reviews) — 1799 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-mensch.html">Super Mensch</a>
+  <div class="meta">4.3★ (68 reviews) — 2336 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rooster-rice.html">Rooster & Rice</a>
+  <div class="meta">4.2★ (226 reviews) — 2211 Filbert St, San Francisco, CA 94123, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Cow Hollow — San Francisco Restaurants
+
+16 restaurants in Cow Hollow.
+
+- [La Fromagerie Cheese Shop](la-fromagerie-cheese-shop.html) — 5★ (138 reviews)
+- [Dork Eat's](dork-eat-s.html) — 4.7★ (28 reviews)
+- [The Italian Homemade Company](the-italian-homemade-company.html) — 4.6★ (1721 reviews)
+- [Wildseed](wildseed.html) — 4.6★ (1473 reviews)
+- [Roaming Goat](roaming-goat.html) — 4.6★ (180 reviews)
+- [The Blue Light](the-blue-light.html) — 4.6★ (905 reviews)
+- [Howells](howells.html) — 4.6★ (97 reviews)
+- [Atelier Crenn](atelier-crenn.html) — 4.6★ (757 reviews)
+- [Dumpling Union](dumpling-union.html) — 4.5★ (322 reviews)
+- [Marina Submarine](marina-submarine.html) — 4.5★ (283 reviews)
+- [Left Door](left-door.html) — 4.4★ (145 reviews)
+- [Cultivar San Francisco](cultivar-san-francisco.html) — 4.4★ (224 reviews)
+- [Roam Artisan Burgers](roam-artisan-burgers.html) — 4.4★ (1406 reviews)
+- [Bottles &amp; bites](bottles-bites.html) — 4.3★ (45 reviews)
+- [Super Mensch](super-mensch.html) — 4.3★ (68 reviews)
+- [Rooster &amp; Rice](rooster-rice.html) — 4.2★ (226 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

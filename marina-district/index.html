@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marina District Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Marina District, San Francisco. 60 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Marina District</div>
+<h1>Marina District</h1>
+<p>60 restaurants in Marina District, San Francisco.</p>
+<div class="restaurant">
+  <a href="milos-meze.html">Milos Meze</a>
+  <div class="meta">4.9★ (358 reviews) — 3348 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="indigo.html">Indigo</a>
+  <div class="meta">4.9★ (256 reviews) — 3321 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marina-indian-cuisine.html">Marina Indian Cuisine</a>
+  <div class="meta">4.7★ (399 reviews) — 1968 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-patio.html">The Patio</a>
+  <div class="meta">4.7★ (261 reviews) — 3232 Scott St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nippon-curry-san-francisco.html">Nippon Curry San Francisco</a>
+  <div class="meta">4.7★ (438 reviews) — 3347 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="c-te-ouest-bistro.html">Côte Ouest Bistro</a>
+  <div class="meta">4.7★ (500 reviews) — 2953 Baker St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cracked-battered-marina.html">Cracked & Battered - Marina</a>
+  <div class="meta">4.6★ (528 reviews) — 2240 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-brazen-head.html">The Brazen Head</a>
+  <div class="meta">4.6★ (830 reviews) — 3166 Buchanan St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="baan-yaai.html">Baan Yaai</a>
+  <div class="meta">4.6★ (275 reviews) — 2274 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tiya.html">Tiya</a>
+  <div class="meta">4.6★ (444 reviews) — 3213 Scott St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="terzo.html">Terzo</a>
+  <div class="meta">4.6★ (361 reviews) — 3011 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="phat-thai.html">Phat Thai</a>
+  <div class="meta">4.6★ (317 reviews) — 2380 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="camino-alto.html">Camino Alto</a>
+  <div class="meta">4.6★ (423 reviews) — 1715 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="twisted-st-cafe.html">Twisted St. Cafe</a>
+  <div class="meta">4.6★ (527 reviews) — 2320 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="scoma-s-restaurant.html">Scoma's Restaurant</a>
+  <div class="meta">4.6★ (6837 reviews) — 1965 Al Scoma Way, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ly-s-vietnamese-cuisine.html">Ly's Vietnamese Cuisine</a>
+  <div class="meta">4.6★ (517 reviews) — 1779 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roma-antica.html">Roma Antica</a>
+  <div class="meta">4.5★ (1694 reviews) — 3242 Scott St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="popi-s-oysterette.html">Popi's Oysterette</a>
+  <div class="meta">4.5★ (269 reviews) — 2095 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pacific-catch.html">Pacific Catch</a>
+  <div class="meta">4.5★ (1096 reviews) — 2027 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="souvla.html">Souvla</a>
+  <div class="meta">4.5★ (480 reviews) — 2272 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lobalita.html">Lobalita</a>
+  <div class="meta">4.5★ (8 reviews) — 2231 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.5★ (2833 reviews) — 2201 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lucca-delicatessen.html">Lucca Delicatessen</a>
+  <div class="meta">4.5★ (459 reviews) — 2120 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="napizza.html">'Napizza</a>
+  <div class="meta">4.5★ (634 reviews) — 3258 Scott St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="las-mestizas.html">Las Mestizas</a>
+  <div class="meta">4.5★ (171 reviews) — 2280 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mamanoko.html">Mamanoko</a>
+  <div class="meta">4.5★ (481 reviews) — 2317 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="world-wrapps.html">World Wrapps</a>
+  <div class="meta">4.5★ (355 reviews) — 2105 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="palmetto-superfoods-marina.html">Palmetto Superfoods - Marina</a>
+  <div class="meta">4.5★ (195 reviews) — 2150 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dalida-restaurant.html">Dalida Restaurant</a>
+  <div class="meta">4.5★ (699 reviews) — 101 Montgomery St Suite 100, San Francisco, CA 94129, USA</div>
+</div>
+<div class="restaurant">
+  <a href="delarosa-marina.html">Delarosa Marina</a>
+  <div class="meta">4.4★ (1551 reviews) — 2175 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blackwood.html">Blackwood</a>
+  <div class="meta">4.4★ (1420 reviews) — 2150 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="turtle-tower-marina.html">Turtle Tower - Marina</a>
+  <div class="meta">4.4★ (37 reviews) — 3145 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bonita-taqueria-y-rotisserie.html">Bonita Taqueria y Rotisserie</a>
+  <div class="meta">4.4★ (633 reviews) — 2257 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="greens-restaurant.html">Greens Restaurant</a>
+  <div class="meta">4.4★ (1974 reviews) — Building A, 2 Marina Blvd, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rose-s-cafe.html">Rose's Cafe</a>
+  <div class="meta">4.4★ (990 reviews) — 2298 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="casaro-osteria.html">Casaro Osteria</a>
+  <div class="meta">4.4★ (264 reviews) — 2136 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="radhaus.html">Radhaus</a>
+  <div class="meta">4.4★ (1584 reviews) — 2 Marina Blvd BUILDING A, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bun-mee.html">Bun Mee</a>
+  <div class="meta">4.4★ (42 reviews) — 3330 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-original-joe-s.html">Little Original Joe's</a>
+  <div class="meta">4.3★ (379 reviews) — 2301 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="causwells.html">Causwells</a>
+  <div class="meta">4.3★ (937 reviews) — 2346 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="home-plate.html">Home Plate</a>
+  <div class="meta">4.3★ (1402 reviews) — 2150 Lombard St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="perry-s-on-union.html">Perry's on Union</a>
+  <div class="meta">4.3★ (925 reviews) — 1944 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="norcina.html">Norcina</a>
+  <div class="meta">4.3★ (290 reviews) — 3251 Pierce St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="izzy-s-steaks-chops.html">Izzy's Steaks & Chops</a>
+  <div class="meta">4.3★ (850 reviews) — 3345 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="palm-house.html">Palm House</a>
+  <div class="meta">4.3★ (888 reviews) — 2032 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="isa-restaurant.html">Isa Restaurant</a>
+  <div class="meta">4.3★ (538 reviews) — 3324 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flores-san-francisco.html">Flores San Francisco</a>
+  <div class="meta">4.3★ (1211 reviews) — 2030 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blue-whale-restaurant-lounge.html">Blue Whale Restaurant & Lounge</a>
+  <div class="meta">4.3★ (159 reviews) — 2033 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sacred-taco.html">Sacred Taco</a>
+  <div class="meta">4.3★ (306 reviews) — 1875 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blue-barn-steiner.html">Blue Barn Steiner</a>
+  <div class="meta">4.3★ (224 reviews) — 3344 Steiner St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="a16.html">A16</a>
+  <div class="meta">4.2★ (1359 reviews) — 2355 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacolicious.html">Tacolicious</a>
+  <div class="meta">4.2★ (1498 reviews) — 2250 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="balboa-cafe.html">Balboa Cafe</a>
+  <div class="meta">4.2★ (841 reviews) — 3199 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dragon-well.html">Dragon Well</a>
+  <div class="meta">4.2★ (343 reviews) — 2142 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="united-dumplings.html">United Dumplings</a>
+  <div class="meta">4.2★ (230 reviews) — 2015 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ristobar.html">Ristobar</a>
+  <div class="meta">4.2★ (270 reviews) — 2300 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wilder.html">Wilder</a>
+  <div class="meta">4.1★ (151 reviews) — 3154 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-brixton.html">The Brixton</a>
+  <div class="meta">4★ (757 reviews) — 2140 Union St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chestnut-diner.html">Chestnut Diner</a>
+  <div class="meta">4★ (560 reviews) — 1312 Chestnut St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="morella.html">Morella</a>
+  <div class="meta">3.9★ (114 reviews) — 2001 Chestnut St #2027, San Francisco, CA 94123, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Marina District — San Francisco Restaurants
+
+60 restaurants in Marina District.
+
+- [Milos Meze](milos-meze.html) — 4.9★ (358 reviews)
+- [Indigo](indigo.html) — 4.9★ (256 reviews)
+- [Marina Indian Cuisine](marina-indian-cuisine.html) — 4.7★ (399 reviews)
+- [The Patio](the-patio.html) — 4.7★ (261 reviews)
+- [Nippon Curry San Francisco](nippon-curry-san-francisco.html) — 4.7★ (438 reviews)
+- [Côte Ouest Bistro](c-te-ouest-bistro.html) — 4.7★ (500 reviews)
+- [Cracked &amp; Battered - Marina](cracked-battered-marina.html) — 4.6★ (528 reviews)
+- [The Brazen Head](the-brazen-head.html) — 4.6★ (830 reviews)
+- [Baan Yaai](baan-yaai.html) — 4.6★ (275 reviews)
+- [Tiya](tiya.html) — 4.6★ (444 reviews)
+- [Terzo](terzo.html) — 4.6★ (361 reviews)
+- [Phat Thai](phat-thai.html) — 4.6★ (317 reviews)
+- [Camino Alto](camino-alto.html) — 4.6★ (423 reviews)
+- [Twisted St. Cafe](twisted-st-cafe.html) — 4.6★ (527 reviews)
+- [Scoma's Restaurant](scoma-s-restaurant.html) — 4.6★ (6837 reviews)
+- [Ly's Vietnamese Cuisine](ly-s-vietnamese-cuisine.html) — 4.6★ (517 reviews)
+- [Roma Antica](roma-antica.html) — 4.5★ (1694 reviews)
+- [Popi's Oysterette](popi-s-oysterette.html) — 4.5★ (269 reviews)
+- [Pacific Catch](pacific-catch.html) — 4.5★ (1096 reviews)
+- [Souvla](souvla.html) — 4.5★ (480 reviews)
+- [Lobalita](lobalita.html) — 4.5★ (8 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.5★ (2833 reviews)
+- [Lucca Delicatessen](lucca-delicatessen.html) — 4.5★ (459 reviews)
+- ['Napizza](napizza.html) — 4.5★ (634 reviews)
+- [Las Mestizas](las-mestizas.html) — 4.5★ (171 reviews)
+- [Mamanoko](mamanoko.html) — 4.5★ (481 reviews)
+- [World Wrapps](world-wrapps.html) — 4.5★ (355 reviews)
+- [Palmetto Superfoods - Marina](palmetto-superfoods-marina.html) — 4.5★ (195 reviews)
+- [Dalida Restaurant](dalida-restaurant.html) — 4.5★ (699 reviews)
+- [Delarosa Marina](delarosa-marina.html) — 4.4★ (1551 reviews)
+- [Blackwood](blackwood.html) — 4.4★ (1420 reviews)
+- [Turtle Tower - Marina](turtle-tower-marina.html) — 4.4★ (37 reviews)
+- [Bonita Taqueria y Rotisserie](bonita-taqueria-y-rotisserie.html) — 4.4★ (633 reviews)
+- [Greens Restaurant](greens-restaurant.html) — 4.4★ (1974 reviews)
+- [Rose's Cafe](rose-s-cafe.html) — 4.4★ (990 reviews)
+- [Casaro Osteria](casaro-osteria.html) — 4.4★ (264 reviews)
+- [Radhaus](radhaus.html) — 4.4★ (1584 reviews)
+- [Bun Mee](bun-mee.html) — 4.4★ (42 reviews)
+- [Little Original Joe's](little-original-joe-s.html) — 4.3★ (379 reviews)
+- [Causwells](causwells.html) — 4.3★ (937 reviews)
+- [Home Plate](home-plate.html) — 4.3★ (1402 reviews)
+- [Perry's on Union](perry-s-on-union.html) — 4.3★ (925 reviews)
+- [Norcina](norcina.html) — 4.3★ (290 reviews)
+- [Izzy's Steaks &amp; Chops](izzy-s-steaks-chops.html) — 4.3★ (850 reviews)
+- [Palm House](palm-house.html) — 4.3★ (888 reviews)
+- [Isa Restaurant](isa-restaurant.html) — 4.3★ (538 reviews)
+- [Flores San Francisco](flores-san-francisco.html) — 4.3★ (1211 reviews)
+- [Blue Whale Restaurant &amp; Lounge](blue-whale-restaurant-lounge.html) — 4.3★ (159 reviews)
+- [Sacred Taco](sacred-taco.html) — 4.3★ (306 reviews)
+- [Blue Barn Steiner](blue-barn-steiner.html) — 4.3★ (224 reviews)
+- [A16](a16.html) — 4.2★ (1359 reviews)
+- [Tacolicious](tacolicious.html) — 4.2★ (1498 reviews)
+- [Balboa Cafe](balboa-cafe.html) — 4.2★ (841 reviews)
+- [Dragon Well](dragon-well.html) — 4.2★ (343 reviews)
+- [United Dumplings](united-dumplings.html) — 4.2★ (230 reviews)
+- [Ristobar](ristobar.html) — 4.2★ (270 reviews)
+- [Wilder](wilder.html) — 4.1★ (151 reviews)
+- [The Brixton](the-brixton.html) — 4★ (757 reviews)
+- [Chestnut Diner](chestnut-diner.html) — 4★ (560 reviews)
+- [Morella](morella.html) — 3.9★ (114 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

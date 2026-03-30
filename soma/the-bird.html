@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Bird — SoMa — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for The Bird in SoMa, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "The Bird",
+  "servesCuisine": [
+    "sandwich shop"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "115 New Montgomery St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94105",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 872-9825",
+  "url": "https://thebirdsf.com/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "3031"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7872431,
+    "longitude": -122.40009870000002
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 11:00 AM – 9:30 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Erick Tseng"
+      },
+      "reviewBody": "Wow, this was a mighty fine chicken sandwich! I ordered the fried chicken sandwich, and the breading was wonderfullly crispy and herbaceous, the chicken was hot and juicy, and the slaw topping was cri"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "B.S. Gopal"
+      },
+      "reviewBody": "Saturday dinner:(~6.30 pm) a few times🔥\n\n- Walked in, ordered at the counter, simple menu. Lovely place, great vibe, busy but not crowded.\nProtip(s): If I may, fried chicken sandwich, tater tots, reg"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Avantika Naik"
+      },
+      "reviewBody": "Hit the spot for a chicken sandwich in the city, and if I ever want another one, I will be coming here again!\n\nWe came here before a concert, and dang was the food good. I got the Spicy Fried Chicken "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">SoMa</a></p>
+<h1>The Bird</h1>
+<p>Buzzy counter-serve spot for chicken sandwiches, fries, wings, and beer.</p>
+<h2>Cuisine</h2>
+<p><strong>Restaurant</strong> — sandwich shop</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.6 stars — 3,031 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted<br><strong>Meals:</strong> Breakfast · Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>115 New Montgomery St, San Francisco, CA 94105, USA<br>Phone: (415) 872-9825<br>Website: <a href="https://thebirdsf.com/">https://thebirdsf.com/</a><br><a href="https://maps.google.com/?cid=8469756796270387059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7872431, -122.40009870000002</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 9:00 PM<br>Tuesday: 10:00 AM – 9:00 PM<br>Wednesday: 10:00 AM – 9:00 PM<br>Thursday: 10:00 AM – 9:30 PM<br>Friday: 10:00 AM – 9:30 PM<br>Saturday: 11:00 AM – 9:30 PM<br>Sunday: 11:00 AM – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li><p>★★★★★ &quot;Wow, this was a mighty fine chicken sandwich! I ordered the fried chicken sandwich, and the breading was wonderfullly crispy and herbaceous, the chicken was hot and juicy, and the slaw topping was crisp and paired perfectly with the chicken. Their curly fries were well-seasoned and crispy. Portions ...&quot; — <strong>Erick Tseng</strong> (3 weeks ago)</p>
+</li>
+<li><p>★★★★ &quot;Saturday dinner:(~6.30 pm) a few times🔥</p>
+</li>
+<li><p>Walked in, ordered at the counter, simple menu. Lovely place, great vibe, busy but not crowded.
+Protip(s): If I may, fried chicken sandwich, tater tots, regular coke, enjoy!
+If you’re picking up, drive up twin peaks view point and enjoy it with the SF view...&quot; — <strong>B.S. Gopal</strong> (2 months ago)</p>
+</li>
+<li><p>★★★★★ &quot;Hit the spot for a chicken sandwich in the city, and if I ever want another one, I will be coming here again!</p>
+</li>
+</ul>
+<p>We came here before a concert, and dang was the food good. I got the Spicy Fried Chicken Sandwich. It had a solid kick (as someone with an above average spice tolerance) and the toppings we...&quot; — <strong>Avantika Naik</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Nice spot to stop by for quick lunch.
+Easy order through the screen and the food came out fast. Sandwich was delicious and the portion of the chicken was over my expectations. Tater tots were okay but for me, I need more crispy. Wings were good. Juicy and tasty.
+Recommended!&quot; — <strong>SOM SANGMANEEDEJ</strong> (2 months ago)</li>
+<li>★★★★★ &quot;​I finally tried the original fried chicken sandwich here, and I’m officially a fan. I actually ordered it to-go, and I was seriously impressed that the chicken stayed incredibly crispy and flavorful even after the drive home.
+​The curly fries were the perfect side—well-seasoned and fun to eat. One ...&quot; — <strong>Caroline Hung</strong> (3 weeks ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [SoMa](index.html)
+
+# The Bird
+Buzzy counter-serve spot for chicken sandwiches, fries, wings, and beer.
+
+## Cuisine
+**Restaurant** — sandwich shop
+
+## Price Range
+$
+
+## Rating
+4.6 stars — 3,031 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted  
+**Meals:** Breakfast · Lunch · Dinner  
+**Drinks:** Wine · Beer
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+115 New Montgomery St, San Francisco, CA 94105, USA  
+Phone: (415) 872-9825  
+Website: [https://thebirdsf.com/](https://thebirdsf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=8469756796270387059&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7872431, -122.40009870000002
+
+## Hours
+
+Monday: 10:00 AM – 9:00 PM  
+Tuesday: 10:00 AM – 9:00 PM  
+Wednesday: 10:00 AM – 9:00 PM  
+Thursday: 10:00 AM – 9:30 PM  
+Friday: 10:00 AM – 9:30 PM  
+Saturday: 11:00 AM – 9:30 PM  
+Sunday: 11:00 AM – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Wow, this was a mighty fine chicken sandwich! I ordered the fried chicken sandwich, and the breading was wonderfullly crispy and herbaceous, the chicken was hot and juicy, and the slaw topping was crisp and paired perfectly with the chicken. Their curly fries were well-seasoned and crispy. Portions ...&quot; — **Erick Tseng** (3 weeks ago)
+- ★★★★ &quot;Saturday dinner:(~6.30 pm) a few times🔥
+
+- Walked in, ordered at the counter, simple menu. Lovely place, great vibe, busy but not crowded.
+Protip(s): If I may, fried chicken sandwich, tater tots, regular coke, enjoy!
+If you’re picking up, drive up twin peaks view point and enjoy it with the SF view...&quot; — **B.S. Gopal** (2 months ago)
+- ★★★★★ &quot;Hit the spot for a chicken sandwich in the city, and if I ever want another one, I will be coming here again!
+
+We came here before a concert, and dang was the food good. I got the Spicy Fried Chicken Sandwich. It had a solid kick (as someone with an above average spice tolerance) and the toppings we...&quot; — **Avantika Naik** (2 months ago)
+- ★★★★★ &quot;Nice spot to stop by for quick lunch.
+Easy order through the screen and the food came out fast. Sandwich was delicious and the portion of the chicken was over my expectations. Tater tots were okay but for me, I need more crispy. Wings were good. Juicy and tasty.
+Recommended!&quot; — **SOM SANGMANEEDEJ** (2 months ago)
+- ★★★★★ &quot;​I finally tried the original fried chicken sandwich here, and I’m officially a fan. I actually ordered it to-go, and I was seriously impressed that the chicken stayed incredibly crispy and flavorful even after the drive home.
+​The curly fries were the perfect side—well-seasoned and fun to eat. One ...&quot; — **Caroline Hung** (3 weeks ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

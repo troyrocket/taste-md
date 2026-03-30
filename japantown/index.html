@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japantown Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Japantown, San Francisco. 50 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Japantown</div>
+<h1>Japantown</h1>
+<p>50 restaurants in Japantown, San Francisco.</p>
+<div class="restaurant">
+  <a href="miyako-old-fashion-ice-cream.html">Miyako Old Fashion Ice Cream</a>
+  <div class="meta">4.9★ (401 reviews) — 1470 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="an-japanese-restaurant.html">An | Japanese Restaurant</a>
+  <div class="meta">4.8★ (171 reviews) — 22 Peace Plaza, #510 2nd Floor, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yuji.html">YUJI</a>
+  <div class="meta">4.8★ (95 reviews) — 1700 Post St k, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="k-dragon-cuisine.html">K Dragon cuisine</a>
+  <div class="meta">4.7★ (108 reviews) — 22 Peace Plaza Suite 560, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="soba-dining-sora.html">Soba Dining Sora</a>
+  <div class="meta">4.6★ (23 reviews) — 1731 Buchanan St San Francisco, 3208, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="daeho-kalbijim-beef-soup.html">Daeho Kalbijim & Beef Soup</a>
+  <div class="meta">4.6★ (1432 reviews) — 1620 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sobakatsu.html">Sobakatsu</a>
+  <div class="meta">4.6★ (158 reviews) — 1700 Laguna St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="belly-good-cafe-crepes.html">Belly Good Cafe & Crepes</a>
+  <div class="meta">4.6★ (318 reviews) — 1737 Post St #393, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="octavia.html">Octavia</a>
+  <div class="meta">4.6★ (786 reviews) — 1701 Octavia St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hinodeya-ramen-japantown.html">HINODEYA Ramen Japantown</a>
+  <div class="meta">4.5★ (3152 reviews) — 1737 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oma-san-francisco-station.html">Oma San Francisco Station</a>
+  <div class="meta">4.5★ (227 reviews) — 1737 Post St #337, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="akira-japanese-restaurant.html">Akira Japanese Restaurant</a>
+  <div class="meta">4.5★ (351 reviews) — 1634 Bush St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sato-omakase.html">Sato Omakase</a>
+  <div class="meta">4.5★ (101 reviews) — 1122 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kui-shin-bo.html">Kui Shin Bo</a>
+  <div class="meta">4.4★ (847 reviews) — 22 Peace Plaza #2, 22 Peace Plz, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="udon-mugizo-sf.html">Udon Mugizo - SF</a>
+  <div class="meta">4.4★ (1113 reviews) — 1581 Webster St #217, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sasa-japanese-restaurant.html">Sasa Japanese Restaurant</a>
+  <div class="meta">4.4★ (364 reviews) — 22 Peace Plaza Suite 530, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hikari-bullet-train-sushi-bar.html">Hikari Bullet Train Sushi & Bar</a>
+  <div class="meta">4.4★ (980 reviews) — 1734 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bangkok-street-thai-street-food.html">BANGKOK STREET Thai Street Food</a>
+  <div class="meta">4.4★ (438 reviews) — 1826 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="7-adams.html">7 Adams</a>
+  <div class="meta">4.4★ (404 reviews) — 1963 Sutter St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bar-at-hotel-kabuki.html">Bar at Hotel Kabuki</a>
+  <div class="meta">4.4★ (293 reviews) — 1625 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="royal-indian-cuisine-on-fillmore.html">Royal Indian Cuisine on Fillmore</a>
+  <div class="meta">4.4★ (700 reviews) — 1740 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kushi-tsuru.html">Kushi Tsuru</a>
+  <div class="meta">4.3★ (1111 reviews) — 1737 Post St #380, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tenroku-sushi.html">Tenroku Sushi</a>
+  <div class="meta">4.3★ (736 reviews) — 1825 Post St #215, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="izumi-kaiten-sushi.html">Izumi Kaiten Sushi</a>
+  <div class="meta">4.3★ (441 reviews) — 1737 Post St #355, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bansang.html">BANSANG</a>
+  <div class="meta">4.3★ (358 reviews) — 1560 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kissako-tea.html">Kissako Tea</a>
+  <div class="meta">4.3★ (155 reviews) — 1581 Webster St Ste 195, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ganji.html">Ganji</a>
+  <div class="meta">4.2★ (85 reviews) — 1740 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nari.html">Nari</a>
+  <div class="meta">4.2★ (555 reviews) — 1625 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="matsuyama-shabu-house.html">Matsuyama Shabu House</a>
+  <div class="meta">4.2★ (111 reviews) — 1726 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="takoyaki-yama-chan.html">Takoyaki Yama-chan</a>
+  <div class="meta">4.2★ (207 reviews) — 1737 Post St STE395, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="parking-garage-japan-center.html">Parking Garage @ Japan Center</a>
+  <div class="meta">4.2★ (775 reviews) — 1610 Geary Blvd, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pa-ina-restaurant-lounge.html">Pa'ina Restaurant & Lounge</a>
+  <div class="meta">4.2★ (494 reviews) — 1865 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="suzu.html">Suzu</a>
+  <div class="meta">4.1★ (453 reviews) — 1825 Post St A, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ramen-yamadaya.html">Ramen Yamadaya</a>
+  <div class="meta">4.1★ (1559 reviews) — 1728 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yakiniq-korean-bbq.html">YakiniQ Korean BBQ</a>
+  <div class="meta">4.1★ (1347 reviews) — 1640 Post St 2ND floor, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="on-the-bridge.html">On the Bridge</a>
+  <div class="meta">4★ (663 reviews) — 1581 Webster St #206, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ninniku-ramen-izakaya.html">NINNIKU RAMEN IZAKAYA</a>
+  <div class="meta">4★ (134 reviews) — 1730 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sanppo-restaurant.html">Sanppo Restaurant</a>
+  <div class="meta">4★ (413 reviews) — 1702 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="san-wang-restaurant.html">San Wang Restaurant</a>
+  <div class="meta">4★ (583 reviews) — 1682 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="benihana-san-francisco.html">Benihana - San Francisco</a>
+  <div class="meta">4★ (2332 reviews) — 1737 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="seoul-garden.html">Seoul Garden</a>
+  <div class="meta">4★ (282 reviews) — 1655 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="andersen-bakery.html">Andersen Bakery</a>
+  <div class="meta">4★ (251 reviews) — 1737 Post St Suite 304, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sophie-s-crepes.html">Sophie's Crepes</a>
+  <div class="meta">4★ (311 reviews) — 1581 Webster St #275, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yakitori-edomasa.html">Yakitori Edomasa</a>
+  <div class="meta">3.9★ (233 reviews) — 1581 Webster St #270, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="irodori-restaurant.html">Irodori Restaurant</a>
+  <div class="meta">3.9★ (28 reviews) — 1723 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kippu.html">Kippu</a>
+  <div class="meta">3.9★ (648 reviews) — 1707 Buchanan St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nono-baru.html">NONO BARU</a>
+  <div class="meta">3.9★ (155 reviews) — 1800 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beque-bbq-grill.html">Beque BBQ Grill</a>
+  <div class="meta">3.9★ (391 reviews) — 1825 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="osakaya-restaurant.html">Osakaya Restaurant</a>
+  <div class="meta">3.5★ (344 reviews) — 1737 Post St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nande-ya.html">Nande-Ya</a>
+  <div class="meta">3.3★ (503 reviews) — 1737 Post St, San Francisco, CA 94115, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Japantown — San Francisco Restaurants
+
+50 restaurants in Japantown.
+
+- [Miyako Old Fashion Ice Cream](miyako-old-fashion-ice-cream.html) — 4.9★ (401 reviews)
+- [An | Japanese Restaurant](an-japanese-restaurant.html) — 4.8★ (171 reviews)
+- [YUJI](yuji.html) — 4.8★ (95 reviews)
+- [K Dragon cuisine](k-dragon-cuisine.html) — 4.7★ (108 reviews)
+- [Soba Dining Sora](soba-dining-sora.html) — 4.6★ (23 reviews)
+- [Daeho Kalbijim &amp; Beef Soup](daeho-kalbijim-beef-soup.html) — 4.6★ (1432 reviews)
+- [Sobakatsu](sobakatsu.html) — 4.6★ (158 reviews)
+- [Belly Good Cafe &amp; Crepes](belly-good-cafe-crepes.html) — 4.6★ (318 reviews)
+- [Octavia](octavia.html) — 4.6★ (786 reviews)
+- [HINODEYA Ramen Japantown](hinodeya-ramen-japantown.html) — 4.5★ (3152 reviews)
+- [Oma San Francisco Station](oma-san-francisco-station.html) — 4.5★ (227 reviews)
+- [Akira Japanese Restaurant](akira-japanese-restaurant.html) — 4.5★ (351 reviews)
+- [Sato Omakase](sato-omakase.html) — 4.5★ (101 reviews)
+- [Kui Shin Bo](kui-shin-bo.html) — 4.4★ (847 reviews)
+- [Udon Mugizo - SF](udon-mugizo-sf.html) — 4.4★ (1113 reviews)
+- [Sasa Japanese Restaurant](sasa-japanese-restaurant.html) — 4.4★ (364 reviews)
+- [Hikari Bullet Train Sushi &amp; Bar](hikari-bullet-train-sushi-bar.html) — 4.4★ (980 reviews)
+- [BANGKOK STREET Thai Street Food](bangkok-street-thai-street-food.html) — 4.4★ (438 reviews)
+- [7 Adams](7-adams.html) — 4.4★ (404 reviews)
+- [Bar at Hotel Kabuki](bar-at-hotel-kabuki.html) — 4.4★ (293 reviews)
+- [Royal Indian Cuisine on Fillmore](royal-indian-cuisine-on-fillmore.html) — 4.4★ (700 reviews)
+- [Kushi Tsuru](kushi-tsuru.html) — 4.3★ (1111 reviews)
+- [Tenroku Sushi](tenroku-sushi.html) — 4.3★ (736 reviews)
+- [Izumi Kaiten Sushi](izumi-kaiten-sushi.html) — 4.3★ (441 reviews)
+- [BANSANG](bansang.html) — 4.3★ (358 reviews)
+- [Kissako Tea](kissako-tea.html) — 4.3★ (155 reviews)
+- [Ganji](ganji.html) — 4.2★ (85 reviews)
+- [Nari](nari.html) — 4.2★ (555 reviews)
+- [Matsuyama Shabu House](matsuyama-shabu-house.html) — 4.2★ (111 reviews)
+- [Takoyaki Yama-chan](takoyaki-yama-chan.html) — 4.2★ (207 reviews)
+- [Parking Garage @ Japan Center](parking-garage-japan-center.html) — 4.2★ (775 reviews)
+- [Pa'ina Restaurant &amp; Lounge](pa-ina-restaurant-lounge.html) — 4.2★ (494 reviews)
+- [Suzu](suzu.html) — 4.1★ (453 reviews)
+- [Ramen Yamadaya](ramen-yamadaya.html) — 4.1★ (1559 reviews)
+- [YakiniQ Korean BBQ](yakiniq-korean-bbq.html) — 4.1★ (1347 reviews)
+- [On the Bridge](on-the-bridge.html) — 4★ (663 reviews)
+- [NINNIKU RAMEN IZAKAYA](ninniku-ramen-izakaya.html) — 4★ (134 reviews)
+- [Sanppo Restaurant](sanppo-restaurant.html) — 4★ (413 reviews)
+- [San Wang Restaurant](san-wang-restaurant.html) — 4★ (583 reviews)
+- [Benihana - San Francisco](benihana-san-francisco.html) — 4★ (2332 reviews)
+- [Seoul Garden](seoul-garden.html) — 4★ (282 reviews)
+- [Andersen Bakery](andersen-bakery.html) — 4★ (251 reviews)
+- [Sophie's Crepes](sophie-s-crepes.html) — 4★ (311 reviews)
+- [Yakitori Edomasa](yakitori-edomasa.html) — 3.9★ (233 reviews)
+- [Irodori Restaurant](irodori-restaurant.html) — 3.9★ (28 reviews)
+- [Kippu](kippu.html) — 3.9★ (648 reviews)
+- [NONO BARU](nono-baru.html) — 3.9★ (155 reviews)
+- [Beque BBQ Grill](beque-bbq-grill.html) — 3.9★ (391 reviews)
+- [Osakaya Restaurant](osakaya-restaurant.html) — 3.5★ (344 reviews)
+- [Nande-Ya](nande-ya.html) — 3.3★ (503 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

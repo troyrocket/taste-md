@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SUNGHO — Tenderloin — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for SUNGHO in Tenderloin, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "SUNGHO",
+  "servesCuisine": [
+    "korean restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "250 Hyde St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94102",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 971-2283",
+  "url": "https://sunghosf.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "136"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.783296,
+    "longitude": -122.4157145
+  },
+  "openingHours": [
+    "Monday: 5:00 – 10:00 PM",
+    "Tuesday: 5:00 – 10:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 5:00 – 10:00 PM",
+    "Friday: 5:00 – 10:00 PM",
+    "Saturday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+    "Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM"
+  ],
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mike"
+      },
+      "reviewBody": "I saw this on the Michelin website as recommended.\nFood: Menu was limited, likely focused on their specialties. I ordered the pork bone soup and kimchi pancake. The soup was hot and flavorful. Quite f"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Thanat Jatuphattharachat"
+      },
+      "reviewBody": "Very soothing soup! If you enjoy something light yet layered with flavor, this is the place to go.\n\nI especially liked the beef soup, though the pork version is also quite good. The kimchi pancake is "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Donny Pusawong"
+      },
+      "reviewBody": "Don't judge a book by it's cover!  Been meaning to come visit this restaurant for quite some time.  I have to be honest, it's not in the best of neighborhoods, the Tenderloin!  No parking. Lots of peo"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Tenderloin</a></p>
+<h1>SUNGHO</h1>
+<h2>Cuisine</h2>
+<p><strong>Korean restaurant</strong> — korean restaurant</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.6 stars — 136 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer</p>
+<h2>Atmosphere</h2>
+<p>Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>250 Hyde St, San Francisco, CA 94102, USA<br>Phone: (415) 971-2283<br>Website: <a href="https://sunghosf.com/">https://sunghosf.com/</a><br><a href="https://maps.google.com/?cid=17058307252006514144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.783296, -122.4157145</p>
+<h2>Hours</h2>
+<p>Monday: 5:00 – 10:00 PM<br>Tuesday: 5:00 – 10:00 PM<br>Wednesday: Closed<br>Thursday: 5:00 – 10:00 PM<br>Friday: 5:00 – 10:00 PM<br>Saturday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM<br>Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★ &quot;I saw this on the Michelin website as recommended.
+Food: Menu was limited, likely focused on their specialties. I ordered the pork bone soup and kimchi pancake. The soup was hot and flavorful. Quite filling. This soup is good as a full meal. It comes with a side of white rice so you should think it ...&quot; — <strong>Mike</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Very soothing soup! If you enjoy something light yet layered with flavor, this is the place to go.</li>
+</ul>
+<p>I especially liked the beef soup, though the pork version is also quite good. The kimchi pancake is nice and crispy, but I wish the flavor were a bit bolder.&quot; — <strong>Thanat Jatuphattharachat</strong> (5 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Don&#39;t judge a book by it&#39;s cover!  Been meaning to come visit this restaurant for quite some time.  I have to be honest, it&#39;s not in the best of neighborhoods, the Tenderloin!  No parking. Lots of people hanging around outside that may deter you from coming.  But, if you are brave enough, you will b...&quot; — <strong>Donny Pusawong</strong> (3 weeks ago)</li>
+<li>★★★★★ &quot;We ordered the beef short rib soup (갈비탕), spicy pork bone soup, and kimchi pancake. The 갈비탕 is the best I’ve had in the Bay Area and their kimchi pancake came out extra crispy.</li>
+</ul>
+<p>The staff were incredibly kind despite having an issue with the WiFi this week and being cash only (temporarily). I hope p...&quot; — <strong>Jessica Z</strong> (5 months ago)</p>
+<ul>
+<li>★★★★ &quot;I had been wanting to try this place for a while. The location isn’t the most convenient and parking can be tricky, but we went before 6 pm and luckily found a spot right in front of the restaurant.</li>
+</ul>
+<p>We ordered galbitang (beef short rib soup), dwaeji gukbap (pork soup with rice), and kimchi jeon (ki...&quot; — <strong>Hye Lee</strong> (3 weeks ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Tenderloin](index.html)
+
+# SUNGHO
+
+## Cuisine
+**Korean restaurant** — korean restaurant
+
+## Price Range
+Unknown
+
+## Rating
+4.6 stars — 136 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Wine · Beer
+
+## Atmosphere
+
+Restroom available
+
+## Location &amp; Contact
+
+250 Hyde St, San Francisco, CA 94102, USA  
+Phone: (415) 971-2283  
+Website: [https://sunghosf.com/](https://sunghosf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=17058307252006514144&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.783296, -122.4157145
+
+## Hours
+
+Monday: 5:00 – 10:00 PM  
+Tuesday: 5:00 – 10:00 PM  
+Wednesday: Closed  
+Thursday: 5:00 – 10:00 PM  
+Friday: 5:00 – 10:00 PM  
+Saturday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM  
+Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★ &quot;I saw this on the Michelin website as recommended.
+Food: Menu was limited, likely focused on their specialties. I ordered the pork bone soup and kimchi pancake. The soup was hot and flavorful. Quite filling. This soup is good as a full meal. It comes with a side of white rice so you should think it ...&quot; — **Mike** (2 months ago)
+- ★★★★★ &quot;Very soothing soup! If you enjoy something light yet layered with flavor, this is the place to go.
+
+I especially liked the beef soup, though the pork version is also quite good. The kimchi pancake is nice and crispy, but I wish the flavor were a bit bolder.&quot; — **Thanat Jatuphattharachat** (5 months ago)
+- ★★★★★ &quot;Don't judge a book by it's cover!  Been meaning to come visit this restaurant for quite some time.  I have to be honest, it's not in the best of neighborhoods, the Tenderloin!  No parking. Lots of people hanging around outside that may deter you from coming.  But, if you are brave enough, you will b...&quot; — **Donny Pusawong** (3 weeks ago)
+- ★★★★★ &quot;We ordered the beef short rib soup (갈비탕), spicy pork bone soup, and kimchi pancake. The 갈비탕 is the best I’ve had in the Bay Area and their kimchi pancake came out extra crispy.
+
+The staff were incredibly kind despite having an issue with the WiFi this week and being cash only (temporarily). I hope p...&quot; — **Jessica Z** (5 months ago)
+- ★★★★ &quot;I had been wanting to try this place for a while. The location isn’t the most convenient and parking can be tricky, but we went before 6 pm and luckily found a spot right in front of the restaurant.
+
+We ordered galbitang (beef short rib soup), dwaeji gukbap (pork soup with rice), and kimchi jeon (ki...&quot; — **Hye Lee** (3 weeks ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

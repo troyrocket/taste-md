@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Crew — Outer Sunset — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for The Crew in Outer Sunset, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "The Crew",
+  "servesCuisine": [
+    "korean restaurant",
+    "barbecue area"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1330 Noriega St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94122",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 665-8548",
+  "url": "https://www.thecrewsanfrancisco.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "202"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7543516,
+    "longitude": -122.4781689
+  },
+  "openingHours": [
+    "Monday: 5:00 PM – 12:00 AM",
+    "Tuesday: 5:00 PM – 12:00 AM",
+    "Wednesday: 5:00 PM – 12:00 AM",
+    "Thursday: 5:00 PM – 12:00 AM",
+    "Friday: 5:00 PM – 1:00 AM",
+    "Saturday: 5:00 PM – 1:00 AM",
+    "Sunday: 5:00 – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tyler Lue"
+      },
+      "reviewBody": "Food was great! Came here with some friends and got kimchi fried rice, bulgogi, army stew, seafoood pancake and fries! Service was great would recommend :)"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anna Ng"
+      },
+      "reviewBody": "Such a yummy Korean spot in the Sunset!\nThis places offers a variety of Korean food. From soups/stews, to bibimbaps, to delicious appetizers like the one we got which is their signature House wings!\n\n"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ishmael Ayesh"
+      },
+      "reviewBody": "So damn good you’d start speaking Korean. Okay maybe not but it’s still really good. Came here and had the crazy ramen and bbq beef ribs - super delicious and highly recommended. I’ll be back and this"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Outer Sunset</a></p>
+<h1>The Crew</h1>
+<p>BBQ &amp; other familiar fare is served at this Korean restaurant with a plain interior.</p>
+<h2>Cuisine</h2>
+<p><strong>Korean restaurant</strong> — korean restaurant, barbecue area</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.2 stars — 202 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1330 Noriega St, San Francisco, CA 94122, USA<br>Phone: (415) 665-8548<br>Website: <a href="https://www.thecrewsanfrancisco.com/">https://www.thecrewsanfrancisco.com/</a><br><a href="https://maps.google.com/?cid=9567088066250027795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7543516, -122.4781689</p>
+<h2>Hours</h2>
+<p>Monday: 5:00 PM – 12:00 AM<br>Tuesday: 5:00 PM – 12:00 AM<br>Wednesday: 5:00 PM – 12:00 AM<br>Thursday: 5:00 PM – 12:00 AM<br>Friday: 5:00 PM – 1:00 AM<br>Saturday: 5:00 PM – 1:00 AM<br>Sunday: 5:00 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Food was great! Came here with some friends and got kimchi fried rice, bulgogi, army stew, seafoood pancake and fries! Service was great would recommend :)&quot; — <strong>Tyler Lue</strong> (a month ago)</li>
+<li>★★★★★ &quot;Such a yummy Korean spot in the Sunset!
+This places offers a variety of Korean food. From soups/stews, to bibimbaps, to delicious appetizers like the one we got which is their signature House wings!</li>
+</ul>
+<p>They have new menu items that they just dropped which is the Matcha makgeoli, buldak omelette, tofu ...&quot; — <strong>Anna Ng</strong> (9 months ago)</p>
+<ul>
+<li>★★★★★ &quot;So damn good you’d start speaking Korean. Okay maybe not but it’s still really good. Came here and had the crazy ramen and bbq beef ribs - super delicious and highly recommended. I’ll be back and this time with the crew.&quot; — <strong>Ishmael Ayesh</strong> (7 months ago)</li>
+<li>★★★★ &quot;SF standard of pricey but delicious Korean food and drinks! Atmosphere was moderate noise level so it’s nice to talk with friends. Definitely recommend going with a big group for sharing!&quot; — <strong>Yu Wathan Aung</strong> (8 months ago)</li>
+<li>★★★★★ &quot;Came on a Tuesday night at 830pm and our large group of 7 was able to be seated with no delays. Shortly after though between 9-10pm, the restaurant was pretty crowded. Fortunately we beat the rush.
+The food comes out and is really yummy but for the larger entrees they actually do not seem that huge....&quot; — <strong>Joshua Yuan</strong> (2 years ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Outer Sunset](index.html)
+
+# The Crew
+BBQ &amp; other familiar fare is served at this Korean restaurant with a plain interior.
+
+## Cuisine
+**Korean restaurant** — korean restaurant, barbecue area
+
+## Price Range
+$$
+
+## Rating
+4.2 stars — 202 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1330 Noriega St, San Francisco, CA 94122, USA  
+Phone: (415) 665-8548  
+Website: [https://www.thecrewsanfrancisco.com/](https://www.thecrewsanfrancisco.com/)  
+[View on Google Maps](https://maps.google.com/?cid=9567088066250027795&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7543516, -122.4781689
+
+## Hours
+
+Monday: 5:00 PM – 12:00 AM  
+Tuesday: 5:00 PM – 12:00 AM  
+Wednesday: 5:00 PM – 12:00 AM  
+Thursday: 5:00 PM – 12:00 AM  
+Friday: 5:00 PM – 1:00 AM  
+Saturday: 5:00 PM – 1:00 AM  
+Sunday: 5:00 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Food was great! Came here with some friends and got kimchi fried rice, bulgogi, army stew, seafoood pancake and fries! Service was great would recommend :)&quot; — **Tyler Lue** (a month ago)
+- ★★★★★ &quot;Such a yummy Korean spot in the Sunset!
+This places offers a variety of Korean food. From soups/stews, to bibimbaps, to delicious appetizers like the one we got which is their signature House wings!
+
+They have new menu items that they just dropped which is the Matcha makgeoli, buldak omelette, tofu ...&quot; — **Anna Ng** (9 months ago)
+- ★★★★★ &quot;So damn good you’d start speaking Korean. Okay maybe not but it’s still really good. Came here and had the crazy ramen and bbq beef ribs - super delicious and highly recommended. I’ll be back and this time with the crew.&quot; — **Ishmael Ayesh** (7 months ago)
+- ★★★★ &quot;SF standard of pricey but delicious Korean food and drinks! Atmosphere was moderate noise level so it’s nice to talk with friends. Definitely recommend going with a big group for sharing!&quot; — **Yu Wathan Aung** (8 months ago)
+- ★★★★★ &quot;Came on a Tuesday night at 830pm and our large group of 7 was able to be seated with no delays. Shortly after though between 9-10pm, the restaurant was pretty crowded. Fortunately we beat the rush.
+The food comes out and is really yummy but for the larger entrees they actually do not seem that huge....&quot; — **Joshua Yuan** (2 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

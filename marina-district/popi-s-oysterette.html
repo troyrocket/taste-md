@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Popi's Oysterette — Marina District — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Popi's Oysterette in Marina District, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Popi's Oysterette",
+  "servesCuisine": [
+    "oyster bar restaurant",
+    "wine bar",
+    "bar",
+    "seafood restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2095 Chestnut St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94123",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 993-5338",
+  "url": "https://www.popisoysterette.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "269"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.8005042,
+    "longitude": -122.437722
+  },
+  "openingHours": [
+    "Monday: 12:00 – 8:30 PM",
+    "Tuesday: 12:00 – 8:30 PM",
+    "Wednesday: 12:00 – 8:30 PM",
+    "Thursday: 12:00 – 8:30 PM",
+    "Friday: 12:00 – 9:00 PM",
+    "Saturday: 12:00 – 9:00 PM",
+    "Sunday: 12:00 – 8:30 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "narae kim"
+      },
+      "reviewBody": "The oysters and clams were super fresh. The clam ceviche was very fresh as well, but next time I’d ask for the sauce on the side. The strozapreti crab pasta was amazing—the pasta was so chewy. The fis"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mahmoud Zaghloul"
+      },
+      "reviewBody": "Stumbled into Popi’s Oysterette for a late lunch, not even hungry… and still couldn’t resist. The oysters were mouth-watering and impeccably fresh; the kind that make you pause after the first slurp.\n"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Taryn Peirce"
+      },
+      "reviewBody": "Popi's Oysterette is a gem! The  entire staff was wonderful! The chefs were amazing and extremely thoughtful in every plate...they are true artists! The oysters were some of the freshest I've ever had"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Marina District</a></p>
+<h1>Popi&#39;s Oysterette</h1>
+<h2>Cuisine</h2>
+<p><strong>Oyster bar restaurant</strong> — oyster bar restaurant, wine bar, bar, seafood restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 269 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Good for watching sports · Dog-friendly · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>2095 Chestnut St, San Francisco, CA 94123, USA<br>Phone: (415) 993-5338<br>Website: <a href="https://www.popisoysterette.com/">https://www.popisoysterette.com/</a><br><a href="https://maps.google.com/?cid=6838790689960739908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.8005042, -122.437722</p>
+<h2>Hours</h2>
+<p>Monday: 12:00 – 8:30 PM<br>Tuesday: 12:00 – 8:30 PM<br>Wednesday: 12:00 – 8:30 PM<br>Thursday: 12:00 – 8:30 PM<br>Friday: 12:00 – 9:00 PM<br>Saturday: 12:00 – 9:00 PM<br>Sunday: 12:00 – 8:30 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;The oysters and clams were super fresh. The clam ceviche was very fresh as well, but next time I’d ask for the sauce on the side. The strozapreti crab pasta was amazing—the pasta was so chewy. The fish and chips were great too, and my son loved them. Corkage is $25, and they provide regular glasses ...&quot; — <strong>narae kim</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Stumbled into Popi’s Oysterette for a late lunch, not even hungry… and still couldn’t resist. The oysters were mouth-watering and impeccably fresh; the kind that make you pause after the first slurp.
+Service was spot-on from the moment we sat down: warm, attentive, and genuinely proud of what they s...&quot; — <strong>Mahmoud Zaghloul</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Popi&#39;s Oysterette is a gem! The  entire staff was wonderful! The chefs were amazing and extremely thoughtful in every plate...they are true artists! The oysters were some of the freshest I&#39;ve ever had in my life!! I can&#39;t wait to come back!&quot; — <strong>Taryn Peirce</strong> (3 weeks ago)</li>
+<li>★★★★★ &quot;Popi’s Oysterette is a seafood lover’s delight! The oysters were incredibly fresh and flavorful, and the mignonette added a nice kick. The clam chowder was smoky and comforting, and the crab roll was rich and satisfying. The atmosphere is breezy and casual, with friendly, attentive staff. It’s a per...&quot; — <strong>Patrick Tsang</strong> (5 months ago)</li>
+<li>★★★ &quot;We walked in as a party of 3 on a Friday night and was able to get seated. The food was pretty good, but the customer experience could’ve been improved:</li>
+</ul>
+<ol>
+<li>They charge you an additional fee on top of your check to pay their staff a living wage so you end up having like 3 additional fees on your bil...&quot; — <strong>Emily Chen</strong> (2 months ago)</li>
+</ol>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Marina District](index.html)
+
+# Popi's Oysterette
+
+## Cuisine
+**Oyster bar restaurant** — oyster bar restaurant, wine bar, bar, seafood restaurant
+
+## Price Range
+$$
+
+## Rating
+4.5 stars — 269 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Brunch · Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Good for watching sports · Dog-friendly · Restroom available
+
+## Location &amp; Contact
+
+2095 Chestnut St, San Francisco, CA 94123, USA  
+Phone: (415) 993-5338  
+Website: [https://www.popisoysterette.com/](https://www.popisoysterette.com/)  
+[View on Google Maps](https://maps.google.com/?cid=6838790689960739908&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.8005042, -122.437722
+
+## Hours
+
+Monday: 12:00 – 8:30 PM  
+Tuesday: 12:00 – 8:30 PM  
+Wednesday: 12:00 – 8:30 PM  
+Thursday: 12:00 – 8:30 PM  
+Friday: 12:00 – 9:00 PM  
+Saturday: 12:00 – 9:00 PM  
+Sunday: 12:00 – 8:30 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;The oysters and clams were super fresh. The clam ceviche was very fresh as well, but next time I’d ask for the sauce on the side. The strozapreti crab pasta was amazing—the pasta was so chewy. The fish and chips were great too, and my son loved them. Corkage is $25, and they provide regular glasses ...&quot; — **narae kim** (3 months ago)
+- ★★★★★ &quot;Stumbled into Popi’s Oysterette for a late lunch, not even hungry… and still couldn’t resist. The oysters were mouth-watering and impeccably fresh; the kind that make you pause after the first slurp.
+Service was spot-on from the moment we sat down: warm, attentive, and genuinely proud of what they s...&quot; — **Mahmoud Zaghloul** (3 months ago)
+- ★★★★★ &quot;Popi's Oysterette is a gem! The  entire staff was wonderful! The chefs were amazing and extremely thoughtful in every plate...they are true artists! The oysters were some of the freshest I've ever had in my life!! I can't wait to come back!&quot; — **Taryn Peirce** (3 weeks ago)
+- ★★★★★ &quot;Popi’s Oysterette is a seafood lover’s delight! The oysters were incredibly fresh and flavorful, and the mignonette added a nice kick. The clam chowder was smoky and comforting, and the crab roll was rich and satisfying. The atmosphere is breezy and casual, with friendly, attentive staff. It’s a per...&quot; — **Patrick Tsang** (5 months ago)
+- ★★★ &quot;We walked in as a party of 3 on a Friday night and was able to get seated. The food was pretty good, but the customer experience could’ve been improved:
+
+1. They charge you an additional fee on top of your check to pay their staff a living wage so you end up having like 3 additional fees on your bil...&quot; — **Emily Chen** (2 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

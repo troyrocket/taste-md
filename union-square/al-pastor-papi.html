@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Al Pastor Papi — Union Square — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Al Pastor Papi in Union Square, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Al Pastor Papi",
+  "servesCuisine": [
+    "mexican restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "232 O'Farrell St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94102",
+    "addressCountry": "US"
+  },
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "125"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7864848,
+    "longitude": -122.40860789999999
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Corbomite Meatballs"
+      },
+      "reviewBody": "Wanted some tacos in SanFran, and I got them when I randomly stopped in to this location.\nMenu takes a moment to absorb, esp. if you haven't been here before.\nOrdering was simple, and staff was friend"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Lisbeth"
+      },
+      "reviewBody": "So happy this is in the union square area, yummy Mexican food, Mexico City style downtown! The food came out fast, which is perf when you’re starving downtown and want to eat quick. The prices are goo"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adella Lott"
+      },
+      "reviewBody": "I love this place! We wanted to find a spot to eat that didn't cook with seed oils, and they don't, so that was a plus. I tried 3 tacos (Al Pastor, Nopales, and Carne Asada) and each were amazing. My "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Union Square</a></p>
+<h1>Al Pastor Papi</h1>
+<h2>Cuisine</h2>
+<p><strong>Mexican restaurant</strong> — mexican restaurant</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.6 stars — 125 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery<br><strong>Meals:</strong> Lunch · Dinner</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids</p>
+<h2>Location &amp; Contact</h2>
+<p>232 O&#39;Farrell St, San Francisco, CA 94102, USA<br><a href="https://maps.google.com/?cid=4144268638552032224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7864848, -122.40860789999999</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: 11:00 AM – 8:00 PM<br>Wednesday: 11:00 AM – 8:00 PM<br>Thursday: 11:00 AM – 8:00 PM<br>Friday: 11:00 AM – 8:00 PM<br>Saturday: 11:00 AM – 8:00 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards<br><strong>Parking:</strong> Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Wanted some tacos in SanFran, and I got them when I randomly stopped in to this location.
+Menu takes a moment to absorb, esp. if you haven&#39;t been here before.
+Ordering was simple, and staff was friendly and kept location clean. There was a decent amount of people eating here on a Sat
+Tacos tasted re...&quot; — <strong>Corbomite Meatballs</strong> (a month ago)</li>
+<li>★★★★★ &quot;So happy this is in the union square area, yummy Mexican food, Mexico City style downtown! The food came out fast, which is perf when you’re starving downtown and want to eat quick. The prices are good, especially for a sit-down place near Union Square. Recommend&quot; — <strong>Lisbeth</strong> (3 months ago)</li>
+<li>★★★★★ &quot;I love this place! We wanted to find a spot to eat that didn&#39;t cook with seed oils, and they don&#39;t, so that was a plus. I tried 3 tacos (Al Pastor, Nopales, and Carne Asada) and each were amazing. My partner got the burrito bowl with carne asada and they loved it. The Asada was grilled perfectly and...&quot; — <strong>Adella Lott</strong> (4 months ago)</li>
+<li>★★★★★ &quot;I had an appointment by Union Square and needed some fuel but it had to be quick and no fuss. I remember the Mayor mentioning this place on his social media so I decided to swing by and I&#39;m really glad I did.</li>
+</ul>
+<p>This place is easy to find and just around the block from Union Square. I got three tacos;...&quot; — <strong>James Deperalta</strong> (4 months ago)</p>
+<ul>
+<li>★★★ &quot;Lots of options on the menu but I think the burrito is probably the way to go. The tacos with the crispy cheese frico also look pretty good.</li>
+</ul>
+<p>Pastor is on the trompo and all but they use a very lean and thicker cut and it&#39;s also sliced thicker, so it&#39;s a bit dry and chewy. It doesn&#39;t have that melti...&quot; — <strong>jkaw</strong> (a month ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Union Square](index.html)
+
+# Al Pastor Papi
+
+## Cuisine
+**Mexican restaurant** — mexican restaurant
+
+## Price Range
+Unknown
+
+## Rating
+4.6 stars — 125 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery  
+**Meals:** Lunch · Dinner
+
+## Atmosphere
+
+Good for groups · Good for kids
+
+## Location &amp; Contact
+
+232 O'Farrell St, San Francisco, CA 94102, USA  
+[View on Google Maps](https://maps.google.com/?cid=4144268638552032224&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7864848, -122.40860789999999
+
+## Hours
+
+Monday: Closed  
+Tuesday: 11:00 AM – 8:00 PM  
+Wednesday: 11:00 AM – 8:00 PM  
+Thursday: 11:00 AM – 8:00 PM  
+Friday: 11:00 AM – 8:00 PM  
+Saturday: 11:00 AM – 8:00 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards  
+**Parking:** Paid street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;Wanted some tacos in SanFran, and I got them when I randomly stopped in to this location.
+Menu takes a moment to absorb, esp. if you haven't been here before.
+Ordering was simple, and staff was friendly and kept location clean. There was a decent amount of people eating here on a Sat
+Tacos tasted re...&quot; — **Corbomite Meatballs** (a month ago)
+- ★★★★★ &quot;So happy this is in the union square area, yummy Mexican food, Mexico City style downtown! The food came out fast, which is perf when you’re starving downtown and want to eat quick. The prices are good, especially for a sit-down place near Union Square. Recommend&quot; — **Lisbeth** (3 months ago)
+- ★★★★★ &quot;I love this place! We wanted to find a spot to eat that didn't cook with seed oils, and they don't, so that was a plus. I tried 3 tacos (Al Pastor, Nopales, and Carne Asada) and each were amazing. My partner got the burrito bowl with carne asada and they loved it. The Asada was grilled perfectly and...&quot; — **Adella Lott** (4 months ago)
+- ★★★★★ &quot;I had an appointment by Union Square and needed some fuel but it had to be quick and no fuss. I remember the Mayor mentioning this place on his social media so I decided to swing by and I'm really glad I did.
+
+This place is easy to find and just around the block from Union Square. I got three tacos;...&quot; — **James Deperalta** (4 months ago)
+- ★★★ &quot;Lots of options on the menu but I think the burrito is probably the way to go. The tacos with the crispy cheese frico also look pretty good.
+
+Pastor is on the trompo and all but they use a very lean and thicker cut and it's also sliced thicker, so it's a bit dry and chewy. It doesn't have that melti...&quot; — **jkaw** (a month ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

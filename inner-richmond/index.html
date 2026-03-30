@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inner Richmond Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Inner Richmond, San Francisco. 19 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Inner Richmond</div>
+<h1>Inner Richmond</h1>
+<p>19 restaurants in Inner Richmond, San Francisco.</p>
+<div class="restaurant">
+  <a href="alushe-coffee-bar.html">Alushe coffee bar</a>
+  <div class="meta">4.8★ (107 reviews) — 4201 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-king.html">Dumpling King</a>
+  <div class="meta">4.7★ (118 reviews) — 336 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="unco-frank-s.html">Unco Frank's</a>
+  <div class="meta">4.7★ (49 reviews) — 443 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="steins.html">Steins</a>
+  <div class="meta">4.7★ (343 reviews) — 731 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pasta-supply-co.html">Pasta Supply Co</a>
+  <div class="meta">4.6★ (429 reviews) — 236 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zajang-grill.html">Zajang Grill</a>
+  <div class="meta">4.6★ (175 reviews) — 852 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="le-soleil.html">Le Soleil</a>
+  <div class="meta">4.5★ (215 reviews) — 133 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hamburger-haven.html">Hamburger Haven</a>
+  <div class="meta">4.5★ (474 reviews) — 800 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taisan-huakee-restaurant.html">Taisan Huakee restaurant 利桦饭店</a>
+  <div class="meta">4.5★ (72 reviews) — 4737 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="uncle-boy-s.html">Uncle Boy's</a>
+  <div class="meta">4.4★ (611 reviews) — 245 Balboa St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="toyama-japanese-restaurant.html">Toyama Japanese Restaurant</a>
+  <div class="meta">4.4★ (325 reviews) — 3727 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ah-ma-s-kitchen.html">Ah Ma’s Kitchen</a>
+  <div class="meta">4.4★ (42 reviews) — 1115 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lucky-food.html">Lucky Food</a>
+  <div class="meta">4.4★ (38 reviews) — 445 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="giorgio-s-pizzeria.html">Giorgio's Pizzeria</a>
+  <div class="meta">4.4★ (833 reviews) — 151 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gaspare-s-pizza-house-italian-restaurant.html">Gaspare's Pizza House & Italian Restaurant</a>
+  <div class="meta">4.4★ (725 reviews) — 5546 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spices.html">Spices</a>
+  <div class="meta">4.3★ (301 reviews) — 291 6th Ave, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-bunn-mi.html">Cafe Bunn Mi</a>
+  <div class="meta">4.3★ (627 reviews) — 417 Clement St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bill-s-place.html">Bill's Place</a>
+  <div class="meta">4.3★ (638 reviews) — 1919 2315 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cajun-house.html">Cajun House</a>
+  <div class="meta">4.3★ (303 reviews) — 308 5th Ave, San Francisco, CA 94118, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Inner Richmond — San Francisco Restaurants
+
+19 restaurants in Inner Richmond.
+
+- [Alushe coffee bar](alushe-coffee-bar.html) — 4.8★ (107 reviews)
+- [Dumpling King](dumpling-king.html) — 4.7★ (118 reviews)
+- [Unco Frank's](unco-frank-s.html) — 4.7★ (49 reviews)
+- [Steins](steins.html) — 4.7★ (343 reviews)
+- [Pasta Supply Co](pasta-supply-co.html) — 4.6★ (429 reviews)
+- [Zajang Grill](zajang-grill.html) — 4.6★ (175 reviews)
+- [Le Soleil](le-soleil.html) — 4.5★ (215 reviews)
+- [Hamburger Haven](hamburger-haven.html) — 4.5★ (474 reviews)
+- [Taisan Huakee restaurant 利桦饭店](taisan-huakee-restaurant.html) — 4.5★ (72 reviews)
+- [Uncle Boy's](uncle-boy-s.html) — 4.4★ (611 reviews)
+- [Toyama Japanese Restaurant](toyama-japanese-restaurant.html) — 4.4★ (325 reviews)
+- [Ah Ma’s Kitchen](ah-ma-s-kitchen.html) — 4.4★ (42 reviews)
+- [Lucky Food](lucky-food.html) — 4.4★ (38 reviews)
+- [Giorgio's Pizzeria](giorgio-s-pizzeria.html) — 4.4★ (833 reviews)
+- [Gaspare's Pizza House &amp; Italian Restaurant](gaspare-s-pizza-house-italian-restaurant.html) — 4.4★ (725 reviews)
+- [Spices](spices.html) — 4.3★ (301 reviews)
+- [Cafe Bunn Mi](cafe-bunn-mi.html) — 4.3★ (627 reviews)
+- [Bill's Place](bill-s-place.html) — 4.3★ (638 reviews)
+- [Cajun House](cajun-house.html) — 4.3★ (303 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

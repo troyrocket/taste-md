@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rice Roll Express — Chinatown — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Rice Roll Express in Chinatown, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Rice Roll Express",
+  "servesCuisine": [
+    "chinese restaurant",
+    "chinese noodle restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1131 Stockton St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94133",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 939-2753",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "307"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7962296,
+    "longitude": -122.4084831
+  },
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Belle"
+      },
+      "reviewBody": "We had lunch here after walking around for hours and it was very filling. We had the beef stew wonton noodle soup and shrimp rice rolls. They are a perfect pair! The stew was hearty, flavorful and war"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ronald Tan"
+      },
+      "reviewBody": "⭐️⭐️⭐️ 3/5 Overall\n\nFood: ⭐️⭐️⭐️⭐️ (4/5)\nThe food was definitely the highlight. The rice rolls were fresh, well-prepared, and enjoyable, with good texture and flavour. Simple but satisfying, and clear"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Gita Syahrani"
+      },
+      "reviewBody": "Yes, recommend this place a lot!\n\nIt’s great for a quick meal with variety of rice-roll menu that you can customize. We tried the beef rolls with sprouts.\n\nThe portion is generous and the rice roll is"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Chinatown</a></p>
+<h1>Rice Roll Express</h1>
+<h2>Cuisine</h2>
+<p><strong>Chinese restaurant</strong> — chinese restaurant, chinese noodle restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.5 stars — 307 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Breakfast · Brunch · Lunch · Dinner<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1131 Stockton St, San Francisco, CA 94133, USA<br>Phone: (415) 939-2753<br><a href="https://maps.google.com/?cid=13390803019824114155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7962296, -122.4084831</p>
+<h2>Hours</h2>
+<p>Monday: 7:00 AM – 6:00 PM<br>Tuesday: 7:00 AM – 6:00 PM<br>Wednesday: 7:00 AM – 6:00 PM<br>Thursday: 7:00 AM – 6:00 PM<br>Friday: 7:00 AM – 6:00 PM<br>Saturday: 7:00 AM – 6:00 PM<br>Sunday: 7:00 AM – 6:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Cash only<br><strong>Parking:</strong> Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;We had lunch here after walking around for hours and it was very filling. We had the beef stew wonton noodle soup and shrimp rice rolls. They are a perfect pair! The stew was hearty, flavorful and warm. The rice roll was savory and delicious.</li>
+</ul>
+<p>The place was crowded for lunch service and rightfully s...&quot; — <strong>Belle</strong> (3 weeks ago)</p>
+<ul>
+<li>★★★ &quot;⭐️⭐️⭐️ 3/5 Overall</li>
+</ul>
+<p>Food: ⭐️⭐️⭐️⭐️ (4/5)
+The food was definitely the highlight. The rice rolls were fresh, well-prepared, and enjoyable, with good texture and flavour. Simple but satisfying, and clearly made with care.</p>
+<p>Service: ⭐️⭐️ (2/5)
+Service was very minimal, which seems to be the style here. ...&quot; — <strong>Ronald Tan</strong> (3 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Yes, recommend this place a lot!</li>
+</ul>
+<p>It’s great for a quick meal with variety of rice-roll menu that you can customize. We tried the beef rolls with sprouts.</p>
+<p>The portion is generous and the rice roll is smooth and silky. Many condiments combo to choose from but I would recommend to always use their ch...&quot; — <strong>Gita Syahrani</strong> (4 months ago)</p>
+<ul>
+<li>★★★★ &quot;First of all the chili oil wontons are a MUST TRY. My friend and I came and split a plate, and wow! The cumin in the chili oil makes the dish pop. The wrappers were soft and chewy, and there was a perfect ratio of shrimp. The staff lowkey forgot our order though because we waited ~10 minutes and mul...&quot; — <strong>Autumn Cao</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Go here for the food! So glad I discovered this place. Amazing beef rice rolls and tasty shrimp dumplings. I would love to try more on their menu. Food was quick. Recommend to add their own special soy sauce. So delicious.&quot; — <strong>Robert Viet Ha</strong> (5 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Chinatown](index.html)
+
+# Rice Roll Express
+
+## Cuisine
+**Chinese restaurant** — chinese restaurant, chinese noodle restaurant
+
+## Price Range
+$
+
+## Rating
+4.5 stars — 307 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Breakfast · Brunch · Lunch · Dinner  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1131 Stockton St, San Francisco, CA 94133, USA  
+Phone: (415) 939-2753  
+[View on Google Maps](https://maps.google.com/?cid=13390803019824114155&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7962296, -122.4084831
+
+## Hours
+
+Monday: 7:00 AM – 6:00 PM  
+Tuesday: 7:00 AM – 6:00 PM  
+Wednesday: 7:00 AM – 6:00 PM  
+Thursday: 7:00 AM – 6:00 PM  
+Friday: 7:00 AM – 6:00 PM  
+Saturday: 7:00 AM – 6:00 PM  
+Sunday: 7:00 AM – 6:00 PM
+
+## Practical Info
+
+**Payment:** Cash only  
+**Parking:** Paid street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;We had lunch here after walking around for hours and it was very filling. We had the beef stew wonton noodle soup and shrimp rice rolls. They are a perfect pair! The stew was hearty, flavorful and warm. The rice roll was savory and delicious.
+
+The place was crowded for lunch service and rightfully s...&quot; — **Belle** (3 weeks ago)
+- ★★★ &quot;⭐️⭐️⭐️ 3/5 Overall
+
+Food: ⭐️⭐️⭐️⭐️ (4/5)
+The food was definitely the highlight. The rice rolls were fresh, well-prepared, and enjoyable, with good texture and flavour. Simple but satisfying, and clearly made with care.
+
+Service: ⭐️⭐️ (2/5)
+Service was very minimal, which seems to be the style here. ...&quot; — **Ronald Tan** (3 months ago)
+- ★★★★★ &quot;Yes, recommend this place a lot!
+
+It’s great for a quick meal with variety of rice-roll menu that you can customize. We tried the beef rolls with sprouts.
+
+The portion is generous and the rice roll is smooth and silky. Many condiments combo to choose from but I would recommend to always use their ch...&quot; — **Gita Syahrani** (4 months ago)
+- ★★★★ &quot;First of all the chili oil wontons are a MUST TRY. My friend and I came and split a plate, and wow! The cumin in the chili oil makes the dish pop. The wrappers were soft and chewy, and there was a perfect ratio of shrimp. The staff lowkey forgot our order though because we waited ~10 minutes and mul...&quot; — **Autumn Cao** (2 months ago)
+- ★★★★★ &quot;Go here for the food! So glad I discovered this place. Amazing beef rice rolls and tasty shrimp dumplings. I would love to try more on their menu. Food was quick. Recommend to add their own special soy sauce. So delicious.&quot; — **Robert Viet Ha** (5 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

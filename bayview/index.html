@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bayview Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Bayview, San Francisco. 44 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Bayview</div>
+<h1>Bayview</h1>
+<p>44 restaurants in Bayview, San Francisco.</p>
+<div class="restaurant">
+  <a href="sco-s.html">Sco’s</a>
+  <div class="meta">5★ (33 reviews) — 1730 Yosemite Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mdjk.html">MDJK</a>
+  <div class="meta">5★ (11 reviews) — 1225 Thomas Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cemitas-el-puebla.html">Cemitas El Puebla</a>
+  <div class="meta">5★ (5 reviews) — 1427 Wallace Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="early-bird-tacos-catering.html">Early Bird Tacos - Catering</a>
+  <div class="meta">4.9★ (150 reviews) — 2501 Phelps St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gumbo-social.html">Gumbo Social</a>
+  <div class="meta">4.8★ (330 reviews) — 5176 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="vasquez-coffee.html">Vasquez Coffee</a>
+  <div class="meta">4.8★ (62 reviews) — 50 Mendell St STE 1, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="smoke-soul-kitchen.html">Smoke Soul Kitchen</a>
+  <div class="meta">4.7★ (45 reviews) — 4618 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hungry-cafe.html">Hungry Cafe</a>
+  <div class="meta">4.7★ (46 reviews) — 1550 Evans Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="old-skool-cafe.html">Old Skool Cafe</a>
+  <div class="meta">4.7★ (285 reviews) — 1429 Mendell St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="constanso-s.html">Constanso's</a>
+  <div class="meta">4.7★ (159 reviews) — 4120 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="frank-grizzly-s.html">Frank Grizzly's</a>
+  <div class="meta">4.6★ (150 reviews) — 5698 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="all-good-pizza.html">All Good Pizza</a>
+  <div class="meta">4.6★ (362 reviews) — 1605 Jerrold Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="laughing-monk-brewing.html">Laughing Monk Brewing</a>
+  <div class="meta">4.6★ (231 reviews) — 1439 Egbert Ave unit a/b, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-deli-lama.html">The Deli Lama</a>
+  <div class="meta">4.6★ (312 reviews) — 150 Toland St #7, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rome-s-kitchen.html">Rome’s Kitchen</a>
+  <div class="meta">4.6★ (28 reviews) — 1195 Evans Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tato.html">Tato</a>
+  <div class="meta">4.6★ (183 reviews) — 4608 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="craftsman-and-wolves-the-den.html">Craftsman and Wolves the Den</a>
+  <div class="meta">4.5★ (226 reviews) — 1598 Yosemite Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bayside-cafe.html">Bayside Cafe</a>
+  <div class="meta">4.5★ (554 reviews) — 2011 Bayshore Blvd, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="banh-mi-house.html">Banh Mi House</a>
+  <div class="meta">4.5★ (206 reviews) — 2701 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="breakfast-at-tiffany-s.html">Breakfast At Tiffany's</a>
+  <div class="meta">4.4★ (1220 reviews) — 2499 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="alora-coastal-mediterranean.html">Alora Coastal Mediterranean</a>
+  <div class="meta">4.4★ (220 reviews) — Pier 3, Hornblower landing, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="boudin-bakery.html">Boudin Bakery</a>
+  <div class="meta">4.4★ (17963 reviews) — 160 Jefferson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hong-kong-bbq-restaurant.html">Hong Kong BBQ Restaurant</a>
+  <div class="meta">4.4★ (58 reviews) — 2728 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="soo-fong.html">Soo Fong</a>
+  <div class="meta">4.3★ (371 reviews) — 3801 3rd St #370, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-laguna.html">La Laguna</a>
+  <div class="meta">4.3★ (160 reviews) — 3906 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hardwood-bar-smokery.html">Hardwood Bar & Smokery</a>
+  <div class="meta">4.3★ (609 reviews) — 680 8th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tiffanys-cafe.html">Tiffanys Cafe</a>
+  <div class="meta">4.3★ (102 reviews) — 3801 3rd St #535, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chef-li-s-cafe-hk-b-b-q.html">Chef Li's Cafe Hk B.B.Q</a>
+  <div class="meta">4.2★ (192 reviews) — 2726 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-skillet.html">Little Skillet</a>
+  <div class="meta">4.2★ (1329 reviews) — 360 Ritch St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jj-fish-and-chicken.html">JJ Fish and Chicken</a>
+  <div class="meta">4.2★ (933 reviews) — 5100 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="city-lunch-restaurant.html">City Lunch Restaurant</a>
+  <div class="meta">4.2★ (164 reviews) — 2101 Ingalls St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wok-in-cafeteria.html">Wok-In Cafeteria</a>
+  <div class="meta">4.2★ (205 reviews) — 50 Mendell St STE 6, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="marthita-s.html">Marthita's</a>
+  <div class="meta">4.2★ (173 reviews) — 1401 Egbert Ave, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="peking-wok-restaurant.html">Peking Wok Restaurant</a>
+  <div class="meta">4.2★ (151 reviews) — 4920 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="b-j-burgers.html">B&J Burgers</a>
+  <div class="meta">4.2★ (692 reviews) — 6202 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizza-zone-n-grill.html">Pizza Zone N Grill</a>
+  <div class="meta">4.2★ (209 reviews) — 4404 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-azteca-taqueria.html">El Azteca Taqueria</a>
+  <div class="meta">4.2★ (288 reviews) — 5298 3rd St #2602, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="las-isletas-restaurant.html">Las Isletas Restaurant</a>
+  <div class="meta">4.1★ (327 reviews) — 4508 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="top-s-cafe.html">Top's Cafe</a>
+  <div class="meta">4.1★ (118 reviews) — 2460 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="krispy-krunchy-chicken.html">Krispy Krunchy Chicken</a>
+  <div class="meta">4.1★ (204 reviews) — 4517 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="las-palmas.html">Las Palmas</a>
+  <div class="meta">4.1★ (360 reviews) — 5251 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="montecristo.html">Montecristo</a>
+  <div class="meta">4.1★ (359 reviews) — 6286 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="imperial-garden-seafood-restaurant.html">Imperial Garden Seafood Restaurant</a>
+  <div class="meta">3.8★ (364 reviews) — 2626 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wing-szn-bayview.html">Wing SZN - Bayview</a>
+  <div class="meta">2.5★ (14 reviews) — 5155 3rd St, San Francisco, CA 94124, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Bayview — San Francisco Restaurants
+
+44 restaurants in Bayview.
+
+- [Sco’s](sco-s.html) — 5★ (33 reviews)
+- [MDJK](mdjk.html) — 5★ (11 reviews)
+- [Cemitas El Puebla](cemitas-el-puebla.html) — 5★ (5 reviews)
+- [Early Bird Tacos - Catering](early-bird-tacos-catering.html) — 4.9★ (150 reviews)
+- [Gumbo Social](gumbo-social.html) — 4.8★ (330 reviews)
+- [Vasquez Coffee](vasquez-coffee.html) — 4.8★ (62 reviews)
+- [Smoke Soul Kitchen](smoke-soul-kitchen.html) — 4.7★ (45 reviews)
+- [Hungry Cafe](hungry-cafe.html) — 4.7★ (46 reviews)
+- [Old Skool Cafe](old-skool-cafe.html) — 4.7★ (285 reviews)
+- [Constanso's](constanso-s.html) — 4.7★ (159 reviews)
+- [Frank Grizzly's](frank-grizzly-s.html) — 4.6★ (150 reviews)
+- [All Good Pizza](all-good-pizza.html) — 4.6★ (362 reviews)
+- [Laughing Monk Brewing](laughing-monk-brewing.html) — 4.6★ (231 reviews)
+- [The Deli Lama](the-deli-lama.html) — 4.6★ (312 reviews)
+- [Rome’s Kitchen](rome-s-kitchen.html) — 4.6★ (28 reviews)
+- [Tato](tato.html) — 4.6★ (183 reviews)
+- [Craftsman and Wolves the Den](craftsman-and-wolves-the-den.html) — 4.5★ (226 reviews)
+- [Bayside Cafe](bayside-cafe.html) — 4.5★ (554 reviews)
+- [Banh Mi House](banh-mi-house.html) — 4.5★ (206 reviews)
+- [Breakfast At Tiffany's](breakfast-at-tiffany-s.html) — 4.4★ (1220 reviews)
+- [Alora Coastal Mediterranean](alora-coastal-mediterranean.html) — 4.4★ (220 reviews)
+- [Boudin Bakery](boudin-bakery.html) — 4.4★ (17963 reviews)
+- [Hong Kong BBQ Restaurant](hong-kong-bbq-restaurant.html) — 4.4★ (58 reviews)
+- [Soo Fong](soo-fong.html) — 4.3★ (371 reviews)
+- [La Laguna](la-laguna.html) — 4.3★ (160 reviews)
+- [Hardwood Bar &amp; Smokery](hardwood-bar-smokery.html) — 4.3★ (609 reviews)
+- [Tiffanys Cafe](tiffanys-cafe.html) — 4.3★ (102 reviews)
+- [Chef Li's Cafe Hk B.B.Q](chef-li-s-cafe-hk-b-b-q.html) — 4.2★ (192 reviews)
+- [Little Skillet](little-skillet.html) — 4.2★ (1329 reviews)
+- [JJ Fish and Chicken](jj-fish-and-chicken.html) — 4.2★ (933 reviews)
+- [City Lunch Restaurant](city-lunch-restaurant.html) — 4.2★ (164 reviews)
+- [Wok-In Cafeteria](wok-in-cafeteria.html) — 4.2★ (205 reviews)
+- [Marthita's](marthita-s.html) — 4.2★ (173 reviews)
+- [Peking Wok Restaurant](peking-wok-restaurant.html) — 4.2★ (151 reviews)
+- [B&amp;J Burgers](b-j-burgers.html) — 4.2★ (692 reviews)
+- [Pizza Zone N Grill](pizza-zone-n-grill.html) — 4.2★ (209 reviews)
+- [El Azteca Taqueria](el-azteca-taqueria.html) — 4.2★ (288 reviews)
+- [Las Isletas Restaurant](las-isletas-restaurant.html) — 4.1★ (327 reviews)
+- [Top's Cafe](top-s-cafe.html) — 4.1★ (118 reviews)
+- [Krispy Krunchy Chicken](krispy-krunchy-chicken.html) — 4.1★ (204 reviews)
+- [Las Palmas](las-palmas.html) — 4.1★ (360 reviews)
+- [Montecristo](montecristo.html) — 4.1★ (359 reviews)
+- [Imperial Garden Seafood Restaurant](imperial-garden-seafood-restaurant.html) — 3.8★ (364 reviews)
+- [Wing SZN - Bayview](wing-szn-bayview.html) — 2.5★ (14 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

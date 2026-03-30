@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chestnut Diner — Marina District — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Chestnut Diner in Marina District, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Chestnut Diner",
+  "servesCuisine": [
+    "diner"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1312 Chestnut St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94123",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 441-1168",
+  "url": "https://chestnutdiner.top/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "reviewCount": "560"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.802338899999995,
+    "longitude": -122.42519439999998
+  },
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Emily Milton"
+      },
+      "reviewBody": "I was in SF for the weekend escaping the polar death of NC. I was averaging around 10-12 miles walking a day.  If you need a good, solid breakfast to fuel your city wandering, this place is perfect.\n\n"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michaela Paugh"
+      },
+      "reviewBody": "Went for a quick bite for lunch, did the trick. The food is simple but good and Nancy seemed to be the only waitress working and was great with all the customers. Atmosphere is kind of meh but isn’t t"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "2"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michelle Chan"
+      },
+      "reviewBody": "The chestnut diner is a classic American diner. It reminds me a lot of of the diners I dined at frequently as a teenager in young adult in New York City. At first I really appreciate it the nostalgia "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Marina District</a></p>
+<h1>Chestnut Diner</h1>
+<p>Cozy neighborhood diner dishing up American classics such as eggs Benedict, pancakes &amp; burgers.</p>
+<h2>Cuisine</h2>
+<p><strong>Diner</strong> — diner</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4 stars — 560 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Reservations accepted<br><strong>Meals:</strong> Breakfast · Brunch · Lunch · Dinner</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1312 Chestnut St, San Francisco, CA 94123, USA<br>Phone: (415) 441-1168<br>Website: <a href="https://chestnutdiner.top/">https://chestnutdiner.top/</a><br><a href="https://maps.google.com/?cid=9824343783727039637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.802338899999995, -122.42519439999998</p>
+<h2>Hours</h2>
+<p>Monday: 7:30 AM – 2:00 PM<br>Tuesday: 7:30 AM – 2:00 PM<br>Wednesday: 7:30 AM – 2:00 PM<br>Thursday: 7:30 AM – 2:00 PM<br>Friday: 7:30 AM – 2:00 PM<br>Saturday: 7:30 AM – 2:00 PM<br>Sunday: 7:30 AM – 2:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;I was in SF for the weekend escaping the polar death of NC. I was averaging around 10-12 miles walking a day.  If you need a good, solid breakfast to fuel your city wandering, this place is perfect.</li>
+</ul>
+<p>It’s quaint, has delicious food, and is your classic no frills diner - which was exactly what I want...&quot; — <strong>Emily Milton</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Went for a quick bite for lunch, did the trick. The food is simple but good and Nancy seemed to be the only waitress working and was great with all the customers. Atmosphere is kind of meh but isn’t that the point of a diner??&quot; — <strong>Michaela Paugh</strong> (3 weeks ago)</li>
+<li>★★ &quot;The chestnut diner is a classic American diner. It reminds me a lot of of the diners I dined at frequently as a teenager in young adult in New York City. At first I really appreciate it the nostalgia factor, And sitting at the counters with barstools, just like I did when I was a teenager, and order...&quot; — <strong>Michelle Chan</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Decided to stop by on my way home from my morning walk and enjoyed a nice solid breakfast (got the &quot;Annette and Frankie&quot; omelet with rye toast and home fries) at a decent price! The service was friendly, coffee was strong (in a big cup!), and the food came out without much of a wait. Nice to know th...&quot; — <strong>Kim Makoi, DC, PhD (Dr. Kim)</strong> (a month ago)</li>
+<li>★★★★★ &quot;Simply good, nothing fancy and not over priced.</li>
+</ul>
+<p>Great service and chill atmosphere. This spot is a great low key place if you want to be out in the city but not feel like you’re in a crowded place. I’ve been here a handful of times and they always delivers on the basics.</p>
+<p>Thank you Chestnut Diner!&quot; — <strong>Hector Martinez</strong> (a month ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Marina District](index.html)
+
+# Chestnut Diner
+Cozy neighborhood diner dishing up American classics such as eggs Benedict, pancakes &amp; burgers.
+
+## Cuisine
+**Diner** — diner
+
+## Price Range
+$
+
+## Rating
+4 stars — 560 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Reservations accepted  
+**Meals:** Breakfast · Brunch · Lunch · Dinner
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+1312 Chestnut St, San Francisco, CA 94123, USA  
+Phone: (415) 441-1168  
+Website: [https://chestnutdiner.top/](https://chestnutdiner.top/)  
+[View on Google Maps](https://maps.google.com/?cid=9824343783727039637&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.802338899999995, -122.42519439999998
+
+## Hours
+
+Monday: 7:30 AM – 2:00 PM  
+Tuesday: 7:30 AM – 2:00 PM  
+Wednesday: 7:30 AM – 2:00 PM  
+Thursday: 7:30 AM – 2:00 PM  
+Friday: 7:30 AM – 2:00 PM  
+Saturday: 7:30 AM – 2:00 PM  
+Sunday: 7:30 AM – 2:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;I was in SF for the weekend escaping the polar death of NC. I was averaging around 10-12 miles walking a day.  If you need a good, solid breakfast to fuel your city wandering, this place is perfect.
+
+It’s quaint, has delicious food, and is your classic no frills diner - which was exactly what I want...&quot; — **Emily Milton** (2 months ago)
+- ★★★★★ &quot;Went for a quick bite for lunch, did the trick. The food is simple but good and Nancy seemed to be the only waitress working and was great with all the customers. Atmosphere is kind of meh but isn’t that the point of a diner??&quot; — **Michaela Paugh** (3 weeks ago)
+- ★★ &quot;The chestnut diner is a classic American diner. It reminds me a lot of of the diners I dined at frequently as a teenager in young adult in New York City. At first I really appreciate it the nostalgia factor, And sitting at the counters with barstools, just like I did when I was a teenager, and order...&quot; — **Michelle Chan** (2 months ago)
+- ★★★★★ &quot;Decided to stop by on my way home from my morning walk and enjoyed a nice solid breakfast (got the &quot;Annette and Frankie&quot; omelet with rye toast and home fries) at a decent price! The service was friendly, coffee was strong (in a big cup!), and the food came out without much of a wait. Nice to know th...&quot; — **Kim Makoi, DC, PhD (Dr. Kim)** (a month ago)
+- ★★★★★ &quot;Simply good, nothing fancy and not over priced.
+
+Great service and chill atmosphere. This spot is a great low key place if you want to be out in the city but not feel like you’re in a crowded place. I’ve been here a handful of times and they always delivers on the basics.
+
+Thank you Chestnut Diner!&quot; — **Hector Martinez** (a month ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

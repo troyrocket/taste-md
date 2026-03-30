@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diamond Heights Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Diamond Heights, San Francisco. 9 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Diamond Heights</div>
+<h1>Diamond Heights</h1>
+<p>9 restaurants in Diamond Heights, San Francisco.</p>
+<div class="restaurant">
+  <a href="dim-the-way.html">Dim The Way</a>
+  <div class="meta">4.9★ (33 reviews) — 1109 Ocean Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rhea-s-deli-market.html">Rhea's Deli & Market</a>
+  <div class="meta">4.7★ (333 reviews) — 800 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sassy-foods.html">Sassy Foods</a>
+  <div class="meta">4.6★ (36 reviews) — 2626 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="se-or-sisig-sf-mission.html">Señor Sisig (SF Mission)</a>
+  <div class="meta">4.5★ (761 reviews) — 990 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bac-lieu-restaurant.html">Bac Lieu Restaurant</a>
+  <div class="meta">4.5★ (314 reviews) — 3216 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="au-sushi.html">Au Sushi</a>
+  <div class="meta">4.4★ (82 reviews) — 5214 Diamond Heights Blvd A, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-red-jade.html">New Red Jade</a>
+  <div class="meta">4.3★ (562 reviews) — 245 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jasmine-tea-house.html">Jasmine Tea House</a>
+  <div class="meta">4.2★ (169 reviews) — 3259 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="creighton-s-bakery-cafe.html">Creighton's Bakery Cafe</a>
+  <div class="meta">4.1★ (70 reviews) — 5214D Diamond Heights Blvd, San Francisco, CA 94131, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Diamond Heights — San Francisco Restaurants
+
+9 restaurants in Diamond Heights.
+
+- [Dim The Way](dim-the-way.html) — 4.9★ (33 reviews)
+- [Rhea's Deli &amp; Market](rhea-s-deli-market.html) — 4.7★ (333 reviews)
+- [Sassy Foods](sassy-foods.html) — 4.6★ (36 reviews)
+- [Señor Sisig (SF Mission)](se-or-sisig-sf-mission.html) — 4.5★ (761 reviews)
+- [Bac Lieu Restaurant](bac-lieu-restaurant.html) — 4.5★ (314 reviews)
+- [Au Sushi](au-sushi.html) — 4.4★ (82 reviews)
+- [New Red Jade](new-red-jade.html) — 4.3★ (562 reviews)
+- [Jasmine Tea House](jasmine-tea-house.html) — 4.2★ (169 reviews)
+- [Creighton's Bakery Cafe](creighton-s-bakery-cafe.html) — 4.1★ (70 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

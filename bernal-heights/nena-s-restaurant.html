@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nena's Restaurant — Bernal Heights — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Nena's Restaurant in Bernal Heights, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Nena's Restaurant",
+  "servesCuisine": [],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3459 Mission St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94110",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 285-8985",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "189"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.741447799999996,
+    "longitude": -122.42242189999997
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Becca Gomez Farrell"
+      },
+      "reviewBody": "Delicious atole de elote - so rich, so nicely spiced - and zucchini pupusa at Nena's in Bernal Heights! Knowing Spanish definitely helps if you want to order, though. We may have had an adventure. 😂"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Felix Reyes"
+      },
+      "reviewBody": "A low-key spot near or in the Mission. The chef's touch is simply delicious. I usually go to have their sopa de res, and portion control is not a thing for them. The owners are down to earth and they "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael Evans"
+      },
+      "reviewBody": "Great Salvadorean food. This is probably the best Salvadorean breakfast I have found in the city so far (plantains, eggs, crema, queso, etc). Their pupusas also stand should-to-shoulder with some of t"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Bernal Heights</a></p>
+<h1>Nena&#39;s Restaurant</h1>
+<h2>Cuisine</h2>
+<p><strong>Restaurant</strong> — Restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 189 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Reservations accepted<br><strong>Meals:</strong> Breakfast · Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>3459 Mission St, San Francisco, CA 94110, USA<br>Phone: (415) 285-8985<br><a href="https://maps.google.com/?cid=14081922402880683487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.741447799999996, -122.42242189999997</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 9:00 PM<br>Tuesday: 10:00 AM – 9:00 PM<br>Wednesday: Closed<br>Thursday: 10:00 AM – 9:00 PM<br>Friday: 10:00 AM – 9:00 PM<br>Saturday: 9:00 AM – 9:00 PM<br>Sunday: 9:00 AM – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;Delicious atole de elote - so rich, so nicely spiced - and zucchini pupusa at Nena&#39;s in Bernal Heights! Knowing Spanish definitely helps if you want to order, though. We may have had an adventure. 😂&quot; — <strong>Becca Gomez Farrell</strong> (3 years ago)</li>
+<li>★★★★★ &quot;A low-key spot near or in the Mission. The chef&#39;s touch is simply delicious. I usually go to have their sopa de res, and portion control is not a thing for them. The owners are down to earth and they make you feel welcomed. As an added plus, at least for me, they have a jukebox!&quot; — <strong>Felix Reyes</strong> (8 months ago)</li>
+<li>★★★★★ &quot;Great Salvadorean food. This is probably the best Salvadorean breakfast I have found in the city so far (plantains, eggs, crema, queso, etc). Their pupusas also stand should-to-shoulder with some of the best in the city -- it follows that their tortillas are also excellent. Their empanadas de crema/...&quot; — <strong>Michael Evans</strong> (6 years ago)</li>
+<li>★★★★★ &quot;Spotted randomly and was greatly surprised by the absolute DELICIOUSNESS of their food. Felt like it was my mom&#39;s cooking and the service was great as well. Prices are low compared to how happy I&#39;m feeling :)
+Strongly recommend their Chia water it is amazing!!&quot; — <strong>Dora Barbosa</strong> (11 years ago)</li>
+<li>★★★★★ &quot;Hands down the best Salvadoran food in San Francisco. Pupusas are great, soups are amazing. Remember they only take cash so be prepared for that. Take the time and visit this little gem in the city.&quot; — <strong>John King</strong> (8 years ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Bernal Heights](index.html)
+
+# Nena's Restaurant
+
+## Cuisine
+**Restaurant** — Restaurant
+
+## Price Range
+$
+
+## Rating
+4.4 stars — 189 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Reservations accepted  
+**Meals:** Breakfast · Brunch · Lunch · Dinner  
+**Drinks:** Wine · Beer
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+3459 Mission St, San Francisco, CA 94110, USA  
+Phone: (415) 285-8985  
+[View on Google Maps](https://maps.google.com/?cid=14081922402880683487&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.741447799999996, -122.42242189999997
+
+## Hours
+
+Monday: 10:00 AM – 9:00 PM  
+Tuesday: 10:00 AM – 9:00 PM  
+Wednesday: Closed  
+Thursday: 10:00 AM – 9:00 PM  
+Friday: 10:00 AM – 9:00 PM  
+Saturday: 9:00 AM – 9:00 PM  
+Sunday: 9:00 AM – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;Delicious atole de elote - so rich, so nicely spiced - and zucchini pupusa at Nena's in Bernal Heights! Knowing Spanish definitely helps if you want to order, though. We may have had an adventure. 😂&quot; — **Becca Gomez Farrell** (3 years ago)
+- ★★★★★ &quot;A low-key spot near or in the Mission. The chef's touch is simply delicious. I usually go to have their sopa de res, and portion control is not a thing for them. The owners are down to earth and they make you feel welcomed. As an added plus, at least for me, they have a jukebox!&quot; — **Felix Reyes** (8 months ago)
+- ★★★★★ &quot;Great Salvadorean food. This is probably the best Salvadorean breakfast I have found in the city so far (plantains, eggs, crema, queso, etc). Their pupusas also stand should-to-shoulder with some of the best in the city -- it follows that their tortillas are also excellent. Their empanadas de crema/...&quot; — **Michael Evans** (6 years ago)
+- ★★★★★ &quot;Spotted randomly and was greatly surprised by the absolute DELICIOUSNESS of their food. Felt like it was my mom's cooking and the service was great as well. Prices are low compared to how happy I'm feeling :)
+Strongly recommend their Chia water it is amazing!!&quot; — **Dora Barbosa** (11 years ago)
+- ★★★★★ &quot;Hands down the best Salvadoran food in San Francisco. Pupusas are great, soups are amazing. Remember they only take cash so be prepared for that. Take the time and visit this little gem in the city.&quot; — **John King** (8 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

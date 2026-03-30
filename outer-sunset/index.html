@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Outer Sunset Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Outer Sunset, San Francisco. 13 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Outer Sunset</div>
+<h1>Outer Sunset</h1>
+<p>13 restaurants in Outer Sunset, San Francisco.</p>
+<div class="restaurant">
+  <a href="lion-kitchen.html">Lion Kitchen</a>
+  <div class="meta">4.9★ (62 reviews) — 2407 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fire-ice-interactive-grill-bar.html">FiRE+iCE Interactive Grill & Bar</a>
+  <div class="meta">4.6★ (207 reviews) — Pier 39 Level, 2 Bay End, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="durty-nelly-s.html">Durty Nelly's</a>
+  <div class="meta">4.6★ (435 reviews) — 2328 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="thai-cottage-restaurant.html">Thai Cottage Restaurant</a>
+  <div class="meta">4.6★ (186 reviews) — 4041 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-pots-hot-pot.html">The Pots Hot Pot</a>
+  <div class="meta">4.6★ (430 reviews) — 2652 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fujiyama-ya.html">Fujiyama-Ya</a>
+  <div class="meta">4.4★ (310 reviews) — 1234 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="terra-cotta-warrior.html">Terra Cotta Warrior</a>
+  <div class="meta">4.4★ (630 reviews) — 2555 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saiwaii-ramen.html">Saiwaii Ramen</a>
+  <div class="meta">4.4★ (590 reviews) — 2240 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-crew.html">The Crew</a>
+  <div class="meta">4.2★ (202 reviews) — 1330 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beach-chalet-brewery-and-restaurant.html">Beach Chalet Brewery and Restaurant</a>
+  <div class="meta">4.1★ (3786 reviews) — 1000 Great Hwy, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cheung-hing-restaurant.html">Cheung Hing Restaurant</a>
+  <div class="meta">4.1★ (406 reviews) — 2339 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-jumbo-seafood-restaurant.html">New Jumbo Seafood Restaurant</a>
+  <div class="meta">3.9★ (455 reviews) — 1532 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tak-kee.html">Tak Kee</a>
+  <div class="meta">3.9★ (167 reviews) — 2435 Noriega St, San Francisco, CA 94122, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Outer Sunset — San Francisco Restaurants
+
+13 restaurants in Outer Sunset.
+
+- [Lion Kitchen](lion-kitchen.html) — 4.9★ (62 reviews)
+- [FiRE+iCE Interactive Grill &amp; Bar](fire-ice-interactive-grill-bar.html) — 4.6★ (207 reviews)
+- [Durty Nelly's](durty-nelly-s.html) — 4.6★ (435 reviews)
+- [Thai Cottage Restaurant](thai-cottage-restaurant.html) — 4.6★ (186 reviews)
+- [The Pots Hot Pot](the-pots-hot-pot.html) — 4.6★ (430 reviews)
+- [Fujiyama-Ya](fujiyama-ya.html) — 4.4★ (310 reviews)
+- [Terra Cotta Warrior](terra-cotta-warrior.html) — 4.4★ (630 reviews)
+- [Saiwaii Ramen](saiwaii-ramen.html) — 4.4★ (590 reviews)
+- [The Crew](the-crew.html) — 4.2★ (202 reviews)
+- [Beach Chalet Brewery and Restaurant](beach-chalet-brewery-and-restaurant.html) — 4.1★ (3786 reviews)
+- [Cheung Hing Restaurant](cheung-hing-restaurant.html) — 4.1★ (406 reviews)
+- [New Jumbo Seafood Restaurant](new-jumbo-seafood-restaurant.html) — 3.9★ (455 reviews)
+- [Tak Kee](tak-kee.html) — 3.9★ (167 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

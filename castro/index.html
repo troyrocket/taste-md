@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Castro Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Castro, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Castro</div>
+<h1>Castro</h1>
+<p>59 restaurants in Castro, San Francisco.</p>
+<div class="restaurant">
+  <a href="ka-kai-northern-thai.html">Ka Kai Northern Thai</a>
+  <div class="meta">4.9★ (11 reviews) — 4133 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flora-king-steakhouse.html">Flora King Steakhouse</a>
+  <div class="meta">4.9★ (88 reviews) — 4248 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="poesia-cafe.html">Poesia Cafe</a>
+  <div class="meta">4.7★ (176 reviews) — 4076 18th St Downstairs, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="anchor-oyster-bar.html">Anchor Oyster Bar</a>
+  <div class="meta">4.7★ (1263 reviews) — 579 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="potto.html">Potto</a>
+  <div class="meta">4.7★ (92 reviews) — 290 Sanchez St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hot-johnnie-s-smokehouse.html">Hot Johnnie's Smokehouse</a>
+  <div class="meta">4.7★ (496 reviews) — 4077 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="a-so.html">aíso</a>
+  <div class="meta">4.7★ (109 reviews) — 4068 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wooden-spoon.html">Wooden Spoon</a>
+  <div class="meta">4.6★ (787 reviews) — 2172 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="castro-indian-restaurant-bar.html">Castro Indian Restaurant & Bar</a>
+  <div class="meta">4.6★ (379 reviews) — 468 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tanglad.html">Tanglad</a>
+  <div class="meta">4.6★ (375 reviews) — 469 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="memento-sf.html">Memento SF</a>
+  <div class="meta">4.6★ (102 reviews) — 1305 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="heroic-italian-san-francisco.html">Heroic Italian San Francisco</a>
+  <div class="meta">4.6★ (116 reviews) — 572 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="frances.html">Frances</a>
+  <div class="meta">4.6★ (746 reviews) — 3870 17th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="canela-bistro-bar.html">Canela Bistro Bar</a>
+  <div class="meta">4.6★ (576 reviews) — 2272 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-de-casa.html">Cafe de Casa</a>
+  <div class="meta">4.6★ (724 reviews) — 3985 17th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spro-mission-dolores-castro.html">SPRO - Mission Dolores/Castro</a>
+  <div class="meta">4.6★ (463 reviews) — 500 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="santeria.html">Santeria</a>
+  <div class="meta">4.6★ (327 reviews) — 2251 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-peaks.html">The Peaks</a>
+  <div class="meta">4.6★ (142 reviews) — 1316 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="castro-tarts.html">Castro Tarts</a>
+  <div class="meta">4.6★ (242 reviews) — 564 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="orphan-andy-s-restaurant.html">Orphan Andy's Restaurant</a>
+  <div class="meta">4.5★ (2435 reviews) — 3991 A 17th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="poesia-osteria-italiana.html">Poesia Osteria Italiana</a>
+  <div class="meta">4.5★ (609 reviews) — 4072 18th St Upstairs, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pasta-panino.html">Pasta Panino</a>
+  <div class="meta">4.5★ (210 reviews) — 4150 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dinosaurs-sandwiches.html">Dinosaurs Sandwiches</a>
+  <div class="meta">4.5★ (486 reviews) — 2275 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="morning-due-cafe.html">Morning Due Cafe</a>
+  <div class="meta">4.5★ (671 reviews) — 3698 17th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-house.html">Dumpling House</a>
+  <div class="meta">4.5★ (544 reviews) — 335 Noe St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.5★ (2366 reviews) — 2304 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="copper-bar-kitchen-microbrewery.html">Copper Bar Kitchen & Microbrewery</a>
+  <div class="meta">4.5★ (96 reviews) — 4092 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blush-wine-bar.html">Blush! Wine Bar</a>
+  <div class="meta">4.5★ (347 reviews) — 476 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fratelli-pizza.html">FRATELLI PIZZA</a>
+  <div class="meta">4.5★ (79 reviews) — 460 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fable.html">Fable</a>
+  <div class="meta">4.4★ (1069 reviews) — 558 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="starbelly.html">Starbelly</a>
+  <div class="meta">4.4★ (2082 reviews) — 3583 16th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-mystique.html">Cafe Mystique</a>
+  <div class="meta">4.4★ (742 reviews) — 464 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-cove-on-castro.html">The Cove on Castro</a>
+  <div class="meta">4.4★ (598 reviews) — 434 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-kitchen-castro.html">Dumpling Kitchen - Castro</a>
+  <div class="meta">4.4★ (164 reviews) — 544 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mama-ji-s.html">Mama Ji's</a>
+  <div class="meta">4.4★ (940 reviews) — 4416 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-sausage-factory.html">The Sausage Factory</a>
+  <div class="meta">4.4★ (694 reviews) — 517 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hi-tops-san-francisco.html">Hi Tops San Francisco</a>
+  <div class="meta">4.4★ (678 reviews) — 2247 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="catch-sf-seafood.html">Catch sf Seafood</a>
+  <div class="meta">4.4★ (675 reviews) — 2362 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beit-rima.html">Beit Rima</a>
+  <div class="meta">4.4★ (900 reviews) — 138 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saucy-asian-san-francisco.html">Saucy Asian - San Francisco</a>
+  <div class="meta">4.4★ (376 reviews) — 3801 17th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zona-rosa-mexican-grill.html">Zona Rosa Mexican Grill</a>
+  <div class="meta">4.4★ (86 reviews) — 2337 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tara-indian-cuisine.html">Tara Indian Cuisine</a>
+  <div class="meta">4.4★ (540 reviews) — 2217 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shanghai-dumpling-king.html">Shanghai Dumpling King</a>
+  <div class="meta">4.4★ (185 reviews) — 720 14th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-castillito.html">El Castillito</a>
+  <div class="meta">4.4★ (1120 reviews) — 136 Church St #1111, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blind-butcher.html">Blind Butcher</a>
+  <div class="meta">4.3★ (457 reviews) — 4058 18th St A, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="le-marais-bakery.html">Le Marais Bakery</a>
+  <div class="meta">4.3★ (1089 reviews) — 498 Sanchez St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="duboce-park-cafe.html">Duboce Park Cafe</a>
+  <div class="meta">4.3★ (1009 reviews) — 2 Sanchez St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eiji.html">Eiji</a>
+  <div class="meta">4.3★ (541 reviews) — 317 Sanchez St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-mediterranee.html">La Mediterranee</a>
+  <div class="meta">4.3★ (583 reviews) — 288 Noe St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="one-bite.html">One bite</a>
+  <div class="meta">4.3★ (67 reviews) — 506 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taco-boys.html">Taco Boys</a>
+  <div class="meta">4.3★ (494 reviews) — 2312 Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lookout.html">Lookout</a>
+  <div class="meta">4.3★ (518 reviews) — 3600 16th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kasa-indian-eatery.html">Kasa Indian Eatery</a>
+  <div class="meta">4.1★ (688 reviews) — 4001 18th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oz-pizza-pizza-in-the-castro-district.html">Oz Pizza - Pizza in the Castro District</a>
+  <div class="meta">4.1★ (365 reviews) — 508 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wasabi-bistro.html">Wasabi Bistro</a>
+  <div class="meta">4.1★ (521 reviews) — 524 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gyro-xpress.html">Gyro Xpress</a>
+  <div class="meta">4★ (663 reviews) — 499 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="italian-pasta-kitchen.html">Italian Pasta Kitchen</a>
+  <div class="meta">4★ (16 reviews) — Located inside Kasa, 4001 18th St B, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="arepas-latin-cuisine-san-francisco.html">Arepas Latin Cuisine - San Francisco</a>
+  <div class="meta">4★ (492 reviews) — 3198 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-tortilla.html">La Tortilla</a>
+  <div class="meta">3.9★ (452 reviews) — 495 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Castro — San Francisco Restaurants
+
+59 restaurants in Castro.
+
+- [Ka Kai Northern Thai](ka-kai-northern-thai.html) — 4.9★ (11 reviews)
+- [Flora King Steakhouse](flora-king-steakhouse.html) — 4.9★ (88 reviews)
+- [Poesia Cafe](poesia-cafe.html) — 4.7★ (176 reviews)
+- [Anchor Oyster Bar](anchor-oyster-bar.html) — 4.7★ (1263 reviews)
+- [Potto](potto.html) — 4.7★ (92 reviews)
+- [Hot Johnnie's Smokehouse](hot-johnnie-s-smokehouse.html) — 4.7★ (496 reviews)
+- [aíso](a-so.html) — 4.7★ (109 reviews)
+- [Wooden Spoon](wooden-spoon.html) — 4.6★ (787 reviews)
+- [Castro Indian Restaurant &amp; Bar](castro-indian-restaurant-bar.html) — 4.6★ (379 reviews)
+- [Tanglad](tanglad.html) — 4.6★ (375 reviews)
+- [Memento SF](memento-sf.html) — 4.6★ (102 reviews)
+- [Heroic Italian San Francisco](heroic-italian-san-francisco.html) — 4.6★ (116 reviews)
+- [Frances](frances.html) — 4.6★ (746 reviews)
+- [Canela Bistro Bar](canela-bistro-bar.html) — 4.6★ (576 reviews)
+- [Cafe de Casa](cafe-de-casa.html) — 4.6★ (724 reviews)
+- [SPRO - Mission Dolores/Castro](spro-mission-dolores-castro.html) — 4.6★ (463 reviews)
+- [Santeria](santeria.html) — 4.6★ (327 reviews)
+- [The Peaks](the-peaks.html) — 4.6★ (142 reviews)
+- [Castro Tarts](castro-tarts.html) — 4.6★ (242 reviews)
+- [Orphan Andy's Restaurant](orphan-andy-s-restaurant.html) — 4.5★ (2435 reviews)
+- [Poesia Osteria Italiana](poesia-osteria-italiana.html) — 4.5★ (609 reviews)
+- [Pasta Panino](pasta-panino.html) — 4.5★ (210 reviews)
+- [Dinosaurs Sandwiches](dinosaurs-sandwiches.html) — 4.5★ (486 reviews)
+- [Morning Due Cafe](morning-due-cafe.html) — 4.5★ (671 reviews)
+- [Dumpling House](dumpling-house.html) — 4.5★ (544 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.5★ (2366 reviews)
+- [Copper Bar Kitchen &amp; Microbrewery](copper-bar-kitchen-microbrewery.html) — 4.5★ (96 reviews)
+- [Blush! Wine Bar](blush-wine-bar.html) — 4.5★ (347 reviews)
+- [FRATELLI PIZZA](fratelli-pizza.html) — 4.5★ (79 reviews)
+- [Fable](fable.html) — 4.4★ (1069 reviews)
+- [Starbelly](starbelly.html) — 4.4★ (2082 reviews)
+- [Cafe Mystique](cafe-mystique.html) — 4.4★ (742 reviews)
+- [The Cove on Castro](the-cove-on-castro.html) — 4.4★ (598 reviews)
+- [Dumpling Kitchen - Castro](dumpling-kitchen-castro.html) — 4.4★ (164 reviews)
+- [Mama Ji's](mama-ji-s.html) — 4.4★ (940 reviews)
+- [The Sausage Factory](the-sausage-factory.html) — 4.4★ (694 reviews)
+- [Hi Tops San Francisco](hi-tops-san-francisco.html) — 4.4★ (678 reviews)
+- [Catch sf Seafood](catch-sf-seafood.html) — 4.4★ (675 reviews)
+- [Beit Rima](beit-rima.html) — 4.4★ (900 reviews)
+- [Saucy Asian - San Francisco](saucy-asian-san-francisco.html) — 4.4★ (376 reviews)
+- [Zona Rosa Mexican Grill](zona-rosa-mexican-grill.html) — 4.4★ (86 reviews)
+- [Tara Indian Cuisine](tara-indian-cuisine.html) — 4.4★ (540 reviews)
+- [Shanghai Dumpling King](shanghai-dumpling-king.html) — 4.4★ (185 reviews)
+- [El Castillito](el-castillito.html) — 4.4★ (1120 reviews)
+- [Blind Butcher](blind-butcher.html) — 4.3★ (457 reviews)
+- [Le Marais Bakery](le-marais-bakery.html) — 4.3★ (1089 reviews)
+- [Duboce Park Cafe](duboce-park-cafe.html) — 4.3★ (1009 reviews)
+- [Eiji](eiji.html) — 4.3★ (541 reviews)
+- [La Mediterranee](la-mediterranee.html) — 4.3★ (583 reviews)
+- [One bite](one-bite.html) — 4.3★ (67 reviews)
+- [Taco Boys](taco-boys.html) — 4.3★ (494 reviews)
+- [Lookout](lookout.html) — 4.3★ (518 reviews)
+- [Kasa Indian Eatery](kasa-indian-eatery.html) — 4.1★ (688 reviews)
+- [Oz Pizza - Pizza in the Castro District](oz-pizza-pizza-in-the-castro-district.html) — 4.1★ (365 reviews)
+- [Wasabi Bistro](wasabi-bistro.html) — 4.1★ (521 reviews)
+- [Gyro Xpress](gyro-xpress.html) — 4★ (663 reviews)
+- [Italian Pasta Kitchen](italian-pasta-kitchen.html) — 4★ (16 reviews)
+- [Arepas Latin Cuisine - San Francisco](arepas-latin-cuisine-san-francisco.html) — 4★ (492 reviews)
+- [La Tortilla](la-tortilla.html) — 3.9★ (452 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>North Beach Pizza — Excelsior — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for North Beach Pizza in Excelsior, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "North Beach Pizza",
+  "servesCuisine": [
+    "pizza restaurant",
+    "brunch restaurant",
+    "chicken wings restaurant",
+    "pizza delivery",
+    "catering service",
+    "family restaurant",
+    "italian restaurant",
+    "food store",
+    "meal takeaway",
+    "meal delivery",
+    "food delivery",
+    "store",
+    "service"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4787 Mission St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94112",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 586-1400",
+  "url": "https://northbeachpizza.com/northbeachpizzamission",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "376"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7217815,
+    "longitude": -122.43682439999999
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "William Martinez"
+      },
+      "reviewBody": "The Stromboli here has been excellent both times I’ve ordered so far. This is only my second time trying the place, but the food has been consistently great. It arrived hot, fresh, and exactly as orde"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Melanie P"
+      },
+      "reviewBody": "Taste buds were very happy. Reddit recommended this place for gluten free/non dairy pizza! It did not disappoint. Fresh veggies! They also had gluten free pie but it was $$. Hard to find a great vegan"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jeff Ho"
+      },
+      "reviewBody": "Pretty good pizza here. $35.75 for a large 3 topping. I usually get my pizzas at Bravo but they are closed during lunchtime. Bravo's 3 topping pizzas are only  $28.50. After some research, I realized "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Excelsior</a></p>
+<h1>North Beach Pizza</h1>
+<p>Classic pizzeria serving thick- or thin-crust specialty pies &amp; pastas, with local delivery.</p>
+<h2>Cuisine</h2>
+<p><strong>Pizza restaurant</strong> — pizza restaurant, brunch restaurant, chicken wings restaurant, pizza delivery, catering service, family restaurant, italian restaurant, food store</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.6 stars — 376 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted<br><strong>Meals:</strong> Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>4787 Mission St, San Francisco, CA 94112, USA<br>Phone: (415) 586-1400<br>Website: <a href="https://northbeachpizza.com/northbeachpizzamission">https://northbeachpizza.com/northbeachpizzamission</a><br><a href="https://maps.google.com/?cid=15079235327151339354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7217815, -122.43682439999999</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 10:00 PM<br>Tuesday: 10:00 AM – 10:00 PM<br>Wednesday: 10:00 AM – 10:00 PM<br>Thursday: 10:00 AM – 10:00 PM<br>Friday: 10:00 AM – 11:00 PM<br>Saturday: 10:00 AM – 11:00 PM<br>Sunday: 10:00 AM – 10:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Free parking lot · Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;The Stromboli here has been excellent both times I’ve ordered so far. This is only my second time trying the place, but the food has been consistently great. It arrived hot, fresh, and exactly as ordered, with a well-cooked crust, flavorful sauce, and generous toppings. The delivery service was also...&quot; — <strong>William Martinez</strong> (3 weeks ago)</li>
+<li>★★★★★ &quot;Taste buds were very happy. Reddit recommended this place for gluten free/non dairy pizza! It did not disappoint. Fresh veggies! They also had gluten free pie but it was $$. Hard to find a great vegan pizza. Inside was quiet &amp; super clean &amp; cute. Outside not an upscale or welcoming neighborhood, but...&quot; — <strong>Melanie P</strong> (7 months ago)</li>
+<li>★★★★ &quot;Pretty good pizza here. $35.75 for a large 3 topping. I usually get my pizzas at Bravo but they are closed during lunchtime. Bravo&#39;s 3 topping pizzas are only  $28.50. After some research, I realized North Beach Pizza has $27 (26+1 &quot;support local fee&quot;) offer for a 3 topping large pizza on their webs...&quot; — <strong>Jeff Ho</strong> (3 years ago)</li>
+<li>★★★★★ &quot;On my last visit, lounge jazz music was played here. Fitting for their ambience. Owners and chefs know how to make a delightful vegan pizza here. The extra crust is a bonus bordering the likes of a pan. Comfortable seating and staff is friendly and welcoming.&quot; — <strong>Alpha Boötis</strong> (a year ago)</li>
+<li>★★★★★ &quot;The pizza was great as usual and Delivery no problem. I was annoyed that I was not allowed to use the coupon code that you sent me that same morning, which your system said was not valid. You never used to turned down coupons from long-term customers, Even if they were quite old, But you literally s...&quot; — <strong>Chuck Whelon</strong> (5 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Excelsior](index.html)
+
+# North Beach Pizza
+Classic pizzeria serving thick- or thin-crust specialty pies &amp; pastas, with local delivery.
+
+## Cuisine
+**Pizza restaurant** — pizza restaurant, brunch restaurant, chicken wings restaurant, pizza delivery, catering service, family restaurant, italian restaurant, food store
+
+## Price Range
+$$
+
+## Rating
+4.6 stars — 376 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup · Reservations accepted  
+**Meals:** Brunch · Lunch · Dinner  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for kids · Restroom available
+
+## Location &amp; Contact
+
+4787 Mission St, San Francisco, CA 94112, USA  
+Phone: (415) 586-1400  
+Website: [https://northbeachpizza.com/northbeachpizzamission](https://northbeachpizza.com/northbeachpizzamission)  
+[View on Google Maps](https://maps.google.com/?cid=15079235327151339354&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7217815, -122.43682439999999
+
+## Hours
+
+Monday: 10:00 AM – 10:00 PM  
+Tuesday: 10:00 AM – 10:00 PM  
+Wednesday: 10:00 AM – 10:00 PM  
+Thursday: 10:00 AM – 10:00 PM  
+Friday: 10:00 AM – 11:00 PM  
+Saturday: 10:00 AM – 11:00 PM  
+Sunday: 10:00 AM – 10:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Free parking lot · Paid street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;The Stromboli here has been excellent both times I’ve ordered so far. This is only my second time trying the place, but the food has been consistently great. It arrived hot, fresh, and exactly as ordered, with a well-cooked crust, flavorful sauce, and generous toppings. The delivery service was also...&quot; — **William Martinez** (3 weeks ago)
+- ★★★★★ &quot;Taste buds were very happy. Reddit recommended this place for gluten free/non dairy pizza! It did not disappoint. Fresh veggies! They also had gluten free pie but it was $$. Hard to find a great vegan pizza. Inside was quiet &amp; super clean &amp; cute. Outside not an upscale or welcoming neighborhood, but...&quot; — **Melanie P** (7 months ago)
+- ★★★★ &quot;Pretty good pizza here. $35.75 for a large 3 topping. I usually get my pizzas at Bravo but they are closed during lunchtime. Bravo's 3 topping pizzas are only  $28.50. After some research, I realized North Beach Pizza has $27 (26+1 &quot;support local fee&quot;) offer for a 3 topping large pizza on their webs...&quot; — **Jeff Ho** (3 years ago)
+- ★★★★★ &quot;On my last visit, lounge jazz music was played here. Fitting for their ambience. Owners and chefs know how to make a delightful vegan pizza here. The extra crust is a bonus bordering the likes of a pan. Comfortable seating and staff is friendly and welcoming.&quot; — **Alpha Boötis** (a year ago)
+- ★★★★★ &quot;The pizza was great as usual and Delivery no problem. I was annoyed that I was not allowed to use the coupon code that you sent me that same morning, which your system said was not valid. You never used to turned down coupons from long-term customers, Even if they were quite old, But you literally s...&quot; — **Chuck Whelon** (5 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

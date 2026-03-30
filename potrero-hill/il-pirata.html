@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Il Pirata — Potrero Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Il Pirata in Potrero Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Il Pirata",
+  "servesCuisine": [
+    "bar"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2007 16th St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94103",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 626-2626",
+  "url": "http://ilpiratasf.com/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "112"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7657126,
+    "longitude": -122.4068136
+  },
+  "openingHours": [
+    "Monday: 4:00 PM – 12:00 AM",
+    "Tuesday: 4:00 PM – 12:00 AM",
+    "Wednesday: 4:00 PM – 12:00 AM",
+    "Thursday: 4:00 PM – 12:00 AM",
+    "Friday: 4:00 PM – 12:00 AM",
+    "Saturday: Closed",
+    "Sunday: 4:00 – 9:00 PM"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "David George Johnson"
+      },
+      "reviewBody": "Can’t believe this place is still open!\nJust stopped by cause the outside light was on. Got 2 Anchor Steam beers on draft. Bartender remembers me after all these years. Beers are only $6 each!\nGreat s"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Owen Lopez"
+      },
+      "reviewBody": "More than friendly staff. Not a \"hip\" joint, mostly because it does not get too much foot traffic. But they have a great selection of italian american food and all the big players in the beer game. Pr"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "2"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Steven Beverly"
+      },
+      "reviewBody": "in a city where alcohol and food are everywhere, I base this rating strictly off of how unappealing the exterior looks. i walk past this eyesore every morning on the way to work and hope that someday "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Potrero Hill</a></p>
+<h1>Il Pirata</h1>
+<p>No pirates, but this roomy, TV-lined pub offers a lengthy bar-grub menu, a dance floor &amp; patios.</p>
+<h2>Cuisine</h2>
+<p><strong>Bar</strong> — bar</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 112 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout<br><strong>Drinks:</strong> Cocktails · Wine · Beer</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for groups · Good for watching sports · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>2007 16th St, San Francisco, CA 94103, USA<br>Phone: (415) 626-2626<br>Website: <a href="http://ilpiratasf.com/">http://ilpiratasf.com/</a><br><a href="https://maps.google.com/?cid=3919825495759083951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7657126, -122.4068136</p>
+<h2>Hours</h2>
+<p>Monday: 4:00 PM – 12:00 AM<br>Tuesday: 4:00 PM – 12:00 AM<br>Wednesday: 4:00 PM – 12:00 AM<br>Thursday: 4:00 PM – 12:00 AM<br>Friday: 4:00 PM – 12:00 AM<br>Saturday: Closed<br>Sunday: 4:00 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Can’t believe this place is still open!
+Just stopped by cause the outside light was on. Got 2 Anchor Steam beers on draft. Bartender remembers me after all these years. Beers are only $6 each!
+Great spot as a low key, neighborhood bar.
+Stop by for a chill time!&quot; — <strong>David George Johnson</strong> (2 years ago)</li>
+<li>★★★★★ &quot;More than friendly staff. Not a &quot;hip&quot; joint, mostly because it does not get too much foot traffic. But they have a great selection of italian american food and all the big players in the beer game. Prices are like any other dive bar and if you are a sports fan, this place will take care of you. Pati...&quot; — <strong>Owen Lopez</strong> (a year ago)</li>
+<li>★★ &quot;in a city where alcohol and food are everywhere, I base this rating strictly off of how unappealing the exterior looks. i walk past this eyesore every morning on the way to work and hope that someday the owners can invest in paying a local designer or artist or painter to freshen the curb appeal up....&quot; — <strong>Steven Beverly</strong> (2 years ago)</li>
+<li>★★★★★ &quot;We found this gem while staying in a Airbnb up the street.  Billy, Chris and the rest of the gang are so great. They helped us with things to see and do while in San Francisco...especially the House of Prime Rib (sorry Chris we tried to get you a martini shaker couldn&#39;t take or even buy).  Thanks fo...&quot; — <strong>Carol Sanchez</strong> (4 years ago)</li>
+<li>★★★★★ &quot;I forgot how much fun the Cuban music dance nights are at this place. I highly recommend the monthly party for Cuban salsa lovers which happens on last Friday of the month.</li>
+</ul>
+<p>The dance floor is pretty big and works out even though the place gets quite crowded.&quot; — <strong>Vardhman Jain</strong> (7 years ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Potrero Hill](index.html)
+
+# Il Pirata
+No pirates, but this roomy, TV-lined pub offers a lengthy bar-grub menu, a dance floor &amp; patios.
+
+## Cuisine
+**Bar** — bar
+
+## Price Range
+$
+
+## Rating
+4.3 stars — 112 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout  
+**Drinks:** Cocktails · Wine · Beer
+
+## Atmosphere
+
+Outdoor seating · Good for groups · Good for watching sports · Restroom available
+
+## Location &amp; Contact
+
+2007 16th St, San Francisco, CA 94103, USA  
+Phone: (415) 626-2626  
+Website: [http://ilpiratasf.com/](http://ilpiratasf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=3919825495759083951&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7657126, -122.4068136
+
+## Hours
+
+Monday: 4:00 PM – 12:00 AM  
+Tuesday: 4:00 PM – 12:00 AM  
+Wednesday: 4:00 PM – 12:00 AM  
+Thursday: 4:00 PM – 12:00 AM  
+Friday: 4:00 PM – 12:00 AM  
+Saturday: Closed  
+Sunday: 4:00 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
+
+## What Diners Say
+- ★★★★★ &quot;Can’t believe this place is still open!
+Just stopped by cause the outside light was on. Got 2 Anchor Steam beers on draft. Bartender remembers me after all these years. Beers are only $6 each!
+Great spot as a low key, neighborhood bar.
+Stop by for a chill time!&quot; — **David George Johnson** (2 years ago)
+- ★★★★★ &quot;More than friendly staff. Not a &quot;hip&quot; joint, mostly because it does not get too much foot traffic. But they have a great selection of italian american food and all the big players in the beer game. Prices are like any other dive bar and if you are a sports fan, this place will take care of you. Pati...&quot; — **Owen Lopez** (a year ago)
+- ★★ &quot;in a city where alcohol and food are everywhere, I base this rating strictly off of how unappealing the exterior looks. i walk past this eyesore every morning on the way to work and hope that someday the owners can invest in paying a local designer or artist or painter to freshen the curb appeal up....&quot; — **Steven Beverly** (2 years ago)
+- ★★★★★ &quot;We found this gem while staying in a Airbnb up the street.  Billy, Chris and the rest of the gang are so great. They helped us with things to see and do while in San Francisco...especially the House of Prime Rib (sorry Chris we tried to get you a martini shaker couldn't take or even buy).  Thanks fo...&quot; — **Carol Sanchez** (4 years ago)
+- ★★★★★ &quot;I forgot how much fun the Cuban music dance nights are at this place. I highly recommend the monthly party for Cuban salsa lovers which happens on last Friday of the month.
+
+The dance floor is pretty big and works out even though the place gets quite crowded.&quot; — **Vardhman Jain** (7 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

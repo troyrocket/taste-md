@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Le Central — Union Square — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Le Central in Union Square, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Le Central",
+  "servesCuisine": [
+    "french restaurant",
+    "bar"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "453 Bush St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94108",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 391-2233",
+  "url": "http://www.lecentralbistro.com/",
+  "priceRange": "$$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "397"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.790475,
+    "longitude": -122.40504
+  },
+  "openingHours": [
+    "Monday: 11:30 AM – 8:30 PM",
+    "Tuesday: 11:30 AM – 8:30 PM",
+    "Wednesday: 11:30 AM – 8:30 PM",
+    "Thursday: 11:30 AM – 8:30 PM",
+    "Friday: 11:30 AM – 8:30 PM",
+    "Saturday: 11:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Wilson Tsang"
+      },
+      "reviewBody": "TLDR: classic French restaurant that has a decent happy hour and decent though pricey food (non happy hour)\n\nMy favorite bite was the croquette. The small salad is very very small, and I did enjoy the"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jordana Lobo"
+      },
+      "reviewBody": "A lovely French restaurant with a cozy, welcoming atmosphere. The dishes were tasty and well prepared, and we were served fresh bread with butter, which was a nice touch. Service was good throughout t"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kreative Cid"
+      },
+      "reviewBody": "Dinner at Le Central. Traditional slow French meal (almost 2 hours). Pictured are…\n\nAppetizer: smoked salmon petit tartine (7 out of 10).\n\nWine: Stephane Magnien Pinot (I rate it 8 of 10, paired great"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Union Square</a></p>
+<h1>Le Central</h1>
+<p>Venerable choice serving French bistro fare in a narrow, brick-lined space with a full bar.</p>
+<h2>Cuisine</h2>
+<p><strong>French restaurant</strong> — french restaurant, bar</p>
+<h2>Price Range</h2>
+<p>$$$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 397 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>453 Bush St, San Francisco, CA 94108, USA<br>Phone: (415) 391-2233<br>Website: <a href="http://www.lecentralbistro.com/">http://www.lecentralbistro.com/</a><br><a href="https://maps.google.com/?cid=7009405623419880153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.790475, -122.40504</p>
+<h2>Hours</h2>
+<p>Monday: 11:30 AM – 8:30 PM<br>Tuesday: 11:30 AM – 8:30 PM<br>Wednesday: 11:30 AM – 8:30 PM<br>Thursday: 11:30 AM – 8:30 PM<br>Friday: 11:30 AM – 8:30 PM<br>Saturday: 11:30 AM – 8:30 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Paid garage parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;TLDR: classic French restaurant that has a decent happy hour and decent though pricey food (non happy hour)</li>
+</ul>
+<p>My favorite bite was the croquette. The small salad is very very small, and I did enjoy the deviled egg. The main we got to share was the cassoulet and the portion was huge and shareable. Ton...&quot; — <strong>Wilson Tsang</strong> (a month ago)</p>
+<ul>
+<li>★★★★★ &quot;A lovely French restaurant with a cozy, welcoming atmosphere. The dishes were tasty and well prepared, and we were served fresh bread with butter, which was a nice touch. Service was good throughout the meal, making the overall experience very enjoyable. Desserts are a must try.
+Better to uber to th...&quot; — <strong>Jordana Lobo</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Dinner at Le Central. Traditional slow French meal (almost 2 hours). Pictured are…</li>
+</ul>
+<p>Appetizer: smoked salmon petit tartine (7 out of 10).</p>
+<p>Wine: Stephane Magnien Pinot (I rate it 8 of 10, paired great with our food).</p>
+<p>Pan-roasted atlantic salmon, pommes purée, braised fennel, citrus beurre blanc. Ea...&quot; — <strong>Kreative Cid</strong> (6 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Yesterday, I had lunch with my 97-year-old mother at Le Central. She&#39;s been going there for decades, and I hadn&#39;t been for years. The quality of food, the excellent wine list, and the professional service made for a wonderful experience. We both had fish dishes...superb. The coffee and chocolate mou...&quot; — <strong>Rod T.</strong> (9 months ago)</li>
+<li>★★★★★ &quot;Lovely restaurant! You must get the French onion soup. Best I’ve ever had. Wonderful ambiance and service. They let me call ahead to put my name in but they also take reservations.&quot; — <strong>Carolyn Nickell</strong> (5 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Union Square](index.html)
+
+# Le Central
+Venerable choice serving French bistro fare in a narrow, brick-lined space with a full bar.
+
+## Cuisine
+**French restaurant** — french restaurant, bar
+
+## Price Range
+$$$
+
+## Rating
+4.3 stars — 397 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Restroom available
+
+## Location &amp; Contact
+
+453 Bush St, San Francisco, CA 94108, USA  
+Phone: (415) 391-2233  
+Website: [http://www.lecentralbistro.com/](http://www.lecentralbistro.com/)  
+[View on Google Maps](https://maps.google.com/?cid=7009405623419880153&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.790475, -122.40504
+
+## Hours
+
+Monday: 11:30 AM – 8:30 PM  
+Tuesday: 11:30 AM – 8:30 PM  
+Wednesday: 11:30 AM – 8:30 PM  
+Thursday: 11:30 AM – 8:30 PM  
+Friday: 11:30 AM – 8:30 PM  
+Saturday: 11:30 AM – 8:30 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Paid garage parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;TLDR: classic French restaurant that has a decent happy hour and decent though pricey food (non happy hour)
+
+My favorite bite was the croquette. The small salad is very very small, and I did enjoy the deviled egg. The main we got to share was the cassoulet and the portion was huge and shareable. Ton...&quot; — **Wilson Tsang** (a month ago)
+- ★★★★★ &quot;A lovely French restaurant with a cozy, welcoming atmosphere. The dishes were tasty and well prepared, and we were served fresh bread with butter, which was a nice touch. Service was good throughout the meal, making the overall experience very enjoyable. Desserts are a must try.
+Better to uber to th...&quot; — **Jordana Lobo** (3 months ago)
+- ★★★★★ &quot;Dinner at Le Central. Traditional slow French meal (almost 2 hours). Pictured are…
+
+Appetizer: smoked salmon petit tartine (7 out of 10).
+
+Wine: Stephane Magnien Pinot (I rate it 8 of 10, paired great with our food).
+
+Pan-roasted atlantic salmon, pommes purée, braised fennel, citrus beurre blanc. Ea...&quot; — **Kreative Cid** (6 months ago)
+- ★★★★★ &quot;Yesterday, I had lunch with my 97-year-old mother at Le Central. She's been going there for decades, and I hadn't been for years. The quality of food, the excellent wine list, and the professional service made for a wonderful experience. We both had fish dishes...superb. The coffee and chocolate mou...&quot; — **Rod T.** (9 months ago)
+- ★★★★★ &quot;Lovely restaurant! You must get the French onion soup. Best I’ve ever had. Wonderful ambiance and service. They let me call ahead to put my name in but they also take reservations.&quot; — **Carolyn Nickell** (5 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahona Mercado — Nob Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Tahona Mercado in Nob Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Tahona Mercado",
+  "servesCuisine": [
+    "mexican restaurant",
+    "liquor store",
+    "grocery store",
+    "food store",
+    "store"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1168 Leavenworth St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94109",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 775-9812",
+  "url": "https://tahonamercado.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "174"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.792063899999995,
+    "longitude": -122.41572139999998
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jar Concengco"
+      },
+      "reviewBody": "Got to visit this place twice. Once to eat tacos - which were great! We sampled one of each - I think one was mushroom. They also had a refreshing passionfruit drink. The second time around I returned"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jehovah"
+      },
+      "reviewBody": "Converted to be more of a restaurant , no fuss easy delicious bites and fast of you need it but you can also hang out. Loved the torta with chicken tinga, great balance. Crunchy, tangy, warm, soft. Ta"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Parasto Shamlou"
+      },
+      "reviewBody": "This place is amazing! The chef really knows what they’re doing — the flavors, ingredients, presentation, and service are all top-notch. The staff is warm and welcoming, and they’ve got a great craft "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Nob Hill</a></p>
+<h1>Tahona Mercado</h1>
+<h2>Cuisine</h2>
+<p><strong>Mexican restaurant</strong> — mexican restaurant, liquor store, grocery store, food store, store</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.9 stars — 174 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Breakfast · Brunch · Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Location &amp; Contact</h2>
+<p>1168 Leavenworth St, San Francisco, CA 94109, USA<br>Phone: (415) 775-9812<br>Website: <a href="https://tahonamercado.com/">https://tahonamercado.com/</a><br><a href="https://maps.google.com/?cid=13294655421031529897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.792063899999995, -122.41572139999998</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 7:00 PM<br>Tuesday: 10:00 AM – 7:00 PM<br>Wednesday: Closed<br>Thursday: 10:00 AM – 7:00 PM<br>Friday: 10:00 AM – 7:00 PM<br>Saturday: 10:00 AM – 7:00 PM<br>Sunday: 10:00 AM – 3:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Got to visit this place twice. Once to eat tacos - which were great! We sampled one of each - I think one was mushroom. They also had a refreshing passionfruit drink. The second time around I returned to buy a bottle of tequila and shop in their selection of ingredients. Great neighborhood spot righ...&quot; — <strong>Jar Concengco</strong> (4 months ago)</li>
+<li>★★★★★ &quot;Converted to be more of a restaurant , no fuss easy delicious bites and fast of you need it but you can also hang out. Loved the torta with chicken tinga, great balance. Crunchy, tangy, warm, soft. Tacos are excellent too.&quot; — <strong>Jehovah</strong> (3 weeks ago)</li>
+<li>★★★★★ &quot;This place is amazing! The chef really knows what they’re doing — the flavors, ingredients, presentation, and service are all top-notch. The staff is warm and welcoming, and they’ve got a great craft beer selection (singles and packs). I’ll definitely be back to try everything on the menu!&quot; — <strong>Parasto Shamlou</strong> (a month ago)</li>
+<li>★★★★★ &quot;Food absolutely smacks.</li>
+</ul>
+<p>At first I thought 7$ for a birria taco was crazy but it was delicious and loaded with a huge pile of tasty meat.</p>
+<p>The specials they offered today, pescadillos, we&#39;re put of this world. I bet everything here is incredible.&quot; — <strong>Josh Ruhlman</strong> (a month ago)</p>
+<ul>
+<li>★★★★★ &quot;I did not eat at this establishment. The owner Steven was quite approachable and very knowledgeable about the type of tequila I was searching for. Provided a nice pick of a Salmiana Mezcal,. Allowed a tasting prior to purchasing it. Definitely recommend stopping by this shop. Friendly, helpful staff...&quot; — <strong>Sean Berkley</strong> (2 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Nob Hill](index.html)
+
+# Tahona Mercado
+
+## Cuisine
+**Mexican restaurant** — mexican restaurant, liquor store, grocery store, food store, store
+
+## Price Range
+Unknown
+
+## Rating
+4.9 stars — 174 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Breakfast · Brunch · Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Location &amp; Contact
+
+1168 Leavenworth St, San Francisco, CA 94109, USA  
+Phone: (415) 775-9812  
+Website: [https://tahonamercado.com/](https://tahonamercado.com/)  
+[View on Google Maps](https://maps.google.com/?cid=13294655421031529897&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.792063899999995, -122.41572139999998
+
+## Hours
+
+Monday: 10:00 AM – 7:00 PM  
+Tuesday: 10:00 AM – 7:00 PM  
+Wednesday: Closed  
+Thursday: 10:00 AM – 7:00 PM  
+Friday: 10:00 AM – 7:00 PM  
+Saturday: 10:00 AM – 7:00 PM  
+Sunday: 10:00 AM – 3:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Free street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;Got to visit this place twice. Once to eat tacos - which were great! We sampled one of each - I think one was mushroom. They also had a refreshing passionfruit drink. The second time around I returned to buy a bottle of tequila and shop in their selection of ingredients. Great neighborhood spot righ...&quot; — **Jar Concengco** (4 months ago)
+- ★★★★★ &quot;Converted to be more of a restaurant , no fuss easy delicious bites and fast of you need it but you can also hang out. Loved the torta with chicken tinga, great balance. Crunchy, tangy, warm, soft. Tacos are excellent too.&quot; — **Jehovah** (3 weeks ago)
+- ★★★★★ &quot;This place is amazing! The chef really knows what they’re doing — the flavors, ingredients, presentation, and service are all top-notch. The staff is warm and welcoming, and they’ve got a great craft beer selection (singles and packs). I’ll definitely be back to try everything on the menu!&quot; — **Parasto Shamlou** (a month ago)
+- ★★★★★ &quot;Food absolutely smacks.
+
+At first I thought 7$ for a birria taco was crazy but it was delicious and loaded with a huge pile of tasty meat.
+
+The specials they offered today, pescadillos, we're put of this world. I bet everything here is incredible.&quot; — **Josh Ruhlman** (a month ago)
+- ★★★★★ &quot;I did not eat at this establishment. The owner Steven was quite approachable and very knowledgeable about the type of tequila I was searching for. Provided a nice pick of a Salmiana Mezcal,. Allowed a tasting prior to purchasing it. Definitely recommend stopping by this shop. Friendly, helpful staff...&quot; — **Sean Berkley** (2 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

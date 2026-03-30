@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tenderloin Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Tenderloin, San Francisco. 38 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Tenderloin</div>
+<h1>Tenderloin</h1>
+<p>38 restaurants in Tenderloin, San Francisco.</p>
+<div class="restaurant">
+  <a href="ox-tiger.html">Ox & Tiger</a>
+  <div class="meta">5★ (104 reviews) — 552 Jones St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="salty-s.html">Salty's</a>
+  <div class="meta">4.9★ (184 reviews) — 748 Van Ness Ave, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yasijang.html">YASIJANG</a>
+  <div class="meta">4.8★ (114 reviews) — 800 Van Ness Ave, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="louder-restaurant.html">Louder Restaurant</a>
+  <div class="meta">4.7★ (53 reviews) — 620 O'Farrell St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ararat-kebab-gyros.html">Ararat Kebab & Gyros</a>
+  <div class="meta">4.7★ (341 reviews) — 612 O'Farrell St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="z-zoul-cafe.html">Z Zoul Cafe</a>
+  <div class="meta">4.7★ (236 reviews) — 295 Eddy St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="larkin-restaurant.html">Larkin Restaurant</a>
+  <div class="meta">4.7★ (98 reviews) — 607 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="estrellita-s-snacks.html">Estrellita’s Snacks</a>
+  <div class="meta">4.7★ (57 reviews) — 483 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taniku-izakaya.html">Taniku Izakaya</a>
+  <div class="meta">4.7★ (413 reviews) — 1035 Geary St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pho-2000.html">Pho 2000</a>
+  <div class="meta">4.7★ (541 reviews) — 637 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kusina-ni-tess.html">Kusina Ni Tess</a>
+  <div class="meta">4.7★ (268 reviews) — 237 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="m-ng-thu-cafe.html">Mộng Thu Cafe</a>
+  <div class="meta">4.7★ (212 reviews) — 248 Hyde St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-sabor-yucateco.html">El Sabor Yucateco</a>
+  <div class="meta">4.6★ (74 reviews) — 173 Eddy St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="outta-sight-pizza.html">Outta Sight Pizza</a>
+  <div class="meta">4.6★ (659 reviews) — 422 Larkin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sungho.html">SUNGHO</a>
+  <div class="meta">4.6★ (136 reviews) — 250 Hyde St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hai-ky-mi-gia.html">Hai Ky Mi Gia</a>
+  <div class="meta">4.6★ (665 reviews) — 707 Ellis St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hello-sandwich-noodle.html">Hello Sandwich & Noodle</a>
+  <div class="meta">4.6★ (80 reviews) — 426 Larkin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brenda-s-french-soul-food.html">Brenda's French Soul Food</a>
+  <div class="meta">4.5★ (6239 reviews) — 652 Polk St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="son-and-garden.html">Son and Garden</a>
+  <div class="meta">4.5★ (1317 reviews) — 700 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ciaorigato.html">CIAORIGATO</a>
+  <div class="meta">4.5★ (140 reviews) — 111 Mason St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="azalina-s.html">Azalina's</a>
+  <div class="meta">4.5★ (136 reviews) — 499 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saigon-sandwich.html">Saigon Sandwich</a>
+  <div class="meta">4.5★ (1566 reviews) — 560 Larkin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bottle-club-pub.html">Bottle Club Pub</a>
+  <div class="meta">4.5★ (173 reviews) — 555 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zen-yai.html">Zen Yai</a>
+  <div class="meta">4.5★ (749 reviews) — 925 O'Farrell St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="thai-curry-restaurant-bar.html">Thai Curry Restaurant & Bar</a>
+  <div class="meta">4.5★ (103 reviews) — 96 McAllister St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mensho-tokyo-sf.html">Mensho Tokyo SF</a>
+  <div class="meta">4.5★ (3225 reviews) — 672 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="los-yucatecos-restaurant.html">Los Yucatecos Restaurant</a>
+  <div class="meta">4.4★ (132 reviews) — 717 Ellis St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pasha-sf.html">Pasha SF</a>
+  <div class="meta">4.4★ (252 reviews) — 673 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chambers-eat-drink.html">Chambers eat + drink</a>
+  <div class="meta">4.3★ (476 reviews) — 601 Eddy St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lers-ros.html">Lers Ros</a>
+  <div class="meta">4.3★ (996 reviews) — 730 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-roost.html">The Roost</a>
+  <div class="meta">4.3★ (23 reviews) — 479 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chao-pescao.html">Chao Pescao</a>
+  <div class="meta">4.3★ (467 reviews) — 272 McAllister St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="black-cat-jazz-supper-club.html">Black Cat Jazz Supper Club</a>
+  <div class="meta">4.3★ (1088 reviews) — 400 Eddy St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-old-siam-thai-restaurant.html">The Old Siam Thai Restaurant</a>
+  <div class="meta">4.2★ (976 reviews) — 201 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sai-jai-thai.html">Sai Jai Thai</a>
+  <div class="meta">4.2★ (418 reviews) — 771 O'Farrell St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tenderloin-deli-connect.html">Tenderloin Deli & Connect</a>
+  <div class="meta">4★ (1 reviews) — 463 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shalimar-restaurant.html">Shalimar Restaurant</a>
+  <div class="meta">4★ (1114 reviews) — 532 Jones St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mel-s-kitchen.html">Mel's Kitchen</a>
+  <div class="meta">3.9★ (1048 reviews) — 1050 Van Ness Ave, San Francisco, CA 94109, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Tenderloin — San Francisco Restaurants
+
+38 restaurants in Tenderloin.
+
+- [Ox &amp; Tiger](ox-tiger.html) — 5★ (104 reviews)
+- [Salty's](salty-s.html) — 4.9★ (184 reviews)
+- [YASIJANG](yasijang.html) — 4.8★ (114 reviews)
+- [Louder Restaurant](louder-restaurant.html) — 4.7★ (53 reviews)
+- [Ararat Kebab &amp; Gyros](ararat-kebab-gyros.html) — 4.7★ (341 reviews)
+- [Z Zoul Cafe](z-zoul-cafe.html) — 4.7★ (236 reviews)
+- [Larkin Restaurant](larkin-restaurant.html) — 4.7★ (98 reviews)
+- [Estrellita’s Snacks](estrellita-s-snacks.html) — 4.7★ (57 reviews)
+- [Taniku Izakaya](taniku-izakaya.html) — 4.7★ (413 reviews)
+- [Pho 2000](pho-2000.html) — 4.7★ (541 reviews)
+- [Kusina Ni Tess](kusina-ni-tess.html) — 4.7★ (268 reviews)
+- [Mộng Thu Cafe](m-ng-thu-cafe.html) — 4.7★ (212 reviews)
+- [El Sabor Yucateco](el-sabor-yucateco.html) — 4.6★ (74 reviews)
+- [Outta Sight Pizza](outta-sight-pizza.html) — 4.6★ (659 reviews)
+- [SUNGHO](sungho.html) — 4.6★ (136 reviews)
+- [Hai Ky Mi Gia](hai-ky-mi-gia.html) — 4.6★ (665 reviews)
+- [Hello Sandwich &amp; Noodle](hello-sandwich-noodle.html) — 4.6★ (80 reviews)
+- [Brenda's French Soul Food](brenda-s-french-soul-food.html) — 4.5★ (6239 reviews)
+- [Son and Garden](son-and-garden.html) — 4.5★ (1317 reviews)
+- [CIAORIGATO](ciaorigato.html) — 4.5★ (140 reviews)
+- [Azalina's](azalina-s.html) — 4.5★ (136 reviews)
+- [Saigon Sandwich](saigon-sandwich.html) — 4.5★ (1566 reviews)
+- [Bottle Club Pub](bottle-club-pub.html) — 4.5★ (173 reviews)
+- [Zen Yai](zen-yai.html) — 4.5★ (749 reviews)
+- [Thai Curry Restaurant &amp; Bar](thai-curry-restaurant-bar.html) — 4.5★ (103 reviews)
+- [Mensho Tokyo SF](mensho-tokyo-sf.html) — 4.5★ (3225 reviews)
+- [Los Yucatecos Restaurant](los-yucatecos-restaurant.html) — 4.4★ (132 reviews)
+- [Pasha SF](pasha-sf.html) — 4.4★ (252 reviews)
+- [Chambers eat + drink](chambers-eat-drink.html) — 4.3★ (476 reviews)
+- [Lers Ros](lers-ros.html) — 4.3★ (996 reviews)
+- [The Roost](the-roost.html) — 4.3★ (23 reviews)
+- [Chao Pescao](chao-pescao.html) — 4.3★ (467 reviews)
+- [Black Cat Jazz Supper Club](black-cat-jazz-supper-club.html) — 4.3★ (1088 reviews)
+- [The Old Siam Thai Restaurant](the-old-siam-thai-restaurant.html) — 4.2★ (976 reviews)
+- [Sai Jai Thai](sai-jai-thai.html) — 4.2★ (418 reviews)
+- [Tenderloin Deli &amp; Connect](tenderloin-deli-connect.html) — 4★ (1 reviews)
+- [Shalimar Restaurant](shalimar-restaurant.html) — 4★ (1114 reviews)
+- [Mel's Kitchen](mel-s-kitchen.html) — 3.9★ (1048 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

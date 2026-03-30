@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mission District Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Mission District, San Francisco. 60 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Mission District</div>
+<h1>Mission District</h1>
+<p>60 restaurants in Mission District, San Francisco.</p>
+<div class="restaurant">
+  <a href="sangria-salt.html">Sangria & Salt</a>
+  <div class="meta">4.8★ (84 reviews) — 2327 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sfceviche-19.html">SFCeviche 19</a>
+  <div class="meta">4.8★ (54 reviews) — 2301 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mr-pollo.html">Mr. Pollo</a>
+  <div class="meta">4.8★ (307 reviews) — 2823 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jake-s-steaks.html">Jake's Steaks</a>
+  <div class="meta">4.8★ (669 reviews) — 581 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-morris.html">The Morris</a>
+  <div class="meta">4.7★ (648 reviews) — 2501 Mariposa St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lazy-bear.html">Lazy Bear</a>
+  <div class="meta">4.7★ (1167 reviews) — 3416 19th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-mil-amores.html">el Mil Amores</a>
+  <div class="meta">4.7★ (495 reviews) — 2780 21st St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-oaxaque-a.html">La Oaxaqueña</a>
+  <div class="meta">4.7★ (941 reviews) — 2128 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-bite.html">The Bite</a>
+  <div class="meta">4.7★ (918 reviews) — 996 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barberio-osteria.html">Barberio Osteria</a>
+  <div class="meta">4.7★ (148 reviews) — 557 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="prubechu.html">Prubechu</a>
+  <div class="meta">4.6★ (526 reviews) — 2224 Mission St #A, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="loltun-restaurant.html">Loltun Restaurant</a>
+  <div class="meta">4.6★ (90 reviews) — 2471 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lolinda.html">Lolinda</a>
+  <div class="meta">4.6★ (1765 reviews) — 2518 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blue-plate.html">Blue Plate</a>
+  <div class="meta">4.6★ (591 reviews) — 3218 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rasa-rasa-kitchen-r2k.html">Rasa Rasa Kitchen / R2K</a>
+  <div class="meta">4.6★ (172 reviews) — 2200 Bryant St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="arcana.html">Arcana</a>
+  <div class="meta">4.6★ (271 reviews) — 2512 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="heirloom-caf.html">Heirloom Café</a>
+  <div class="meta">4.6★ (415 reviews) — 2500 Folsom St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-capricho-restaurant.html">El Capricho Restaurant</a>
+  <div class="meta">4.6★ (90 reviews) — 2022 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="alamo-drafthouse-cinema-new-mission.html">Alamo Drafthouse Cinema New Mission</a>
+  <div class="meta">4.6★ (4750 reviews) — 2550 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lol.html">Loló</a>
+  <div class="meta">4.6★ (1880 reviews) — 974 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-rabbit-hole.html">The Rabbit Hole</a>
+  <div class="meta">4.5★ (149 reviews) — 3472 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tartine-manufactory.html">Tartine Manufactory</a>
+  <div class="meta">4.5★ (4304 reviews) — 595 Alabama St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taquer-a-el-farolito.html">Taquería El Farolito</a>
+  <div class="meta">4.5★ (5602 reviews) — 2779 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-taqueria.html">La Taqueria</a>
+  <div class="meta">4.5★ (7114 reviews) — 2889 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beretta-valencia.html">Beretta Valencia</a>
+  <div class="meta">4.5★ (2555 reviews) — 1199 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="burma-love.html">Burma Love</a>
+  <div class="meta">4.5★ (2219 reviews) — 211 Valencia St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tartine-bakery.html">Tartine Bakery</a>
+  <div class="meta">4.5★ (5847 reviews) — 600 Guerrero St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flour-water.html">Flour + Water</a>
+  <div class="meta">4.5★ (1849 reviews) — 2401 Harrison St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rintaro.html">Rintaro</a>
+  <div class="meta">4.5★ (1354 reviews) — 82 14th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piglet-co.html">Piglet & Co</a>
+  <div class="meta">4.5★ (180 reviews) — 2170 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="foreign-cinema.html">Foreign Cinema</a>
+  <div class="meta">4.5★ (3311 reviews) — 2534 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dancing-yak-restaurant-bar.html">Dancing Yak Restaurant & Bar</a>
+  <div class="meta">4.5★ (825 reviews) — 280 Valencia St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="poc-chuc-restaurant.html">Poc-Chuc Restaurant</a>
+  <div class="meta">4.5★ (424 reviews) — 2886 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ernest.html">Ernest</a>
+  <div class="meta">4.5★ (451 reviews) — 1890 Bryant St Suite 100, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-spice-jar.html">The Spice Jar</a>
+  <div class="meta">4.5★ (477 reviews) — 2500 Bryant St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="martha-s-restaurant.html">Martha's Restaurant</a>
+  <div class="meta">4.5★ (72 reviews) — 2034 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="souvla.html">Souvla</a>
+  <div class="meta">4.5★ (1212 reviews) — 758 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taqueria-cancun.html">Taqueria Cancun</a>
+  <div class="meta">4.5★ (2512 reviews) — 2288 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="panchita-s-pupuser-a-restaurant.html">Panchita's Pupusería & Restaurant</a>
+  <div class="meta">4.5★ (2038 reviews) — 3091 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mijot.html">Mijoté</a>
+  <div class="meta">4.5★ (284 reviews) — 2400 Harrison St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trick-dog.html">Trick Dog</a>
+  <div class="meta">4.5★ (1323 reviews) — 3010 20th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bao.html">bao</a>
+  <div class="meta">4.5★ (600 reviews) — 590 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mission-s-kitchen.html">Mission’s Kitchen</a>
+  <div class="meta">4.5★ (544 reviews) — 2738 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-rustic-san-francisco.html">The Rustic - San Francisco</a>
+  <div class="meta">4.5★ (185 reviews) — 215 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="farmhouse-kitchen-thai-cuisine.html">Farmhouse Kitchen Thai Cuisine</a>
+  <div class="meta">4.4★ (3028 reviews) — 710 Florida St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="penny-roma.html">Penny Roma</a>
+  <div class="meta">4.4★ (857 reviews) — 3000 20th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-sycamore.html">The Sycamore</a>
+  <div class="meta">4.4★ (1040 reviews) — 2140 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="reem-s-california-mission.html">Reem's California Mission</a>
+  <div class="meta">4.4★ (275 reviews) — 2901 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="delfina-restaurant.html">Delfina Restaurant</a>
+  <div class="meta">4.4★ (378 reviews) — 3621 18th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-la-taza.html">Cafe La Taza</a>
+  <div class="meta">4.4★ (868 reviews) — 2475 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pink-onion.html">Pink Onion</a>
+  <div class="meta">4.4★ (834 reviews) — 64 14th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mission-rock-resort.html">Mission Rock Resort</a>
+  <div class="meta">4.4★ (2147 reviews) — 817 Terry A Francois Blvd, San Francisco, CA 94158, USA</div>
+</div>
+<div class="restaurant">
+  <a href="manny-s.html">Manny’s</a>
+  <div class="meta">4.4★ (593 reviews) — 3092 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bottega.html">Bottega</a>
+  <div class="meta">4.3★ (1075 reviews) — 1132 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="side-a.html">side a</a>
+  <div class="meta">4.3★ (107 reviews) — 2814 19th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacolicious.html">Tacolicious</a>
+  <div class="meta">4.2★ (766 reviews) — 741 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pica-pica-arepa-kitchen.html">Pica Pica Arepa Kitchen</a>
+  <div class="meta">4.2★ (1542 reviews) — 401 Valencia St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flour-water-pasta-shop.html">Flour + Water Pasta Shop</a>
+  <div class="meta">4.2★ (104 reviews) — 3000 20th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="southern-pacific-brewing.html">Southern Pacific Brewing</a>
+  <div class="meta">4.1★ (2301 reviews) — 620 Treat Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brasa-bros.html">Brasa Bros</a>
+  <div class="meta">4★ (63 reviews) — 1001 S Van Ness Ave, San Francisco, CA 94110, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Mission District — San Francisco Restaurants
+
+60 restaurants in Mission District.
+
+- [Sangria &amp; Salt](sangria-salt.html) — 4.8★ (84 reviews)
+- [SFCeviche 19](sfceviche-19.html) — 4.8★ (54 reviews)
+- [Mr. Pollo](mr-pollo.html) — 4.8★ (307 reviews)
+- [Jake's Steaks](jake-s-steaks.html) — 4.8★ (669 reviews)
+- [The Morris](the-morris.html) — 4.7★ (648 reviews)
+- [Lazy Bear](lazy-bear.html) — 4.7★ (1167 reviews)
+- [el Mil Amores](el-mil-amores.html) — 4.7★ (495 reviews)
+- [La Oaxaqueña](la-oaxaque-a.html) — 4.7★ (941 reviews)
+- [The Bite](the-bite.html) — 4.7★ (918 reviews)
+- [Barberio Osteria](barberio-osteria.html) — 4.7★ (148 reviews)
+- [Prubechu](prubechu.html) — 4.6★ (526 reviews)
+- [Loltun Restaurant](loltun-restaurant.html) — 4.6★ (90 reviews)
+- [Lolinda](lolinda.html) — 4.6★ (1765 reviews)
+- [Blue Plate](blue-plate.html) — 4.6★ (591 reviews)
+- [Rasa Rasa Kitchen / R2K](rasa-rasa-kitchen-r2k.html) — 4.6★ (172 reviews)
+- [Arcana](arcana.html) — 4.6★ (271 reviews)
+- [Heirloom Café](heirloom-caf.html) — 4.6★ (415 reviews)
+- [El Capricho Restaurant](el-capricho-restaurant.html) — 4.6★ (90 reviews)
+- [Alamo Drafthouse Cinema New Mission](alamo-drafthouse-cinema-new-mission.html) — 4.6★ (4750 reviews)
+- [Loló](lol.html) — 4.6★ (1880 reviews)
+- [The Rabbit Hole](the-rabbit-hole.html) — 4.5★ (149 reviews)
+- [Tartine Manufactory](tartine-manufactory.html) — 4.5★ (4304 reviews)
+- [Taquería El Farolito](taquer-a-el-farolito.html) — 4.5★ (5602 reviews)
+- [La Taqueria](la-taqueria.html) — 4.5★ (7114 reviews)
+- [Beretta Valencia](beretta-valencia.html) — 4.5★ (2555 reviews)
+- [Burma Love](burma-love.html) — 4.5★ (2219 reviews)
+- [Tartine Bakery](tartine-bakery.html) — 4.5★ (5847 reviews)
+- [Flour + Water](flour-water.html) — 4.5★ (1849 reviews)
+- [Rintaro](rintaro.html) — 4.5★ (1354 reviews)
+- [Piglet &amp; Co](piglet-co.html) — 4.5★ (180 reviews)
+- [Foreign Cinema](foreign-cinema.html) — 4.5★ (3311 reviews)
+- [Dancing Yak Restaurant &amp; Bar](dancing-yak-restaurant-bar.html) — 4.5★ (825 reviews)
+- [Poc-Chuc Restaurant](poc-chuc-restaurant.html) — 4.5★ (424 reviews)
+- [Ernest](ernest.html) — 4.5★ (451 reviews)
+- [The Spice Jar](the-spice-jar.html) — 4.5★ (477 reviews)
+- [Martha's Restaurant](martha-s-restaurant.html) — 4.5★ (72 reviews)
+- [Souvla](souvla.html) — 4.5★ (1212 reviews)
+- [Taqueria Cancun](taqueria-cancun.html) — 4.5★ (2512 reviews)
+- [Panchita's Pupusería &amp; Restaurant](panchita-s-pupuser-a-restaurant.html) — 4.5★ (2038 reviews)
+- [Mijoté](mijot.html) — 4.5★ (284 reviews)
+- [Trick Dog](trick-dog.html) — 4.5★ (1323 reviews)
+- [bao](bao.html) — 4.5★ (600 reviews)
+- [Mission’s Kitchen](mission-s-kitchen.html) — 4.5★ (544 reviews)
+- [The Rustic - San Francisco](the-rustic-san-francisco.html) — 4.5★ (185 reviews)
+- [Farmhouse Kitchen Thai Cuisine](farmhouse-kitchen-thai-cuisine.html) — 4.4★ (3028 reviews)
+- [Penny Roma](penny-roma.html) — 4.4★ (857 reviews)
+- [The Sycamore](the-sycamore.html) — 4.4★ (1040 reviews)
+- [Reem's California Mission](reem-s-california-mission.html) — 4.4★ (275 reviews)
+- [Delfina Restaurant](delfina-restaurant.html) — 4.4★ (378 reviews)
+- [Cafe La Taza](cafe-la-taza.html) — 4.4★ (868 reviews)
+- [Pink Onion](pink-onion.html) — 4.4★ (834 reviews)
+- [Mission Rock Resort](mission-rock-resort.html) — 4.4★ (2147 reviews)
+- [Manny’s](manny-s.html) — 4.4★ (593 reviews)
+- [Bottega](bottega.html) — 4.3★ (1075 reviews)
+- [side a](side-a.html) — 4.3★ (107 reviews)
+- [Tacolicious](tacolicious.html) — 4.2★ (766 reviews)
+- [Pica Pica Arepa Kitchen](pica-pica-arepa-kitchen.html) — 4.2★ (1542 reviews)
+- [Flour + Water Pasta Shop](flour-water-pasta-shop.html) — 4.2★ (104 reviews)
+- [Southern Pacific Brewing](southern-pacific-brewing.html) — 4.1★ (2301 reviews)
+- [Brasa Bros](brasa-bros.html) — 4★ (63 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

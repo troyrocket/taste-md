@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EL DORADO Latin Fusion — SoMa — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for EL DORADO Latin Fusion in SoMa, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "EL DORADO Latin Fusion",
+  "servesCuisine": [
+    "latin american restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "701 Folsom St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94107",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 734-7317",
+  "url": "https://mariposasdining.wixsite.com/eldorado",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "175"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.783503599999996,
+    "longitude": -122.3990598
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:45 PM",
+    "Thursday: 11:00 AM – 9:45 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "SFMasterP"
+      },
+      "reviewBody": "Came here for a work luncheon. The ambiance is really nice. Very decorative. The service was great. I ordered the lobster enchiladas. It was good but a little bland.\nWhen they brought out the food, th"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dru Looks"
+      },
+      "reviewBody": "This is a Peruvian fusion restaurant and they can also cook the way you want according to our server which we didn’t dare to do.\nThe grilled red snapper which was $50+ came out first which was shockin"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mariana A"
+      },
+      "reviewBody": "This is a very whimsical restaurant with interesting decor, which offers Latin fare. We were there for a corporate event, but the menu selection was broad. I especially liked the seviche and the veget"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">SoMa</a></p>
+<h1>EL DORADO Latin Fusion</h1>
+<h2>Cuisine</h2>
+<p><strong>Latin American restaurant</strong> — latin american restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 175 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Live music · Good for groups · Good for kids · Good for watching sports · Dog-friendly · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>701 Folsom St, San Francisco, CA 94107, USA<br>Phone: (415) 734-7317<br>Website: <a href="https://mariposasdining.wixsite.com/eldorado">https://mariposasdining.wixsite.com/eldorado</a><br><a href="https://maps.google.com/?cid=16837353976728055631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.783503599999996, -122.3990598</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 9:00 PM<br>Tuesday: 11:00 AM – 9:00 PM<br>Wednesday: 11:00 AM – 9:45 PM<br>Thursday: 11:00 AM – 9:45 PM<br>Friday: 11:00 AM – 11:00 PM<br>Saturday: 10:00 AM – 11:00 PM<br>Sunday: 10:00 AM – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;Came here for a work luncheon. The ambiance is really nice. Very decorative. The service was great. I ordered the lobster enchiladas. It was good but a little bland.
+When they brought out the food, they brought 1 of 5 entrees. After about 10 mins, they brought 3 more entrees. Unfortunately, I was th...&quot; — <strong>SFMasterP</strong> (a month ago)</li>
+<li>★★★★ &quot;This is a Peruvian fusion restaurant and they can also cook the way you want according to our server which we didn’t dare to do.
+The grilled red snapper which was $50+ came out first which was shocking because we didn’t wait too long for it after we order.
+The serving tray was huge and it was a good...&quot; — <strong>Dru Looks</strong> (3 months ago)</li>
+<li>★★★★★ &quot;This is a very whimsical restaurant with interesting decor, which offers Latin fare. We were there for a corporate event, but the menu selection was broad. I especially liked the seviche and the vegetarian fajitas. Other interesting menu items were the refried beans with meat flavor and the fried ri...&quot; — <strong>Mariana A</strong> (4 months ago)</li>
+<li>★★★ &quot;Had the birria quesadilla and the queso and the Caesar salad and all were underwhelming. The plantains and the pico de gallo are great. The beef quesadilla would be better if it were served hot instead of lukewarm like I got today. Edit: had the chicken empanadas and same comment as the beef, this t...&quot; — <strong>1John 2:27</strong> (6 months ago)</li>
+<li>★★★★★ &quot;5/5 Trust me. Try this out.
+Former chef here.
+Food was outstanding, way above and beyond what we expected.
+The food blew us away, we were so surprised. Everything was so fresh and flavorful.
+I asked my wife to check if they have Michelin Stars.
+They served quite possibly the best quesabirria of my l...&quot; — <strong>George Carder</strong> (a month ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [SoMa](index.html)
+
+# EL DORADO Latin Fusion
+
+## Cuisine
+**Latin American restaurant** — latin american restaurant
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 175 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Live music · Good for groups · Good for kids · Good for watching sports · Dog-friendly · Restroom available
+
+## Location &amp; Contact
+
+701 Folsom St, San Francisco, CA 94107, USA  
+Phone: (415) 734-7317  
+Website: [https://mariposasdining.wixsite.com/eldorado](https://mariposasdining.wixsite.com/eldorado)  
+[View on Google Maps](https://maps.google.com/?cid=16837353976728055631&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.783503599999996, -122.3990598
+
+## Hours
+
+Monday: 11:00 AM – 9:00 PM  
+Tuesday: 11:00 AM – 9:00 PM  
+Wednesday: 11:00 AM – 9:45 PM  
+Thursday: 11:00 AM – 9:45 PM  
+Friday: 11:00 AM – 11:00 PM  
+Saturday: 10:00 AM – 11:00 PM  
+Sunday: 10:00 AM – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;Came here for a work luncheon. The ambiance is really nice. Very decorative. The service was great. I ordered the lobster enchiladas. It was good but a little bland.
+When they brought out the food, they brought 1 of 5 entrees. After about 10 mins, they brought 3 more entrees. Unfortunately, I was th...&quot; — **SFMasterP** (a month ago)
+- ★★★★ &quot;This is a Peruvian fusion restaurant and they can also cook the way you want according to our server which we didn’t dare to do.
+The grilled red snapper which was $50+ came out first which was shocking because we didn’t wait too long for it after we order.
+The serving tray was huge and it was a good...&quot; — **Dru Looks** (3 months ago)
+- ★★★★★ &quot;This is a very whimsical restaurant with interesting decor, which offers Latin fare. We were there for a corporate event, but the menu selection was broad. I especially liked the seviche and the vegetarian fajitas. Other interesting menu items were the refried beans with meat flavor and the fried ri...&quot; — **Mariana A** (4 months ago)
+- ★★★ &quot;Had the birria quesadilla and the queso and the Caesar salad and all were underwhelming. The plantains and the pico de gallo are great. The beef quesadilla would be better if it were served hot instead of lukewarm like I got today. Edit: had the chicken empanadas and same comment as the beef, this t...&quot; — **1John 2:27** (6 months ago)
+- ★★★★★ &quot;5/5 Trust me. Try this out.
+Former chef here.
+Food was outstanding, way above and beyond what we expected.
+The food blew us away, we were so surprised. Everything was so fresh and flavorful.
+I asked my wife to check if they have Michelin Stars.
+They served quite possibly the best quesabirria of my l...&quot; — **George Carder** (a month ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

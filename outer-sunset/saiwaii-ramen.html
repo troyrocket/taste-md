@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saiwaii Ramen — Outer Sunset — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Saiwaii Ramen in Outer Sunset, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Saiwaii Ramen",
+  "servesCuisine": [
+    "ramen restaurant",
+    "sushi restaurant",
+    "asian fusion restaurant",
+    "fusion restaurant",
+    "asian restaurant",
+    "japanese restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2240 Irving St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94122",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 665-7888",
+  "url": "https://www.saiwaiiramensf.com/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "590"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.763520799999995,
+    "longitude": -122.48214670000002
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM",
+    "Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM",
+    "Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM",
+    "Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM",
+    "Friday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM",
+    "Saturday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM",
+    "Sunday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Pasha Gleyzer"
+      },
+      "reviewBody": "Spicy garlic tonkatsu ramen with spice level extra was pretty good, although I would call the spice level medium at most.  The noodles were nice and springy and held the soup well.  I did not find any"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Steve Thai"
+      },
+      "reviewBody": "My go to ramen  place. Food is delicious n price reasonable. If u get the lunch special, u get one free choices of 5 appetizer.  My favorite is chicken karaoke with the special  home make sauce. So $1"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Simon Tan"
+      },
+      "reviewBody": "Mala ramen is definitely the star here - and you can get it with just the numbing spice (\"ma\") and not the fiery spice. Curry katsu was also good, but not as good as the ramen."
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Outer Sunset</a></p>
+<h1>Saiwaii Ramen</h1>
+<p>Compact restaurant serving ramen, rice bowls, sushi &amp; other traditional Japanese fare.</p>
+<h2>Cuisine</h2>
+<p><strong>Ramen restaurant</strong> — ramen restaurant, sushi restaurant, asian fusion restaurant, fusion restaurant, asian restaurant, japanese restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 590 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>2240 Irving St, San Francisco, CA 94122, USA<br>Phone: (415) 665-7888<br>Website: <a href="https://www.saiwaiiramensf.com/">https://www.saiwaiiramensf.com/</a><br><a href="https://maps.google.com/?cid=6576300147526412107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.763520799999995, -122.48214670000002</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM<br>Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM<br>Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM<br>Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM<br>Friday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM<br>Saturday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM<br>Sunday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Spicy garlic tonkatsu ramen with spice level extra was pretty good, although I would call the spice level medium at most.  The noodles were nice and springy and held the soup well.  I did not find any ground pork in the soup.  The waitress told me that they make the soup with ground pork.  Maybe, bu...&quot; — <strong>Pasha Gleyzer</strong> (2 months ago)</li>
+<li>★★★★★ &quot;My go to ramen  place. Food is delicious n price reasonable. If u get the lunch special, u get one free choices of 5 appetizer.  My favorite is chicken karaoke with the special  home make sauce. So $15 get u 3 nice piece of chicken karaoke n a big bow of tonkotsu ramen with all the trimming.&quot; — <strong>Steve Thai</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Mala ramen is definitely the star here - and you can get it with just the numbing spice (&quot;ma&quot;) and not the fiery spice. Curry katsu was also good, but not as good as the ramen.&quot; — <strong>Simon Tan</strong> (a month ago)</li>
+<li>★★★★★ &quot;Very good ramen lunch. For $15, you get a tonkatsu ramen and a choice of sides. We picked gyoza and chicken karaage. The ramen was very good and the noodles were excellent but the broth was a bit salty. The gyoza (3) was good and crunchy but the chicken karasge was boneless and had a perfect crunch!...&quot; — <strong>DYJ1948</strong> (a year ago)</li>
+<li>★★★★★ &quot;Must try: Spicy Garlic Tonkotsu. And the Spicy Garlic Crab is out of this world! I maybe exaggerating, but it’s really delicious 😋</li>
+</ul>
+<p>However, parking is scarce. The street is surrounded by lots of stores. Sometimes it takes 30mins just to find a parking space. It is worth it though 😅&quot; — <strong>Yellow-eyow Travels</strong> (3 years ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Outer Sunset](index.html)
+
+# Saiwaii Ramen
+Compact restaurant serving ramen, rice bowls, sushi &amp; other traditional Japanese fare.
+
+## Cuisine
+**Ramen restaurant** — ramen restaurant, sushi restaurant, asian fusion restaurant, fusion restaurant, asian restaurant, japanese restaurant
+
+## Price Range
+$
+
+## Rating
+4.4 stars — 590 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+2240 Irving St, San Francisco, CA 94122, USA  
+Phone: (415) 665-7888  
+Website: [https://www.saiwaiiramensf.com/](https://www.saiwaiiramensf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=6576300147526412107&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.763520799999995, -122.48214670000002
+
+## Hours
+
+Monday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM  
+Tuesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM  
+Wednesday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM  
+Thursday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM  
+Friday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM  
+Saturday: 11:00 AM – 2:45 PM, 5:00 – 9:30 PM  
+Sunday: 11:00 AM – 2:45 PM, 5:00 – 8:30 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Spicy garlic tonkatsu ramen with spice level extra was pretty good, although I would call the spice level medium at most.  The noodles were nice and springy and held the soup well.  I did not find any ground pork in the soup.  The waitress told me that they make the soup with ground pork.  Maybe, bu...&quot; — **Pasha Gleyzer** (2 months ago)
+- ★★★★★ &quot;My go to ramen  place. Food is delicious n price reasonable. If u get the lunch special, u get one free choices of 5 appetizer.  My favorite is chicken karaoke with the special  home make sauce. So $15 get u 3 nice piece of chicken karaoke n a big bow of tonkotsu ramen with all the trimming.&quot; — **Steve Thai** (3 months ago)
+- ★★★★★ &quot;Mala ramen is definitely the star here - and you can get it with just the numbing spice (&quot;ma&quot;) and not the fiery spice. Curry katsu was also good, but not as good as the ramen.&quot; — **Simon Tan** (a month ago)
+- ★★★★★ &quot;Very good ramen lunch. For $15, you get a tonkatsu ramen and a choice of sides. We picked gyoza and chicken karaage. The ramen was very good and the noodles were excellent but the broth was a bit salty. The gyoza (3) was good and crunchy but the chicken karasge was boneless and had a perfect crunch!...&quot; — **DYJ1948** (a year ago)
+- ★★★★★ &quot;Must try: Spicy Garlic Tonkotsu. And the Spicy Garlic Crab is out of this world! I maybe exaggerating, but it’s really delicious 😋
+
+However, parking is scarce. The street is surrounded by lots of stores. Sometimes it takes 30mins just to find a parking space. It is worth it though 😅&quot; — **Yellow-eyow Travels** (3 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

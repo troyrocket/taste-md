@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inner Sunset Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Inner Sunset, San Francisco. 33 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Inner Sunset</div>
+<h1>Inner Sunset</h1>
+<p>33 restaurants in Inner Sunset, San Francisco.</p>
+<div class="restaurant">
+  <a href="timur-indian-and-nepalese-cuisine.html">Timur Indian and Nepalese Cuisine</a>
+  <div class="meta">5★ (268 reviews) — 1386 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="banh-mi-crunch.html">Banh Mi Crunch</a>
+  <div class="meta">4.9★ (357 reviews) — 646 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sweet-glory-on-inner-sunset.html">Sweet Glory on Inner Sunset</a>
+  <div class="meta">4.8★ (365 reviews) — 1336 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sunset-indian-cuisine.html">Sunset Indian Cuisine</a>
+  <div class="meta">4.8★ (613 reviews) — 642 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zentarou-sushi-and-sake-bar.html">Zentarou Sushi and Sake Bar</a>
+  <div class="meta">4.8★ (218 reviews) — 1380 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="al-chile.html">Al chile</a>
+  <div class="meta">4.8★ (88 reviews) — 98 Judah St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sriracha-thai-cuisine.html">Sriracha Thai Cuisine</a>
+  <div class="meta">4.8★ (1295 reviews) — 1319 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="arizmendi-bakery.html">Arizmendi Bakery</a>
+  <div class="meta">4.7★ (1952 reviews) — 1331 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mezze-and-mooore-ii.html">Mezze and Mooore II</a>
+  <div class="meta">4.7★ (100 reviews) — 627 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzetta-napoletana.html">Pizzetta Napoletana</a>
+  <div class="meta">4.7★ (456 reviews) — 775 Frederick St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sip-tea-room.html">Sip Tea Room</a>
+  <div class="meta">4.7★ (180 reviews) — 721 Lincoln Wy, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="art-s-cafe.html">Art's Cafe</a>
+  <div class="meta">4.7★ (660 reviews) — 747 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="savor-cafe.html">Savor Cafe</a>
+  <div class="meta">4.7★ (360 reviews) — 401 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-eritrea-restaurant.html">New Eritrea Restaurant</a>
+  <div class="meta">4.7★ (682 reviews) — 907 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yummy-yummy.html">Yummy Yummy</a>
+  <div class="meta">4.6★ (607 reviews) — 1015 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-la-flore-irving.html">Cafe La Flore Irving</a>
+  <div class="meta">4.6★ (433 reviews) — 1340 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="peasant-pies-inner-sunset.html">Peasant Pies, Inner Sunset</a>
+  <div class="meta">4.6★ (374 reviews) — 1039 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cybelle-s-front-room.html">CyBelle's Front Room</a>
+  <div class="meta">4.5★ (651 reviews) — 1385 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="perilla.html">Perilla</a>
+  <div class="meta">4.5★ (685 reviews) — 836 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="smokin-d-s-bbq-sf.html">Smokin D’s BBQ SF</a>
+  <div class="meta">4.5★ (136 reviews) — 2181 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jenny-s-burger.html">Jenny's Burger</a>
+  <div class="meta">4.5★ (732 reviews) — 1233 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="foghorn-taproom-irving.html">Foghorn Taproom (Irving)</a>
+  <div class="meta">4.5★ (194 reviews) — 534 Irving St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="san-tung.html">San Tung</a>
+  <div class="meta">4.4★ (2542 reviews) — 1031 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="um-ma.html">um.ma</a>
+  <div class="meta">4.4★ (916 reviews) — 1220 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="park-gyros.html">Park Gyros</a>
+  <div class="meta">4.4★ (871 reviews) — 1201 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lime-tree.html">Lime Tree</a>
+  <div class="meta">4.4★ (359 reviews) — 450 Irving St A, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gr-goire-restaurant.html">Grégoire Restaurant</a>
+  <div class="meta">4.3★ (37 reviews) — 1300 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="izakaya-sozai.html">Izakaya Sozai</a>
+  <div class="meta">4.3★ (624 reviews) — 1500 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kiki-japanese.html">Kiki Japanese</a>
+  <div class="meta">4.3★ (639 reviews) — 1269 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-duper-burgers.html">Super Duper Burgers</a>
+  <div class="meta">4.2★ (117 reviews) — 737 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="streettaco-inner-sunset.html">StreetTaco Inner Sunset</a>
+  <div class="meta">4.2★ (209 reviews) — 712 Irving St, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mahalo.html">Mahalo!</a>
+  <div class="meta">4★ (159 reviews) — 1376 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gordo-taqueria.html">Gordo Taqueria</a>
+  <div class="meta">4★ (659 reviews) — 1239 9th Ave, San Francisco, CA 94122, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Inner Sunset — San Francisco Restaurants
+
+33 restaurants in Inner Sunset.
+
+- [Timur Indian and Nepalese Cuisine](timur-indian-and-nepalese-cuisine.html) — 5★ (268 reviews)
+- [Banh Mi Crunch](banh-mi-crunch.html) — 4.9★ (357 reviews)
+- [Sweet Glory on Inner Sunset](sweet-glory-on-inner-sunset.html) — 4.8★ (365 reviews)
+- [Sunset Indian Cuisine](sunset-indian-cuisine.html) — 4.8★ (613 reviews)
+- [Zentarou Sushi and Sake Bar](zentarou-sushi-and-sake-bar.html) — 4.8★ (218 reviews)
+- [Al chile](al-chile.html) — 4.8★ (88 reviews)
+- [Sriracha Thai Cuisine](sriracha-thai-cuisine.html) — 4.8★ (1295 reviews)
+- [Arizmendi Bakery](arizmendi-bakery.html) — 4.7★ (1952 reviews)
+- [Mezze and Mooore II](mezze-and-mooore-ii.html) — 4.7★ (100 reviews)
+- [Pizzetta Napoletana](pizzetta-napoletana.html) — 4.7★ (456 reviews)
+- [Sip Tea Room](sip-tea-room.html) — 4.7★ (180 reviews)
+- [Art's Cafe](art-s-cafe.html) — 4.7★ (660 reviews)
+- [Savor Cafe](savor-cafe.html) — 4.7★ (360 reviews)
+- [New Eritrea Restaurant](new-eritrea-restaurant.html) — 4.7★ (682 reviews)
+- [Yummy Yummy](yummy-yummy.html) — 4.6★ (607 reviews)
+- [Cafe La Flore Irving](cafe-la-flore-irving.html) — 4.6★ (433 reviews)
+- [Peasant Pies, Inner Sunset](peasant-pies-inner-sunset.html) — 4.6★ (374 reviews)
+- [CyBelle's Front Room](cybelle-s-front-room.html) — 4.5★ (651 reviews)
+- [Perilla](perilla.html) — 4.5★ (685 reviews)
+- [Smokin D’s BBQ SF](smokin-d-s-bbq-sf.html) — 4.5★ (136 reviews)
+- [Jenny's Burger](jenny-s-burger.html) — 4.5★ (732 reviews)
+- [Foghorn Taproom (Irving)](foghorn-taproom-irving.html) — 4.5★ (194 reviews)
+- [San Tung](san-tung.html) — 4.4★ (2542 reviews)
+- [um.ma](um-ma.html) — 4.4★ (916 reviews)
+- [Park Gyros](park-gyros.html) — 4.4★ (871 reviews)
+- [Lime Tree](lime-tree.html) — 4.4★ (359 reviews)
+- [Grégoire Restaurant](gr-goire-restaurant.html) — 4.3★ (37 reviews)
+- [Izakaya Sozai](izakaya-sozai.html) — 4.3★ (624 reviews)
+- [Kiki Japanese](kiki-japanese.html) — 4.3★ (639 reviews)
+- [Super Duper Burgers](super-duper-burgers.html) — 4.2★ (117 reviews)
+- [StreetTaco Inner Sunset](streettaco-inner-sunset.html) — 4.2★ (209 reviews)
+- [Mahalo!](mahalo.html) — 4★ (159 reviews)
+- [Gordo Taqueria](gordo-taqueria.html) — 4★ (659 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

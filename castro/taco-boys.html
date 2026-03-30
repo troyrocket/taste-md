@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taco Boys — Castro — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Taco Boys in Castro, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Taco Boys",
+  "servesCuisine": [
+    "mexican restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2312 Market St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94114",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 829-3609",
+  "url": "http://tacoboyssf.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "494"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.763863799999996,
+    "longitude": -122.43388150000001
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 2:00 AM",
+    "Thursday: 11:00 AM – 2:00 AM",
+    "Friday: 11:00 AM – 2:00 AM",
+    "Saturday: 11:00 AM – 2:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Pisces Bella"
+      },
+      "reviewBody": "Look, I love me some Taco Boys. Their vegan breakfast burrito might actually be the best burrito in town… HOWEVER, I am almost at my wit’s end with the dude that rings up my order. I don’t know if he "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "1"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Decendario"
+      },
+      "reviewBody": "Paid $16 for the stalest vegan nachos I’ve ever eaten in my life. I usually enjoy the food here but lately the quality has gone down. Ordered the vegan super nachos and the tortilla chips were the sta"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Craig Reichel"
+      },
+      "reviewBody": "Huge burritos, well prepared, and delicious. You can pre-order and get a text when your meal is done. Small dining room with a couple outside tables. Best for to-go orders."
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Castro</a></p>
+<h1>Taco Boys</h1>
+<h2>Cuisine</h2>
+<p><strong>Mexican restaurant</strong> — mexican restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 494 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery<br><strong>Meals:</strong> Breakfast · Lunch · Dinner<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids</p>
+<h2>Location &amp; Contact</h2>
+<p>2312 Market St, San Francisco, CA 94114, USA<br>Phone: (415) 829-3609<br>Website: <a href="http://tacoboyssf.com/">http://tacoboyssf.com/</a><br><a href="https://maps.google.com/?cid=4676400588982347772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.763863799999996, -122.43388150000001</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 10:00 PM<br>Tuesday: 11:00 AM – 12:00 AM<br>Wednesday: 11:00 AM – 2:00 AM<br>Thursday: 11:00 AM – 2:00 AM<br>Friday: 11:00 AM – 2:00 AM<br>Saturday: 11:00 AM – 2:00 AM<br>Sunday: 11:00 AM – 12:00 AM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;Look, I love me some Taco Boys. Their vegan breakfast burrito might actually be the best burrito in town… HOWEVER, I am almost at my wit’s end with the dude that rings up my order. I don’t know if he just doesn’t want to do his job or what, but if you’re gonna charge me over $20 for a freaking burri...&quot; — <strong>Pisces Bella</strong> (3 weeks ago)</li>
+<li>★ &quot;Paid $16 for the stalest vegan nachos I’ve ever eaten in my life. I usually enjoy the food here but lately the quality has gone down. Ordered the vegan super nachos and the tortilla chips were the stalest chips I&#39;ve ever eaten lol | think I almost broke a tooth. These chips literally taste like chip...&quot; — <strong>Tanya Decendario</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Huge burritos, well prepared, and delicious. You can pre-order and get a text when your meal is done. Small dining room with a couple outside tables. Best for to-go orders.&quot; — <strong>Craig Reichel</strong> (5 months ago)</li>
+<li>★★★★ &quot;8/15/25
+Ordered a carne asada california burrito for delivery, not bad, Id give it 3.5 stars. It’s HUGE.. so it has that going for it, and the fries are relatively crisp (could be crispier but still good). I’m marking off point for no chips included in the delivery (booo). Also they gave me pinto an...&quot; — <strong>E T</strong> (6 months ago)</li>
+<li>★★★★★ &quot;One of the Best Mexican Meals I’ve Ever Had!</li>
+</ul>
+<p>Taco Boys completely blew me away. This was hands down one of the best Mexican meals I’ve ever had in my life—and that’s saying a lot! Everything is made fresh, so it took about 15 minutes, but it was so worth the wait.</p>
+<p>As a vegan, I was thrilled to fin...&quot; — <strong>Luana Helsinger</strong> (a year ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Castro](index.html)
+
+# Taco Boys
+
+## Cuisine
+**Mexican restaurant** — mexican restaurant
+
+## Price Range
+$$
+
+## Rating
+4.3 stars — 494 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery  
+**Meals:** Breakfast · Lunch · Dinner  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids
+
+## Location &amp; Contact
+
+2312 Market St, San Francisco, CA 94114, USA  
+Phone: (415) 829-3609  
+Website: [http://tacoboyssf.com/](http://tacoboyssf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=4676400588982347772&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.763863799999996, -122.43388150000001
+
+## Hours
+
+Monday: 11:00 AM – 10:00 PM  
+Tuesday: 11:00 AM – 12:00 AM  
+Wednesday: 11:00 AM – 2:00 AM  
+Thursday: 11:00 AM – 2:00 AM  
+Friday: 11:00 AM – 2:00 AM  
+Saturday: 11:00 AM – 2:00 AM  
+Sunday: 11:00 AM – 12:00 AM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;Look, I love me some Taco Boys. Their vegan breakfast burrito might actually be the best burrito in town… HOWEVER, I am almost at my wit’s end with the dude that rings up my order. I don’t know if he just doesn’t want to do his job or what, but if you’re gonna charge me over $20 for a freaking burri...&quot; — **Pisces Bella** (3 weeks ago)
+- ★ &quot;Paid $16 for the stalest vegan nachos I’ve ever eaten in my life. I usually enjoy the food here but lately the quality has gone down. Ordered the vegan super nachos and the tortilla chips were the stalest chips I've ever eaten lol | think I almost broke a tooth. These chips literally taste like chip...&quot; — **Tanya Decendario** (3 months ago)
+- ★★★★★ &quot;Huge burritos, well prepared, and delicious. You can pre-order and get a text when your meal is done. Small dining room with a couple outside tables. Best for to-go orders.&quot; — **Craig Reichel** (5 months ago)
+- ★★★★ &quot;8/15/25
+Ordered a carne asada california burrito for delivery, not bad, Id give it 3.5 stars. It’s HUGE.. so it has that going for it, and the fries are relatively crisp (could be crispier but still good). I’m marking off point for no chips included in the delivery (booo). Also they gave me pinto an...&quot; — **E T** (6 months ago)
+- ★★★★★ &quot;One of the Best Mexican Meals I’ve Ever Had!
+
+Taco Boys completely blew me away. This was hands down one of the best Mexican meals I’ve ever had in my life—and that’s saying a lot! Everything is made fresh, so it took about 15 minutes, but it was so worth the wait.
+
+As a vegan, I was thrilled to fin...&quot; — **Luana Helsinger** (a year ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

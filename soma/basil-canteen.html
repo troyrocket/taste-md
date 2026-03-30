@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BASIL CANTEEN — SoMa — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for BASIL CANTEEN in SoMa, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "BASIL CANTEEN",
+  "servesCuisine": [
+    "thai restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1489 Folsom St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94103",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 552-3963",
+  "url": "http://www.basilcanteen.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "414"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7718998,
+    "longitude": -122.4137423
+  },
+  "openingHours": [
+    "Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Saturday: 5:00 – 9:00 PM",
+    "Sunday: 5:00 – 9:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Becca Gomez Farrell"
+      },
+      "reviewBody": "Hit up Basil Canteen a couple weeks okay for Happy Hour and tried new-to-me Thai eats! Started off with the Thaiphoon with mekhong Thai rum, coconut milk, and Thai tea—fun, but not that memorable of a"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Lucas Meaux"
+      },
+      "reviewBody": "I really liked Basil Canteen. The space is not large so there's not a ton of seating, but the food is high quality and very tasty.\n\nIt's a good place to have in SoMa where there aren't a ton of food o"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Chef Tony"
+      },
+      "reviewBody": "I stopped by on my way home. This place has been here for years, and I didn't even know. I love finding great places close to where I live. The owner was very helpful in what was spicy to order. I wil"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">SoMa</a></p>
+<h1>BASIL CANTEEN</h1>
+<p>Creatively presented Thai dishes &amp; Asian-inspired cocktails served in a hip, exposed-brick setting.</p>
+<h2>Cuisine</h2>
+<p><strong>Thai restaurant</strong> — thai restaurant</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 414 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Cocktails · Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1489 Folsom St, San Francisco, CA 94103, USA<br>Phone: (415) 552-3963<br>Website: <a href="http://www.basilcanteen.com/">http://www.basilcanteen.com/</a><br><a href="https://maps.google.com/?cid=1376731673020047989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7718998, -122.4137423</p>
+<h2>Hours</h2>
+<p>Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM<br>Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM<br>Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM<br>Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM<br>Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM<br>Saturday: 5:00 – 9:00 PM<br>Sunday: 5:00 – 9:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Hit up Basil Canteen a couple weeks okay for Happy Hour and tried new-to-me Thai eats! Started off with the Thaiphoon with mekhong Thai rum, coconut milk, and Thai tea—fun, but not that memorable of a cocktail, honestly. But the sakhoo sal mu was delicious! They are steamed tapioca dumplings filled ...&quot; — <strong>Becca Gomez Farrell</strong> (5 months ago)</li>
+<li>★★★★★ &quot;I really liked Basil Canteen. The space is not large so there&#39;s not a ton of seating, but the food is high quality and very tasty.</li>
+</ul>
+<p>It&#39;s a good place to have in SoMa where there aren&#39;t a ton of food options at the moment. We&#39;ll definitely be back!&quot; — <strong>Lucas Meaux</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;I stopped by on my way home. This place has been here for years, and I didn&#39;t even know. I love finding great places close to where I live. The owner was very helpful in what was spicy to order. I will definitely be going back, and I highly recommend trying this place if you haven&#39;t yet. I had to co...&quot; — <strong>Chef Tony</strong> (8 months ago)</li>
+<li>★★★★★ &quot;I’ve been coming to Basil Canteen for more than ten years, and I just realized I’ve never actually written a review… which feels almost wrong given how often I’m here.</li>
+</ul>
+<p>This place is just solid in the best possible way. The food is consistently good — every time. The service is always friendly and o...&quot; — <strong>Kevin Reed</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Lovely Thai resturaunt, has quite a bit of seating, but can get quite busy here. Be aware that you may be seated at communal tables if the place is packed! The service is quick and efficent. And the food comes out hot, fresh, and packed with flavour! I would say a great place if you want to experien...&quot; — <strong>Kay Liew</strong> (2 years ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [SoMa](index.html)
+
+# BASIL CANTEEN
+Creatively presented Thai dishes &amp; Asian-inspired cocktails served in a hip, exposed-brick setting.
+
+## Cuisine
+**Thai restaurant** — thai restaurant
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 414 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Cocktails · Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Restroom available
+
+## Location &amp; Contact
+
+1489 Folsom St, San Francisco, CA 94103, USA  
+Phone: (415) 552-3963  
+Website: [http://www.basilcanteen.com/](http://www.basilcanteen.com/)  
+[View on Google Maps](https://maps.google.com/?cid=1376731673020047989&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7718998, -122.4137423
+
+## Hours
+
+Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM  
+Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM  
+Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM  
+Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM  
+Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM  
+Saturday: 5:00 – 9:00 PM  
+Sunday: 5:00 – 9:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking
+
+## What Diners Say
+- ★★★★★ &quot;Hit up Basil Canteen a couple weeks okay for Happy Hour and tried new-to-me Thai eats! Started off with the Thaiphoon with mekhong Thai rum, coconut milk, and Thai tea—fun, but not that memorable of a cocktail, honestly. But the sakhoo sal mu was delicious! They are steamed tapioca dumplings filled ...&quot; — **Becca Gomez Farrell** (5 months ago)
+- ★★★★★ &quot;I really liked Basil Canteen. The space is not large so there's not a ton of seating, but the food is high quality and very tasty.
+
+It's a good place to have in SoMa where there aren't a ton of food options at the moment. We'll definitely be back!&quot; — **Lucas Meaux** (2 months ago)
+- ★★★★★ &quot;I stopped by on my way home. This place has been here for years, and I didn't even know. I love finding great places close to where I live. The owner was very helpful in what was spicy to order. I will definitely be going back, and I highly recommend trying this place if you haven't yet. I had to co...&quot; — **Chef Tony** (8 months ago)
+- ★★★★★ &quot;I’ve been coming to Basil Canteen for more than ten years, and I just realized I’ve never actually written a review… which feels almost wrong given how often I’m here.
+
+This place is just solid in the best possible way. The food is consistently good — every time. The service is always friendly and o...&quot; — **Kevin Reed** (2 months ago)
+- ★★★★★ &quot;Lovely Thai resturaunt, has quite a bit of seating, but can get quite busy here. Be aware that you may be seated at communal tables if the place is packed! The service is quick and efficent. And the food comes out hot, fresh, and packed with flavour! I would say a great place if you want to experien...&quot; — **Kay Liew** (2 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

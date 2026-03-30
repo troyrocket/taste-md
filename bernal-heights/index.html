@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bernal Heights Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Bernal Heights, San Francisco. 52 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Bernal Heights</div>
+<h1>Bernal Heights</h1>
+<p>52 restaurants in Bernal Heights, San Francisco.</p>
+<div class="restaurant">
+  <a href="tea-rex-cafe-specialty-teas.html">Tea Rex Cafe & Specialty Teas</a>
+  <div class="meta">5★ (64 reviews) — 3438 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kiwa-kitchen.html">Kiwa Kitchen</a>
+  <div class="meta">4.8★ (11 reviews) — 615 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="diwali-indian-cuisine.html">Diwali Indian Cuisine</a>
+  <div class="meta">4.8★ (385 reviews) — 1499 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="doma-sushi.html">Doma Sushi</a>
+  <div class="meta">4.8★ (229 reviews) — 433 Precita Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="holy-water.html">Holy Water</a>
+  <div class="meta">4.7★ (608 reviews) — 309 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="los-yaquis-m-x-restaurant.html">Los Yaquis Méx Restaurant.</a>
+  <div class="meta">4.7★ (240 reviews) — 3214 Folsom St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="charlie-s-cafe.html">Charlie's Cafe</a>
+  <div class="meta">4.7★ (138 reviews) — 3202 Folsom St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="komaaj-mazze-wine-bar.html">Komaaj Mazze & Wine Bar</a>
+  <div class="meta">4.7★ (107 reviews) — 20 29th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="komaaj-pila-bazaar.html">Komaaj Pila Bazaar</a>
+  <div class="meta">4.7★ (437 reviews) — 10 29th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="spinning-dough.html">Spinning Dough</a>
+  <div class="meta">4.7★ (244 reviews) — 1501 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cuisine-of-nepal.html">Cuisine Of Nepal</a>
+  <div class="meta">4.7★ (551 reviews) — 3486 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="vega.html">Vega</a>
+  <div class="meta">4.6★ (501 reviews) — 419 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="precita-social.html">Precita Social</a>
+  <div class="meta">4.6★ (67 reviews) — 300 Precita Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-buen-comer.html">El Buen Comer</a>
+  <div class="meta">4.6★ (638 reviews) — 3435 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nute-s.html">Nute's</a>
+  <div class="meta">4.6★ (308 reviews) — 903 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="moonlight-cafe.html">Moonlight Cafe</a>
+  <div class="meta">4.6★ (340 reviews) — 634 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barebottle-brewing-company.html">Barebottle Brewing Company</a>
+  <div class="meta">4.6★ (645 reviews) — 1525 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cellarmaker-house-of-pizza-sf.html">Cellarmaker House of Pizza - SF</a>
+  <div class="meta">4.6★ (684 reviews) — 3193 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-seventy8.html">Cafe Seventy8</a>
+  <div class="meta">4.6★ (239 reviews) — 78 29th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="seafood-station.html">Seafood Station</a>
+  <div class="meta">4.6★ (255 reviews) — 803 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sweet-chinito-cafe-s.html">Sweet Chinito Cafe's</a>
+  <div class="meta">4.6★ (182 reviews) — 3100 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-jacal-mexican-grill.html">El Jacal Mexican Grill</a>
+  <div class="meta">4.6★ (142 reviews) — 800 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacos-el-patron.html">Tacos El Patron</a>
+  <div class="meta">4.6★ (1455 reviews) — 1500 S Van Ness Ave #100, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="emmy-s-spaghetti-shack.html">Emmy's Spaghetti Shack</a>
+  <div class="meta">4.5★ (890 reviews) — 3230 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="baby-blues-bbq.html">Baby Blues BBQ</a>
+  <div class="meta">4.5★ (874 reviews) — 3149 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzahacker-bagelmacher.html">PizzaHacker/BagelMacher</a>
+  <div class="meta">4.5★ (589 reviews) — 3299 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shokudou.html">Shokudou</a>
+  <div class="meta">4.5★ (151 reviews) — 1000 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="progressive-grounds.html">Progressive Grounds</a>
+  <div class="meta">4.5★ (467 reviews) — 400 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="old-jerusalem-restaurant.html">Old Jerusalem Restaurant</a>
+  <div class="meta">4.5★ (1261 reviews) — 2966 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-nepal-indian-cuisine.html">Little Nepal Indian Cuisine</a>
+  <div class="meta">4.5★ (190 reviews) — 925 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="moki-s-sushi-pacific-grill.html">Moki's Sushi & Pacific Grill</a>
+  <div class="meta">4.5★ (245 reviews) — 615 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="four-chairs.html">Four Chairs</a>
+  <div class="meta">4.4★ (389 reviews) — 3282 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="3rd-cousin.html">3rd Cousin</a>
+  <div class="meta">4.4★ (406 reviews) — 919 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-old-clam-house.html">The Old Clam House</a>
+  <div class="meta">4.4★ (1410 reviews) — 299 Bayshore Blvd, San Francisco, CA 94124, USA</div>
+</div>
+<div class="restaurant">
+  <a href="go-duck-yourself.html">Go Duck Yourself 去你鸭的</a>
+  <div class="meta">4.4★ (147 reviews) — 439 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mi-lindo-peru.html">Mi Lindo Peru</a>
+  <div class="meta">4.4★ (584 reviews) — 3226 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="universal-bakery-on-mission.html">Universal Bakery on Mission</a>
+  <div class="meta">4.4★ (658 reviews) — 3458 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nena-s-restaurant.html">Nena's Restaurant</a>
+  <div class="meta">4.4★ (189 reviews) — 3459 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="coco-s-ramen.html">Coco's Ramen</a>
+  <div class="meta">4.4★ (624 reviews) — 3319 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-paisa.html">El Paisa</a>
+  <div class="meta">4.4★ (599 reviews) — 3322 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pho-day.html">Pho Day</a>
+  <div class="meta">4.4★ (168 reviews) — 59 30th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taco-los-altos.html">Taco Los Altos</a>
+  <div class="meta">4.4★ (251 reviews) — 737 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="united-dumplings.html">United Dumplings</a>
+  <div class="meta">4.3★ (334 reviews) — 525 Cortland Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="precita-park-cafe-grill.html">Precita Park Cafe & Grill</a>
+  <div class="meta">4.3★ (700 reviews) — 500 Precita Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="balompi-cafe-3.html">Balompié Cafe #3</a>
+  <div class="meta">4.3★ (937 reviews) — 3801 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="al-s-super-cafe.html">Al's Super Cafe</a>
+  <div class="meta">4.3★ (240 reviews) — 3286 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="restaurante-guatemalteco-ebenezer.html">Restaurante Guatemalteco Ebenezer</a>
+  <div class="meta">4.3★ (55 reviews) — 3263 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="playa-azul.html">Playa Azul</a>
+  <div class="meta">4.2★ (211 reviews) — 3318 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="los-panchos-restaurant.html">Los Panchos Restaurant</a>
+  <div class="meta">4.2★ (624 reviews) — 3206 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-alte-a.html">La Alteña</a>
+  <div class="meta">4.2★ (387 reviews) — 3346 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-state-pizza-grill.html">Golden State Pizza & Grill</a>
+  <div class="meta">4.1★ (83 reviews) — 3349 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oye-managua.html">Oye Managua</a>
+  <div class="meta">4★ (1183 reviews) — 3385 Mission St, San Francisco, CA 94110, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Bernal Heights — San Francisco Restaurants
+
+52 restaurants in Bernal Heights.
+
+- [Tea Rex Cafe &amp; Specialty Teas](tea-rex-cafe-specialty-teas.html) — 5★ (64 reviews)
+- [Kiwa Kitchen](kiwa-kitchen.html) — 4.8★ (11 reviews)
+- [Diwali Indian Cuisine](diwali-indian-cuisine.html) — 4.8★ (385 reviews)
+- [Doma Sushi](doma-sushi.html) — 4.8★ (229 reviews)
+- [Holy Water](holy-water.html) — 4.7★ (608 reviews)
+- [Los Yaquis Méx Restaurant.](los-yaquis-m-x-restaurant.html) — 4.7★ (240 reviews)
+- [Charlie's Cafe](charlie-s-cafe.html) — 4.7★ (138 reviews)
+- [Komaaj Mazze &amp; Wine Bar](komaaj-mazze-wine-bar.html) — 4.7★ (107 reviews)
+- [Komaaj Pila Bazaar](komaaj-pila-bazaar.html) — 4.7★ (437 reviews)
+- [Spinning Dough](spinning-dough.html) — 4.7★ (244 reviews)
+- [Cuisine Of Nepal](cuisine-of-nepal.html) — 4.7★ (551 reviews)
+- [Vega](vega.html) — 4.6★ (501 reviews)
+- [Precita Social](precita-social.html) — 4.6★ (67 reviews)
+- [El Buen Comer](el-buen-comer.html) — 4.6★ (638 reviews)
+- [Nute's](nute-s.html) — 4.6★ (308 reviews)
+- [Moonlight Cafe](moonlight-cafe.html) — 4.6★ (340 reviews)
+- [Barebottle Brewing Company](barebottle-brewing-company.html) — 4.6★ (645 reviews)
+- [Cellarmaker House of Pizza - SF](cellarmaker-house-of-pizza-sf.html) — 4.6★ (684 reviews)
+- [Cafe Seventy8](cafe-seventy8.html) — 4.6★ (239 reviews)
+- [Seafood Station](seafood-station.html) — 4.6★ (255 reviews)
+- [Sweet Chinito Cafe's](sweet-chinito-cafe-s.html) — 4.6★ (182 reviews)
+- [El Jacal Mexican Grill](el-jacal-mexican-grill.html) — 4.6★ (142 reviews)
+- [Tacos El Patron](tacos-el-patron.html) — 4.6★ (1455 reviews)
+- [Emmy's Spaghetti Shack](emmy-s-spaghetti-shack.html) — 4.5★ (890 reviews)
+- [Baby Blues BBQ](baby-blues-bbq.html) — 4.5★ (874 reviews)
+- [PizzaHacker/BagelMacher](pizzahacker-bagelmacher.html) — 4.5★ (589 reviews)
+- [Shokudou](shokudou.html) — 4.5★ (151 reviews)
+- [Progressive Grounds](progressive-grounds.html) — 4.5★ (467 reviews)
+- [Old Jerusalem Restaurant](old-jerusalem-restaurant.html) — 4.5★ (1261 reviews)
+- [Little Nepal Indian Cuisine](little-nepal-indian-cuisine.html) — 4.5★ (190 reviews)
+- [Moki's Sushi &amp; Pacific Grill](moki-s-sushi-pacific-grill.html) — 4.5★ (245 reviews)
+- [Four Chairs](four-chairs.html) — 4.4★ (389 reviews)
+- [3rd Cousin](3rd-cousin.html) — 4.4★ (406 reviews)
+- [The Old Clam House](the-old-clam-house.html) — 4.4★ (1410 reviews)
+- [Go Duck Yourself 去你鸭的](go-duck-yourself.html) — 4.4★ (147 reviews)
+- [Mi Lindo Peru](mi-lindo-peru.html) — 4.4★ (584 reviews)
+- [Universal Bakery on Mission](universal-bakery-on-mission.html) — 4.4★ (658 reviews)
+- [Nena's Restaurant](nena-s-restaurant.html) — 4.4★ (189 reviews)
+- [Coco's Ramen](coco-s-ramen.html) — 4.4★ (624 reviews)
+- [El Paisa](el-paisa.html) — 4.4★ (599 reviews)
+- [Pho Day](pho-day.html) — 4.4★ (168 reviews)
+- [Taco Los Altos](taco-los-altos.html) — 4.4★ (251 reviews)
+- [United Dumplings](united-dumplings.html) — 4.3★ (334 reviews)
+- [Precita Park Cafe &amp; Grill](precita-park-cafe-grill.html) — 4.3★ (700 reviews)
+- [Balompié Cafe #3](balompi-cafe-3.html) — 4.3★ (937 reviews)
+- [Al's Super Cafe](al-s-super-cafe.html) — 4.3★ (240 reviews)
+- [Restaurante Guatemalteco Ebenezer](restaurante-guatemalteco-ebenezer.html) — 4.3★ (55 reviews)
+- [Playa Azul](playa-azul.html) — 4.2★ (211 reviews)
+- [Los Panchos Restaurant](los-panchos-restaurant.html) — 4.2★ (624 reviews)
+- [La Alteña](la-alte-a.html) — 4.2★ (387 reviews)
+- [Golden State Pizza &amp; Grill](golden-state-pizza-grill.html) — 4.1★ (83 reviews)
+- [Oye Managua](oye-managua.html) — 4★ (1183 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

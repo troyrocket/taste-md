@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Double Decker — Hayes Valley — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Double Decker in Hayes Valley, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Double Decker",
+  "servesCuisine": [
+    "hamburger restaurant",
+    "chicken wings restaurant",
+    "american restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "465 Grove St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94102",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 552-8042",
+  "url": "https://doubledeckerssf.square.site/",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "433"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7776169,
+    "longitude": -122.42387869999999
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 8:30 PM",
+    "Tuesday: 11:00 AM – 8:30 PM",
+    "Wednesday: 11:00 AM – 8:30 PM",
+    "Thursday: 11:00 AM – 8:30 PM",
+    "Friday: 11:00 AM – 8:30 PM",
+    "Saturday: 11:00 AM – 8:30 PM",
+    "Sunday: 12:00 – 8:30 PM"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Rosary Ann Oca"
+      },
+      "reviewBody": "We came here by chance while waiting for my mother-in-law’s medical appointment to finish. We ordered the California Burger, 3 Wings (mild sauce) with fries and strawberry milkshake. The food was grea"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "1"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Felicia T"
+      },
+      "reviewBody": "Ordered the chicken wings. They were really chewy and didn't taste right. I only ate 2 and threw the rest away. They gave me a stomach ache the rest of the day. The lady at the counter was super rude "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "egc"
+      },
+      "reviewBody": "Stumbled upon this place by chance and… what a great cheeseburger. As others said, it’s a hole in the wall type of place. The burger strikes the perfect balance between juicy and greasy. Very flavorfu"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Hayes Valley</a></p>
+<h1>Double Decker</h1>
+<p>No-frills counter-service eatery doling out burgers, fries &amp; buffalo wings in a utilitarian setting.</p>
+<h2>Cuisine</h2>
+<p><strong>Hamburger restaurant</strong> — hamburger restaurant, chicken wings restaurant, american restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.2 stars — 433 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Beer</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>465 Grove St, San Francisco, CA 94102, USA<br>Phone: (415) 552-8042<br>Website: <a href="https://doubledeckerssf.square.site/">https://doubledeckerssf.square.site/</a><br><a href="https://maps.google.com/?cid=6193469030299052463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7776169, -122.42387869999999</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 8:30 PM<br>Tuesday: 11:00 AM – 8:30 PM<br>Wednesday: 11:00 AM – 8:30 PM<br>Thursday: 11:00 AM – 8:30 PM<br>Friday: 11:00 AM – 8:30 PM<br>Saturday: 11:00 AM – 8:30 PM<br>Sunday: 12:00 – 8:30 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★ &quot;We came here by chance while waiting for my mother-in-law’s medical appointment to finish. We ordered the California Burger, 3 Wings (mild sauce) with fries and strawberry milkshake. The food was great.</li>
+</ul>
+<p>The burger was juicy and not salty compared to other burgers (so if you’re into “unsalted” or li...&quot; — <strong>Rosary Ann Oca</strong> (10 months ago)</p>
+<ul>
+<li>★ &quot;Ordered the chicken wings. They were really chewy and didn&#39;t taste right. I only ate 2 and threw the rest away. They gave me a stomach ache the rest of the day. The lady at the counter was super rude too.&quot; — <strong>Felicia T</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Stumbled upon this place by chance and… what a great cheeseburger. As others said, it’s a hole in the wall type of place. The burger strikes the perfect balance between juicy and greasy. Very flavorful and it really hit the spot. The art of a simple meal… nothing more, nothing less, just perfection.&quot; — <strong>egc</strong> (10 months ago)</li>
+<li>★★★★★ &quot;Here is my review of dining at Double Decker. The Western Bacon Cheeseburger was definitely 5 stars + some. The beef patty was firm, fine grained and slightly marbled. The bacon tasted sweet and very similar to applewood smoked bacon which is thick and meaty. The bun was toasty and not to thick. I p...&quot; — <strong>Eddie Valadez</strong> (2 years ago)</li>
+<li>★★ &quot;Ate here on 1.28.2023. Got the Double Decker burger, 6 wings of Spicy Korean flavor, vanilla milkshake, and onion rings.</li>
+</ul>
+<p>The milkshake was mediocre. It didn&#39;t have a rich creamy texture or vibrant sweetness to it. The onion rings were fine. The burger was okay, but I expected more for a $10 burger....&quot; — <strong>Junsu Park</strong> (3 years ago)</p>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Hayes Valley](index.html)
+
+# Double Decker
+No-frills counter-service eatery doling out burgers, fries &amp; buffalo wings in a utilitarian setting.
+
+## Cuisine
+**Hamburger restaurant** — hamburger restaurant, chicken wings restaurant, american restaurant
+
+## Price Range
+$
+
+## Rating
+4.2 stars — 433 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery  
+**Meals:** Lunch · Dinner  
+**Drinks:** Beer
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+465 Grove St, San Francisco, CA 94102, USA  
+Phone: (415) 552-8042  
+Website: [https://doubledeckerssf.square.site/](https://doubledeckerssf.square.site/)  
+[View on Google Maps](https://maps.google.com/?cid=6193469030299052463&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7776169, -122.42387869999999
+
+## Hours
+
+Monday: 11:00 AM – 8:30 PM  
+Tuesday: 11:00 AM – 8:30 PM  
+Wednesday: 11:00 AM – 8:30 PM  
+Thursday: 11:00 AM – 8:30 PM  
+Friday: 11:00 AM – 8:30 PM  
+Saturday: 11:00 AM – 8:30 PM  
+Sunday: 12:00 – 8:30 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★ &quot;We came here by chance while waiting for my mother-in-law’s medical appointment to finish. We ordered the California Burger, 3 Wings (mild sauce) with fries and strawberry milkshake. The food was great.
+
+The burger was juicy and not salty compared to other burgers (so if you’re into “unsalted” or li...&quot; — **Rosary Ann Oca** (10 months ago)
+- ★ &quot;Ordered the chicken wings. They were really chewy and didn't taste right. I only ate 2 and threw the rest away. They gave me a stomach ache the rest of the day. The lady at the counter was super rude too.&quot; — **Felicia T** (2 months ago)
+- ★★★★★ &quot;Stumbled upon this place by chance and… what a great cheeseburger. As others said, it’s a hole in the wall type of place. The burger strikes the perfect balance between juicy and greasy. Very flavorful and it really hit the spot. The art of a simple meal… nothing more, nothing less, just perfection.&quot; — **egc** (10 months ago)
+- ★★★★★ &quot;Here is my review of dining at Double Decker. The Western Bacon Cheeseburger was definitely 5 stars + some. The beef patty was firm, fine grained and slightly marbled. The bacon tasted sweet and very similar to applewood smoked bacon which is thick and meaty. The bun was toasty and not to thick. I p...&quot; — **Eddie Valadez** (2 years ago)
+- ★★ &quot;Ate here on 1.28.2023. Got the Double Decker burger, 6 wings of Spicy Korean flavor, vanilla milkshake, and onion rings.
+
+The milkshake was mediocre. It didn't have a rich creamy texture or vibrant sweetness to it. The onion rings were fine. The burger was okay, but I expected more for a $10 burger....&quot; — **Junsu Park** (3 years ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

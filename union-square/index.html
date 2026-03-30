@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Union Square Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Union Square, San Francisco. 36 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Union Square</div>
+<h1>Union Square</h1>
+<p>36 restaurants in Union Square, San Francisco.</p>
+<div class="restaurant">
+  <a href="nav.html">Navé</a>
+  <div class="meta">5★ (2 reviews) — 240 Powell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tbd-izakaya.html">TBD izakaya</a>
+  <div class="meta">4.8★ (5 reviews) — 431 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="magnin-street-cafe-bistro.html">Magnin Street Cafe & Bistro</a>
+  <div class="meta">4.7★ (390 reviews) — 138 Cyril Magnin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trisara.html">Trisara</a>
+  <div class="meta">4.7★ (648 reviews) — 211 Kearny St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hinodeya-ramen-union-square.html">HINODEYA Ramen Union Square</a>
+  <div class="meta">4.6★ (2537 reviews) — 219 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-parthenon.html">The Parthenon</a>
+  <div class="meta">4.6★ (474 reviews) — 582 Sutter St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="one65-san-francisco.html">ONE65 San Francisco</a>
+  <div class="meta">4.6★ (915 reviews) — 165 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="absteak-by-chef-akira-back.html">ABSteak by Chef Akira Back</a>
+  <div class="meta">4.6★ (114 reviews) — 124 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="al-pastor-papi.html">Al Pastor Papi</a>
+  <div class="meta">4.6★ (125 reviews) — 232 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taylor-street-coffee-shop.html">Taylor Street Coffee Shop</a>
+  <div class="meta">4.6★ (1727 reviews) — 375 Taylor St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bouche.html">Bouche</a>
+  <div class="meta">4.5★ (711 reviews) — 603 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="last-drop-tavern.html">Last Drop Tavern</a>
+  <div class="meta">4.4★ (1113 reviews) — 550 Powell St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="union-square-pizza-kitchen.html">Union Square Pizza & Kitchen</a>
+  <div class="meta">4.4★ (295 reviews) — 284 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-rotunda.html">The Rotunda</a>
+  <div class="meta">4.4★ (697 reviews) — Level Four, 150 Stockton St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-la-tazita.html">Cafe La Tazita</a>
+  <div class="meta">4.4★ (529 reviews) — 470 Post St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="johnny-foley-s-irish-house.html">Johnny Foley's Irish House</a>
+  <div class="meta">4.4★ (3793 reviews) — 243 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sears-fine-food.html">Sears Fine Food</a>
+  <div class="meta">4.3★ (3911 reviews) — 439 Powell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="roxanne-cafe.html">Roxanne Cafe</a>
+  <div class="meta">4.3★ (2003 reviews) — 570 Powell St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mason-diner-cafe-mason.html">Mason Diner (Cafe Mason)</a>
+  <div class="meta">4.3★ (2648 reviews) — 320 Mason St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="e-o-kitchen-and-bar.html">E&O Kitchen and Bar</a>
+  <div class="meta">4.3★ (1442 reviews) — 314 Sutter St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="le-central.html">Le Central</a>
+  <div class="meta">4.3★ (397 reviews) — 453 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="akiko-s-sushi-bar.html">Akiko's Sushi Bar</a>
+  <div class="meta">4.3★ (1024 reviews) — 542 Mason St unit A, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kin-khao.html">Kin Khao</a>
+  <div class="meta">4.2★ (2099 reviews) — 55 Cyril Magnin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bartlett-hall.html">Bartlett Hall</a>
+  <div class="meta">4.2★ (940 reviews) — 242 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pinecrest-diner.html">Pinecrest Diner</a>
+  <div class="meta">4.2★ (4696 reviews) — 401 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="morton-s-the-steakhouse.html">Morton's The Steakhouse</a>
+  <div class="meta">4.2★ (2058 reviews) — 400 Post St Lower Level, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ula-restaurant-tapas-bar.html">Ula Restaurant & Tapas Bar</a>
+  <div class="meta">4.1★ (494 reviews) — 450 Post St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="caf-de-la-presse.html">Café de la Presse</a>
+  <div class="meta">4.1★ (1712 reviews) — 352 Grant Ave, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="corzetti.html">Corzetti</a>
+  <div class="meta">4.1★ (335 reviews) — 398 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bota-tapas-paella-bar.html">Bota Tapas & Paella Bar</a>
+  <div class="meta">4.1★ (529 reviews) — 490 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tad-s-steakhouse.html">Tad's Steakhouse</a>
+  <div class="meta">4.1★ (2584 reviews) — 38 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-delhi.html">Little Delhi</a>
+  <div class="meta">4.1★ (1156 reviews) — 83 Eddy St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="amazing-kitchen.html">Amazing Kitchen</a>
+  <div class="meta">4★ (562 reviews) — 101 Cyril Magnin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="king-of-thai-noodle-house.html">King of Thai Noodle House</a>
+  <div class="meta">4★ (1527 reviews) — 184 O'Farrell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="level-iii-restaurant.html">Level III Restaurant</a>
+  <div class="meta">3.9★ (43 reviews) — 515 Mason St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="caf-rito.html">Café Rito</a>
+  <div class="meta">3.1★ (14 reviews) — 335 Powell St, San Francisco, CA 94102, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Union Square — San Francisco Restaurants
+
+36 restaurants in Union Square.
+
+- [Navé](nav.html) — 5★ (2 reviews)
+- [TBD izakaya](tbd-izakaya.html) — 4.8★ (5 reviews)
+- [Magnin Street Cafe &amp; Bistro](magnin-street-cafe-bistro.html) — 4.7★ (390 reviews)
+- [Trisara](trisara.html) — 4.7★ (648 reviews)
+- [HINODEYA Ramen Union Square](hinodeya-ramen-union-square.html) — 4.6★ (2537 reviews)
+- [The Parthenon](the-parthenon.html) — 4.6★ (474 reviews)
+- [ONE65 San Francisco](one65-san-francisco.html) — 4.6★ (915 reviews)
+- [ABSteak by Chef Akira Back](absteak-by-chef-akira-back.html) — 4.6★ (114 reviews)
+- [Al Pastor Papi](al-pastor-papi.html) — 4.6★ (125 reviews)
+- [Taylor Street Coffee Shop](taylor-street-coffee-shop.html) — 4.6★ (1727 reviews)
+- [Bouche](bouche.html) — 4.5★ (711 reviews)
+- [Last Drop Tavern](last-drop-tavern.html) — 4.4★ (1113 reviews)
+- [Union Square Pizza &amp; Kitchen](union-square-pizza-kitchen.html) — 4.4★ (295 reviews)
+- [The Rotunda](the-rotunda.html) — 4.4★ (697 reviews)
+- [Cafe La Tazita](cafe-la-tazita.html) — 4.4★ (529 reviews)
+- [Johnny Foley's Irish House](johnny-foley-s-irish-house.html) — 4.4★ (3793 reviews)
+- [Sears Fine Food](sears-fine-food.html) — 4.3★ (3911 reviews)
+- [Roxanne Cafe](roxanne-cafe.html) — 4.3★ (2003 reviews)
+- [Mason Diner (Cafe Mason)](mason-diner-cafe-mason.html) — 4.3★ (2648 reviews)
+- [E&amp;O Kitchen and Bar](e-o-kitchen-and-bar.html) — 4.3★ (1442 reviews)
+- [Le Central](le-central.html) — 4.3★ (397 reviews)
+- [Akiko's Sushi Bar](akiko-s-sushi-bar.html) — 4.3★ (1024 reviews)
+- [Kin Khao](kin-khao.html) — 4.2★ (2099 reviews)
+- [Bartlett Hall](bartlett-hall.html) — 4.2★ (940 reviews)
+- [Pinecrest Diner](pinecrest-diner.html) — 4.2★ (4696 reviews)
+- [Morton's The Steakhouse](morton-s-the-steakhouse.html) — 4.2★ (2058 reviews)
+- [Ula Restaurant &amp; Tapas Bar](ula-restaurant-tapas-bar.html) — 4.1★ (494 reviews)
+- [Café de la Presse](caf-de-la-presse.html) — 4.1★ (1712 reviews)
+- [Corzetti](corzetti.html) — 4.1★ (335 reviews)
+- [Bota Tapas &amp; Paella Bar](bota-tapas-paella-bar.html) — 4.1★ (529 reviews)
+- [Tad's Steakhouse](tad-s-steakhouse.html) — 4.1★ (2584 reviews)
+- [Little Delhi](little-delhi.html) — 4.1★ (1156 reviews)
+- [Amazing Kitchen](amazing-kitchen.html) — 4★ (562 reviews)
+- [King of Thai Noodle House](king-of-thai-noodle-house.html) — 4★ (1527 reviews)
+- [Level III Restaurant](level-iii-restaurant.html) — 3.9★ (43 reviews)
+- [Café Rito](caf-rito.html) — 3.1★ (14 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

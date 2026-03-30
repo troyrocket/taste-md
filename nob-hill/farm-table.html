@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farm : Table — Nob Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Farm : Table in Nob Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Farm : Table",
+  "servesCuisine": [
+    "californian restaurant",
+    "brunch restaurant",
+    "coffee shop",
+    "cafe",
+    "american restaurant",
+    "breakfast restaurant",
+    "food store",
+    "store"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "754 Post St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94109",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 300-5652",
+  "url": "http://farmtablesf.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "773"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7876956,
+    "longitude": -122.4143293
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 11:30 AM – 4:00 PM",
+    "Friday: 10:00 AM – 3:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Holden Whitehill"
+      },
+      "reviewBody": "Went here a couple of weeks ago with 2 friends and we are still talking about what a good time we had. Love the owner and atmosphere. Incredibly friendly. And if you're a dog lover it is a must visit."
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Abhi"
+      },
+      "reviewBody": "A cozy little breakfast gem on the post street in SF Downtown.It's a good spot to sip a coffee & sandwich.\nSmall indoor & outdoor dine inn space.\nAbout the food:\nThey have limited options in their men"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jerry L Javier"
+      },
+      "reviewBody": "The staff was few, but very nice. They were dog friendly and gave my pet some nice fresh meat treats while I looked at the menu. This is a restaurant not a cafe, so you either order to-go or for there"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Nob Hill</a></p>
+<h1>Farm : Table</h1>
+<p>American breakfast &amp; lunch sourced from local farms, in a rustic space with a lone communal table.</p>
+<h2>Cuisine</h2>
+<p><strong>Restaurant</strong> — californian restaurant, brunch restaurant, coffee shop, cafe, american restaurant, breakfast restaurant, food store, store</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 773 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Reservations accepted<br><strong>Meals:</strong> Breakfast · Brunch · Lunch<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Dog-friendly</p>
+<h2>Location &amp; Contact</h2>
+<p>754 Post St, San Francisco, CA 94109, USA<br>Phone: (415) 300-5652<br>Website: <a href="http://farmtablesf.com/">http://farmtablesf.com/</a><br><a href="https://maps.google.com/?cid=13556404800069347437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7876956, -122.4143293</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 2:00 PM<br>Tuesday: Closed<br>Wednesday: Closed<br>Thursday: 11:30 AM – 4:00 PM<br>Friday: 10:00 AM – 3:00 PM<br>Saturday: 10:00 AM – 3:00 PM<br>Sunday: 10:00 AM – 3:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Accessibility:</strong> Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Went here a couple of weeks ago with 2 friends and we are still talking about what a good time we had. Love the owner and atmosphere. Incredibly friendly. And if you&#39;re a dog lover it is a must visit.&quot; — <strong>Holden Whitehill</strong> (4 weeks ago)</li>
+<li>★★★ &quot;A cozy little breakfast gem on the post street in SF Downtown.It&#39;s a good spot to sip a coffee &amp; sandwich.
+Small indoor &amp; outdoor dine inn space.
+About the food:
+They have limited options in their menu where all dishes are unique from regular restaurants. We tried the toast &amp; skillet omelette both w...&quot; — <strong>Abhi</strong> (a year ago)</li>
+<li>★★★★ &quot;The staff was few, but very nice. They were dog friendly and gave my pet some nice fresh meat treats while I looked at the menu. This is a restaurant not a cafe, so you either order to-go or for there… no sitting unless you’re THERE.</li>
+</ul>
+<p>The tuna salad on toast was great. The portions were a bit small....&quot; — <strong>Jerry L Javier</strong> (3 years ago)</p>
+<ul>
+<li>★★★★★ &quot;The cutest spot for breakfast! We loved how dog friendly they were (they even brought out a little breakfast for our dog!)</li>
+</ul>
+<p>The daily toast was one of the best things we’ve ever eaten. Can’t recommend this place enough.&quot; — <strong>Anna Soetaert</strong> (a year ago)</p>
+<ul>
+<li>★★★★★ &quot;I had the most lovely, unexpected breakfast experience at Farm Table…the food was crazy fresh, elevated, and satisfying-the atmosphere inviting and cozy.  I would highly recommend if your palate can appreciate details like homemade crème fraîche on a delectable croissant breakfast sandwich and melte...&quot; — <strong>Anthony Silva</strong> (3 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Nob Hill](index.html)
+
+# Farm : Table
+American breakfast &amp; lunch sourced from local farms, in a rustic space with a lone communal table.
+
+## Cuisine
+**Restaurant** — californian restaurant, brunch restaurant, coffee shop, cafe, american restaurant, breakfast restaurant, food store, store
+
+## Price Range
+$$
+
+## Rating
+4.3 stars — 773 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Reservations accepted  
+**Meals:** Breakfast · Brunch · Lunch  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Dog-friendly
+
+## Location &amp; Contact
+
+754 Post St, San Francisco, CA 94109, USA  
+Phone: (415) 300-5652  
+Website: [http://farmtablesf.com/](http://farmtablesf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=13556404800069347437&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7876956, -122.4143293
+
+## Hours
+
+Monday: 10:00 AM – 2:00 PM  
+Tuesday: Closed  
+Wednesday: Closed  
+Thursday: 11:30 AM – 4:00 PM  
+Friday: 10:00 AM – 3:00 PM  
+Saturday: 10:00 AM – 3:00 PM  
+Sunday: 10:00 AM – 3:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Accessibility:** Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Went here a couple of weeks ago with 2 friends and we are still talking about what a good time we had. Love the owner and atmosphere. Incredibly friendly. And if you're a dog lover it is a must visit.&quot; — **Holden Whitehill** (4 weeks ago)
+- ★★★ &quot;A cozy little breakfast gem on the post street in SF Downtown.It's a good spot to sip a coffee &amp; sandwich.
+Small indoor &amp; outdoor dine inn space.
+About the food:
+They have limited options in their menu where all dishes are unique from regular restaurants. We tried the toast &amp; skillet omelette both w...&quot; — **Abhi** (a year ago)
+- ★★★★ &quot;The staff was few, but very nice. They were dog friendly and gave my pet some nice fresh meat treats while I looked at the menu. This is a restaurant not a cafe, so you either order to-go or for there… no sitting unless you’re THERE.
+
+The tuna salad on toast was great. The portions were a bit small....&quot; — **Jerry L Javier** (3 years ago)
+- ★★★★★ &quot;The cutest spot for breakfast! We loved how dog friendly they were (they even brought out a little breakfast for our dog!)
+
+The daily toast was one of the best things we’ve ever eaten. Can’t recommend this place enough.&quot; — **Anna Soetaert** (a year ago)
+- ★★★★★ &quot;I had the most lovely, unexpected breakfast experience at Farm Table…the food was crazy fresh, elevated, and satisfying-the atmosphere inviting and cozy.  I would highly recommend if your palate can appreciate details like homemade crème fraîche on a delectable croissant breakfast sandwich and melte...&quot; — **Anthony Silva** (3 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

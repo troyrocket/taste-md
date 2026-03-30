@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>taste.md — AI-Optimized Restaurant Directory, San Francisco</title>
+  <meta name="description" content="Machine-readable restaurant pages optimized for AI discovery. 1450 restaurants across 39 San Francisco neighborhoods.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 5rem; color: #FF3008; }
+    h2 { font-size: 1.3rem; margin-top: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.3rem; }
+    h2 a { color: #222; text-decoration: none; }
+    h2 a:hover { color: #0066cc; }
+    .hood-count { font-weight: normal; color: #999; font-size: 0.9rem; }
+    .restaurant { padding: 0.4rem 0; }
+    .restaurant a { color: #222; text-decoration: none; font-weight: normal; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; display: inline; }
+    .see-all { font-size: 0.85rem; } .see-all a { color: #999; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<h1>&gt;_ taste.md</h1>
+<p>AI-optimized restaurant directory for San Francisco. <strong>1450</strong> restaurants across <strong>39</strong> neighborhoods.</p>
+<h2><a href="bayview/">Bayview</a> <span class="hood-count">(44)</span></h2>
+<div class="restaurant">
+  <a href="bayview/sco-s.html">Sco’s</a>
+  <span class="meta"> — 5★ (33)</span>
+</div>
+<div class="restaurant">
+  <a href="bayview/mdjk.html">MDJK</a>
+  <span class="meta"> — 5★ (11)</span>
+</div>
+<div class="restaurant">
+  <a href="bayview/cemitas-el-puebla.html">Cemitas El Puebla</a>
+  <span class="meta"> — 5★ (5)</span>
+</div>
+<div class="restaurant">
+  <a href="bayview/early-bird-tacos-catering.html">Early Bird Tacos - Catering</a>
+  <span class="meta"> — 4.9★ (150)</span>
+</div>
+<div class="restaurant">
+  <a href="bayview/gumbo-social.html">Gumbo Social</a>
+  <span class="meta"> — 4.8★ (330)</span>
+</div>
+<div class="see-all"><a href="bayview/">See all 44 restaurants in Bayview →</a></div>
+<h2><a href="bernal-heights/">Bernal Heights</a> <span class="hood-count">(52)</span></h2>
+<div class="restaurant">
+  <a href="bernal-heights/tea-rex-cafe-specialty-teas.html">Tea Rex Cafe & Specialty Teas</a>
+  <span class="meta"> — 5★ (64)</span>
+</div>
+<div class="restaurant">
+  <a href="bernal-heights/kiwa-kitchen.html">Kiwa Kitchen</a>
+  <span class="meta"> — 4.8★ (11)</span>
+</div>
+<div class="restaurant">
+  <a href="bernal-heights/diwali-indian-cuisine.html">Diwali Indian Cuisine</a>
+  <span class="meta"> — 4.8★ (385)</span>
+</div>
+<div class="restaurant">
+  <a href="bernal-heights/doma-sushi.html">Doma Sushi</a>
+  <span class="meta"> — 4.8★ (229)</span>
+</div>
+<div class="restaurant">
+  <a href="bernal-heights/holy-water.html">Holy Water</a>
+  <span class="meta"> — 4.7★ (608)</span>
+</div>
+<div class="see-all"><a href="bernal-heights/">See all 52 restaurants in Bernal Heights →</a></div>
+<h2><a href="castro/">Castro</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="castro/ka-kai-northern-thai.html">Ka Kai Northern Thai</a>
+  <span class="meta"> — 4.9★ (11)</span>
+</div>
+<div class="restaurant">
+  <a href="castro/flora-king-steakhouse.html">Flora King Steakhouse</a>
+  <span class="meta"> — 4.9★ (88)</span>
+</div>
+<div class="restaurant">
+  <a href="castro/poesia-cafe.html">Poesia Cafe</a>
+  <span class="meta"> — 4.7★ (176)</span>
+</div>
+<div class="restaurant">
+  <a href="castro/anchor-oyster-bar.html">Anchor Oyster Bar</a>
+  <span class="meta"> — 4.7★ (1263)</span>
+</div>
+<div class="restaurant">
+  <a href="castro/potto.html">Potto</a>
+  <span class="meta"> — 4.7★ (92)</span>
+</div>
+<div class="see-all"><a href="castro/">See all 59 restaurants in Castro →</a></div>
+<h2><a href="chinatown/">Chinatown</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="chinatown/today-food.html">Today Food</a>
+  <span class="meta"> — 4.8★ (455)</span>
+</div>
+<div class="restaurant">
+  <a href="chinatown/cantoo-latin-asian-rotisserie.html">Cantoo Latin Asian Rotisserie</a>
+  <span class="meta"> — 4.7★ (522)</span>
+</div>
+<div class="restaurant">
+  <a href="chinatown/spicy-cloud-restaurant.html">spicy & cloud restaurant</a>
+  <span class="meta"> — 4.6★ (194)</span>
+</div>
+<div class="restaurant">
+  <a href="chinatown/sohunan-of-henry-s-hunan.html">Sohunan of Henry's Hunan</a>
+  <span class="meta"> — 4.6★ (418)</span>
+</div>
+<div class="restaurant">
+  <a href="chinatown/z-y-peking-duck.html">御食园 Z & Y Peking Duck</a>
+  <span class="meta"> — 4.5★ (1302)</span>
+</div>
+<div class="see-all"><a href="chinatown/">See all 59 restaurants in Chinatown →</a></div>
+<h2><a href="cole-valley/">Cole Valley</a> <span class="hood-count">(11)</span></h2>
+<div class="restaurant">
+  <a href="cole-valley/bistro-la-chaumi-re.html">Bistro La Chaumière</a>
+  <span class="meta"> — 4.6★ (158)</span>
+</div>
+<div class="restaurant">
+  <a href="cole-valley/lovely-s.html">Lovely's</a>
+  <span class="meta"> — 4.5★ (58)</span>
+</div>
+<div class="restaurant">
+  <a href="cole-valley/taboun.html">Taboun</a>
+  <span class="meta"> — 4.5★ (281)</span>
+</div>
+<div class="restaurant">
+  <a href="cole-valley/souvla.html">Souvla</a>
+  <span class="meta"> — 4.5★ (1241)</span>
+</div>
+<div class="restaurant">
+  <a href="cole-valley/barrera-s-cocina.html">Barrera's Cocina</a>
+  <span class="meta"> — 4.4★ (96)</span>
+</div>
+<div class="see-all"><a href="cole-valley/">See all 11 restaurants in Cole Valley →</a></div>
+<h2><a href="cow-hollow/">Cow Hollow</a> <span class="hood-count">(16)</span></h2>
+<div class="restaurant">
+  <a href="cow-hollow/la-fromagerie-cheese-shop.html">La Fromagerie Cheese Shop</a>
+  <span class="meta"> — 5★ (138)</span>
+</div>
+<div class="restaurant">
+  <a href="cow-hollow/dork-eat-s.html">Dork Eat's</a>
+  <span class="meta"> — 4.7★ (28)</span>
+</div>
+<div class="restaurant">
+  <a href="cow-hollow/the-italian-homemade-company.html">The Italian Homemade Company</a>
+  <span class="meta"> — 4.6★ (1721)</span>
+</div>
+<div class="restaurant">
+  <a href="cow-hollow/wildseed.html">Wildseed</a>
+  <span class="meta"> — 4.6★ (1473)</span>
+</div>
+<div class="restaurant">
+  <a href="cow-hollow/roaming-goat.html">Roaming Goat</a>
+  <span class="meta"> — 4.6★ (180)</span>
+</div>
+<div class="see-all"><a href="cow-hollow/">See all 16 restaurants in Cow Hollow →</a></div>
+<h2><a href="diamond-heights/">Diamond Heights</a> <span class="hood-count">(9)</span></h2>
+<div class="restaurant">
+  <a href="diamond-heights/dim-the-way.html">Dim The Way</a>
+  <span class="meta"> — 4.9★ (33)</span>
+</div>
+<div class="restaurant">
+  <a href="diamond-heights/rhea-s-deli-market.html">Rhea's Deli & Market</a>
+  <span class="meta"> — 4.7★ (333)</span>
+</div>
+<div class="restaurant">
+  <a href="diamond-heights/sassy-foods.html">Sassy Foods</a>
+  <span class="meta"> — 4.6★ (36)</span>
+</div>
+<div class="restaurant">
+  <a href="diamond-heights/se-or-sisig-sf-mission.html">Señor Sisig (SF Mission)</a>
+  <span class="meta"> — 4.5★ (761)</span>
+</div>
+<div class="restaurant">
+  <a href="diamond-heights/bac-lieu-restaurant.html">Bac Lieu Restaurant</a>
+  <span class="meta"> — 4.5★ (314)</span>
+</div>
+<div class="see-all"><a href="diamond-heights/">See all 9 restaurants in Diamond Heights →</a></div>
+<h2><a href="dogpatch/">Dogpatch</a> <span class="hood-count">(27)</span></h2>
+<div class="restaurant">
+  <a href="dogpatch/together-wine-lounge-dogpatch.html">Together Wine Lounge Dogpatch</a>
+  <span class="meta"> — 4.9★ (103)</span>
+</div>
+<div class="restaurant">
+  <a href="dogpatch/wolfsbane.html">Wolfsbane</a>
+  <span class="meta"> — 4.9★ (16)</span>
+</div>
+<div class="restaurant">
+  <a href="dogpatch/jolt-n-bolt-bakery-cafe.html">Jolt N Bolt Bakery & Cafe</a>
+  <span class="meta"> — 4.8★ (56)</span>
+</div>
+<div class="restaurant">
+  <a href="dogpatch/bay-of-burma.html">Bay of Burma</a>
+  <span class="meta"> — 4.8★ (200)</span>
+</div>
+<div class="restaurant">
+  <a href="dogpatch/long-bridge-pizza-company.html">Long Bridge Pizza Company</a>
+  <span class="meta"> — 4.6★ (1157)</span>
+</div>
+<div class="see-all"><a href="dogpatch/">See all 27 restaurants in Dogpatch →</a></div>
+<h2><a href="duboce-triangle/">Duboce Triangle</a> <span class="hood-count">(14)</span></h2>
+<div class="restaurant">
+  <a href="duboce-triangle/mezze-and-mooore.html">Mezze and Mooore</a>
+  <span class="meta"> — 4.7★ (520)</span>
+</div>
+<div class="restaurant">
+  <a href="duboce-triangle/gola-restaurant-sf.html">Gola Restaurant SF</a>
+  <span class="meta"> — 4.7★ (191)</span>
+</div>
+<div class="restaurant">
+  <a href="duboce-triangle/kuma-on-valencia.html">Kuma on Valencia</a>
+  <span class="meta"> — 4.6★ (202)</span>
+</div>
+<div class="restaurant">
+  <a href="duboce-triangle/kantine.html">Kantine</a>
+  <span class="meta"> — 4.6★ (932)</span>
+</div>
+<div class="restaurant">
+  <a href="duboce-triangle/tacos-el-tucan-sf.html">Tacos El Tucan SF</a>
+  <span class="meta"> — 4.6★ (176)</span>
+</div>
+<div class="see-all"><a href="duboce-triangle/">See all 14 restaurants in Duboce Triangle →</a></div>
+<h2><a href="excelsior/">Excelsior</a> <span class="hood-count">(42)</span></h2>
+<div class="restaurant">
+  <a href="excelsior/the-check-in-lounge.html">The Check-In Lounge</a>
+  <span class="meta"> — 5★ (47)</span>
+</div>
+<div class="restaurant">
+  <a href="excelsior/universal-breakfast-lunch.html">Universal Breakfast & Lunch</a>
+  <span class="meta"> — 4.8★ (38)</span>
+</div>
+<div class="restaurant">
+  <a href="excelsior/pho-golden.html">Pho Golden</a>
+  <span class="meta"> — 4.8★ (56)</span>
+</div>
+<div class="restaurant">
+  <a href="excelsior/calabria-brothers.html">Calabria Brothers</a>
+  <span class="meta"> — 4.7★ (218)</span>
+</div>
+<div class="restaurant">
+  <a href="excelsior/jjamppong.html">JJamPPong</a>
+  <span class="meta"> — 4.7★ (294)</span>
+</div>
+<div class="see-all"><a href="excelsior/">See all 42 restaurants in Excelsior →</a></div>
+<h2><a href="fillmore/">Fillmore</a> <span class="hood-count">(11)</span></h2>
+<div class="restaurant">
+  <a href="fillmore/minnie-bell-s-soul-movement.html">Minnie Bell’s Soul Movement</a>
+  <span class="meta"> — 4.6★ (163)</span>
+</div>
+<div class="restaurant">
+  <a href="fillmore/the-anchovy-bar.html">The Anchovy Bar</a>
+  <span class="meta"> — 4.6★ (408)</span>
+</div>
+<div class="restaurant">
+  <a href="fillmore/bar-crenn.html">Bar Crenn</a>
+  <span class="meta"> — 4.6★ (233)</span>
+</div>
+<div class="restaurant">
+  <a href="fillmore/merchant-roots.html">Merchant Roots</a>
+  <span class="meta"> — 4.5★ (176)</span>
+</div>
+<div class="restaurant">
+  <a href="fillmore/tommy-s-joynt.html">Tommy's Joynt</a>
+  <span class="meta"> — 4.4★ (4176)</span>
+</div>
+<div class="see-all"><a href="fillmore/">See all 11 restaurants in Fillmore →</a></div>
+<h2><a href="financial-district/">Financial District</a> <span class="hood-count">(47)</span></h2>
+<div class="restaurant">
+  <a href="financial-district/teranga.html">Teranga</a>
+  <span class="meta"> — 4.9★ (93)</span>
+</div>
+<div class="restaurant">
+  <a href="financial-district/kokkari-estiatorio.html">Kokkari Estiatorio</a>
+  <span class="meta"> — 4.7★ (3448)</span>
+</div>
+<div class="restaurant">
+  <a href="financial-district/cenote.html">Cenote</a>
+  <span class="meta"> — 4.7★ (95)</span>
+</div>
+<div class="restaurant">
+  <a href="financial-district/toy-soldier.html">Toy Soldier</a>
+  <span class="meta"> — 4.7★ (978)</span>
+</div>
+<div class="restaurant">
+  <a href="financial-district/grasso-sf.html">Grasso SF</a>
+  <span class="meta"> — 4.7★ (30)</span>
+</div>
+<div class="see-all"><a href="financial-district/">See all 47 restaurants in Financial District →</a></div>
+<h2><a href="glen-park/">Glen Park</a> <span class="hood-count">(11)</span></h2>
+<div class="restaurant">
+  <a href="glen-park/megan-s-table.html">Megan's Table</a>
+  <span class="meta"> — 4.9★ (57)</span>
+</div>
+<div class="restaurant">
+  <a href="glen-park/banh-mi-viet-diamond.html">Banh Mi Viet Diamond</a>
+  <span class="meta"> — 4.9★ (125)</span>
+</div>
+<div class="restaurant">
+  <a href="glen-park/pebbles-cafe.html">Pebbles Cafe</a>
+  <span class="meta"> — 4.7★ (198)</span>
+</div>
+<div class="restaurant">
+  <a href="glen-park/manzoni.html">Manzoni</a>
+  <span class="meta"> — 4.6★ (205)</span>
+</div>
+<div class="restaurant">
+  <a href="glen-park/gialina.html">Gialina</a>
+  <span class="meta"> — 4.6★ (480)</span>
+</div>
+<div class="see-all"><a href="glen-park/">See all 11 restaurants in Glen Park →</a></div>
+<h2><a href="haight-ashbury/">Haight-Ashbury</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="haight-ashbury/golden-mediterranean-cuisine.html">Golden Mediterranean Cuisine</a>
+  <span class="meta"> — 5★ (42)</span>
+</div>
+<div class="restaurant">
+  <a href="haight-ashbury/the-hungry-spot.html">The Hungry Spot</a>
+  <span class="meta"> — 4.9★ (177)</span>
+</div>
+<div class="restaurant">
+  <a href="haight-ashbury/ken.html">KEN</a>
+  <span class="meta"> — 4.9★ (145)</span>
+</div>
+<div class="restaurant">
+  <a href="haight-ashbury/sandy-s.html">Sandy's</a>
+  <span class="meta"> — 4.8★ (390)</span>
+</div>
+<div class="restaurant">
+  <a href="haight-ashbury/angiday.html">Angiday</a>
+  <span class="meta"> — 4.7★ (146)</span>
+</div>
+<div class="see-all"><a href="haight-ashbury/">See all 59 restaurants in Haight-Ashbury →</a></div>
+<h2><a href="hayes-valley/">Hayes Valley</a> <span class="hood-count">(47)</span></h2>
+<div class="restaurant">
+  <a href="hayes-valley/restaurant-naides.html">Restaurant Naides</a>
+  <span class="meta"> — 5★ (28)</span>
+</div>
+<div class="restaurant">
+  <a href="hayes-valley/doppio-coffee-brunch.html">Doppio Coffee & Brunch</a>
+  <span class="meta"> — 4.9★ (364)</span>
+</div>
+<div class="restaurant">
+  <a href="hayes-valley/sforno-pizzeria-napoletana.html">Sforno Pizzeria Napoletana</a>
+  <span class="meta"> — 4.8★ (148)</span>
+</div>
+<div class="restaurant">
+  <a href="hayes-valley/dingles-public-house.html">Dingles Public House</a>
+  <span class="meta"> — 4.8★ (70)</span>
+</div>
+<div class="restaurant">
+  <a href="hayes-valley/kiln.html">Kiln</a>
+  <span class="meta"> — 4.8★ (148)</span>
+</div>
+<div class="see-all"><a href="hayes-valley/">See all 47 restaurants in Hayes Valley →</a></div>
+<h2><a href="inner-richmond/">Inner Richmond</a> <span class="hood-count">(19)</span></h2>
+<div class="restaurant">
+  <a href="inner-richmond/alushe-coffee-bar.html">Alushe coffee bar</a>
+  <span class="meta"> — 4.8★ (107)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-richmond/dumpling-king.html">Dumpling King</a>
+  <span class="meta"> — 4.7★ (118)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-richmond/unco-frank-s.html">Unco Frank's</a>
+  <span class="meta"> — 4.7★ (49)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-richmond/steins.html">Steins</a>
+  <span class="meta"> — 4.7★ (343)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-richmond/pasta-supply-co.html">Pasta Supply Co</a>
+  <span class="meta"> — 4.6★ (429)</span>
+</div>
+<div class="see-all"><a href="inner-richmond/">See all 19 restaurants in Inner Richmond →</a></div>
+<h2><a href="inner-sunset/">Inner Sunset</a> <span class="hood-count">(33)</span></h2>
+<div class="restaurant">
+  <a href="inner-sunset/timur-indian-and-nepalese-cuisine.html">Timur Indian and Nepalese Cuisine</a>
+  <span class="meta"> — 5★ (268)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-sunset/banh-mi-crunch.html">Banh Mi Crunch</a>
+  <span class="meta"> — 4.9★ (357)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-sunset/sweet-glory-on-inner-sunset.html">Sweet Glory on Inner Sunset</a>
+  <span class="meta"> — 4.8★ (365)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-sunset/sunset-indian-cuisine.html">Sunset Indian Cuisine</a>
+  <span class="meta"> — 4.8★ (613)</span>
+</div>
+<div class="restaurant">
+  <a href="inner-sunset/zentarou-sushi-and-sake-bar.html">Zentarou Sushi and Sake Bar</a>
+  <span class="meta"> — 4.8★ (218)</span>
+</div>
+<div class="see-all"><a href="inner-sunset/">See all 33 restaurants in Inner Sunset →</a></div>
+<h2><a href="japantown/">Japantown</a> <span class="hood-count">(50)</span></h2>
+<div class="restaurant">
+  <a href="japantown/miyako-old-fashion-ice-cream.html">Miyako Old Fashion Ice Cream</a>
+  <span class="meta"> — 4.9★ (401)</span>
+</div>
+<div class="restaurant">
+  <a href="japantown/an-japanese-restaurant.html">An | Japanese Restaurant</a>
+  <span class="meta"> — 4.8★ (171)</span>
+</div>
+<div class="restaurant">
+  <a href="japantown/yuji.html">YUJI</a>
+  <span class="meta"> — 4.8★ (95)</span>
+</div>
+<div class="restaurant">
+  <a href="japantown/k-dragon-cuisine.html">K Dragon cuisine</a>
+  <span class="meta"> — 4.7★ (108)</span>
+</div>
+<div class="restaurant">
+  <a href="japantown/soba-dining-sora.html">Soba Dining Sora</a>
+  <span class="meta"> — 4.6★ (23)</span>
+</div>
+<div class="see-all"><a href="japantown/">See all 50 restaurants in Japantown →</a></div>
+<h2><a href="lower-haight/">Lower Haight</a> <span class="hood-count">(17)</span></h2>
+<div class="restaurant">
+  <a href="lower-haight/tacos-oscar.html">Tacos Oscar</a>
+  <span class="meta"> — 5★ (4)</span>
+</div>
+<div class="restaurant">
+  <a href="lower-haight/wave.html">Wave</a>
+  <span class="meta"> — 5★ (40)</span>
+</div>
+<div class="restaurant">
+  <a href="lower-haight/q-s-sandwich-shop.html">Q's Sandwich Shop</a>
+  <span class="meta"> — 4.9★ (173)</span>
+</div>
+<div class="restaurant">
+  <a href="lower-haight/woods-lowside.html">Woods Lowside</a>
+  <span class="meta"> — 4.8★ (138)</span>
+</div>
+<div class="restaurant">
+  <a href="lower-haight/le-cafe-du-soleil.html">Le Cafe du Soleil</a>
+  <span class="meta"> — 4.5★ (680)</span>
+</div>
+<div class="see-all"><a href="lower-haight/">See all 17 restaurants in Lower Haight →</a></div>
+<h2><a href="marina-district/">Marina District</a> <span class="hood-count">(60)</span></h2>
+<div class="restaurant">
+  <a href="marina-district/milos-meze.html">Milos Meze</a>
+  <span class="meta"> — 4.9★ (358)</span>
+</div>
+<div class="restaurant">
+  <a href="marina-district/indigo.html">Indigo</a>
+  <span class="meta"> — 4.9★ (256)</span>
+</div>
+<div class="restaurant">
+  <a href="marina-district/marina-indian-cuisine.html">Marina Indian Cuisine</a>
+  <span class="meta"> — 4.7★ (399)</span>
+</div>
+<div class="restaurant">
+  <a href="marina-district/the-patio.html">The Patio</a>
+  <span class="meta"> — 4.7★ (261)</span>
+</div>
+<div class="restaurant">
+  <a href="marina-district/nippon-curry-san-francisco.html">Nippon Curry San Francisco</a>
+  <span class="meta"> — 4.7★ (438)</span>
+</div>
+<div class="see-all"><a href="marina-district/">See all 60 restaurants in Marina District →</a></div>
+<h2><a href="mission-district/">Mission District</a> <span class="hood-count">(60)</span></h2>
+<div class="restaurant">
+  <a href="mission-district/sangria-salt.html">Sangria & Salt</a>
+  <span class="meta"> — 4.8★ (84)</span>
+</div>
+<div class="restaurant">
+  <a href="mission-district/sfceviche-19.html">SFCeviche 19</a>
+  <span class="meta"> — 4.8★ (54)</span>
+</div>
+<div class="restaurant">
+  <a href="mission-district/mr-pollo.html">Mr. Pollo</a>
+  <span class="meta"> — 4.8★ (307)</span>
+</div>
+<div class="restaurant">
+  <a href="mission-district/jake-s-steaks.html">Jake's Steaks</a>
+  <span class="meta"> — 4.8★ (669)</span>
+</div>
+<div class="restaurant">
+  <a href="mission-district/the-morris.html">The Morris</a>
+  <span class="meta"> — 4.7★ (648)</span>
+</div>
+<div class="see-all"><a href="mission-district/">See all 60 restaurants in Mission District →</a></div>
+<h2><a href="nob-hill/">Nob Hill</a> <span class="hood-count">(47)</span></h2>
+<div class="restaurant">
+  <a href="nob-hill/tahona-mercado.html">Tahona Mercado</a>
+  <span class="meta"> — 4.9★ (174)</span>
+</div>
+<div class="restaurant">
+  <a href="nob-hill/mayaflor.html">Mayaflor</a>
+  <span class="meta"> — 4.9★ (122)</span>
+</div>
+<div class="restaurant">
+  <a href="nob-hill/dacha-kitchen-bar.html">DACHA Kitchen & Bar</a>
+  <span class="meta"> — 4.8★ (408)</span>
+</div>
+<div class="restaurant">
+  <a href="nob-hill/jasmin-s.html">Jasmin's</a>
+  <span class="meta"> — 4.8★ (398)</span>
+</div>
+<div class="restaurant">
+  <a href="nob-hill/la-travesia.html">La Travesia</a>
+  <span class="meta"> — 4.8★ (153)</span>
+</div>
+<div class="see-all"><a href="nob-hill/">See all 47 restaurants in Nob Hill →</a></div>
+<h2><a href="noe-valley/">Noe Valley</a> <span class="hood-count">(48)</span></h2>
+<div class="restaurant">
+  <a href="noe-valley/ingredients.html">Ingredients</a>
+  <span class="meta"> — 5★ (71)</span>
+</div>
+<div class="restaurant">
+  <a href="noe-valley/falasteen.html">Falasteen</a>
+  <span class="meta"> — 4.9★ (50)</span>
+</div>
+<div class="restaurant">
+  <a href="noe-valley/ap-s-cafe.html">AP’S CAFE</a>
+  <span class="meta"> — 4.9★ (73)</span>
+</div>
+<div class="restaurant">
+  <a href="noe-valley/noe-indian-cuisine.html">Noe Indian Cuisine</a>
+  <span class="meta"> — 4.8★ (497)</span>
+</div>
+<div class="restaurant">
+  <a href="noe-valley/grand-lake-kitchen-noe-valley.html">Grand Lake Kitchen - Noe Valley</a>
+  <span class="meta"> — 4.8★ (8)</span>
+</div>
+<div class="see-all"><a href="noe-valley/">See all 48 restaurants in Noe Valley →</a></div>
+<h2><a href="north-beach/">North Beach</a> <span class="hood-count">(58)</span></h2>
+<div class="restaurant">
+  <a href="north-beach/sam-s-panini.html">Sam’s Panini</a>
+  <span class="meta"> — 5★ (35)</span>
+</div>
+<div class="restaurant">
+  <a href="north-beach/north-beach-gyros.html">North Beach Gyros</a>
+  <span class="meta"> — 4.9★ (4226)</span>
+</div>
+<div class="restaurant">
+  <a href="north-beach/board-and-drink.html">Board and Drink</a>
+  <span class="meta"> — 4.8★ (239)</span>
+</div>
+<div class="restaurant">
+  <a href="north-beach/bocconcino.html">Bocconcino</a>
+  <span class="meta"> — 4.7★ (326)</span>
+</div>
+<div class="restaurant">
+  <a href="north-beach/golden-boy-pizza.html">Golden Boy Pizza</a>
+  <span class="meta"> — 4.7★ (4820)</span>
+</div>
+<div class="see-all"><a href="north-beach/">See all 58 restaurants in North Beach →</a></div>
+<h2><a href="outer-richmond/">Outer Richmond</a> <span class="hood-count">(30)</span></h2>
+<div class="restaurant">
+  <a href="outer-richmond/fuwa-dumpling.html">Fuwa Dumpling</a>
+  <span class="meta"> — 4.9★ (130)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-richmond/bistro-mediterraneo.html">Bistro Mediterraneo</a>
+  <span class="meta"> — 4.8★ (423)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-richmond/boa-s-cvc.html">Boa's CVC</a>
+  <span class="meta"> — 4.8★ (136)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-richmond/izakaya-mayumi.html">Izakaya mayumi</a>
+  <span class="meta"> — 4.8★ (142)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-richmond/ocean-beach-cafe.html">Ocean Beach Cafe</a>
+  <span class="meta"> — 4.7★ (662)</span>
+</div>
+<div class="see-all"><a href="outer-richmond/">See all 30 restaurants in Outer Richmond →</a></div>
+<h2><a href="outer-sunset/">Outer Sunset</a> <span class="hood-count">(13)</span></h2>
+<div class="restaurant">
+  <a href="outer-sunset/lion-kitchen.html">Lion Kitchen</a>
+  <span class="meta"> — 4.9★ (62)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-sunset/fire-ice-interactive-grill-bar.html">FiRE+iCE Interactive Grill & Bar</a>
+  <span class="meta"> — 4.6★ (207)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-sunset/durty-nelly-s.html">Durty Nelly's</a>
+  <span class="meta"> — 4.6★ (435)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-sunset/thai-cottage-restaurant.html">Thai Cottage Restaurant</a>
+  <span class="meta"> — 4.6★ (186)</span>
+</div>
+<div class="restaurant">
+  <a href="outer-sunset/the-pots-hot-pot.html">The Pots Hot Pot</a>
+  <span class="meta"> — 4.6★ (430)</span>
+</div>
+<div class="see-all"><a href="outer-sunset/">See all 13 restaurants in Outer Sunset →</a></div>
+<h2><a href="pacific-heights/">Pacific Heights</a> <span class="hood-count">(50)</span></h2>
+<div class="restaurant">
+  <a href="pacific-heights/kolaj.html">Kolaj</a>
+  <span class="meta"> — 5★ (171)</span>
+</div>
+<div class="restaurant">
+  <a href="pacific-heights/maria-isabel.html">Maria Isabel</a>
+  <span class="meta"> — 5★ (56)</span>
+</div>
+<div class="restaurant">
+  <a href="pacific-heights/anomaly-sf.html">Anomaly SF</a>
+  <span class="meta"> — 4.8★ (200)</span>
+</div>
+<div class="restaurant">
+  <a href="pacific-heights/rise-set.html">Rise & Set</a>
+  <span class="meta"> — 4.7★ (103)</span>
+</div>
+<div class="restaurant">
+  <a href="pacific-heights/chemin.html">Cheminé</a>
+  <span class="meta"> — 4.7★ (145)</span>
+</div>
+<div class="see-all"><a href="pacific-heights/">See all 50 restaurants in Pacific Heights →</a></div>
+<h2><a href="parkside/">Parkside</a> <span class="hood-count">(17)</span></h2>
+<div class="restaurant">
+  <a href="parkside/ben-tre-restaurant.html">Ben Tre Restaurant</a>
+  <span class="meta"> — 4.8★ (8)</span>
+</div>
+<div class="restaurant">
+  <a href="parkside/chaa-roen-pohn.html">Chaa Roen Pohn</a>
+  <span class="meta"> — 4.8★ (91)</span>
+</div>
+<div class="restaurant">
+  <a href="parkside/obrien-s-irish-pub.html">Obrien's Irish Pub</a>
+  <span class="meta"> — 4.7★ (123)</span>
+</div>
+<div class="restaurant">
+  <a href="parkside/parkside-market-sandwich-liquor.html">Parkside Market Sandwich & Liquor</a>
+  <span class="meta"> — 4.7★ (106)</span>
+</div>
+<div class="restaurant">
+  <a href="parkside/lou-s-cafe.html">Lou's Cafe</a>
+  <span class="meta"> — 4.7★ (396)</span>
+</div>
+<div class="see-all"><a href="parkside/">See all 17 restaurants in Parkside →</a></div>
+<h2><a href="potrero-hill/">Potrero Hill</a> <span class="hood-count">(49)</span></h2>
+<div class="restaurant">
+  <a href="potrero-hill/chevio-s-food-truck.html">Chevio’s Food truck</a>
+  <span class="meta"> — 4.9★ (41)</span>
+</div>
+<div class="restaurant">
+  <a href="potrero-hill/jb-s-place.html">JB's Place</a>
+  <span class="meta"> — 4.8★ (332)</span>
+</div>
+<div class="restaurant">
+  <a href="potrero-hill/caprizza-ristorante.html">Caprizza Ristorante</a>
+  <span class="meta"> — 4.8★ (44)</span>
+</div>
+<div class="restaurant">
+  <a href="potrero-hill/newkirk-s.html">Newkirk's</a>
+  <span class="meta"> — 4.8★ (315)</span>
+</div>
+<div class="restaurant">
+  <a href="potrero-hill/marcella-s-lasagneria.html">Marcella's Lasagneria</a>
+  <span class="meta"> — 4.8★ (656)</span>
+</div>
+<div class="see-all"><a href="potrero-hill/">See all 49 restaurants in Potrero Hill →</a></div>
+<h2><a href="presidio-heights/">Presidio Heights</a> <span class="hood-count">(21)</span></h2>
+<div class="restaurant">
+  <a href="presidio-heights/presidio-golf-course-clubhouse-terrace.html">Presidio Golf Course Clubhouse & Terrace</a>
+  <span class="meta"> — 5★ (16)</span>
+</div>
+<div class="restaurant">
+  <a href="presidio-heights/barista-coffee-brunch.html">Barista Coffee & Brunch</a>
+  <span class="meta"> — 4.8★ (391)</span>
+</div>
+<div class="restaurant">
+  <a href="presidio-heights/cafe-rx.html">Cafe RX</a>
+  <span class="meta"> — 4.7★ (218)</span>
+</div>
+<div class="restaurant">
+  <a href="presidio-heights/picnix-bistro-carry-out.html">Picnix Bistro & Carry Out</a>
+  <span class="meta"> — 4.7★ (93)</span>
+</div>
+<div class="restaurant">
+  <a href="presidio-heights/sociale.html">Sociale</a>
+  <span class="meta"> — 4.6★ (315)</span>
+</div>
+<div class="see-all"><a href="presidio-heights/">See all 21 restaurants in Presidio Heights →</a></div>
+<h2><a href="richmond-district/">Richmond District</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="richmond-district/iggy-s-place.html">Iggy's Place</a>
+  <span class="meta"> — 4.9★ (265)</span>
+</div>
+<div class="restaurant">
+  <a href="richmond-district/phi-long.html">Phi Long</a>
+  <span class="meta"> — 4.9★ (56)</span>
+</div>
+<div class="restaurant">
+  <a href="richmond-district/the-richmond.html">The Richmond</a>
+  <span class="meta"> — 4.8★ (185)</span>
+</div>
+<div class="restaurant">
+  <a href="richmond-district/bao-bao-dumpling.html">Bao Bao Dumpling</a>
+  <span class="meta"> — 4.8★ (125)</span>
+</div>
+<div class="restaurant">
+  <a href="richmond-district/cantina-los-mayas.html">Cantina Los Mayas</a>
+  <span class="meta"> — 4.8★ (250)</span>
+</div>
+<div class="see-all"><a href="richmond-district/">See all 59 restaurants in Richmond District →</a></div>
+<h2><a href="russian-hill/">Russian Hill</a> <span class="hood-count">(48)</span></h2>
+<div class="restaurant">
+  <a href="russian-hill/7-elves-russian-hill.html">7 Elves Russian Hill</a>
+  <span class="meta"> — 5★ (1)</span>
+</div>
+<div class="restaurant">
+  <a href="russian-hill/collina.html">Collina</a>
+  <span class="meta"> — 4.8★ (165)</span>
+</div>
+<div class="restaurant">
+  <a href="russian-hill/amarena.html">Amarena</a>
+  <span class="meta"> — 4.8★ (1572)</span>
+</div>
+<div class="restaurant">
+  <a href="russian-hill/mashita-galbi-jjim.html">Mashita Galbi Jjim</a>
+  <span class="meta"> — 4.8★ (104)</span>
+</div>
+<div class="restaurant">
+  <a href="russian-hill/waystone.html">Waystone</a>
+  <span class="meta"> — 4.8★ (172)</span>
+</div>
+<div class="see-all"><a href="russian-hill/">See all 48 restaurants in Russian Hill →</a></div>
+<h2><a href="soma/">SoMa</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="soma/boochmania.html">Boochmania</a>
+  <span class="meta"> — 4.9★ (259)</span>
+</div>
+<div class="restaurant">
+  <a href="soma/zevi-cafe-bistro.html">Zevi Cafe & Bistro</a>
+  <span class="meta"> — 4.7★ (460)</span>
+</div>
+<div class="restaurant">
+  <a href="soma/pie-punks.html">Pie Punks</a>
+  <span class="meta"> — 4.7★ (643)</span>
+</div>
+<div class="restaurant">
+  <a href="soma/cafe-du-soleil.html">Cafe du Soleil</a>
+  <span class="meta"> — 4.7★ (225)</span>
+</div>
+<div class="restaurant">
+  <a href="soma/mariposas.html">Mariposas</a>
+  <span class="meta"> — 4.6★ (189)</span>
+</div>
+<div class="see-all"><a href="soma/">See all 59 restaurants in SoMa →</a></div>
+<h2><a href="sunset-district/">Sunset District</a> <span class="hood-count">(59)</span></h2>
+<div class="restaurant">
+  <a href="sunset-district/ruby-s.html">Ruby’s</a>
+  <span class="meta"> — 4.8★ (78)</span>
+</div>
+<div class="restaurant">
+  <a href="sunset-district/bearing-west-bar-and-galley.html">Bearing West Bar and Galley</a>
+  <span class="meta"> — 4.8★ (137)</span>
+</div>
+<div class="restaurant">
+  <a href="sunset-district/yoma-cafe-japanese-bento-box-sushi-sandwiches-snacks-boba-drinks.html">Yoma Cafe - Japanese Bento Box, Sushi, Sandwiches, Snacks, Boba Drinks</a>
+  <span class="meta"> — 4.8★ (378)</span>
+</div>
+<div class="restaurant">
+  <a href="sunset-district/lomo-libre-peruvian-kitchen.html">Lomo Libre Peruvian Kitchen</a>
+  <span class="meta"> — 4.7★ (154)</span>
+</div>
+<div class="restaurant">
+  <a href="sunset-district/new-taraval-cafe.html">New Taraval Cafe</a>
+  <span class="meta"> — 4.7★ (644)</span>
+</div>
+<div class="see-all"><a href="sunset-district/">See all 59 restaurants in Sunset District →</a></div>
+<h2><a href="tenderloin/">Tenderloin</a> <span class="hood-count">(38)</span></h2>
+<div class="restaurant">
+  <a href="tenderloin/ox-tiger.html">Ox & Tiger</a>
+  <span class="meta"> — 5★ (104)</span>
+</div>
+<div class="restaurant">
+  <a href="tenderloin/salty-s.html">Salty's</a>
+  <span class="meta"> — 4.9★ (184)</span>
+</div>
+<div class="restaurant">
+  <a href="tenderloin/yasijang.html">YASIJANG</a>
+  <span class="meta"> — 4.8★ (114)</span>
+</div>
+<div class="restaurant">
+  <a href="tenderloin/louder-restaurant.html">Louder Restaurant</a>
+  <span class="meta"> — 4.7★ (53)</span>
+</div>
+<div class="restaurant">
+  <a href="tenderloin/ararat-kebab-gyros.html">Ararat Kebab & Gyros</a>
+  <span class="meta"> — 4.7★ (341)</span>
+</div>
+<div class="see-all"><a href="tenderloin/">See all 38 restaurants in Tenderloin →</a></div>
+<h2><a href="twin-peaks/">Twin Peaks</a> <span class="hood-count">(1)</span></h2>
+<div class="restaurant">
+  <a href="twin-peaks/rin-s-thai.html">Rin's Thai</a>
+  <span class="meta"> — 4.3★ (193)</span>
+</div>
+
+<h2><a href="union-square/">Union Square</a> <span class="hood-count">(36)</span></h2>
+<div class="restaurant">
+  <a href="union-square/nav.html">Navé</a>
+  <span class="meta"> — 5★ (2)</span>
+</div>
+<div class="restaurant">
+  <a href="union-square/tbd-izakaya.html">TBD izakaya</a>
+  <span class="meta"> — 4.8★ (5)</span>
+</div>
+<div class="restaurant">
+  <a href="union-square/magnin-street-cafe-bistro.html">Magnin Street Cafe & Bistro</a>
+  <span class="meta"> — 4.7★ (390)</span>
+</div>
+<div class="restaurant">
+  <a href="union-square/trisara.html">Trisara</a>
+  <span class="meta"> — 4.7★ (648)</span>
+</div>
+<div class="restaurant">
+  <a href="union-square/hinodeya-ramen-union-square.html">HINODEYA Ramen Union Square</a>
+  <span class="meta"> — 4.6★ (2537)</span>
+</div>
+<div class="see-all"><a href="union-square/">See all 36 restaurants in Union Square →</a></div>
+<h2><a href="visitacion-valley/">Visitacion Valley</a> <span class="hood-count">(26)</span></h2>
+<div class="restaurant">
+  <a href="visitacion-valley/la-joya-cafe.html">La Joya Cafe</a>
+  <span class="meta"> — 4.8★ (83)</span>
+</div>
+<div class="restaurant">
+  <a href="visitacion-valley/drew-s-barbecue.html">Drew's Barbecue</a>
+  <span class="meta"> — 4.8★ (54)</span>
+</div>
+<div class="restaurant">
+  <a href="visitacion-valley/lucho-s.html">Lucho’s</a>
+  <span class="meta"> — 4.8★ (402)</span>
+</div>
+<div class="restaurant">
+  <a href="visitacion-valley/san-marcos-restaurant.html">San Marcos Restaurant</a>
+  <span class="meta"> — 4.6★ (37)</span>
+</div>
+<div class="restaurant">
+  <a href="visitacion-valley/sandy-ym-american-food.html">Sandy YM American Food</a>
+  <span class="meta"> — 4.6★ (28)</span>
+</div>
+<div class="see-all"><a href="visitacion-valley/">See all 26 restaurants in Visitacion Valley →</a></div>
+<h2><a href="west-portal/">West Portal</a> <span class="hood-count">(44)</span></h2>
+<div class="restaurant">
+  <a href="west-portal/binu-bonu.html">Binu Bonu</a>
+  <span class="meta"> — 5★ (40)</span>
+</div>
+<div class="restaurant">
+  <a href="west-portal/sherpa-house.html">Sherpa House</a>
+  <span class="meta"> — 5★ (157)</span>
+</div>
+<div class="restaurant">
+  <a href="west-portal/apres-vous.html">Apres Vous</a>
+  <span class="meta"> — 4.9★ (75)</span>
+</div>
+<div class="restaurant">
+  <a href="west-portal/taste-of-india-authentic-indian-restaurant-san-francisco.html">Taste of India – Authentic Indian Restaurant [San Francisco]</a>
+  <span class="meta"> — 4.8★ (183)</span>
+</div>
+<div class="restaurant">
+  <a href="west-portal/dumpling-zone.html">Dumpling Zone</a>
+  <span class="meta"> — 4.8★ (237)</span>
+</div>
+<div class="see-all"><a href="west-portal/">See all 44 restaurants in West Portal →</a></div>
+</div>
+<pre id="md-view"># &gt;_ taste.md
+
+AI-optimized restaurant directory for San Francisco. 1450 restaurants across 39 neighborhoods.
+
+## [Bayview](bayview/) (44)
+- [Sco’s](bayview/sco-s.html) — 5★
+- [MDJK](bayview/mdjk.html) — 5★
+- [Cemitas El Puebla](bayview/cemitas-el-puebla.html) — 5★
+- [Early Bird Tacos - Catering](bayview/early-bird-tacos-catering.html) — 4.9★
+- [Gumbo Social](bayview/gumbo-social.html) — 4.8★
+- ... and 39 more → [See all](bayview/)
+
+## [Bernal Heights](bernal-heights/) (52)
+- [Tea Rex Cafe &amp; Specialty Teas](bernal-heights/tea-rex-cafe-specialty-teas.html) — 5★
+- [Kiwa Kitchen](bernal-heights/kiwa-kitchen.html) — 4.8★
+- [Diwali Indian Cuisine](bernal-heights/diwali-indian-cuisine.html) — 4.8★
+- [Doma Sushi](bernal-heights/doma-sushi.html) — 4.8★
+- [Holy Water](bernal-heights/holy-water.html) — 4.7★
+- ... and 47 more → [See all](bernal-heights/)
+
+## [Castro](castro/) (59)
+- [Ka Kai Northern Thai](castro/ka-kai-northern-thai.html) — 4.9★
+- [Flora King Steakhouse](castro/flora-king-steakhouse.html) — 4.9★
+- [Poesia Cafe](castro/poesia-cafe.html) — 4.7★
+- [Anchor Oyster Bar](castro/anchor-oyster-bar.html) — 4.7★
+- [Potto](castro/potto.html) — 4.7★
+- ... and 54 more → [See all](castro/)
+
+## [Chinatown](chinatown/) (59)
+- [Today Food](chinatown/today-food.html) — 4.8★
+- [Cantoo Latin Asian Rotisserie](chinatown/cantoo-latin-asian-rotisserie.html) — 4.7★
+- [spicy &amp; cloud restaurant](chinatown/spicy-cloud-restaurant.html) — 4.6★
+- [Sohunan of Henry's Hunan](chinatown/sohunan-of-henry-s-hunan.html) — 4.6★
+- [御食园 Z &amp; Y Peking Duck](chinatown/z-y-peking-duck.html) — 4.5★
+- ... and 54 more → [See all](chinatown/)
+
+## [Cole Valley](cole-valley/) (11)
+- [Bistro La Chaumière](cole-valley/bistro-la-chaumi-re.html) — 4.6★
+- [Lovely's](cole-valley/lovely-s.html) — 4.5★
+- [Taboun](cole-valley/taboun.html) — 4.5★
+- [Souvla](cole-valley/souvla.html) — 4.5★
+- [Barrera's Cocina](cole-valley/barrera-s-cocina.html) — 4.4★
+- ... and 6 more → [See all](cole-valley/)
+
+## [Cow Hollow](cow-hollow/) (16)
+- [La Fromagerie Cheese Shop](cow-hollow/la-fromagerie-cheese-shop.html) — 5★
+- [Dork Eat's](cow-hollow/dork-eat-s.html) — 4.7★
+- [The Italian Homemade Company](cow-hollow/the-italian-homemade-company.html) — 4.6★
+- [Wildseed](cow-hollow/wildseed.html) — 4.6★
+- [Roaming Goat](cow-hollow/roaming-goat.html) — 4.6★
+- ... and 11 more → [See all](cow-hollow/)
+
+## [Diamond Heights](diamond-heights/) (9)
+- [Dim The Way](diamond-heights/dim-the-way.html) — 4.9★
+- [Rhea's Deli &amp; Market](diamond-heights/rhea-s-deli-market.html) — 4.7★
+- [Sassy Foods](diamond-heights/sassy-foods.html) — 4.6★
+- [Señor Sisig (SF Mission)](diamond-heights/se-or-sisig-sf-mission.html) — 4.5★
+- [Bac Lieu Restaurant](diamond-heights/bac-lieu-restaurant.html) — 4.5★
+- ... and 4 more → [See all](diamond-heights/)
+
+## [Dogpatch](dogpatch/) (27)
+- [Together Wine Lounge Dogpatch](dogpatch/together-wine-lounge-dogpatch.html) — 4.9★
+- [Wolfsbane](dogpatch/wolfsbane.html) — 4.9★
+- [Jolt N Bolt Bakery &amp; Cafe](dogpatch/jolt-n-bolt-bakery-cafe.html) — 4.8★
+- [Bay of Burma](dogpatch/bay-of-burma.html) — 4.8★
+- [Long Bridge Pizza Company](dogpatch/long-bridge-pizza-company.html) — 4.6★
+- ... and 22 more → [See all](dogpatch/)
+
+## [Duboce Triangle](duboce-triangle/) (14)
+- [Mezze and Mooore](duboce-triangle/mezze-and-mooore.html) — 4.7★
+- [Gola Restaurant SF](duboce-triangle/gola-restaurant-sf.html) — 4.7★
+- [Kuma on Valencia](duboce-triangle/kuma-on-valencia.html) — 4.6★
+- [Kantine](duboce-triangle/kantine.html) — 4.6★
+- [Tacos El Tucan SF](duboce-triangle/tacos-el-tucan-sf.html) — 4.6★
+- ... and 9 more → [See all](duboce-triangle/)
+
+## [Excelsior](excelsior/) (42)
+- [The Check-In Lounge](excelsior/the-check-in-lounge.html) — 5★
+- [Universal Breakfast &amp; Lunch](excelsior/universal-breakfast-lunch.html) — 4.8★
+- [Pho Golden](excelsior/pho-golden.html) — 4.8★
+- [Calabria Brothers](excelsior/calabria-brothers.html) — 4.7★
+- [JJamPPong](excelsior/jjamppong.html) — 4.7★
+- ... and 37 more → [See all](excelsior/)
+
+## [Fillmore](fillmore/) (11)
+- [Minnie Bell’s Soul Movement](fillmore/minnie-bell-s-soul-movement.html) — 4.6★
+- [The Anchovy Bar](fillmore/the-anchovy-bar.html) — 4.6★
+- [Bar Crenn](fillmore/bar-crenn.html) — 4.6★
+- [Merchant Roots](fillmore/merchant-roots.html) — 4.5★
+- [Tommy's Joynt](fillmore/tommy-s-joynt.html) — 4.4★
+- ... and 6 more → [See all](fillmore/)
+
+## [Financial District](financial-district/) (47)
+- [Teranga](financial-district/teranga.html) — 4.9★
+- [Kokkari Estiatorio](financial-district/kokkari-estiatorio.html) — 4.7★
+- [Cenote](financial-district/cenote.html) — 4.7★
+- [Toy Soldier](financial-district/toy-soldier.html) — 4.7★
+- [Grasso SF](financial-district/grasso-sf.html) — 4.7★
+- ... and 42 more → [See all](financial-district/)
+
+## [Glen Park](glen-park/) (11)
+- [Megan's Table](glen-park/megan-s-table.html) — 4.9★
+- [Banh Mi Viet Diamond](glen-park/banh-mi-viet-diamond.html) — 4.9★
+- [Pebbles Cafe](glen-park/pebbles-cafe.html) — 4.7★
+- [Manzoni](glen-park/manzoni.html) — 4.6★
+- [Gialina](glen-park/gialina.html) — 4.6★
+- ... and 6 more → [See all](glen-park/)
+
+## [Haight-Ashbury](haight-ashbury/) (59)
+- [Golden Mediterranean Cuisine](haight-ashbury/golden-mediterranean-cuisine.html) — 5★
+- [The Hungry Spot](haight-ashbury/the-hungry-spot.html) — 4.9★
+- [KEN](haight-ashbury/ken.html) — 4.9★
+- [Sandy's](haight-ashbury/sandy-s.html) — 4.8★
+- [Angiday](haight-ashbury/angiday.html) — 4.7★
+- ... and 54 more → [See all](haight-ashbury/)
+
+## [Hayes Valley](hayes-valley/) (47)
+- [Restaurant Naides](hayes-valley/restaurant-naides.html) — 5★
+- [Doppio Coffee &amp; Brunch](hayes-valley/doppio-coffee-brunch.html) — 4.9★
+- [Sforno Pizzeria Napoletana](hayes-valley/sforno-pizzeria-napoletana.html) — 4.8★
+- [Dingles Public House](hayes-valley/dingles-public-house.html) — 4.8★
+- [Kiln](hayes-valley/kiln.html) — 4.8★
+- ... and 42 more → [See all](hayes-valley/)
+
+## [Inner Richmond](inner-richmond/) (19)
+- [Alushe coffee bar](inner-richmond/alushe-coffee-bar.html) — 4.8★
+- [Dumpling King](inner-richmond/dumpling-king.html) — 4.7★
+- [Unco Frank's](inner-richmond/unco-frank-s.html) — 4.7★
+- [Steins](inner-richmond/steins.html) — 4.7★
+- [Pasta Supply Co](inner-richmond/pasta-supply-co.html) — 4.6★
+- ... and 14 more → [See all](inner-richmond/)
+
+## [Inner Sunset](inner-sunset/) (33)
+- [Timur Indian and Nepalese Cuisine](inner-sunset/timur-indian-and-nepalese-cuisine.html) — 5★
+- [Banh Mi Crunch](inner-sunset/banh-mi-crunch.html) — 4.9★
+- [Sweet Glory on Inner Sunset](inner-sunset/sweet-glory-on-inner-sunset.html) — 4.8★
+- [Sunset Indian Cuisine](inner-sunset/sunset-indian-cuisine.html) — 4.8★
+- [Zentarou Sushi and Sake Bar](inner-sunset/zentarou-sushi-and-sake-bar.html) — 4.8★
+- ... and 28 more → [See all](inner-sunset/)
+
+## [Japantown](japantown/) (50)
+- [Miyako Old Fashion Ice Cream](japantown/miyako-old-fashion-ice-cream.html) — 4.9★
+- [An | Japanese Restaurant](japantown/an-japanese-restaurant.html) — 4.8★
+- [YUJI](japantown/yuji.html) — 4.8★
+- [K Dragon cuisine](japantown/k-dragon-cuisine.html) — 4.7★
+- [Soba Dining Sora](japantown/soba-dining-sora.html) — 4.6★
+- ... and 45 more → [See all](japantown/)
+
+## [Lower Haight](lower-haight/) (17)
+- [Tacos Oscar](lower-haight/tacos-oscar.html) — 5★
+- [Wave](lower-haight/wave.html) — 5★
+- [Q's Sandwich Shop](lower-haight/q-s-sandwich-shop.html) — 4.9★
+- [Woods Lowside](lower-haight/woods-lowside.html) — 4.8★
+- [Le Cafe du Soleil](lower-haight/le-cafe-du-soleil.html) — 4.5★
+- ... and 12 more → [See all](lower-haight/)
+
+## [Marina District](marina-district/) (60)
+- [Milos Meze](marina-district/milos-meze.html) — 4.9★
+- [Indigo](marina-district/indigo.html) — 4.9★
+- [Marina Indian Cuisine](marina-district/marina-indian-cuisine.html) — 4.7★
+- [The Patio](marina-district/the-patio.html) — 4.7★
+- [Nippon Curry San Francisco](marina-district/nippon-curry-san-francisco.html) — 4.7★
+- ... and 55 more → [See all](marina-district/)
+
+## [Mission District](mission-district/) (60)
+- [Sangria &amp; Salt](mission-district/sangria-salt.html) — 4.8★
+- [SFCeviche 19](mission-district/sfceviche-19.html) — 4.8★
+- [Mr. Pollo](mission-district/mr-pollo.html) — 4.8★
+- [Jake's Steaks](mission-district/jake-s-steaks.html) — 4.8★
+- [The Morris](mission-district/the-morris.html) — 4.7★
+- ... and 55 more → [See all](mission-district/)
+
+## [Nob Hill](nob-hill/) (47)
+- [Tahona Mercado](nob-hill/tahona-mercado.html) — 4.9★
+- [Mayaflor](nob-hill/mayaflor.html) — 4.9★
+- [DACHA Kitchen &amp; Bar](nob-hill/dacha-kitchen-bar.html) — 4.8★
+- [Jasmin's](nob-hill/jasmin-s.html) — 4.8★
+- [La Travesia](nob-hill/la-travesia.html) — 4.8★
+- ... and 42 more → [See all](nob-hill/)
+
+## [Noe Valley](noe-valley/) (48)
+- [Ingredients](noe-valley/ingredients.html) — 5★
+- [Falasteen](noe-valley/falasteen.html) — 4.9★
+- [AP’S CAFE](noe-valley/ap-s-cafe.html) — 4.9★
+- [Noe Indian Cuisine](noe-valley/noe-indian-cuisine.html) — 4.8★
+- [Grand Lake Kitchen - Noe Valley](noe-valley/grand-lake-kitchen-noe-valley.html) — 4.8★
+- ... and 43 more → [See all](noe-valley/)
+
+## [North Beach](north-beach/) (58)
+- [Sam’s Panini](north-beach/sam-s-panini.html) — 5★
+- [North Beach Gyros](north-beach/north-beach-gyros.html) — 4.9★
+- [Board and Drink](north-beach/board-and-drink.html) — 4.8★
+- [Bocconcino](north-beach/bocconcino.html) — 4.7★
+- [Golden Boy Pizza](north-beach/golden-boy-pizza.html) — 4.7★
+- ... and 53 more → [See all](north-beach/)
+
+## [Outer Richmond](outer-richmond/) (30)
+- [Fuwa Dumpling](outer-richmond/fuwa-dumpling.html) — 4.9★
+- [Bistro Mediterraneo](outer-richmond/bistro-mediterraneo.html) — 4.8★
+- [Boa's CVC](outer-richmond/boa-s-cvc.html) — 4.8★
+- [Izakaya mayumi](outer-richmond/izakaya-mayumi.html) — 4.8★
+- [Ocean Beach Cafe](outer-richmond/ocean-beach-cafe.html) — 4.7★
+- ... and 25 more → [See all](outer-richmond/)
+
+## [Outer Sunset](outer-sunset/) (13)
+- [Lion Kitchen](outer-sunset/lion-kitchen.html) — 4.9★
+- [FiRE+iCE Interactive Grill &amp; Bar](outer-sunset/fire-ice-interactive-grill-bar.html) — 4.6★
+- [Durty Nelly's](outer-sunset/durty-nelly-s.html) — 4.6★
+- [Thai Cottage Restaurant](outer-sunset/thai-cottage-restaurant.html) — 4.6★
+- [The Pots Hot Pot](outer-sunset/the-pots-hot-pot.html) — 4.6★
+- ... and 8 more → [See all](outer-sunset/)
+
+## [Pacific Heights](pacific-heights/) (50)
+- [Kolaj](pacific-heights/kolaj.html) — 5★
+- [Maria Isabel](pacific-heights/maria-isabel.html) — 5★
+- [Anomaly SF](pacific-heights/anomaly-sf.html) — 4.8★
+- [Rise &amp; Set](pacific-heights/rise-set.html) — 4.7★
+- [Cheminé](pacific-heights/chemin.html) — 4.7★
+- ... and 45 more → [See all](pacific-heights/)
+
+## [Parkside](parkside/) (17)
+- [Ben Tre Restaurant](parkside/ben-tre-restaurant.html) — 4.8★
+- [Chaa Roen Pohn](parkside/chaa-roen-pohn.html) — 4.8★
+- [Obrien's Irish Pub](parkside/obrien-s-irish-pub.html) — 4.7★
+- [Parkside Market Sandwich &amp; Liquor](parkside/parkside-market-sandwich-liquor.html) — 4.7★
+- [Lou's Cafe](parkside/lou-s-cafe.html) — 4.7★
+- ... and 12 more → [See all](parkside/)
+
+## [Potrero Hill](potrero-hill/) (49)
+- [Chevio’s Food truck](potrero-hill/chevio-s-food-truck.html) — 4.9★
+- [JB's Place](potrero-hill/jb-s-place.html) — 4.8★
+- [Caprizza Ristorante](potrero-hill/caprizza-ristorante.html) — 4.8★
+- [Newkirk's](potrero-hill/newkirk-s.html) — 4.8★
+- [Marcella's Lasagneria](potrero-hill/marcella-s-lasagneria.html) — 4.8★
+- ... and 44 more → [See all](potrero-hill/)
+
+## [Presidio Heights](presidio-heights/) (21)
+- [Presidio Golf Course Clubhouse &amp; Terrace](presidio-heights/presidio-golf-course-clubhouse-terrace.html) — 5★
+- [Barista Coffee &amp; Brunch](presidio-heights/barista-coffee-brunch.html) — 4.8★
+- [Cafe RX](presidio-heights/cafe-rx.html) — 4.7★
+- [Picnix Bistro &amp; Carry Out](presidio-heights/picnix-bistro-carry-out.html) — 4.7★
+- [Sociale](presidio-heights/sociale.html) — 4.6★
+- ... and 16 more → [See all](presidio-heights/)
+
+## [Richmond District](richmond-district/) (59)
+- [Iggy's Place](richmond-district/iggy-s-place.html) — 4.9★
+- [Phi Long](richmond-district/phi-long.html) — 4.9★
+- [The Richmond](richmond-district/the-richmond.html) — 4.8★
+- [Bao Bao Dumpling](richmond-district/bao-bao-dumpling.html) — 4.8★
+- [Cantina Los Mayas](richmond-district/cantina-los-mayas.html) — 4.8★
+- ... and 54 more → [See all](richmond-district/)
+
+## [Russian Hill](russian-hill/) (48)
+- [7 Elves Russian Hill](russian-hill/7-elves-russian-hill.html) — 5★
+- [Collina](russian-hill/collina.html) — 4.8★
+- [Amarena](russian-hill/amarena.html) — 4.8★
+- [Mashita Galbi Jjim](russian-hill/mashita-galbi-jjim.html) — 4.8★
+- [Waystone](russian-hill/waystone.html) — 4.8★
+- ... and 43 more → [See all](russian-hill/)
+
+## [SoMa](soma/) (59)
+- [Boochmania](soma/boochmania.html) — 4.9★
+- [Zevi Cafe &amp; Bistro](soma/zevi-cafe-bistro.html) — 4.7★
+- [Pie Punks](soma/pie-punks.html) — 4.7★
+- [Cafe du Soleil](soma/cafe-du-soleil.html) — 4.7★
+- [Mariposas](soma/mariposas.html) — 4.6★
+- ... and 54 more → [See all](soma/)
+
+## [Sunset District](sunset-district/) (59)
+- [Ruby’s](sunset-district/ruby-s.html) — 4.8★
+- [Bearing West Bar and Galley](sunset-district/bearing-west-bar-and-galley.html) — 4.8★
+- [Yoma Cafe - Japanese Bento Box, Sushi, Sandwiches, Snacks, Boba Drinks](sunset-district/yoma-cafe-japanese-bento-box-sushi-sandwiches-snacks-boba-drinks.html) — 4.8★
+- [Lomo Libre Peruvian Kitchen](sunset-district/lomo-libre-peruvian-kitchen.html) — 4.7★
+- [New Taraval Cafe](sunset-district/new-taraval-cafe.html) — 4.7★
+- ... and 54 more → [See all](sunset-district/)
+
+## [Tenderloin](tenderloin/) (38)
+- [Ox &amp; Tiger](tenderloin/ox-tiger.html) — 5★
+- [Salty's](tenderloin/salty-s.html) — 4.9★
+- [YASIJANG](tenderloin/yasijang.html) — 4.8★
+- [Louder Restaurant](tenderloin/louder-restaurant.html) — 4.7★
+- [Ararat Kebab &amp; Gyros](tenderloin/ararat-kebab-gyros.html) — 4.7★
+- ... and 33 more → [See all](tenderloin/)
+
+## [Twin Peaks](twin-peaks/) (1)
+- [Rin's Thai](twin-peaks/rin-s-thai.html) — 4.3★
+
+## [Union Square](union-square/) (36)
+- [Navé](union-square/nav.html) — 5★
+- [TBD izakaya](union-square/tbd-izakaya.html) — 4.8★
+- [Magnin Street Cafe &amp; Bistro](union-square/magnin-street-cafe-bistro.html) — 4.7★
+- [Trisara](union-square/trisara.html) — 4.7★
+- [HINODEYA Ramen Union Square](union-square/hinodeya-ramen-union-square.html) — 4.6★
+- ... and 31 more → [See all](union-square/)
+
+## [Visitacion Valley](visitacion-valley/) (26)
+- [La Joya Cafe](visitacion-valley/la-joya-cafe.html) — 4.8★
+- [Drew's Barbecue](visitacion-valley/drew-s-barbecue.html) — 4.8★
+- [Lucho’s](visitacion-valley/lucho-s.html) — 4.8★
+- [San Marcos Restaurant](visitacion-valley/san-marcos-restaurant.html) — 4.6★
+- [Sandy YM American Food](visitacion-valley/sandy-ym-american-food.html) — 4.6★
+- ... and 21 more → [See all](visitacion-valley/)
+
+## [West Portal](west-portal/) (44)
+- [Binu Bonu](west-portal/binu-bonu.html) — 5★
+- [Sherpa House](west-portal/sherpa-house.html) — 5★
+- [Apres Vous](west-portal/apres-vous.html) — 4.9★
+- [Taste of India – Authentic Indian Restaurant [San Francisco]](west-portal/taste-of-india-authentic-indian-restaurant-san-francisco.html) — 4.8★
+- [Dumpling Zone](west-portal/dumpling-zone.html) — 4.8★
+- ... and 39 more → [See all](west-portal/)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

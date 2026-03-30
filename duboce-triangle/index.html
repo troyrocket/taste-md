@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duboce Triangle Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Duboce Triangle, San Francisco. 14 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Duboce Triangle</div>
+<h1>Duboce Triangle</h1>
+<p>14 restaurants in Duboce Triangle, San Francisco.</p>
+<div class="restaurant">
+  <a href="mezze-and-mooore.html">Mezze and Mooore</a>
+  <div class="meta">4.7★ (520 reviews) — 198 Guerrero St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gola-restaurant-sf.html">Gola Restaurant SF</a>
+  <div class="meta">4.7★ (191 reviews) — 819 Valencia St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kuma-on-valencia.html">Kuma on Valencia</a>
+  <div class="meta">4.6★ (202 reviews) — 198 Valencia St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kantine.html">Kantine</a>
+  <div class="meta">4.6★ (932 reviews) — 1906 Market St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tacos-el-tucan-sf.html">Tacos El Tucan SF</a>
+  <div class="meta">4.6★ (176 reviews) — 3600 16th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="picaro.html">Picaro</a>
+  <div class="meta">4.5★ (1586 reviews) — 3120 16th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-detour.html">The Detour</a>
+  <div class="meta">4.5★ (1135 reviews) — 2200A Market St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="aquitaine-wine-bar-bistro.html">Aquitaine Wine Bar & Bistro</a>
+  <div class="meta">4.4★ (296 reviews) — 216 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jasmine-garden.html">Jasmine Garden</a>
+  <div class="meta">4.4★ (380 reviews) — 708 14th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bandit.html">Bandit</a>
+  <div class="meta">4.3★ (163 reviews) — 499 Dolores St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="little-griddle-dough.html">Little Griddle @ Dough</a>
+  <div class="meta">4.3★ (409 reviews) — 1455 Market St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-slice-pizza.html">The Slice Pizza</a>
+  <div class="meta">4.2★ (226 reviews) — 719 14th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dolores-park-cafe.html">Dolores Park Cafe</a>
+  <div class="meta">4.2★ (904 reviews) — 501 Dolores St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chouchou-french-bistro.html">Chouchou French Bistro</a>
+  <div class="meta">  — 2362 Market St, San Francisco, CA 94114, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Duboce Triangle — San Francisco Restaurants
+
+14 restaurants in Duboce Triangle.
+
+- [Mezze and Mooore](mezze-and-mooore.html) — 4.7★ (520 reviews)
+- [Gola Restaurant SF](gola-restaurant-sf.html) — 4.7★ (191 reviews)
+- [Kuma on Valencia](kuma-on-valencia.html) — 4.6★ (202 reviews)
+- [Kantine](kantine.html) — 4.6★ (932 reviews)
+- [Tacos El Tucan SF](tacos-el-tucan-sf.html) — 4.6★ (176 reviews)
+- [Picaro](picaro.html) — 4.5★ (1586 reviews)
+- [The Detour](the-detour.html) — 4.5★ (1135 reviews)
+- [Aquitaine Wine Bar &amp; Bistro](aquitaine-wine-bar-bistro.html) — 4.4★ (296 reviews)
+- [Jasmine Garden](jasmine-garden.html) — 4.4★ (380 reviews)
+- [Bandit](bandit.html) — 4.3★ (163 reviews)
+- [Little Griddle @ Dough](little-griddle-dough.html) — 4.3★ (409 reviews)
+- [The Slice Pizza](the-slice-pizza.html) — 4.2★ (226 reviews)
+- [Dolores Park Cafe](dolores-park-cafe.html) — 4.2★ (904 reviews)
+- [Chouchou French Bistro](chouchou-french-bistro.html) —  
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

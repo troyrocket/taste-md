@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pizzelle di North Beach — North Beach — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Pizzelle di North Beach in North Beach, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Pizzelle di North Beach",
+  "servesCuisine": [
+    "pizza restaurant",
+    "sandwich shop",
+    "salad shop",
+    "hamburger restaurant",
+    "italian restaurant",
+    "chicken wings restaurant",
+    "american restaurant",
+    "food store",
+    "store"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "314 Columbus Ave",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94133",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 398-3555",
+  "url": "https://pizzelle314.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "543"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7982361,
+    "longitude": -122.40691079999999
+  },
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 1:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Angie Larson"
+      },
+      "reviewBody": "AMAZING PIZZA. And equally as amazing - the music!!! 10/10 best set of the year. Great bass, the whole place was vibing to Rufus de sol. come eat here. U won’t regret it😜"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "jameskg jameskg"
+      },
+      "reviewBody": "Amazing slice.  Eat here. Fresh, crispy crust, perfect ingredients, cold drinks and fast friendly service. Pepperoni / Sausage / Mushroom is what you should get. Bonus star for being open late so I ca"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Vanna C"
+      },
+      "reviewBody": "My husband walked from the hotel to the restaurant 15 minutes each way. He ordered the Venice special. The pizza was still hot when he got here and it taste fantastic. I'm big on garlic and I was not "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">North Beach</a></p>
+<h1>Pizzelle di North Beach</h1>
+<p>Laid-back eatery offering pizza by the slice, pasta &amp; other Italian entrees to dine in or take out.</p>
+<h2>Cuisine</h2>
+<p><strong>Pizza restaurant</strong> — pizza restaurant, sandwich shop, salad shop, hamburger restaurant, italian restaurant, chicken wings restaurant, american restaurant, food store</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 543 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Good for groups · Good for kids · Good for watching sports · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>314 Columbus Ave, San Francisco, CA 94133, USA<br>Phone: (415) 398-3555<br>Website: <a href="https://pizzelle314.com/">https://pizzelle314.com/</a><br><a href="https://maps.google.com/?cid=2298330835424000610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7982361, -122.40691079999999</p>
+<h2>Hours</h2>
+<p>Monday: 10:00 AM – 11:00 PM<br>Tuesday: 10:00 AM – 11:00 PM<br>Wednesday: 10:00 AM – 11:00 PM<br>Thursday: 10:00 AM – 11:00 PM<br>Friday: 10:00 AM – 1:00 AM<br>Saturday: 10:00 AM – 1:00 AM<br>Sunday: 10:00 AM – 11:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;AMAZING PIZZA. And equally as amazing - the music!!! 10/10 best set of the year. Great bass, the whole place was vibing to Rufus de sol. come eat here. U won’t regret it😜&quot; — <strong>Angie Larson</strong> (a month ago)</li>
+<li>★★★★★ &quot;Amazing slice.  Eat here. Fresh, crispy crust, perfect ingredients, cold drinks and fast friendly service. Pepperoni / Sausage / Mushroom is what you should get. Bonus star for being open late so I can eat.&quot; — <strong>jameskg jameskg</strong> (3 months ago)</li>
+<li>★★★★★ &quot;My husband walked from the hotel to the restaurant 15 minutes each way. He ordered the Venice special. The pizza was still hot when he got here and it taste fantastic. I&#39;m big on garlic and I was not disappointed. We&#39;re mostly vegetarian so this was perfect. Mushrooms, bell peppers, olives, tomatoes...&quot; — <strong>Vanna C</strong> (2 months ago)</li>
+<li>★★★★ &quot;This pizza restaurant offers a simple, no-frills experience where you can order pizza by the slice. When I am traveling and want something quick, this place fits the bill. The service from ordering to receiving the pizza is fast, and the pizza itself tasted quite good. It might not be the best pizza...&quot; — <strong>Ryan Smith</strong> (a year ago)</li>
+<li>★★★★★ &quot;Just had THE BEST pizza here tonight! Seriously delicious - perfect crust, amazing toppings. But what really made it? The STAFF! Super friendly, attentive, and genuinely seemed to care we had a great time. Service was spot-on. 100% recommend - you&#39;ve gotta try this place!&quot;&quot; — <strong>Hussain Uzunalov</strong> (9 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [North Beach](index.html)
+
+# Pizzelle di North Beach
+Laid-back eatery offering pizza by the slice, pasta &amp; other Italian entrees to dine in or take out.
+
+## Cuisine
+**Pizza restaurant** — pizza restaurant, sandwich shop, salad shop, hamburger restaurant, italian restaurant, chicken wings restaurant, american restaurant, food store
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 543 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Lunch · Dinner  
+**Drinks:** Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Good for groups · Good for kids · Good for watching sports · Restroom available
+
+## Location &amp; Contact
+
+314 Columbus Ave, San Francisco, CA 94133, USA  
+Phone: (415) 398-3555  
+Website: [https://pizzelle314.com/](https://pizzelle314.com/)  
+[View on Google Maps](https://maps.google.com/?cid=2298330835424000610&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7982361, -122.40691079999999
+
+## Hours
+
+Monday: 10:00 AM – 11:00 PM  
+Tuesday: 10:00 AM – 11:00 PM  
+Wednesday: 10:00 AM – 11:00 PM  
+Thursday: 10:00 AM – 11:00 PM  
+Friday: 10:00 AM – 1:00 AM  
+Saturday: 10:00 AM – 1:00 AM  
+Sunday: 10:00 AM – 11:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;AMAZING PIZZA. And equally as amazing - the music!!! 10/10 best set of the year. Great bass, the whole place was vibing to Rufus de sol. come eat here. U won’t regret it😜&quot; — **Angie Larson** (a month ago)
+- ★★★★★ &quot;Amazing slice.  Eat here. Fresh, crispy crust, perfect ingredients, cold drinks and fast friendly service. Pepperoni / Sausage / Mushroom is what you should get. Bonus star for being open late so I can eat.&quot; — **jameskg jameskg** (3 months ago)
+- ★★★★★ &quot;My husband walked from the hotel to the restaurant 15 minutes each way. He ordered the Venice special. The pizza was still hot when he got here and it taste fantastic. I'm big on garlic and I was not disappointed. We're mostly vegetarian so this was perfect. Mushrooms, bell peppers, olives, tomatoes...&quot; — **Vanna C** (2 months ago)
+- ★★★★ &quot;This pizza restaurant offers a simple, no-frills experience where you can order pizza by the slice. When I am traveling and want something quick, this place fits the bill. The service from ordering to receiving the pizza is fast, and the pizza itself tasted quite good. It might not be the best pizza...&quot; — **Ryan Smith** (a year ago)
+- ★★★★★ &quot;Just had THE BEST pizza here tonight! Seriously delicious - perfect crust, amazing toppings. But what really made it? The STAFF! Super friendly, attentive, and genuinely seemed to care we had a great time. Service was spot-on. 100% recommend - you've gotta try this place!&quot;&quot; — **Hussain Uzunalov** (9 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

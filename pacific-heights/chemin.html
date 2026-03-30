@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cheminé — Pacific Heights — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Cheminé in Pacific Heights, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Cheminé",
+  "servesCuisine": [
+    "coffee shop",
+    "mediterranean restaurant",
+    "cafe",
+    "food store",
+    "store"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3030 Fillmore St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94123",
+    "addressCountry": "US"
+  },
+  "url": "http://cheminesf.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "145"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.797556799999995,
+    "longitude": -122.4353446
+  },
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jane Hsieh-Fiore"
+      },
+      "reviewBody": "Honestly these are the best salads I’ve had in a long time.  I came with my friend who said the chicken in her California Salad is the best she’s ever had.  Apparently they marinate it in pomegranate "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Christina Kao"
+      },
+      "reviewBody": "The chicken in the California Salad is literally the best chicken I've ever tasted in my life. Juicy, flavorful, tender. They told me they have a secret ingredient...ask them what it is!\n\nThe mom is m"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sahar Swaleh"
+      },
+      "reviewBody": "Get the baklava cheesecake! Its soo yummy and homemade by the mother.\nI got a peppermint mocha & gingerbread matcha which was perfect for the winter afternoon. I was surprised by how much space there "
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Pacific Heights</a></p>
+<h1>Cheminé</h1>
+<h2>Cuisine</h2>
+<p><strong>Coffee shop</strong> — coffee shop, mediterranean restaurant, cafe, food store, store</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.7 stars — 145 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Breakfast · Lunch</p>
+<h2>Atmosphere</h2>
+<p>Good for kids · Dog-friendly</p>
+<h2>Location &amp; Contact</h2>
+<p>3030 Fillmore St, San Francisco, CA 94123, USA<br>Website: <a href="http://cheminesf.com/">http://cheminesf.com/</a><br><a href="https://maps.google.com/?cid=4820014266178868659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.797556799999995, -122.4353446</p>
+<h2>Hours</h2>
+<p>Monday: 8:00 AM – 5:00 PM<br>Tuesday: 8:00 AM – 5:00 PM<br>Wednesday: 8:00 AM – 5:00 PM<br>Thursday: 8:00 AM – 5:00 PM<br>Friday: 8:00 AM – 5:00 PM<br>Saturday: 8:00 AM – 5:00 PM<br>Sunday: 8:00 AM – 5:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Honestly these are the best salads I’ve had in a long time.  I came with my friend who said the chicken in her California Salad is the best she’s ever had.  Apparently they marinate it in pomegranate to give it amazing flavor and tenderness.</li>
+</ul>
+<p>My salmon salad’s was so refreshing with  a great balance...&quot; — <strong>Jane Hsieh-Fiore</strong> (4 months ago)</p>
+<ul>
+<li>★★★★★ &quot;The chicken in the California Salad is literally the best chicken I&#39;ve ever tasted in my life. Juicy, flavorful, tender. They told me they have a secret ingredient...ask them what it is!</li>
+</ul>
+<p>The mom is making everything (amazing recipes) and the son is at the front - so friendly and kind!</p>
+<p>We had 3 des...&quot; — <strong>Christina Kao</strong> (4 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Get the baklava cheesecake! Its soo yummy and homemade by the mother.
+I got a peppermint mocha &amp; gingerbread matcha which was perfect for the winter afternoon. I was surprised by how much space there is and excited to see this spot grow.
+The service was amazing, you can tell they care for each custo...&quot; — <strong>Sahar Swaleh</strong> (3 months ago)</li>
+<li>★★★★★ &quot;What an incredible find! I stopped in while shopping on Fillmore St. Everything was beautiful and the food was delicious! I highly recommend the burrata peach salad, and the spinach and feta borek. Everything is so fresh and homemade tasting. The staff is friendly and delightful.&quot; — <strong>Christin Palmer</strong> (a month ago)</li>
+<li>★★★★★ &quot;The food was so good! My peach salad was amazing. It’s nice that it’s a family business. The drinks are also very pretty. I will say though that the service was nonexistent, you had to get up from where you sat in the back of the place to get your food.&quot; — <strong>WisteriaStarlight</strong> (4 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Pacific Heights](index.html)
+
+# Cheminé
+
+## Cuisine
+**Coffee shop** — coffee shop, mediterranean restaurant, cafe, food store, store
+
+## Price Range
+Unknown
+
+## Rating
+4.7 stars — 145 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Breakfast · Lunch
+
+## Atmosphere
+
+Good for kids · Dog-friendly
+
+## Location &amp; Contact
+
+3030 Fillmore St, San Francisco, CA 94123, USA  
+Website: [http://cheminesf.com/](http://cheminesf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=4820014266178868659&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.797556799999995, -122.4353446
+
+## Hours
+
+Monday: 8:00 AM – 5:00 PM  
+Tuesday: 8:00 AM – 5:00 PM  
+Wednesday: 8:00 AM – 5:00 PM  
+Thursday: 8:00 AM – 5:00 PM  
+Friday: 8:00 AM – 5:00 PM  
+Saturday: 8:00 AM – 5:00 PM  
+Sunday: 8:00 AM – 5:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Honestly these are the best salads I’ve had in a long time.  I came with my friend who said the chicken in her California Salad is the best she’s ever had.  Apparently they marinate it in pomegranate to give it amazing flavor and tenderness.
+
+My salmon salad’s was so refreshing with  a great balance...&quot; — **Jane Hsieh-Fiore** (4 months ago)
+- ★★★★★ &quot;The chicken in the California Salad is literally the best chicken I've ever tasted in my life. Juicy, flavorful, tender. They told me they have a secret ingredient...ask them what it is!
+
+The mom is making everything (amazing recipes) and the son is at the front - so friendly and kind!
+
+We had 3 des...&quot; — **Christina Kao** (4 months ago)
+- ★★★★★ &quot;Get the baklava cheesecake! Its soo yummy and homemade by the mother.
+I got a peppermint mocha &amp; gingerbread matcha which was perfect for the winter afternoon. I was surprised by how much space there is and excited to see this spot grow.
+The service was amazing, you can tell they care for each custo...&quot; — **Sahar Swaleh** (3 months ago)
+- ★★★★★ &quot;What an incredible find! I stopped in while shopping on Fillmore St. Everything was beautiful and the food was delicious! I highly recommend the burrata peach salad, and the spinach and feta borek. Everything is so fresh and homemade tasting. The staff is friendly and delightful.&quot; — **Christin Palmer** (a month ago)
+- ★★★★★ &quot;The food was so good! My peach salad was amazing. It’s nice that it’s a family business. The drinks are also very pretty. I will say though that the service was nonexistent, you had to get up from where you sat in the back of the place to get your food.&quot; — **WisteriaStarlight** (4 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

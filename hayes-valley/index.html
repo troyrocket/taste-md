@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hayes Valley Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Hayes Valley, San Francisco. 47 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Hayes Valley</div>
+<h1>Hayes Valley</h1>
+<p>47 restaurants in Hayes Valley, San Francisco.</p>
+<div class="restaurant">
+  <a href="restaurant-naides.html">Restaurant Naides</a>
+  <div class="meta">5★ (28 reviews) — 708 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="doppio-coffee-brunch.html">Doppio Coffee & Brunch</a>
+  <div class="meta">4.9★ (364 reviews) — 1551 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sforno-pizzeria-napoletana.html">Sforno Pizzeria Napoletana</a>
+  <div class="meta">4.8★ (148 reviews) — 514 Octavia St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dingles-public-house.html">Dingles Public House</a>
+  <div class="meta">4.8★ (70 reviews) — 333 Fulton St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kiln.html">Kiln</a>
+  <div class="meta">4.8★ (148 reviews) — 149 Fell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rich-table.html">Rich Table</a>
+  <div class="meta">4.7★ (1543 reviews) — 199 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dragoneats.html">DragonEats</a>
+  <div class="meta">4.7★ (459 reviews) — 520 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-home.html">Dumpling Home</a>
+  <div class="meta">4.6★ (1573 reviews) — 298 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-gambit.html">The Gambit</a>
+  <div class="meta">4.6★ (104 reviews) — 581 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="birba.html">Birba</a>
+  <div class="meta">4.6★ (366 reviews) — 458 Grove St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hayz-dog.html">Hayz Dog</a>
+  <div class="meta">4.6★ (187 reviews) — 364 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chez-maman-west.html">Chez Maman West</a>
+  <div class="meta">4.5★ (1932 reviews) — 401 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="souvla.html">Souvla</a>
+  <div class="meta">4.5★ (2296 reviews) — 517 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rad-radish.html">Rad Radish</a>
+  <div class="meta">4.5★ (598 reviews) — 301 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="suppenk-che.html">Suppenküche</a>
+  <div class="meta">4.5★ (1950 reviews) — 525 Laguna St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hayes-valley-bakeworks.html">Hayes Valley Bakeworks</a>
+  <div class="meta">4.5★ (162 reviews) — 550 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="xebec.html">Xebec</a>
+  <div class="meta">4.5★ (78 reviews) — 131 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rt-rotisserie.html">RT Rotisserie</a>
+  <div class="meta">4.5★ (1071 reviews) — 101 Oak St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nightbird.html">Nightbird</a>
+  <div class="meta">4.5★ (260 reviews) — 330 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nojo-ramen-tavern.html">Nojo Ramen Tavern</a>
+  <div class="meta">4.5★ (1336 reviews) — 231 Franklin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="elephant-sushi.html">Elephant Sushi</a>
+  <div class="meta">4.5★ (226 reviews) — 400 Grove St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="om-sabor.html">Om Sabor</a>
+  <div class="meta">4.5★ (236 reviews) — 370 Grove St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="robin.html">Robin</a>
+  <div class="meta">4.5★ (591 reviews) — 620 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="papito-hayes.html">Papito Hayes</a>
+  <div class="meta">4.4★ (1268 reviews) — 425 Hayes St A, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="absinthe-brasserie-bar.html">Absinthe Brasserie & Bar</a>
+  <div class="meta">4.4★ (1796 reviews) — 398 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="teakwood.html">Teakwood</a>
+  <div class="meta">4.4★ (324 reviews) — 399 Grove St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="peacock-pansy.html">Peacock Pansy</a>
+  <div class="meta">4.4★ (294 reviews) — 392 Fulton St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="domo.html">Domo</a>
+  <div class="meta">4.4★ (593 reviews) — 511 Laguna St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="biergarten.html">Biergarten</a>
+  <div class="meta">4.4★ (1155 reviews) — 424 Octavia St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-italian-homemade-company.html">The Italian Homemade Company</a>
+  <div class="meta">4.4★ (618 reviews) — 1 Franklin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-borgo.html">Il Borgo</a>
+  <div class="meta">4.4★ (411 reviews) — 500 Fell St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="na-ya-dessert-cafe.html">Na Ya Dessert Cafe</a>
+  <div class="meta">4.4★ (590 reviews) — 535 Octavia St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-happy-crane.html">The Happy Crane</a>
+  <div class="meta">4.4★ (116 reviews) — 451 Gough St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-buoy.html">The Buoy</a>
+  <div class="meta">4.4★ (143 reviews) — 22 Franklin St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="a-mano.html">a Mano</a>
+  <div class="meta">4.3★ (2255 reviews) — 450 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="doppio-zero-san-francisco.html">Doppio Zero San Francisco</a>
+  <div class="meta">4.3★ (1036 reviews) — 395 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gioia-pizzeria.html">Gioia Pizzeria</a>
+  <div class="meta">4.3★ (432 reviews) — 579 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mercury-cafe.html">Mercury Cafe</a>
+  <div class="meta">4.3★ (405 reviews) — 201 Octavia St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rt-bistro.html">RT Bistro</a>
+  <div class="meta">4.3★ (38 reviews) — 205 Oak St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hayes-street-grill.html">Hayes Street Grill</a>
+  <div class="meta">4.2★ (331 reviews) — 320 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-boulangerie-de-san-francisco.html">La Boulangerie de San Francisco</a>
+  <div class="meta">4.2★ (1000 reviews) — 500 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="double-decker.html">Double Decker</a>
+  <div class="meta">4.2★ (433 reviews) — 465 Grove St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-bird.html">The Bird</a>
+  <div class="meta">4.1★ (405 reviews) — 406 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lers-ros-thai.html">Lers Ros Thai</a>
+  <div class="meta">4.1★ (855 reviews) — 307 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hazie-s.html">Hazie's</a>
+  <div class="meta">4★ (365 reviews) — 501 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="arbor.html">Arbor</a>
+  <div class="meta">4★ (202 reviews) — 384 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="patxi-s-pizza.html">Patxi's Pizza</a>
+  <div class="meta">4★ (1113 reviews) — 511 Hayes St, San Francisco, CA 94102, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Hayes Valley — San Francisco Restaurants
+
+47 restaurants in Hayes Valley.
+
+- [Restaurant Naides](restaurant-naides.html) — 5★ (28 reviews)
+- [Doppio Coffee &amp; Brunch](doppio-coffee-brunch.html) — 4.9★ (364 reviews)
+- [Sforno Pizzeria Napoletana](sforno-pizzeria-napoletana.html) — 4.8★ (148 reviews)
+- [Dingles Public House](dingles-public-house.html) — 4.8★ (70 reviews)
+- [Kiln](kiln.html) — 4.8★ (148 reviews)
+- [Rich Table](rich-table.html) — 4.7★ (1543 reviews)
+- [DragonEats](dragoneats.html) — 4.7★ (459 reviews)
+- [Dumpling Home](dumpling-home.html) — 4.6★ (1573 reviews)
+- [The Gambit](the-gambit.html) — 4.6★ (104 reviews)
+- [Birba](birba.html) — 4.6★ (366 reviews)
+- [Hayz Dog](hayz-dog.html) — 4.6★ (187 reviews)
+- [Chez Maman West](chez-maman-west.html) — 4.5★ (1932 reviews)
+- [Souvla](souvla.html) — 4.5★ (2296 reviews)
+- [Rad Radish](rad-radish.html) — 4.5★ (598 reviews)
+- [Suppenküche](suppenk-che.html) — 4.5★ (1950 reviews)
+- [Hayes Valley Bakeworks](hayes-valley-bakeworks.html) — 4.5★ (162 reviews)
+- [Xebec](xebec.html) — 4.5★ (78 reviews)
+- [RT Rotisserie](rt-rotisserie.html) — 4.5★ (1071 reviews)
+- [Nightbird](nightbird.html) — 4.5★ (260 reviews)
+- [Nojo Ramen Tavern](nojo-ramen-tavern.html) — 4.5★ (1336 reviews)
+- [Elephant Sushi](elephant-sushi.html) — 4.5★ (226 reviews)
+- [Om Sabor](om-sabor.html) — 4.5★ (236 reviews)
+- [Robin](robin.html) — 4.5★ (591 reviews)
+- [Papito Hayes](papito-hayes.html) — 4.4★ (1268 reviews)
+- [Absinthe Brasserie &amp; Bar](absinthe-brasserie-bar.html) — 4.4★ (1796 reviews)
+- [Teakwood](teakwood.html) — 4.4★ (324 reviews)
+- [Peacock Pansy](peacock-pansy.html) — 4.4★ (294 reviews)
+- [Domo](domo.html) — 4.4★ (593 reviews)
+- [Biergarten](biergarten.html) — 4.4★ (1155 reviews)
+- [The Italian Homemade Company](the-italian-homemade-company.html) — 4.4★ (618 reviews)
+- [Il Borgo](il-borgo.html) — 4.4★ (411 reviews)
+- [Na Ya Dessert Cafe](na-ya-dessert-cafe.html) — 4.4★ (590 reviews)
+- [The Happy Crane](the-happy-crane.html) — 4.4★ (116 reviews)
+- [The Buoy](the-buoy.html) — 4.4★ (143 reviews)
+- [a Mano](a-mano.html) — 4.3★ (2255 reviews)
+- [Doppio Zero San Francisco](doppio-zero-san-francisco.html) — 4.3★ (1036 reviews)
+- [Gioia Pizzeria](gioia-pizzeria.html) — 4.3★ (432 reviews)
+- [Mercury Cafe](mercury-cafe.html) — 4.3★ (405 reviews)
+- [RT Bistro](rt-bistro.html) — 4.3★ (38 reviews)
+- [Hayes Street Grill](hayes-street-grill.html) — 4.2★ (331 reviews)
+- [La Boulangerie de San Francisco](la-boulangerie-de-san-francisco.html) — 4.2★ (1000 reviews)
+- [Double Decker](double-decker.html) — 4.2★ (433 reviews)
+- [The Bird](the-bird.html) — 4.1★ (405 reviews)
+- [Lers Ros Thai](lers-ros-thai.html) — 4.1★ (855 reviews)
+- [Hazie's](hazie-s.html) — 4★ (365 reviews)
+- [Arbor](arbor.html) — 4★ (202 reviews)
+- [Patxi's Pizza](patxi-s-pizza.html) — 4★ (1113 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

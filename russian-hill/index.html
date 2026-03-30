@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Russian Hill Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Russian Hill, San Francisco. 48 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Russian Hill</div>
+<h1>Russian Hill</h1>
+<p>48 restaurants in Russian Hill, San Francisco.</p>
+<div class="restaurant">
+  <a href="7-elves-russian-hill.html">7 Elves Russian Hill</a>
+  <div class="meta">5★ (1 reviews) — 99 Himmelmann Pl, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="collina.html">Collina</a>
+  <div class="meta">4.8★ (165 reviews) — 1550 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="amarena.html">Amarena</a>
+  <div class="meta">4.8★ (1572 reviews) — 2162 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mashita-galbi-jjim.html">Mashita Galbi Jjim</a>
+  <div class="meta">4.8★ (104 reviews) — 2123 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="waystone.html">Waystone</a>
+  <div class="meta">4.8★ (172 reviews) — 1609 Powell St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="seven-hills.html">Seven Hills</a>
+  <div class="meta">4.7★ (897 reviews) — 1896 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="serafina.html">Serafina</a>
+  <div class="meta">4.7★ (376 reviews) — 1701 Jones St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="heist-restaurant.html">Heist Restaurant</a>
+  <div class="meta">4.7★ (1099 reviews) — 678 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="frascati.html">Frascati</a>
+  <div class="meta">4.7★ (419 reviews) — 1901 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lapisara-eatery.html">Lapisara Eatery</a>
+  <div class="meta">4.7★ (1883 reviews) — 698 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="new-thai-elephant.html">New Thai Elephant</a>
+  <div class="meta">4.7★ (2017 reviews) — 393 Bay St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ssal.html">SSAL</a>
+  <div class="meta">4.7★ (222 reviews) — 2226 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="union-larder.html">Union Larder</a>
+  <div class="meta">4.6★ (246 reviews) — 1945 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bar-iris.html">Bar Iris</a>
+  <div class="meta">4.6★ (238 reviews) — 2310 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="leopold-s.html">Leopold's</a>
+  <div class="meta">4.6★ (701 reviews) — 2400 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiddle-fig-cafe-coffee.html">Fiddle Fig Cafe & Coffee</a>
+  <div class="meta">4.6★ (898 reviews) — 790 Lombard St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="abrazo.html">Abrazo</a>
+  <div class="meta">4.6★ (248 reviews) — 2000 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="altovino.html">AltoVino</a>
+  <div class="meta">4.6★ (410 reviews) — 1358 Mason St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="back-to-back.html">Back to Back</a>
+  <div class="meta">4.6★ (263 reviews) — 1257 Taylor St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="luisa-s-restaurant-wine-bar-since-1959.html">Luisa's Restaurant Wine Bar Since 1959</a>
+  <div class="meta">4.6★ (1082 reviews) — 759 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="za-pizza.html">Za Pizza</a>
+  <div class="meta">4.6★ (1184 reviews) — 1919 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nisei.html">Nisei</a>
+  <div class="meta">4.6★ (224 reviews) — 2316 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eight-am-brunch.html">Eight AM Brunch</a>
+  <div class="meta">4.6★ (2020 reviews) — 1323 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="woods-polk-station.html">Woods Polk Station</a>
+  <div class="meta">4.6★ (139 reviews) — 2255 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="okoze-sushi.html">Okoze Sushi</a>
+  <div class="meta">4.6★ (331 reviews) — 1207 Union St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="amelie-san-francisco.html">Amelie San Francisco</a>
+  <div class="meta">4.6★ (662 reviews) — 1754 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-new-spot-on-polk.html">The New Spot On Polk</a>
+  <div class="meta">4.5★ (951 reviews) — 2401 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="macondray.html">Macondray</a>
+  <div class="meta">4.5★ (254 reviews) — 2209 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bell-tower.html">Bell Tower</a>
+  <div class="meta">4.5★ (959 reviews) — 1900 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="street-restaurant-and-bar.html">Street Restaurant and Bar</a>
+  <div class="meta">4.5★ (210 reviews) — 2141 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="key-klub.html">Key Klub</a>
+  <div class="meta">4.5★ (220 reviews) — 850 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-boys-deli.html">The Boys’ Deli</a>
+  <div class="meta">4.5★ (287 reviews) — 2222 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fog-harbor-fish-house.html">Fog Harbor Fish House</a>
+  <div class="meta">4.5★ (9960 reviews) — 39 Pier, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ollei.html">Ollei</a>
+  <div class="meta">4.4★ (176 reviews) — 2127 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="blue-barn-polk.html">Blue Barn Polk</a>
+  <div class="meta">4.4★ (782 reviews) — 2237 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sorella.html">Sorella</a>
+  <div class="meta">4.4★ (294 reviews) — 1760 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piazza-pellegrini.html">Piazza Pellegrini</a>
+  <div class="meta">4.4★ (1207 reviews) — 659 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="royal-ground-coffee.html">Royal Ground Coffee</a>
+  <div class="meta">4.4★ (290 reviews) — 2216 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gastrobot-neighborhood-eatery.html">Gastrobot | Neighborhood Eatery</a>
+  <div class="meta">4.4★ (36 reviews) — 1096 Union St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lillie-coit-s.html">Lillie Coit's</a>
+  <div class="meta">4.4★ (145 reviews) — 1707 Powell St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mezcalito.html">Mezcalito</a>
+  <div class="meta">4.3★ (618 reviews) — 2323 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="harper-rye.html">Harper & Rye</a>
+  <div class="meta">4.3★ (636 reviews) — 1695 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saru-handroll-bar.html">Saru Handroll Bar</a>
+  <div class="meta">4.2★ (308 reviews) — 2206 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bonita-taqueria-y-rotisserie.html">Bonita Taqueria y Rotisserie</a>
+  <div class="meta">4.2★ (197 reviews) — 2227 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiorella-polk.html">Fiorella Polk</a>
+  <div class="meta">4.1★ (349 reviews) — 2238 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chotto-matte-san-francisco.html">Chotto Matte San Francisco</a>
+  <div class="meta">4.1★ (842 reviews) — 50 O'Farrell St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="san-francisco-brewing-co.html">San Francisco Brewing Co.</a>
+  <div class="meta">4★ (948 reviews) — 3150 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kam-po-kitchen.html">Kam PO Kitchen</a>
+  <div class="meta">4★ (617 reviews) — 801 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Russian Hill — San Francisco Restaurants
+
+48 restaurants in Russian Hill.
+
+- [7 Elves Russian Hill](7-elves-russian-hill.html) — 5★ (1 reviews)
+- [Collina](collina.html) — 4.8★ (165 reviews)
+- [Amarena](amarena.html) — 4.8★ (1572 reviews)
+- [Mashita Galbi Jjim](mashita-galbi-jjim.html) — 4.8★ (104 reviews)
+- [Waystone](waystone.html) — 4.8★ (172 reviews)
+- [Seven Hills](seven-hills.html) — 4.7★ (897 reviews)
+- [Serafina](serafina.html) — 4.7★ (376 reviews)
+- [Heist Restaurant](heist-restaurant.html) — 4.7★ (1099 reviews)
+- [Frascati](frascati.html) — 4.7★ (419 reviews)
+- [Lapisara Eatery](lapisara-eatery.html) — 4.7★ (1883 reviews)
+- [New Thai Elephant](new-thai-elephant.html) — 4.7★ (2017 reviews)
+- [SSAL](ssal.html) — 4.7★ (222 reviews)
+- [Union Larder](union-larder.html) — 4.6★ (246 reviews)
+- [Bar Iris](bar-iris.html) — 4.6★ (238 reviews)
+- [Leopold's](leopold-s.html) — 4.6★ (701 reviews)
+- [Fiddle Fig Cafe &amp; Coffee](fiddle-fig-cafe-coffee.html) — 4.6★ (898 reviews)
+- [Abrazo](abrazo.html) — 4.6★ (248 reviews)
+- [AltoVino](altovino.html) — 4.6★ (410 reviews)
+- [Back to Back](back-to-back.html) — 4.6★ (263 reviews)
+- [Luisa's Restaurant Wine Bar Since 1959](luisa-s-restaurant-wine-bar-since-1959.html) — 4.6★ (1082 reviews)
+- [Za Pizza](za-pizza.html) — 4.6★ (1184 reviews)
+- [Nisei](nisei.html) — 4.6★ (224 reviews)
+- [Eight AM Brunch](eight-am-brunch.html) — 4.6★ (2020 reviews)
+- [Woods Polk Station](woods-polk-station.html) — 4.6★ (139 reviews)
+- [Okoze Sushi](okoze-sushi.html) — 4.6★ (331 reviews)
+- [Amelie San Francisco](amelie-san-francisco.html) — 4.6★ (662 reviews)
+- [The New Spot On Polk](the-new-spot-on-polk.html) — 4.5★ (951 reviews)
+- [Macondray](macondray.html) — 4.5★ (254 reviews)
+- [Bell Tower](bell-tower.html) — 4.5★ (959 reviews)
+- [Street Restaurant and Bar](street-restaurant-and-bar.html) — 4.5★ (210 reviews)
+- [Key Klub](key-klub.html) — 4.5★ (220 reviews)
+- [The Boys’ Deli](the-boys-deli.html) — 4.5★ (287 reviews)
+- [Fog Harbor Fish House](fog-harbor-fish-house.html) — 4.5★ (9960 reviews)
+- [Ollei](ollei.html) — 4.4★ (176 reviews)
+- [Blue Barn Polk](blue-barn-polk.html) — 4.4★ (782 reviews)
+- [Sorella](sorella.html) — 4.4★ (294 reviews)
+- [Piazza Pellegrini](piazza-pellegrini.html) — 4.4★ (1207 reviews)
+- [Royal Ground Coffee](royal-ground-coffee.html) — 4.4★ (290 reviews)
+- [Gastrobot | Neighborhood Eatery](gastrobot-neighborhood-eatery.html) — 4.4★ (36 reviews)
+- [Lillie Coit's](lillie-coit-s.html) — 4.4★ (145 reviews)
+- [Mezcalito](mezcalito.html) — 4.3★ (618 reviews)
+- [Harper &amp; Rye](harper-rye.html) — 4.3★ (636 reviews)
+- [Saru Handroll Bar](saru-handroll-bar.html) — 4.2★ (308 reviews)
+- [Bonita Taqueria y Rotisserie](bonita-taqueria-y-rotisserie.html) — 4.2★ (197 reviews)
+- [Fiorella Polk](fiorella-polk.html) — 4.1★ (349 reviews)
+- [Chotto Matte San Francisco](chotto-matte-san-francisco.html) — 4.1★ (842 reviews)
+- [San Francisco Brewing Co.](san-francisco-brewing-co.html) — 4★ (948 reviews)
+- [Kam PO Kitchen](kam-po-kitchen.html) — 4★ (617 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

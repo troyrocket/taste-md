@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Haight-Ashbury Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Haight-Ashbury, San Francisco. 59 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Haight-Ashbury</div>
+<h1>Haight-Ashbury</h1>
+<p>59 restaurants in Haight-Ashbury, San Francisco.</p>
+<div class="restaurant">
+  <a href="golden-mediterranean-cuisine.html">Golden Mediterranean Cuisine</a>
+  <div class="meta">5★ (42 reviews) — 3611 California St, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-hungry-spot.html">The Hungry Spot</a>
+  <div class="meta">4.9★ (177 reviews) — 2077 Hayes St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ken.html">KEN</a>
+  <div class="meta">4.9★ (145 reviews) — 252 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sandy-s.html">Sandy's</a>
+  <div class="meta">4.8★ (390 reviews) — 1457 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="angiday.html">Angiday</a>
+  <div class="meta">4.7★ (146 reviews) — 1797 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="that-s-my-jam.html">That's My Jam</a>
+  <div class="meta">4.7★ (232 reviews) — 324 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="altamirano-restaurant-bar.html">Altamirano Restaurant & Bar</a>
+  <div class="meta">4.7★ (163 reviews) — 1775 Fulton St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="palmyra.html">Palmyra</a>
+  <div class="meta">4.6★ (772 reviews) — 700 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-union-haight.html">Dumpling Union Haight</a>
+  <div class="meta">4.6★ (182 reviews) — 598 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dragoneats.html">DragonEats</a>
+  <div class="meta">4.6★ (425 reviews) — 1671 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="om-indian-cuisine.html">Om Indian Cuisine</a>
+  <div class="meta">4.6★ (981 reviews) — 1668 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="parada-22.html">Parada 22</a>
+  <div class="meta">4.5★ (1312 reviews) — 1805 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pork-store-cafe.html">Pork Store Cafe</a>
+  <div class="meta">4.5★ (1054 reviews) — 1451 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="street-taco.html">Street Taco</a>
+  <div class="meta">4.5★ (1400 reviews) — 1607 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-alembic.html">The Alembic</a>
+  <div class="meta">4.5★ (817 reviews) — 1725 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="uva-enoteca.html">Uva Enoteca</a>
+  <div class="meta">4.5★ (534 reviews) — 568 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zazie.html">Zazie</a>
+  <div class="meta">4.5★ (3492 reviews) — 941 Cole St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="otra.html">Otra</a>
+  <div class="meta">4.5★ (388 reviews) — 682 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="slice-house-by-tony-gemignani.html">Slice House by Tony Gemignani</a>
+  <div class="meta">4.5★ (737 reviews) — 1535 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bar-jabroni.html">Bar Jabroni</a>
+  <div class="meta">4.5★ (79 reviews) — 698 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jalebi-street.html">Jalebi Street</a>
+  <div class="meta">4.5★ (474 reviews) — 1466 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="early-to-rise-scratch-made-brunch.html">Early To Rise, Scratch Made Brunch</a>
+  <div class="meta">4.5★ (417 reviews) — 1801 McAllister St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bambino-s-ristorante.html">Bambino's Ristorante</a>
+  <div class="meta">4.5★ (528 reviews) — 945 Cole St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="karma-cafe.html">Karma Cafe</a>
+  <div class="meta">4.5★ (201 reviews) — 1901 Hayes St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nopa.html">Nopa</a>
+  <div class="meta">4.5★ (3001 reviews) — 560 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nara.html">NARA</a>
+  <div class="meta">4.5★ (652 reviews) — 518 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="inovino.html">InoVino</a>
+  <div class="meta">4.5★ (316 reviews) — 108-B Carl St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kibatsu.html">Kibatsu</a>
+  <div class="meta">4.5★ (233 reviews) — 400 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bistro-central-parc-restaurant.html">Bistro Central Parc Restaurant</a>
+  <div class="meta">4.5★ (487 reviews) — 560 Central Ave, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="magnolia-sf-haight.html">Magnolia SF - Haight</a>
+  <div class="meta">4.4★ (946 reviews) — 1398 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cha-cha-cha.html">Cha Cha Cha</a>
+  <div class="meta">4.4★ (2109 reviews) — 1801 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="toronado.html">Toronado</a>
+  <div class="meta">4.4★ (1755 reviews) — 547 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="papa-s-kitchen.html">Papa’s kitchen</a>
+  <div class="meta">4.4★ (227 reviews) — 1705 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-little-chihuahua.html">The Little Chihuahua</a>
+  <div class="meta">4.4★ (952 reviews) — 292 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flippin-burger.html">Flippin Burger</a>
+  <div class="meta">4.4★ (353 reviews) — 1419 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="abu-salim-middle-eastern-grill.html">Abu Salim Middle Eastern Grill</a>
+  <div class="meta">4.4★ (730 reviews) — 1599 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nickie-s.html">Nickie's</a>
+  <div class="meta">4.4★ (367 reviews) — 466 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jules.html">Jules</a>
+  <div class="meta">4.4★ (194 reviews) — 237 Fillmore St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cole-valley-tavern.html">Cole Valley Tavern</a>
+  <div class="meta">4.4★ (233 reviews) — 900 Cole St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="paula-s-cafe.html">Paula's Cafe</a>
+  <div class="meta">4.4★ (241 reviews) — 488 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="escape-from-new-york-pizza.html">Escape From New York Pizza</a>
+  <div class="meta">4.3★ (1214 reviews) — 1737 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ginza-sushi-sake.html">Ginza Sushi & Sake</a>
+  <div class="meta">4.3★ (611 reviews) — 1793 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kate-s-kitchen.html">Kate's Kitchen</a>
+  <div class="meta">4.3★ (657 reviews) — 471 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bizza-san-francisco.html">Bizza (San Francisco)</a>
+  <div class="meta">4.3★ (761 reviews) — 1463 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="yh-beijing-duck-house.html">YH - Beijing Duck House 颐和北京烤鴨店</a>
+  <div class="meta">4.3★ (441 reviews) — 500 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="caramba.html">Caramba!</a>
+  <div class="meta">4.3★ (328 reviews) — 1430 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beit-rima.html">Beit Rima</a>
+  <div class="meta">4.3★ (624 reviews) — 86 Carl St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nopalito.html">Nopalito</a>
+  <div class="meta">4.3★ (2004 reviews) — 306 Broderick St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fish-in-the-box.html">Fish In The Box</a>
+  <div class="meta">4.3★ (347 reviews) — 800 Masonic Ave, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="citrus-club.html">Citrus Club</a>
+  <div class="meta">4.2★ (417 reviews) — 1790 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mad-dog-in-the-fog.html">Mad Dog in the Fog</a>
+  <div class="meta">4.2★ (625 reviews) — 1568 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brioche-bakery-cafe.html">Brioche Bakery & Cafe</a>
+  <div class="meta">4.2★ (409 reviews) — 1640 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bacon-bacon.html">Bacon Bacon</a>
+  <div class="meta">4.2★ (458 reviews) — 205A Frederick St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lava-java.html">Lava Java</a>
+  <div class="meta">4.2★ (224 reviews) — 852 Stanyan St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="che-fico.html">Che Fico</a>
+  <div class="meta">4.2★ (1192 reviews) — 838 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bite-me-sandwiches.html">Bite Me Sandwiches</a>
+  <div class="meta">4.2★ (295 reviews) — 701 Cole St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hippie-thai-street-food.html">Hippie Thai Street Food</a>
+  <div class="meta">4.1★ (524 reviews) — 1418 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-rancho-grande.html">El Rancho Grande</a>
+  <div class="meta">4.1★ (451 reviews) — 1654 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="what-the-cluck-haight.html">What The Cluck Haight</a>
+  <div class="meta">3.8★ (121 reviews) — 1782 Haight St, San Francisco, CA 94117, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Haight-Ashbury — San Francisco Restaurants
+
+59 restaurants in Haight-Ashbury.
+
+- [Golden Mediterranean Cuisine](golden-mediterranean-cuisine.html) — 5★ (42 reviews)
+- [The Hungry Spot](the-hungry-spot.html) — 4.9★ (177 reviews)
+- [KEN](ken.html) — 4.9★ (145 reviews)
+- [Sandy's](sandy-s.html) — 4.8★ (390 reviews)
+- [Angiday](angiday.html) — 4.7★ (146 reviews)
+- [That's My Jam](that-s-my-jam.html) — 4.7★ (232 reviews)
+- [Altamirano Restaurant &amp; Bar](altamirano-restaurant-bar.html) — 4.7★ (163 reviews)
+- [Palmyra](palmyra.html) — 4.6★ (772 reviews)
+- [Dumpling Union Haight](dumpling-union-haight.html) — 4.6★ (182 reviews)
+- [DragonEats](dragoneats.html) — 4.6★ (425 reviews)
+- [Om Indian Cuisine](om-indian-cuisine.html) — 4.6★ (981 reviews)
+- [Parada 22](parada-22.html) — 4.5★ (1312 reviews)
+- [Pork Store Cafe](pork-store-cafe.html) — 4.5★ (1054 reviews)
+- [Street Taco](street-taco.html) — 4.5★ (1400 reviews)
+- [The Alembic](the-alembic.html) — 4.5★ (817 reviews)
+- [Uva Enoteca](uva-enoteca.html) — 4.5★ (534 reviews)
+- [Zazie](zazie.html) — 4.5★ (3492 reviews)
+- [Otra](otra.html) — 4.5★ (388 reviews)
+- [Slice House by Tony Gemignani](slice-house-by-tony-gemignani.html) — 4.5★ (737 reviews)
+- [Bar Jabroni](bar-jabroni.html) — 4.5★ (79 reviews)
+- [Jalebi Street](jalebi-street.html) — 4.5★ (474 reviews)
+- [Early To Rise, Scratch Made Brunch](early-to-rise-scratch-made-brunch.html) — 4.5★ (417 reviews)
+- [Bambino's Ristorante](bambino-s-ristorante.html) — 4.5★ (528 reviews)
+- [Karma Cafe](karma-cafe.html) — 4.5★ (201 reviews)
+- [Nopa](nopa.html) — 4.5★ (3001 reviews)
+- [NARA](nara.html) — 4.5★ (652 reviews)
+- [InoVino](inovino.html) — 4.5★ (316 reviews)
+- [Kibatsu](kibatsu.html) — 4.5★ (233 reviews)
+- [Bistro Central Parc Restaurant](bistro-central-parc-restaurant.html) — 4.5★ (487 reviews)
+- [Magnolia SF - Haight](magnolia-sf-haight.html) — 4.4★ (946 reviews)
+- [Cha Cha Cha](cha-cha-cha.html) — 4.4★ (2109 reviews)
+- [Toronado](toronado.html) — 4.4★ (1755 reviews)
+- [Papa’s kitchen](papa-s-kitchen.html) — 4.4★ (227 reviews)
+- [The Little Chihuahua](the-little-chihuahua.html) — 4.4★ (952 reviews)
+- [Flippin Burger](flippin-burger.html) — 4.4★ (353 reviews)
+- [Abu Salim Middle Eastern Grill](abu-salim-middle-eastern-grill.html) — 4.4★ (730 reviews)
+- [Nickie's](nickie-s.html) — 4.4★ (367 reviews)
+- [Jules](jules.html) — 4.4★ (194 reviews)
+- [Cole Valley Tavern](cole-valley-tavern.html) — 4.4★ (233 reviews)
+- [Paula's Cafe](paula-s-cafe.html) — 4.4★ (241 reviews)
+- [Escape From New York Pizza](escape-from-new-york-pizza.html) — 4.3★ (1214 reviews)
+- [Ginza Sushi &amp; Sake](ginza-sushi-sake.html) — 4.3★ (611 reviews)
+- [Kate's Kitchen](kate-s-kitchen.html) — 4.3★ (657 reviews)
+- [Bizza (San Francisco)](bizza-san-francisco.html) — 4.3★ (761 reviews)
+- [YH - Beijing Duck House 颐和北京烤鴨店](yh-beijing-duck-house.html) — 4.3★ (441 reviews)
+- [Caramba!](caramba.html) — 4.3★ (328 reviews)
+- [Beit Rima](beit-rima.html) — 4.3★ (624 reviews)
+- [Nopalito](nopalito.html) — 4.3★ (2004 reviews)
+- [Fish In The Box](fish-in-the-box.html) — 4.3★ (347 reviews)
+- [Citrus Club](citrus-club.html) — 4.2★ (417 reviews)
+- [Mad Dog in the Fog](mad-dog-in-the-fog.html) — 4.2★ (625 reviews)
+- [Brioche Bakery &amp; Cafe](brioche-bakery-cafe.html) — 4.2★ (409 reviews)
+- [Bacon Bacon](bacon-bacon.html) — 4.2★ (458 reviews)
+- [Lava Java](lava-java.html) — 4.2★ (224 reviews)
+- [Che Fico](che-fico.html) — 4.2★ (1192 reviews)
+- [Bite Me Sandwiches](bite-me-sandwiches.html) — 4.2★ (295 reviews)
+- [Hippie Thai Street Food](hippie-thai-street-food.html) — 4.1★ (524 reviews)
+- [El Rancho Grande](el-rancho-grande.html) — 4.1★ (451 reviews)
+- [What The Cluck Haight](what-the-cluck-haight.html) — 3.8★ (121 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

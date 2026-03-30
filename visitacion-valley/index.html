@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visitacion Valley Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Visitacion Valley, San Francisco. 26 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Visitacion Valley</div>
+<h1>Visitacion Valley</h1>
+<p>26 restaurants in Visitacion Valley, San Francisco.</p>
+<div class="restaurant">
+  <a href="la-joya-cafe.html">La Joya Cafe</a>
+  <div class="meta">4.8★ (83 reviews) — 28 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="drew-s-barbecue.html">Drew's Barbecue</a>
+  <div class="meta">4.8★ (54 reviews) — 101 Hahn St, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lucho-s.html">Lucho’s</a>
+  <div class="meta">4.8★ (402 reviews) — 2675 Ocean Ave, San Francisco, CA 94132, USA</div>
+</div>
+<div class="restaurant">
+  <a href="san-marcos-restaurant.html">San Marcos Restaurant</a>
+  <div class="meta">4.6★ (37 reviews) — 98 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sandy-ym-american-food.html">Sandy YM American Food</a>
+  <div class="meta">4.6★ (28 reviews) — 4780 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chico-marx.html">Chico Marx</a>
+  <div class="meta">4.6★ (45 reviews) — 2 Tower Pl, South San Francisco, CA 94080, USA</div>
+</div>
+<div class="restaurant">
+  <a href="creative-ideas-cafe.html">Creative Ideas Cafe</a>
+  <div class="meta">4.5★ (132 reviews) — 58 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="7-mile-house-sports-bar-grill.html">7 Mile House Sports Bar & Grill</a>
+  <div class="meta">4.5★ (1930 reviews) — 2800 Bayshore Blvd, Brisbane, CA 94005, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trattoria-da-vittorio.html">Trattoria da Vittorio</a>
+  <div class="meta">4.5★ (844 reviews) — 150 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="universal-bakery-on-geneva.html">Universal Bakery on Geneva</a>
+  <div class="meta">4.5★ (368 reviews) — 2803 Geneva Ave, Daly City, CA 94014, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taqueria-el-buen-sabor.html">Taqueria El Buen Sabor</a>
+  <div class="meta">4.4★ (117 reviews) — 98 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-willows.html">The Willows</a>
+  <div class="meta">4.4★ (938 reviews) — 1582 Folsom St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bullshead-restaurant.html">Bullshead Restaurant</a>
+  <div class="meta">4.4★ (561 reviews) — 840 Ulloa St, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="happy-donuts.html">Happy Donuts</a>
+  <div class="meta">4.4★ (251 reviews) — 2600 Bayshore Blvd #2602, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shuggie-s.html">Shuggie’s</a>
+  <div class="meta">4.4★ (366 reviews) — 3349 23rd St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="luen-fat-bakery-restaurant.html">Luen Fat | Bakery & Restaurant</a>
+  <div class="meta">4.3★ (98 reviews) — 110 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="boogaloos.html">Boogaloos</a>
+  <div class="meta">4.3★ (648 reviews) — 3296 22nd St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="franco-s-latin-table.html">Franco's Latin Table</a>
+  <div class="meta">4.3★ (445 reviews) — 24 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="az-car-lounge.html">Azúcar Lounge</a>
+  <div class="meta">4.3★ (542 reviews) — 299 9th St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="g-l-bakery-restaurant.html">G & L Bakery & Restaurant</a>
+  <div class="meta">4.1★ (83 reviews) — 198 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="toast-eatery.html">Toast Eatery</a>
+  <div class="meta">4.1★ (393 reviews) — 160 W Portal Ave, San Francisco, CA 94127, USA</div>
+</div>
+<div class="restaurant">
+  <a href="1945-restaurant-bar-and-lounge.html">1945 Restaurant Bar and Lounge</a>
+  <div class="meta">4★ (22 reviews) — 5 Leland Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="los-reyes-restaurant.html">Los Reyes Restaurant</a>
+  <div class="meta">4★ (302 reviews) — 2101 Geneva Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-moon-restaurant.html">Golden Moon Restaurant</a>
+  <div class="meta">4★ (126 reviews) — 2511 Geneva Ave, Daly City, CA 94014, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fun-tea-house.html">Fun Tea House</a>
+  <div class="meta">4★ (15 reviews) — 2891 San Bruno Ave, San Francisco, CA 94134, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pasta-basta.html">Pasta Basta</a>
+  <div class="meta">3.5★ (8 reviews) — 2731 Geneva Ave, Daly City, CA 94014, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Visitacion Valley — San Francisco Restaurants
+
+26 restaurants in Visitacion Valley.
+
+- [La Joya Cafe](la-joya-cafe.html) — 4.8★ (83 reviews)
+- [Drew's Barbecue](drew-s-barbecue.html) — 4.8★ (54 reviews)
+- [Lucho’s](lucho-s.html) — 4.8★ (402 reviews)
+- [San Marcos Restaurant](san-marcos-restaurant.html) — 4.6★ (37 reviews)
+- [Sandy YM American Food](sandy-ym-american-food.html) — 4.6★ (28 reviews)
+- [Chico Marx](chico-marx.html) — 4.6★ (45 reviews)
+- [Creative Ideas Cafe](creative-ideas-cafe.html) — 4.5★ (132 reviews)
+- [7 Mile House Sports Bar &amp; Grill](7-mile-house-sports-bar-grill.html) — 4.5★ (1930 reviews)
+- [Trattoria da Vittorio](trattoria-da-vittorio.html) — 4.5★ (844 reviews)
+- [Universal Bakery on Geneva](universal-bakery-on-geneva.html) — 4.5★ (368 reviews)
+- [Taqueria El Buen Sabor](taqueria-el-buen-sabor.html) — 4.4★ (117 reviews)
+- [The Willows](the-willows.html) — 4.4★ (938 reviews)
+- [Bullshead Restaurant](bullshead-restaurant.html) — 4.4★ (561 reviews)
+- [Happy Donuts](happy-donuts.html) — 4.4★ (251 reviews)
+- [Shuggie’s](shuggie-s.html) — 4.4★ (366 reviews)
+- [Luen Fat | Bakery &amp; Restaurant](luen-fat-bakery-restaurant.html) — 4.3★ (98 reviews)
+- [Boogaloos](boogaloos.html) — 4.3★ (648 reviews)
+- [Franco's Latin Table](franco-s-latin-table.html) — 4.3★ (445 reviews)
+- [Azúcar Lounge](az-car-lounge.html) — 4.3★ (542 reviews)
+- [G &amp; L Bakery &amp; Restaurant](g-l-bakery-restaurant.html) — 4.1★ (83 reviews)
+- [Toast Eatery](toast-eatery.html) — 4.1★ (393 reviews)
+- [1945 Restaurant Bar and Lounge](1945-restaurant-bar-and-lounge.html) — 4★ (22 reviews)
+- [Los Reyes Restaurant](los-reyes-restaurant.html) — 4★ (302 reviews)
+- [Golden Moon Restaurant](golden-moon-restaurant.html) — 4★ (126 reviews)
+- [Fun Tea House](fun-tea-house.html) — 4★ (15 reviews)
+- [Pasta Basta](pasta-basta.html) — 3.5★ (8 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

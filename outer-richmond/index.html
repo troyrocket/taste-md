@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Outer Richmond Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Outer Richmond, San Francisco. 30 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Outer Richmond</div>
+<h1>Outer Richmond</h1>
+<p>30 restaurants in Outer Richmond, San Francisco.</p>
+<div class="restaurant">
+  <a href="fuwa-dumpling.html">Fuwa Dumpling</a>
+  <div class="meta">4.9★ (130 reviews) — 3608 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bistro-mediterraneo.html">Bistro Mediterraneo</a>
+  <div class="meta">4.8★ (423 reviews) — 2955 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="boa-s-cvc.html">Boa's CVC</a>
+  <div class="meta">4.8★ (136 reviews) — 3951 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="izakaya-mayumi.html">Izakaya mayumi</a>
+  <div class="meta">4.8★ (142 reviews) — 2221 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ocean-beach-cafe.html">Ocean Beach Cafe</a>
+  <div class="meta">4.7★ (662 reviews) — 734 La Playa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eat-americana.html">Eat Americana</a>
+  <div class="meta">4.7★ (391 reviews) — 3532 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-laundromat-sf.html">The Laundromat SF</a>
+  <div class="meta">4.7★ (636 reviews) — 3725 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="uzbegim.html">Uzbegim</a>
+  <div class="meta">4.7★ (150 reviews) — 5120 Geary Blvd, San Francisco, CA 94118, USA</div>
+</div>
+<div class="restaurant">
+  <a href="zitouna.html">Zitouna</a>
+  <div class="meta">4.7★ (267 reviews) — 2435 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mr-banh-mi.html">Mr. Banh Mi</a>
+  <div class="meta">4.6★ (277 reviews) — 3605 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cielito-lindo.html">Cielito Lindo</a>
+  <div class="meta">4.5★ (388 reviews) — 3440 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="balboa-teriyaki.html">Balboa Teriyaki</a>
+  <div class="meta">4.5★ (105 reviews) — 3536 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="empero-taste.html">Empero Taste</a>
+  <div class="meta">4.5★ (468 reviews) — 4052 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-mansour.html">El Mansour</a>
+  <div class="meta">4.5★ (401 reviews) — 3119 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ocean-indian-cuisine.html">Ocean Indian Cuisine</a>
+  <div class="meta">4.5★ (666 reviews) — 6127 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="garden-house-cafe.html">Garden House Cafe</a>
+  <div class="meta">4.4★ (439 reviews) — 3117 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kim-s-n-restaurant.html">Kim Sơn Restaurant</a>
+  <div class="meta">4.4★ (337 reviews) — 3614 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tj-cafe.html">TJ Cafe</a>
+  <div class="meta">4.4★ (214 reviews) — 724 La Playa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chino-s-taqueria.html">Chino’s Taqueria</a>
+  <div class="meta">4.4★ (496 reviews) — 3416 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="donairo-s-pizza.html">Donairo's Pizza</a>
+  <div class="meta">4.4★ (266 reviews) — 6905 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ppq-dungeness-island-san-francisco.html">PPQ Dungeness Island - San Francisco</a>
+  <div class="meta">4.4★ (1088 reviews) — 5821 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="anh-hong-restaurant.html">Anh Hong Restaurant</a>
+  <div class="meta">4.4★ (47 reviews) — 3123 Clement St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="an-chi.html">An Chi</a>
+  <div class="meta">4.4★ (169 reviews) — 5827 Geary Blvd, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizza-joint.html">Pizza Joint</a>
+  <div class="meta">4.3★ (312 reviews) — 3088 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="feng-ze-yuan-restaurant.html">Feng Ze Yuan Restaurant</a>
+  <div class="meta">4.2★ (317 reviews) — 4401 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hakka-restaurant.html">Hakka Restaurant</a>
+  <div class="meta">4.2★ (348 reviews) — 4401 Cabrillo St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taste-of-fusion.html">Taste of Fusion</a>
+  <div class="meta">4.1★ (127 reviews) — 3497 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="superior-palace.html">Superior Palace</a>
+  <div class="meta">4.1★ (138 reviews) — 3546 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="seal-rock-inn-restaurant.html">Seal Rock Inn Restaurant</a>
+  <div class="meta">4.1★ (83 reviews) — 545 Point Lobos Ave, San Francisco, CA 94121, USA</div>
+</div>
+<div class="restaurant">
+  <a href="shanghai-house-restaurant.html">Shanghai House Restaurant</a>
+  <div class="meta">3.9★ (192 reviews) — 3641 Balboa St, San Francisco, CA 94121, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Outer Richmond — San Francisco Restaurants
+
+30 restaurants in Outer Richmond.
+
+- [Fuwa Dumpling](fuwa-dumpling.html) — 4.9★ (130 reviews)
+- [Bistro Mediterraneo](bistro-mediterraneo.html) — 4.8★ (423 reviews)
+- [Boa's CVC](boa-s-cvc.html) — 4.8★ (136 reviews)
+- [Izakaya mayumi](izakaya-mayumi.html) — 4.8★ (142 reviews)
+- [Ocean Beach Cafe](ocean-beach-cafe.html) — 4.7★ (662 reviews)
+- [Eat Americana](eat-americana.html) — 4.7★ (391 reviews)
+- [The Laundromat SF](the-laundromat-sf.html) — 4.7★ (636 reviews)
+- [Uzbegim](uzbegim.html) — 4.7★ (150 reviews)
+- [Zitouna](zitouna.html) — 4.7★ (267 reviews)
+- [Mr. Banh Mi](mr-banh-mi.html) — 4.6★ (277 reviews)
+- [Cielito Lindo](cielito-lindo.html) — 4.5★ (388 reviews)
+- [Balboa Teriyaki](balboa-teriyaki.html) — 4.5★ (105 reviews)
+- [Empero Taste](empero-taste.html) — 4.5★ (468 reviews)
+- [El Mansour](el-mansour.html) — 4.5★ (401 reviews)
+- [Ocean Indian Cuisine](ocean-indian-cuisine.html) — 4.5★ (666 reviews)
+- [Garden House Cafe](garden-house-cafe.html) — 4.4★ (439 reviews)
+- [Kim Sơn Restaurant](kim-s-n-restaurant.html) — 4.4★ (337 reviews)
+- [TJ Cafe](tj-cafe.html) — 4.4★ (214 reviews)
+- [Chino’s Taqueria](chino-s-taqueria.html) — 4.4★ (496 reviews)
+- [Donairo's Pizza](donairo-s-pizza.html) — 4.4★ (266 reviews)
+- [PPQ Dungeness Island - San Francisco](ppq-dungeness-island-san-francisco.html) — 4.4★ (1088 reviews)
+- [Anh Hong Restaurant](anh-hong-restaurant.html) — 4.4★ (47 reviews)
+- [An Chi](an-chi.html) — 4.4★ (169 reviews)
+- [Pizza Joint](pizza-joint.html) — 4.3★ (312 reviews)
+- [Feng Ze Yuan Restaurant](feng-ze-yuan-restaurant.html) — 4.2★ (317 reviews)
+- [Hakka Restaurant](hakka-restaurant.html) — 4.2★ (348 reviews)
+- [Taste of Fusion](taste-of-fusion.html) — 4.1★ (127 reviews)
+- [Superior Palace](superior-palace.html) — 4.1★ (138 reviews)
+- [Seal Rock Inn Restaurant](seal-rock-inn-restaurant.html) — 4.1★ (83 reviews)
+- [Shanghai House Restaurant](shanghai-house-restaurant.html) — 3.9★ (192 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

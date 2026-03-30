@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Excelsior Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Excelsior, San Francisco. 42 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Excelsior</div>
+<h1>Excelsior</h1>
+<p>42 restaurants in Excelsior, San Francisco.</p>
+<div class="restaurant">
+  <a href="the-check-in-lounge.html">The Check-In Lounge</a>
+  <div class="meta">5★ (47 reviews) — 201 Ocean Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="universal-breakfast-lunch.html">Universal Breakfast & Lunch</a>
+  <div class="meta">4.8★ (38 reviews) — 1217 Geneva Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pho-golden.html">Pho Golden</a>
+  <div class="meta">4.8★ (56 reviews) — 4683 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="calabria-brothers.html">Calabria Brothers</a>
+  <div class="meta">4.7★ (218 reviews) — 4763 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jjamppong.html">JJamPPong</a>
+  <div class="meta">4.7★ (294 reviews) — 5249 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ay-caray-taqueria-2.html">Ay Caray Taqueria #2</a>
+  <div class="meta">4.7★ (49 reviews) — 4523 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chacho-sushi.html">Chacho Sushi</a>
+  <div class="meta">4.7★ (128 reviews) — 4808 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="incendio.html">INCENDIO</a>
+  <div class="meta">4.7★ (18 reviews) — 518 S Van Ness Ave, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-korner-store-bites-vibes.html">The Korner Store Bites & Vibes</a>
+  <div class="meta">4.6★ (110 reviews) — 4516 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="don-chuys-mexi-mercado.html">Don Chuys Mexi-Mercado</a>
+  <div class="meta">4.6★ (205 reviews) — 544 Excelsior Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hawaiian-drive-inn.html">Hawaiian Drive Inn</a>
+  <div class="meta">4.6★ (329 reviews) — 4827 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-salad-place.html">The Salad Place</a>
+  <div class="meta">4.6★ (178 reviews) — 400 London St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mersea-restaurant-bar-and-venue.html">Mersea Restaurant, Bar and Venue</a>
+  <div class="meta">4.6★ (1566 reviews) — 699 Avenue of the Palms, San Francisco, CA 94130, USA</div>
+</div>
+<div class="restaurant">
+  <a href="north-beach-pizza.html">North Beach Pizza</a>
+  <div class="meta">4.6★ (376 reviews) — 4787 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flats-burgers.html">Flats Burgers</a>
+  <div class="meta">4.5★ (34 reviews) — 4753 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dim-sum-king.html">Dim Sum King</a>
+  <div class="meta">4.5★ (32 reviews) — 4675 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="baby-s-eatery-palabok.html">Baby's Eatery & Palabok</a>
+  <div class="meta">4.5★ (63 reviews) — 4609 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="super-star-restaurant.html">Super Star Restaurant</a>
+  <div class="meta">4.5★ (331 reviews) — 4919 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mexico-tipico.html">Mexico Tipico</a>
+  <div class="meta">4.5★ (601 reviews) — 4581 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="recovery-room.html">Recovery Room</a>
+  <div class="meta">4.5★ (125 reviews) — 4528 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taqueria-el-farolito.html">Taqueria El Farolito</a>
+  <div class="meta">4.4★ (1136 reviews) — 4817 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piccino-presidio.html">Piccino Presidio</a>
+  <div class="meta">4.4★ (99 reviews) — Building D, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="maynards.html">Maynards</a>
+  <div class="meta">4.4★ (4287 reviews) — 685 Excelsior Blvd, Excelsior, MN 55331, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mars-bar-restaurant.html">Mars Bar & Restaurant</a>
+  <div class="meta">4.4★ (591 reviews) — 798 Brannan St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="turo-cafe-and-grill.html">Turo Cafe and Grill</a>
+  <div class="meta">4.4★ (201 reviews) — 2275 San Jose Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="familiar.html">Familiar</a>
+  <div class="meta">4.3★ (126 reviews) — 4499 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ensenada-restaurant-sf.html">Ensenada Restaurant SF</a>
+  <div class="meta">4.3★ (150 reviews) — 4448 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bravo-pizza.html">Bravo Pizza</a>
+  <div class="meta">4.3★ (482 reviews) — 5145 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taqueria-guadalajara.html">Taqueria Guadalajara</a>
+  <div class="meta">4.3★ (1459 reviews) — 4798 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="do-eat-restaurant.html">Do Eat Restaurant</a>
+  <div class="meta">4.2★ (112 reviews) — 4543 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chef-hunan.html">Chef Hunan</a>
+  <div class="meta">4.2★ (114 reviews) — 4661 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="maple-sf-restaurant.html">Maple SF Restaurant</a>
+  <div class="meta">4.2★ (105 reviews) — 5820 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="los-planes-de-renderos.html">Los Planes De Renderos</a>
+  <div class="meta">4.2★ (400 reviews) — 12 Persia Ave, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tikal-restaurante-y-panaderia.html">Tikal Restaurante Y Panaderia</a>
+  <div class="meta">4.1★ (36 reviews) — 5099 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-gran-taco-loco.html">El Gran Taco Loco</a>
+  <div class="meta">4.1★ (599 reviews) — 4591 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rincon-latino-restaurant.html">Rincon Latino Restaurant</a>
+  <div class="meta">4.1★ (237 reviews) — 5080 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="restaurante-san-vicente.html">Restaurante San Vicente</a>
+  <div class="meta">4★ (346 reviews) — 4423 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-guatemalteco.html">Cafe Guatemalteco</a>
+  <div class="meta">4★ (175 reviews) — 4794 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pupuser-a-metap-n.html">Pupusería Metapán</a>
+  <div class="meta">3.9★ (641 reviews) — 4769 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ying-hui-chinese-restaurant.html">Ying Hui Chinese Restaurant</a>
+  <div class="meta">3.5★ (96 reviews) — 5125 Mission St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nh-h-ng-l-n-l-a-ii.html">NHÀ HÀNG LÊN LỬA II</a>
+  <div class="meta">  — Vienna St, San Francisco, CA 94112, USA</div>
+</div>
+<div class="restaurant">
+  <a href="iasc-restaurant.html">IASC Restaurant</a>
+  <div class="meta">  — 25 Russia Ave, San Francisco, CA 94112, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Excelsior — San Francisco Restaurants
+
+42 restaurants in Excelsior.
+
+- [The Check-In Lounge](the-check-in-lounge.html) — 5★ (47 reviews)
+- [Universal Breakfast &amp; Lunch](universal-breakfast-lunch.html) — 4.8★ (38 reviews)
+- [Pho Golden](pho-golden.html) — 4.8★ (56 reviews)
+- [Calabria Brothers](calabria-brothers.html) — 4.7★ (218 reviews)
+- [JJamPPong](jjamppong.html) — 4.7★ (294 reviews)
+- [Ay Caray Taqueria #2](ay-caray-taqueria-2.html) — 4.7★ (49 reviews)
+- [Chacho Sushi](chacho-sushi.html) — 4.7★ (128 reviews)
+- [INCENDIO](incendio.html) — 4.7★ (18 reviews)
+- [The Korner Store Bites &amp; Vibes](the-korner-store-bites-vibes.html) — 4.6★ (110 reviews)
+- [Don Chuys Mexi-Mercado](don-chuys-mexi-mercado.html) — 4.6★ (205 reviews)
+- [Hawaiian Drive Inn](hawaiian-drive-inn.html) — 4.6★ (329 reviews)
+- [The Salad Place](the-salad-place.html) — 4.6★ (178 reviews)
+- [Mersea Restaurant, Bar and Venue](mersea-restaurant-bar-and-venue.html) — 4.6★ (1566 reviews)
+- [North Beach Pizza](north-beach-pizza.html) — 4.6★ (376 reviews)
+- [Flats Burgers](flats-burgers.html) — 4.5★ (34 reviews)
+- [Dim Sum King](dim-sum-king.html) — 4.5★ (32 reviews)
+- [Baby's Eatery &amp; Palabok](baby-s-eatery-palabok.html) — 4.5★ (63 reviews)
+- [Super Star Restaurant](super-star-restaurant.html) — 4.5★ (331 reviews)
+- [Mexico Tipico](mexico-tipico.html) — 4.5★ (601 reviews)
+- [Recovery Room](recovery-room.html) — 4.5★ (125 reviews)
+- [Taqueria El Farolito](taqueria-el-farolito.html) — 4.4★ (1136 reviews)
+- [Piccino Presidio](piccino-presidio.html) — 4.4★ (99 reviews)
+- [Maynards](maynards.html) — 4.4★ (4287 reviews)
+- [Mars Bar &amp; Restaurant](mars-bar-restaurant.html) — 4.4★ (591 reviews)
+- [Turo Cafe and Grill](turo-cafe-and-grill.html) — 4.4★ (201 reviews)
+- [Familiar](familiar.html) — 4.3★ (126 reviews)
+- [Ensenada Restaurant SF](ensenada-restaurant-sf.html) — 4.3★ (150 reviews)
+- [Bravo Pizza](bravo-pizza.html) — 4.3★ (482 reviews)
+- [Taqueria Guadalajara](taqueria-guadalajara.html) — 4.3★ (1459 reviews)
+- [Do Eat Restaurant](do-eat-restaurant.html) — 4.2★ (112 reviews)
+- [Chef Hunan](chef-hunan.html) — 4.2★ (114 reviews)
+- [Maple SF Restaurant](maple-sf-restaurant.html) — 4.2★ (105 reviews)
+- [Los Planes De Renderos](los-planes-de-renderos.html) — 4.2★ (400 reviews)
+- [Tikal Restaurante Y Panaderia](tikal-restaurante-y-panaderia.html) — 4.1★ (36 reviews)
+- [El Gran Taco Loco](el-gran-taco-loco.html) — 4.1★ (599 reviews)
+- [Rincon Latino Restaurant](rincon-latino-restaurant.html) — 4.1★ (237 reviews)
+- [Restaurante San Vicente](restaurante-san-vicente.html) — 4★ (346 reviews)
+- [Cafe Guatemalteco](cafe-guatemalteco.html) — 4★ (175 reviews)
+- [Pupusería Metapán](pupuser-a-metap-n.html) — 3.9★ (641 reviews)
+- [Ying Hui Chinese Restaurant](ying-hui-chinese-restaurant.html) — 3.5★ (96 reviews)
+- [NHÀ HÀNG LÊN LỬA II](nh-h-ng-l-n-l-a-ii.html) —  
+- [IASC Restaurant](iasc-restaurant.html) —  
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

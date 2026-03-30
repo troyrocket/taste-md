@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fillmore Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Fillmore, San Francisco. 11 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Fillmore</div>
+<h1>Fillmore</h1>
+<p>11 restaurants in Fillmore, San Francisco.</p>
+<div class="restaurant">
+  <a href="minnie-bell-s-soul-movement.html">Minnie Bell’s Soul Movement</a>
+  <div class="meta">4.6★ (163 reviews) — 1375 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-anchovy-bar.html">The Anchovy Bar</a>
+  <div class="meta">4.6★ (408 reviews) — 1740 O'Farrell St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bar-crenn.html">Bar Crenn</a>
+  <div class="meta">4.6★ (233 reviews) — 3131 Fillmore St, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="merchant-roots.html">Merchant Roots</a>
+  <div class="meta">4.5★ (176 reviews) — 1148 Mission St, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tommy-s-joynt.html">Tommy's Joynt</a>
+  <div class="meta">4.4★ (4176 reviews) — 1101 Geary Blvd, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eddie-s-cafe.html">Eddie's Cafe</a>
+  <div class="meta">4.4★ (1115 reviews) — 800 Divisadero St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="alamo-square-cafe.html">Alamo Square Cafe</a>
+  <div class="meta">4.4★ (315 reviews) — 711 Fillmore St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="indian-oven-restaurant.html">Indian Oven Restaurant</a>
+  <div class="meta">4.3★ (472 reviews) — 233 Fillmore St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="metro-caffe.html">Metro Caffe</a>
+  <div class="meta">4.2★ (185 reviews) — 247 Fillmore St, San Francisco, CA 94117, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wise-sons-jewish-deli-fillmore-street.html">Wise Sons Jewish Deli Fillmore Street</a>
+  <div class="meta">4★ (365 reviews) — 1520 Fillmore St, San Francisco, CA 94115, USA</div>
+</div>
+<div class="restaurant">
+  <a href="1300-on-fillmore.html">1300 On Fillmore</a>
+  <div class="meta">3★ (511 reviews) — 780 S. AIRPORT BLVD TERMINAL G, San Francisco, CA 94128, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Fillmore — San Francisco Restaurants
+
+11 restaurants in Fillmore.
+
+- [Minnie Bell’s Soul Movement](minnie-bell-s-soul-movement.html) — 4.6★ (163 reviews)
+- [The Anchovy Bar](the-anchovy-bar.html) — 4.6★ (408 reviews)
+- [Bar Crenn](bar-crenn.html) — 4.6★ (233 reviews)
+- [Merchant Roots](merchant-roots.html) — 4.5★ (176 reviews)
+- [Tommy's Joynt](tommy-s-joynt.html) — 4.4★ (4176 reviews)
+- [Eddie's Cafe](eddie-s-cafe.html) — 4.4★ (1115 reviews)
+- [Alamo Square Cafe](alamo-square-cafe.html) — 4.4★ (315 reviews)
+- [Indian Oven Restaurant](indian-oven-restaurant.html) — 4.3★ (472 reviews)
+- [Metro Caffe](metro-caffe.html) — 4.2★ (185 reviews)
+- [Wise Sons Jewish Deli Fillmore Street](wise-sons-jewish-deli-fillmore-street.html) — 4★ (365 reviews)
+- [1300 On Fillmore](1300-on-fillmore.html) — 3★ (511 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brioche Bakery & Café — North Beach — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Brioche Bakery & Café in North Beach, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Brioche Bakery & Café",
+  "servesCuisine": [
+    "french restaurant",
+    "breakfast restaurant",
+    "cafe"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "210 Columbus Ave",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94133",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 765-0412",
+  "url": "http://www.briochecafe.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "839"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7973243,
+    "longitude": -122.40566919999999
+  },
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Shaun Santiago"
+      },
+      "reviewBody": "Found this place on my strolls through San Francisco’s Chinatown and wandered off the beaten path a little. I was happy I did. Staff were very friendly and the food was excellent. I had a croque Monsi"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ayesha Nasir"
+      },
+      "reviewBody": "Went there twice. First time I tried the breakfast croissant which was a bit too greasy and the potatoes could have been a lot crispier/cooked better (they had no browning on them and were dripping wi"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "barak hersh"
+      },
+      "reviewBody": "Had breakfast at Brioche Bakery & Cafe and it was excellent. I ordered the California omelet and it was absolutely amazing fresh, fluffy, and full of flavor. The potatoes were perfectly seasoned and e"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">North Beach</a></p>
+<h1>Brioche Bakery &amp; Café</h1>
+<p>Airy bistro offering tartines, salads, housemade artisanal breads, desserts &amp; a weekend brunch menu.</p>
+<h2>Cuisine</h2>
+<p><strong>French restaurant</strong> — french restaurant, breakfast restaurant, cafe</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 839 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Breakfast · Brunch · Lunch<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>210 Columbus Ave, San Francisco, CA 94133, USA<br>Phone: (415) 765-0412<br>Website: <a href="http://www.briochecafe.com/">http://www.briochecafe.com/</a><br><a href="https://maps.google.com/?cid=11370660994809985309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7973243, -122.40566919999999</p>
+<h2>Hours</h2>
+<p>Monday: 7:00 AM – 3:00 PM<br>Tuesday: 7:00 AM – 3:00 PM<br>Wednesday: 7:00 AM – 3:00 PM<br>Thursday: 7:00 AM – 3:00 PM<br>Friday: 7:00 AM – 3:00 PM<br>Saturday: 7:00 AM – 3:00 PM<br>Sunday: 7:00 AM – 3:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Found this place on my strolls through San Francisco’s Chinatown and wandered off the beaten path a little. I was happy I did. Staff were very friendly and the food was excellent. I had a croque Monsieur which was very good and a matcha latte. I normally don’t have desert but had to have the lemon m...&quot; — <strong>Shaun Santiago</strong> (a month ago)</li>
+<li>★★★★ &quot;Went there twice. First time I tried the breakfast croissant which was a bit too greasy and the potatoes could have been a lot crispier/cooked better (they had no browning on them and were dripping with oil). Second time tried the breakfast burrito which was amazing - the eggs were moist and delicio...&quot; — <strong>Ayesha Nasir</strong> (4 months ago)</li>
+<li>★★★★★ &quot;Had breakfast at Brioche Bakery &amp; Cafe and it was excellent. I ordered the California omelet and it was absolutely amazing fresh, fluffy, and full of flavor. The potatoes were perfectly seasoned and everything tasted homemade. Great spot, highly recommend&quot; — <strong>barak hersh</strong> (2 months ago)</li>
+<li>★★★★★ &quot;The quiche was absolutely delicious. The crust was perfectly golden and flaky, and the filling was rich, creamy, and full of fresh flavor. You can really taste the quality in every bite. The view made it even better. Sitting there with such beautiful scenery turned a great meal into a memorable expe...&quot; — <strong>Rick Fernandes</strong> (a month ago)</li>
+<li>★★★★★ &quot;Cafe Brioche was a pleasant surprise. Friendly staff, calm atmosphere, and everything tasted fresh. The white mocha was especially good - creamy and balanced without being overly sweet. A solid place to sit back and enjoy a good coffee.&quot; — <strong>Shashank D</strong> (4 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [North Beach](index.html)
+
+# Brioche Bakery &amp; Café
+Airy bistro offering tartines, salads, housemade artisanal breads, desserts &amp; a weekend brunch menu.
+
+## Cuisine
+**French restaurant** — french restaurant, breakfast restaurant, cafe
+
+## Price Range
+$$
+
+## Rating
+4.4 stars — 839 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Reservations accepted  
+**Meals:** Breakfast · Brunch · Lunch  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Restroom available
+
+## Location &amp; Contact
+
+210 Columbus Ave, San Francisco, CA 94133, USA  
+Phone: (415) 765-0412  
+Website: [http://www.briochecafe.com/](http://www.briochecafe.com/)  
+[View on Google Maps](https://maps.google.com/?cid=11370660994809985309&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7973243, -122.40566919999999
+
+## Hours
+
+Monday: 7:00 AM – 3:00 PM  
+Tuesday: 7:00 AM – 3:00 PM  
+Wednesday: 7:00 AM – 3:00 PM  
+Thursday: 7:00 AM – 3:00 PM  
+Friday: 7:00 AM – 3:00 PM  
+Saturday: 7:00 AM – 3:00 PM  
+Sunday: 7:00 AM – 3:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;Found this place on my strolls through San Francisco’s Chinatown and wandered off the beaten path a little. I was happy I did. Staff were very friendly and the food was excellent. I had a croque Monsieur which was very good and a matcha latte. I normally don’t have desert but had to have the lemon m...&quot; — **Shaun Santiago** (a month ago)
+- ★★★★ &quot;Went there twice. First time I tried the breakfast croissant which was a bit too greasy and the potatoes could have been a lot crispier/cooked better (they had no browning on them and were dripping with oil). Second time tried the breakfast burrito which was amazing - the eggs were moist and delicio...&quot; — **Ayesha Nasir** (4 months ago)
+- ★★★★★ &quot;Had breakfast at Brioche Bakery &amp; Cafe and it was excellent. I ordered the California omelet and it was absolutely amazing fresh, fluffy, and full of flavor. The potatoes were perfectly seasoned and everything tasted homemade. Great spot, highly recommend&quot; — **barak hersh** (2 months ago)
+- ★★★★★ &quot;The quiche was absolutely delicious. The crust was perfectly golden and flaky, and the filling was rich, creamy, and full of fresh flavor. You can really taste the quality in every bite. The view made it even better. Sitting there with such beautiful scenery turned a great meal into a memorable expe...&quot; — **Rick Fernandes** (a month ago)
+- ★★★★★ &quot;Cafe Brioche was a pleasant surprise. Friendly staff, calm atmosphere, and everything tasted fresh. The white mocha was especially good - creamy and balanced without being overly sweet. A solid place to sit back and enjoy a good coffee.&quot; — **Shashank D** (4 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

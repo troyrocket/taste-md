@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Cigale — Glen Park — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for La Cigale in Glen Park, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "La Cigale",
+  "servesCuisine": [
+    "french restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "679 Chenery St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94131",
+    "addressCountry": "US"
+  },
+  "url": "https://la-cigale-sf.com/",
+  "priceRange": "Unknown",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "48"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.734339999999996,
+    "longitude": -122.43343999999998
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 – 9:00 PM",
+    "Thursday: 6:00 – 9:00 PM",
+    "Friday: 6:00 – 9:00 PM",
+    "Saturday: 6:00 – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "John Burdge"
+      },
+      "reviewBody": "La Cigale operates on a deliberate, almost contrarian operating model—and that’s precisely where the value proposition begins.\n\nThis is not a walk-in, impulse-driven dining experience. You must arrive"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jesse Landers"
+      },
+      "reviewBody": "I had an amazing Valentine’s dinner here with my wife. The menu changes daily and the chef prepares the whole meal over a wood fire.\n\nNo standard reservations, show up at the restaurant to line up for"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kate Ellis-Hill"
+      },
+      "reviewBody": "Fabulous evening out. Every detail - from the special new harvest olive oil to the secret cubby holes under the counter - is thoughtful and elegant. Very warm hospitality, excellent and interesting fo"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Glen Park</a></p>
+<h1>La Cigale</h1>
+<h2>Cuisine</h2>
+<p><strong>Restaurant</strong> — french restaurant</p>
+<h2>Price Range</h2>
+<p>Unknown</p>
+<h2>Rating</h2>
+<p>4.4 stars — 48 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in<br><strong>Meals:</strong> Dinner<br><strong>Drinks:</strong> Wine</p>
+<h2>Atmosphere</h2>
+<p>Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>679 Chenery St, San Francisco, CA 94131, USA<br>Website: <a href="https://la-cigale-sf.com/">https://la-cigale-sf.com/</a><br><a href="https://maps.google.com/?cid=14930072300100302261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.734339999999996, -122.43343999999998</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: Closed<br>Wednesday: 6:00 – 9:00 PM<br>Thursday: 6:00 – 9:00 PM<br>Friday: 6:00 – 9:00 PM<br>Saturday: 6:00 – 9:00 PM<br>Sunday: Closed</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;La Cigale operates on a deliberate, almost contrarian operating model—and that’s precisely where the value proposition begins.</li>
+</ul>
+<p>This is not a walk-in, impulse-driven dining experience. You must arrive early, put your name on the list, and commit to the process. That initial friction functions as a s...&quot; — <strong>John Burdge</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;I had an amazing Valentine’s dinner here with my wife. The menu changes daily and the chef prepares the whole meal over a wood fire.</li>
+</ul>
+<p>No standard reservations, show up at the restaurant to line up for the 4:30p booking of the 6:00p and 8:30p seatings. Get there early, we were second in line at 3:45p...&quot; — <strong>Jesse Landers</strong> (a month ago)</p>
+<ul>
+<li>★★★★★ &quot;Fabulous evening out. Every detail - from the special new harvest olive oil to the secret cubby holes under the counter - is thoughtful and elegant. Very warm hospitality, excellent and interesting food, and a gorgeous ambiance that made us feel like we&#39;d taken a mini vacation. Most of the complaint...&quot; — <strong>Kate Ellis-Hill</strong> (3 months ago)</li>
+<li>★★★★★ &quot;Such a fantastic evening! From the beautiful space and good vibes, to the impeccable service, to the classic, tasty dishes in Southwestern French style. Such a great addition to the San Francisco food scene. We will definitely be back.&quot; — <strong>Holger Luedorf</strong> (5 months ago)</li>
+<li>★★★★★ &quot;La Cigale is wonderful and unique with a different style of SW France cooking all done over a firewood driven hearth. There is also a performance element as you sit around the small kitchen/hearth with 15 seats. Food is in a rustic family serve style but very very carefully done with extraordinary a...&quot; — <strong>R GK</strong> (2 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Glen Park](index.html)
+
+# La Cigale
+
+## Cuisine
+**Restaurant** — french restaurant
+
+## Price Range
+Unknown
+
+## Rating
+4.4 stars — 48 reviews
+
+## Dining Options
+
+**Service:** Dine-in  
+**Meals:** Dinner  
+**Drinks:** Wine
+
+## Atmosphere
+
+Restroom available
+
+## Location &amp; Contact
+
+679 Chenery St, San Francisco, CA 94131, USA  
+Website: [https://la-cigale-sf.com/](https://la-cigale-sf.com/)  
+[View on Google Maps](https://maps.google.com/?cid=14930072300100302261&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.734339999999996, -122.43343999999998
+
+## Hours
+
+Monday: Closed  
+Tuesday: Closed  
+Wednesday: 6:00 – 9:00 PM  
+Thursday: 6:00 – 9:00 PM  
+Friday: 6:00 – 9:00 PM  
+Saturday: 6:00 – 9:00 PM  
+Sunday: Closed
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;La Cigale operates on a deliberate, almost contrarian operating model—and that’s precisely where the value proposition begins.
+
+This is not a walk-in, impulse-driven dining experience. You must arrive early, put your name on the list, and commit to the process. That initial friction functions as a s...&quot; — **John Burdge** (2 months ago)
+- ★★★★★ &quot;I had an amazing Valentine’s dinner here with my wife. The menu changes daily and the chef prepares the whole meal over a wood fire.
+
+No standard reservations, show up at the restaurant to line up for the 4:30p booking of the 6:00p and 8:30p seatings. Get there early, we were second in line at 3:45p...&quot; — **Jesse Landers** (a month ago)
+- ★★★★★ &quot;Fabulous evening out. Every detail - from the special new harvest olive oil to the secret cubby holes under the counter - is thoughtful and elegant. Very warm hospitality, excellent and interesting food, and a gorgeous ambiance that made us feel like we'd taken a mini vacation. Most of the complaint...&quot; — **Kate Ellis-Hill** (3 months ago)
+- ★★★★★ &quot;Such a fantastic evening! From the beautiful space and good vibes, to the impeccable service, to the classic, tasty dishes in Southwestern French style. Such a great addition to the San Francisco food scene. We will definitely be back.&quot; — **Holger Luedorf** (5 months ago)
+- ★★★★★ &quot;La Cigale is wonderful and unique with a different style of SW France cooking all done over a firewood driven hearth. There is also a performance element as you sit around the small kitchen/hearth with 15 seats. Food is in a rustic family serve style but very very carefully done with extraordinary a...&quot; — **R GK** (2 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

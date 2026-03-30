@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>620 Jones — Nob Hill — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for 620 Jones in Nob Hill, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "620 Jones",
+  "servesCuisine": [
+    "cocktail bar",
+    "brunch restaurant",
+    "lounge bar",
+    "night club",
+    "meal takeaway",
+    "bar",
+    "wedding venue",
+    "event venue",
+    "service"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "620 Jones St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94102",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 845-2257",
+  "url": "https://620-jones.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "1143"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.787177,
+    "longitude": -122.412987
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM",
+    "Wednesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM",
+    "Thursday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM",
+    "Friday: 9:00 AM – 2:30 PM, 4:30 PM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 3:30 PM"
+  ],
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Rhett Burden"
+      },
+      "reviewBody": "Grabbed dinner and drinks at 620 Jones with friends recently. The outdoor patio is beautifully designed with great lighting and greenery, honestly one of the nicest outdoor spaces I’ve seen. The Doubl"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "E Lee"
+      },
+      "reviewBody": "Came here for a work holiday party. The staff said they were an easy place to work with. Friendly bartenders. Other staff were great at clearing tables and bringing out rounds of food quickly. Beef bi"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Randol White"
+      },
+      "reviewBody": "Love the food and atmosphere here — and drag shows are a bonus on Sundays! Prices are good too. Ask for the breakfast burrito with Beyond instead of bacon, delish!!! Service runs hot (great/fun) and c"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Nob Hill</a></p>
+<h1>620 Jones</h1>
+<p>A spacious heated outdoor terrace helps make this cocktail bar a bustling spot for drinks &amp; food.</p>
+<h2>Cuisine</h2>
+<p><strong>Cocktail bar</strong> — cocktail bar, brunch restaurant, lounge bar, night club, meal takeaway, bar, wedding venue, event venue</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.3 stars — 1,143 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Delivery · Reservations accepted<br><strong>Drinks:</strong> Cocktails · Wine · Beer</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for groups · Good for watching sports · Dog-friendly · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>620 Jones St, San Francisco, CA 94102, USA<br>Phone: (415) 845-2257<br>Website: <a href="https://620-jones.com/">https://620-jones.com/</a><br><a href="https://maps.google.com/?cid=8189369113260328171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.787177, -122.412987</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM<br>Wednesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM<br>Thursday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM<br>Friday: 9:00 AM – 2:30 PM, 4:30 PM – 12:00 AM<br>Saturday: 11:00 AM – 12:00 AM<br>Sunday: 11:00 AM – 3:30 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid parking lot · Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★ &quot;Grabbed dinner and drinks at 620 Jones with friends recently. The outdoor patio is beautifully designed with great lighting and greenery, honestly one of the nicest outdoor spaces I’ve seen. The Double Pepperoni Pizza was excellent perfectly crispy crust, generous toppings, just really solid. The Cr...&quot; — <strong>Rhett Burden</strong> (5 months ago)</li>
+<li>★★★★★ &quot;Came here for a work holiday party. The staff said they were an easy place to work with. Friendly bartenders. Other staff were great at clearing tables and bringing out rounds of food quickly. Beef bites were amazing. The samosas were also really good. Sazerac was made well. They have a good bourbon...&quot; — <strong>E Lee</strong> (3 months ago)</li>
+<li>★★★★ &quot;Love the food and atmosphere here — and drag shows are a bonus on Sundays! Prices are good too. Ask for the breakfast burrito with Beyond instead of bacon, delish!!! Service runs hot (great/fun) and cold (nice but never there), only reason I’m not giving the place 5 stars. I wish I could give 4.5.&quot; — <strong>Randol White</strong> (4 months ago)</li>
+<li>★★★★★ &quot;Can’t say enough about the entire experience here! We ordered the crab Benny, shrimp and grits, Brussels sprouts salad and smoked salmon toast ALL of it was crazy good. The service was excellent and the atmosphere- especially the restroom- was amazing!&quot; — <strong>Veronica Hagedorn</strong> (a month ago)</li>
+<li>★★★★★ &quot;I am an out of towner who comes to San Francisco as often as possible, and this was my first time at the 620. And I can say it was incredible. The architecture of the entire place was absolutely stunning. They have bathrooms that remind me of the scenes in Harry Potter which was absolutely beautiful...&quot; — <strong>Chloe Rios</strong> (a month ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Nob Hill](index.html)
+
+# 620 Jones
+A spacious heated outdoor terrace helps make this cocktail bar a bustling spot for drinks &amp; food.
+
+## Cuisine
+**Cocktail bar** — cocktail bar, brunch restaurant, lounge bar, night club, meal takeaway, bar, wedding venue, event venue
+
+## Price Range
+$$
+
+## Rating
+4.3 stars — 1,143 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Delivery · Reservations accepted  
+**Drinks:** Cocktails · Wine · Beer
+
+## Atmosphere
+
+Outdoor seating · Good for groups · Good for watching sports · Dog-friendly · Restroom available
+
+## Location &amp; Contact
+
+620 Jones St, San Francisco, CA 94102, USA  
+Phone: (415) 845-2257  
+Website: [https://620-jones.com/](https://620-jones.com/)  
+[View on Google Maps](https://maps.google.com/?cid=8189369113260328171&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.787177, -122.412987
+
+## Hours
+
+Monday: Closed  
+Tuesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM  
+Wednesday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM  
+Thursday: 9:00 AM – 2:30 PM, 4:30 – 10:00 PM  
+Friday: 9:00 AM – 2:30 PM, 4:30 PM – 12:00 AM  
+Saturday: 11:00 AM – 12:00 AM  
+Sunday: 11:00 AM – 3:30 PM
+
+## Practical Info
+
+**Payment:** Debit cards · NFC / contactless  
+**Parking:** Paid parking lot · Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★ &quot;Grabbed dinner and drinks at 620 Jones with friends recently. The outdoor patio is beautifully designed with great lighting and greenery, honestly one of the nicest outdoor spaces I’ve seen. The Double Pepperoni Pizza was excellent perfectly crispy crust, generous toppings, just really solid. The Cr...&quot; — **Rhett Burden** (5 months ago)
+- ★★★★★ &quot;Came here for a work holiday party. The staff said they were an easy place to work with. Friendly bartenders. Other staff were great at clearing tables and bringing out rounds of food quickly. Beef bites were amazing. The samosas were also really good. Sazerac was made well. They have a good bourbon...&quot; — **E Lee** (3 months ago)
+- ★★★★ &quot;Love the food and atmosphere here — and drag shows are a bonus on Sundays! Prices are good too. Ask for the breakfast burrito with Beyond instead of bacon, delish!!! Service runs hot (great/fun) and cold (nice but never there), only reason I’m not giving the place 5 stars. I wish I could give 4.5.&quot; — **Randol White** (4 months ago)
+- ★★★★★ &quot;Can’t say enough about the entire experience here! We ordered the crab Benny, shrimp and grits, Brussels sprouts salad and smoked salmon toast ALL of it was crazy good. The service was excellent and the atmosphere- especially the restroom- was amazing!&quot; — **Veronica Hagedorn** (a month ago)
+- ★★★★★ &quot;I am an out of towner who comes to San Francisco as often as possible, and this was my first time at the 620. And I can say it was incredible. The architecture of the entire place was absolutely stunning. They have bathrooms that remind me of the scenes in Harry Potter which was absolutely beautiful...&quot; — **Chloe Rios** (a month ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

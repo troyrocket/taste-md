@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uncle Boy's — Inner Richmond — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Uncle Boy's in Inner Richmond, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Uncle Boy's",
+  "servesCuisine": [
+    "hamburger restaurant",
+    "sandwich shop",
+    "brunch restaurant",
+    "vegetarian restaurant",
+    "fast food restaurant",
+    "american restaurant"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "245 Balboa St",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94118",
+    "addressCountry": "US"
+  },
+  "telephone": "(415) 742-4468",
+  "url": "https://uncleboys.com/uncleboys-u53549",
+  "priceRange": "$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "611"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7771889,
+    "longitude": -122.46155960000002
+  },
+  "openingHours": [
+    "Monday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM",
+    "Tuesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM",
+    "Wednesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM",
+    "Thursday: 11:00 AM – 2:00 AM",
+    "Friday: 11:00 AM – 2:00 AM",
+    "Saturday: 11:00 AM – 2:00 AM",
+    "Sunday: 11:00 AM – 2:00 AM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Trisha Isio"
+      },
+      "reviewBody": "My boyfriend and I got cowboy and side chick burgers, lumpia, and their ube milkshake!! All were very VERY good. Their ube milkshake really surprised us. Definitely recommend this place!!!"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nicholas Gianoplus"
+      },
+      "reviewBody": "Uncle boys is a go-to for a late night burger, chicken sandwich, onion rings, mozzarella sticks, fries. They're available on delivery apps, but they also have their own app that they prefer to use to "
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Gordon Wong"
+      },
+      "reviewBody": "Uncle Boys has awesome burgers for a great price! Seasoning was on point on burgers and fries. Outdoor dining felt really nice, and the owner was very kind! Would 100% come back again with my friends!"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Inner Richmond</a></p>
+<h1>Uncle Boy&#39;s</h1>
+<p>Basic counter-service burger joint offering an array of toppings, plus veggie options &amp; sides.</p>
+<h2>Cuisine</h2>
+<p><strong>Hamburger restaurant</strong> — hamburger restaurant, sandwich shop, brunch restaurant, vegetarian restaurant, fast food restaurant, american restaurant</p>
+<h2>Price Range</h2>
+<p>$</p>
+<h2>Rating</h2>
+<p>4.4 stars — 611 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Dine-in · Takeout · Delivery · Curbside pickup<br><strong>Meals:</strong> Brunch · Lunch · Dinner<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids</p>
+<h2>Location &amp; Contact</h2>
+<p>245 Balboa St, San Francisco, CA 94118, USA<br>Phone: (415) 742-4468<br>Website: <a href="https://uncleboys.com/uncleboys-u53549">https://uncleboys.com/uncleboys-u53549</a><br><a href="https://maps.google.com/?cid=6973786258664085312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7771889, -122.46155960000002</p>
+<h2>Hours</h2>
+<p>Monday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM<br>Tuesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM<br>Wednesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM<br>Thursday: 11:00 AM – 2:00 AM<br>Friday: 11:00 AM – 2:00 AM<br>Saturday: 11:00 AM – 2:00 AM<br>Sunday: 11:00 AM – 2:00 AM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Paid street parking · Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance · Wheelchair accessible seating</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;My boyfriend and I got cowboy and side chick burgers, lumpia, and their ube milkshake!! All were very VERY good. Their ube milkshake really surprised us. Definitely recommend this place!!!&quot; — <strong>Trisha Isio</strong> (2 months ago)</li>
+<li>★★★★★ &quot;Uncle boys is a go-to for a late night burger, chicken sandwich, onion rings, mozzarella sticks, fries. They&#39;re available on delivery apps, but they also have their own app that they prefer to use to keep prices lower and profits in-house.</li>
+</ul>
+<p>I&#39;ve had many good experiences. Mostly doing delivery and t...&quot; — <strong>Nicholas Gianoplus</strong> (2 months ago)</p>
+<ul>
+<li>★★★★★ &quot;Uncle Boys has awesome burgers for a great price! Seasoning was on point on burgers and fries. Outdoor dining felt really nice, and the owner was very kind! Would 100% come back again with my friends!&quot; — <strong>Gordon Wong</strong> (a month ago)</li>
+<li>★★★★★ &quot;Food is amazing! A diamond in the rough of inner Richmond. Stumbled upon this place from Santa Cruz. Will be back!!&quot; — <strong>Jennifer Mantle</strong> (a month ago)</li>
+<li>★ &quot;Ordered DoorDash for an O.G. Burger, add beef patty (double), add grilled onions, add jalapenos. I got this. What&#39;s missing?&quot; — <strong>Andrew Wittrock</strong> (2 months ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Inner Richmond](index.html)
+
+# Uncle Boy's
+Basic counter-service burger joint offering an array of toppings, plus veggie options &amp; sides.
+
+## Cuisine
+**Hamburger restaurant** — hamburger restaurant, sandwich shop, brunch restaurant, vegetarian restaurant, fast food restaurant, american restaurant
+
+## Price Range
+$
+
+## Rating
+4.4 stars — 611 reviews
+
+## Dining Options
+
+**Service:** Dine-in · Takeout · Delivery · Curbside pickup  
+**Meals:** Brunch · Lunch · Dinner  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids
+
+## Location &amp; Contact
+
+245 Balboa St, San Francisco, CA 94118, USA  
+Phone: (415) 742-4468  
+Website: [https://uncleboys.com/uncleboys-u53549](https://uncleboys.com/uncleboys-u53549)  
+[View on Google Maps](https://maps.google.com/?cid=6973786258664085312&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7771889, -122.46155960000002
+
+## Hours
+
+Monday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM  
+Tuesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM  
+Wednesday: 11:00 AM – 3:00 PM, 5:00 PM – 2:00 AM  
+Thursday: 11:00 AM – 2:00 AM  
+Friday: 11:00 AM – 2:00 AM  
+Saturday: 11:00 AM – 2:00 AM  
+Sunday: 11:00 AM – 2:00 AM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Paid street parking · Free street parking  
+**Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
+
+## What Diners Say
+- ★★★★★ &quot;My boyfriend and I got cowboy and side chick burgers, lumpia, and their ube milkshake!! All were very VERY good. Their ube milkshake really surprised us. Definitely recommend this place!!!&quot; — **Trisha Isio** (2 months ago)
+- ★★★★★ &quot;Uncle boys is a go-to for a late night burger, chicken sandwich, onion rings, mozzarella sticks, fries. They're available on delivery apps, but they also have their own app that they prefer to use to keep prices lower and profits in-house.
+
+I've had many good experiences. Mostly doing delivery and t...&quot; — **Nicholas Gianoplus** (2 months ago)
+- ★★★★★ &quot;Uncle Boys has awesome burgers for a great price! Seasoning was on point on burgers and fries. Outdoor dining felt really nice, and the owner was very kind! Would 100% come back again with my friends!&quot; — **Gordon Wong** (a month ago)
+- ★★★★★ &quot;Food is amazing! A diamond in the rough of inner Richmond. Stumbled upon this place from Santa Cruz. Will be back!!&quot; — **Jennifer Mantle** (a month ago)
+- ★ &quot;Ordered DoorDash for an O.G. Burger, add beef patty (double), add grilled onions, add jalapenos. I got this. What's missing?&quot; — **Andrew Wittrock** (2 months ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>

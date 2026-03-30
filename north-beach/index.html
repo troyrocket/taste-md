@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>North Beach Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for North Beach, San Francisco. 58 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / North Beach</div>
+<h1>North Beach</h1>
+<p>58 restaurants in North Beach, San Francisco.</p>
+<div class="restaurant">
+  <a href="sam-s-panini.html">Sam’s Panini</a>
+  <div class="meta">5★ (35 reviews) — 519 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="north-beach-gyros.html">North Beach Gyros</a>
+  <div class="meta">4.9★ (4226 reviews) — 561 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="board-and-drink.html">Board and Drink</a>
+  <div class="meta">4.8★ (239 reviews) — 1329 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bocconcino.html">Bocconcino</a>
+  <div class="meta">4.7★ (326 reviews) — 516 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-boy-pizza.html">Golden Boy Pizza</a>
+  <div class="meta">4.7★ (4820 reviews) — 542 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="piccolo-forno.html">Piccolo Forno</a>
+  <div class="meta">4.7★ (2143 reviews) — 725 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="molinari-delicatessen.html">Molinari Delicatessen</a>
+  <div class="meta">4.7★ (1397 reviews) — 373 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="capo-s-by-tony-gemignani.html">Capo's by Tony Gemignani</a>
+  <div class="meta">4.7★ (902 reviews) — 641 Vallejo St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mo-s-grill.html">Mo's Grill</a>
+  <div class="meta">4.7★ (1319 reviews) — 1322 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flour-water-pizza-shop.html">Flour + Water Pizza Shop</a>
+  <div class="meta">4.7★ (70 reviews) — 1533 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="da-flora.html">Da Flora</a>
+  <div class="meta">4.7★ (208 reviews) — 701 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ebiko.html">Ebiko</a>
+  <div class="meta">4.7★ (46 reviews) — 526 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sotto-mare.html">Sotto Mare</a>
+  <div class="meta">4.6★ (4960 reviews) — 552 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-casaro-pizzeria.html">Il Casaro Pizzeria</a>
+  <div class="meta">4.6★ (2432 reviews) — 348 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="north-beach-cantina.html">North Beach Cantina</a>
+  <div class="meta">4.6★ (275 reviews) — 1548 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="betty-lou-s-seafood-grill.html">Betty Lou's Seafood & Grill</a>
+  <div class="meta">4.6★ (1226 reviews) — 318 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-pollaio.html">Il Pollaio</a>
+  <div class="meta">4.6★ (270 reviews) — 555 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="firenze-by-night.html">Firenze By Night</a>
+  <div class="meta">4.6★ (661 reviews) — 1429 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trattoria-contadina.html">Trattoria Contadina</a>
+  <div class="meta">4.6★ (937 reviews) — 1800 Mason St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cilantro-sf-taqueria.html">Cilantro SF Taqueria</a>
+  <div class="meta">4.6★ (1405 reviews) — 2257 Mason St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="belle-cora.html">Belle Cora</a>
+  <div class="meta">4.6★ (237 reviews) — 565 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-farolito.html">El Farolito</a>
+  <div class="meta">4.6★ (621 reviews) — 1230 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="606.html">606</a>
+  <div class="meta">4.6★ (323 reviews) — 606 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-italian-homemade-company.html">The Italian Homemade Company</a>
+  <div class="meta">4.5★ (3279 reviews) — 716 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tony-s-pizza-napoletana.html">Tony's Pizza Napoletana</a>
+  <div class="meta">4.5★ (9940 reviews) — 1570 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="flour-water-pizzeria.html">Flour + Water Pizzeria</a>
+  <div class="meta">4.5★ (480 reviews) — 532 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="original-joe-s.html">Original Joe's</a>
+  <div class="meta">4.5★ (3396 reviews) — 601 Union St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sodini-s-trattoria.html">Sodini's Trattoria</a>
+  <div class="meta">4.5★ (916 reviews) — 510 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-zoetrope.html">Cafe Zoetrope</a>
+  <div class="meta">4.5★ (757 reviews) — 916 Kearny St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cassava-san-francisco.html">Cassava San Francisco</a>
+  <div class="meta">4.5★ (828 reviews) — 633 Battery St Ste 130, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cotogna.html">Cotogna</a>
+  <div class="meta">4.5★ (2162 reviews) — 490 Pacific Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="equal-parts-sf.html">Equal Parts SF</a>
+  <div class="meta">4.5★ (89 reviews) — 478 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tommaso-s.html">Tommaso's</a>
+  <div class="meta">4.5★ (893 reviews) — 1042 Kearny St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="steps-of-rome-trattoria.html">Steps of Rome Trattoria</a>
+  <div class="meta">4.5★ (135 reviews) — 401 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mario-s-bohemian-cafe.html">Mario's Bohemian Cafe</a>
+  <div class="meta">4.5★ (751 reviews) — 566 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="surisan.html">Surisan</a>
+  <div class="meta">4.5★ (2105 reviews) — 505 Beach St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ideale.html">Ideale</a>
+  <div class="meta">4.5★ (488 reviews) — 1309 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bix.html">Bix</a>
+  <div class="meta">4.5★ (1280 reviews) — 56 Gold St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="north-beach-restaurant.html">North Beach Restaurant</a>
+  <div class="meta">4.4★ (832 reviews) — 1512 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="red-window.html">Red Window</a>
+  <div class="meta">4.4★ (451 reviews) — 500 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tosca-cafe.html">Tosca Cafe</a>
+  <div class="meta">4.4★ (600 reviews) — 242 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mama-s-on-washington-square.html">Mama's On Washington Square</a>
+  <div class="meta">4.4★ (3120 reviews) — 1701 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fior-d-italia.html">Fior d'Italia</a>
+  <div class="meta">4.4★ (1042 reviews) — 2237 Mason St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="caff-sport.html">Caffé Sport</a>
+  <div class="meta">4.4★ (756 reviews) — 574 Green St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="park-tavern-on-washington-square.html">Park Tavern on Washington Square</a>
+  <div class="meta">4.4★ (826 reviews) — 1652 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="brioche-bakery-caf.html">Brioche Bakery & Café</a>
+  <div class="meta">4.4★ (839 reviews) — 210 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pizzelle-di-north-beach.html">Pizzelle di North Beach</a>
+  <div class="meta">4.4★ (543 reviews) — 314 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cilentano-pasta-bar.html">Cilentano Pasta Bar</a>
+  <div class="meta">4.4★ (404 reviews) — 579 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="osmanthus-dim-sum-lounge.html">Osmanthus Dim Sum Lounge</a>
+  <div class="meta">4.4★ (522 reviews) — 504 Broadway, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mona-lisa-restaurant.html">Mona Lisa Restaurant</a>
+  <div class="meta">4.3★ (2378 reviews) — 414 Columbus Ave, San Francisco, CA 94123, USA</div>
+</div>
+<div class="restaurant">
+  <a href="r-veille-coffee-co.html">Réveille Coffee Co.</a>
+  <div class="meta">4.3★ (878 reviews) — 200 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="georgian-cheese-boat.html">Georgian Cheese Boat</a>
+  <div class="meta">4.3★ (474 reviews) — 1224 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-stinking-rose.html">The Stinking Rose</a>
+  <div class="meta">4.2★ (4561 reviews) — 430 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="acquolina.html">Acquolina</a>
+  <div class="meta">4.2★ (1175 reviews) — 1600 Stockton St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barbara-pinseria-cocktail-bar.html">Barbara Pinseria & Cocktail Bar</a>
+  <div class="meta">4.2★ (618 reviews) — 431 Columbus Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="maggie-mcgarry-s.html">Maggie McGarry's</a>
+  <div class="meta">4.2★ (614 reviews) — 1353 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="north-beach-pizza.html">North Beach Pizza</a>
+  <div class="meta">4.1★ (371 reviews) — 1462 Grant Ave, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hilda-and-jesse.html">Hilda and Jesse</a>
+  <div class="meta">4★ (530 reviews) — 701 Union St, San Francisco, CA 94133, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# North Beach — San Francisco Restaurants
+
+58 restaurants in North Beach.
+
+- [Sam’s Panini](sam-s-panini.html) — 5★ (35 reviews)
+- [North Beach Gyros](north-beach-gyros.html) — 4.9★ (4226 reviews)
+- [Board and Drink](board-and-drink.html) — 4.8★ (239 reviews)
+- [Bocconcino](bocconcino.html) — 4.7★ (326 reviews)
+- [Golden Boy Pizza](golden-boy-pizza.html) — 4.7★ (4820 reviews)
+- [Piccolo Forno](piccolo-forno.html) — 4.7★ (2143 reviews)
+- [Molinari Delicatessen](molinari-delicatessen.html) — 4.7★ (1397 reviews)
+- [Capo's by Tony Gemignani](capo-s-by-tony-gemignani.html) — 4.7★ (902 reviews)
+- [Mo's Grill](mo-s-grill.html) — 4.7★ (1319 reviews)
+- [Flour + Water Pizza Shop](flour-water-pizza-shop.html) — 4.7★ (70 reviews)
+- [Da Flora](da-flora.html) — 4.7★ (208 reviews)
+- [Ebiko](ebiko.html) — 4.7★ (46 reviews)
+- [Sotto Mare](sotto-mare.html) — 4.6★ (4960 reviews)
+- [Il Casaro Pizzeria](il-casaro-pizzeria.html) — 4.6★ (2432 reviews)
+- [North Beach Cantina](north-beach-cantina.html) — 4.6★ (275 reviews)
+- [Betty Lou's Seafood &amp; Grill](betty-lou-s-seafood-grill.html) — 4.6★ (1226 reviews)
+- [Il Pollaio](il-pollaio.html) — 4.6★ (270 reviews)
+- [Firenze By Night](firenze-by-night.html) — 4.6★ (661 reviews)
+- [Trattoria Contadina](trattoria-contadina.html) — 4.6★ (937 reviews)
+- [Cilantro SF Taqueria](cilantro-sf-taqueria.html) — 4.6★ (1405 reviews)
+- [Belle Cora](belle-cora.html) — 4.6★ (237 reviews)
+- [El Farolito](el-farolito.html) — 4.6★ (621 reviews)
+- [606](606.html) — 4.6★ (323 reviews)
+- [The Italian Homemade Company](the-italian-homemade-company.html) — 4.5★ (3279 reviews)
+- [Tony's Pizza Napoletana](tony-s-pizza-napoletana.html) — 4.5★ (9940 reviews)
+- [Flour + Water Pizzeria](flour-water-pizzeria.html) — 4.5★ (480 reviews)
+- [Original Joe's](original-joe-s.html) — 4.5★ (3396 reviews)
+- [Sodini's Trattoria](sodini-s-trattoria.html) — 4.5★ (916 reviews)
+- [Cafe Zoetrope](cafe-zoetrope.html) — 4.5★ (757 reviews)
+- [Cassava San Francisco](cassava-san-francisco.html) — 4.5★ (828 reviews)
+- [Cotogna](cotogna.html) — 4.5★ (2162 reviews)
+- [Equal Parts SF](equal-parts-sf.html) — 4.5★ (89 reviews)
+- [Tommaso's](tommaso-s.html) — 4.5★ (893 reviews)
+- [Steps of Rome Trattoria](steps-of-rome-trattoria.html) — 4.5★ (135 reviews)
+- [Mario's Bohemian Cafe](mario-s-bohemian-cafe.html) — 4.5★ (751 reviews)
+- [Surisan](surisan.html) — 4.5★ (2105 reviews)
+- [Ideale](ideale.html) — 4.5★ (488 reviews)
+- [Bix](bix.html) — 4.5★ (1280 reviews)
+- [North Beach Restaurant](north-beach-restaurant.html) — 4.4★ (832 reviews)
+- [Red Window](red-window.html) — 4.4★ (451 reviews)
+- [Tosca Cafe](tosca-cafe.html) — 4.4★ (600 reviews)
+- [Mama's On Washington Square](mama-s-on-washington-square.html) — 4.4★ (3120 reviews)
+- [Fior d'Italia](fior-d-italia.html) — 4.4★ (1042 reviews)
+- [Caffé Sport](caff-sport.html) — 4.4★ (756 reviews)
+- [Park Tavern on Washington Square](park-tavern-on-washington-square.html) — 4.4★ (826 reviews)
+- [Brioche Bakery &amp; Café](brioche-bakery-caf.html) — 4.4★ (839 reviews)
+- [Pizzelle di North Beach](pizzelle-di-north-beach.html) — 4.4★ (543 reviews)
+- [Cilentano Pasta Bar](cilentano-pasta-bar.html) — 4.4★ (404 reviews)
+- [Osmanthus Dim Sum Lounge](osmanthus-dim-sum-lounge.html) — 4.4★ (522 reviews)
+- [Mona Lisa Restaurant](mona-lisa-restaurant.html) — 4.3★ (2378 reviews)
+- [Réveille Coffee Co.](r-veille-coffee-co.html) — 4.3★ (878 reviews)
+- [Georgian Cheese Boat](georgian-cheese-boat.html) — 4.3★ (474 reviews)
+- [The Stinking Rose](the-stinking-rose.html) — 4.2★ (4561 reviews)
+- [Acquolina](acquolina.html) — 4.2★ (1175 reviews)
+- [Barbara Pinseria &amp; Cocktail Bar](barbara-pinseria-cocktail-bar.html) — 4.2★ (618 reviews)
+- [Maggie McGarry's](maggie-mcgarry-s.html) — 4.2★ (614 reviews)
+- [North Beach Pizza](north-beach-pizza.html) — 4.1★ (371 reviews)
+- [Hilda and Jesse](hilda-and-jesse.html) — 4★ (530 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

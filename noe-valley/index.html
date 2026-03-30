@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noe Valley Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Noe Valley, San Francisco. 48 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Noe Valley</div>
+<h1>Noe Valley</h1>
+<p>48 restaurants in Noe Valley, San Francisco.</p>
+<div class="restaurant">
+  <a href="ingredients.html">Ingredients</a>
+  <div class="meta">5★ (71 reviews) — 1298 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="falasteen.html">Falasteen</a>
+  <div class="meta">4.9★ (50 reviews) — 4018 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ap-s-cafe.html">AP’S CAFE</a>
+  <div class="meta">4.9★ (73 reviews) — 4108 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noe-indian-cuisine.html">Noe Indian Cuisine</a>
+  <div class="meta">4.8★ (497 reviews) — 4166 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="grand-lake-kitchen-noe-valley.html">Grand Lake Kitchen - Noe Valley</a>
+  <div class="meta">4.8★ (8 reviews) — 1199 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trad-bone-broth.html">Trad Bone Broth</a>
+  <div class="meta">4.8★ (140 reviews) — 3903 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="taffi-s-cafe.html">Taffi's Cafe</a>
+  <div class="meta">4.7★ (53 reviews) — 1748 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="billingsgate.html">Billingsgate</a>
+  <div class="meta">4.7★ (150 reviews) — 3859 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="saru-sushi-bar.html">Saru Sushi Bar</a>
+  <div class="meta">4.7★ (756 reviews) — 3856 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="l-ardoise-bistro.html">L'Ardoise Bistro</a>
+  <div class="meta">4.7★ (782 reviews) — 151 Noe St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dash-japanese-tapas-sushi.html">Dash Japanese Tapas & Sushi</a>
+  <div class="meta">4.7★ (125 reviews) — 737 Diamond St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="firefly-restaurant.html">Firefly Restaurant</a>
+  <div class="meta">4.6★ (797 reviews) — 4288 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-ciccia.html">La Ciccia</a>
+  <div class="meta">4.6★ (726 reviews) — 291 30th St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lequy.html">LeQuy</a>
+  <div class="meta">4.6★ (93 reviews) — 1320 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noeteca-wine-bar.html">Noeteca Wine Bar</a>
+  <div class="meta">4.6★ (343 reviews) — 1551 Dolores St #1553, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lovejoy-s-tea-room.html">Lovejoy's Tea Room</a>
+  <div class="meta">4.6★ (635 reviews) — 1351 Church St #1353, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="henry-s-hunan-restaurant.html">Henry's Hunan Restaurant</a>
+  <div class="meta">4.6★ (351 reviews) — 1708 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noe-bagel.html">Noe Bagel</a>
+  <div class="meta">4.6★ (128 reviews) — 3933 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="banan-noe-valley.html">Banan - Noe Valley</a>
+  <div class="meta">4.6★ (117 reviews) — 3862 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dumpling-kitchen-noe-valley.html">Dumpling Kitchen Noe Valley</a>
+  <div class="meta">4.5★ (107 reviews) — 3913 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mamahuhu.html">Mamahuhu</a>
+  <div class="meta">4.5★ (290 reviews) — 3991 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hamano-sushi.html">Hamano Sushi</a>
+  <div class="meta">4.5★ (321 reviews) — 1332 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="chloe-s-cafe.html">Chloe's Cafe</a>
+  <div class="meta">4.5★ (604 reviews) — 1399 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiore-caffe.html">Fiore Caffe</a>
+  <div class="meta">4.5★ (379 reviews) — 3599 24th St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="martha-bros-coffee-co.html">Martha & Bros. Coffee Co.</a>
+  <div class="meta">4.5★ (432 reviews) — 1551 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="subs-inc.html">Subs Inc.</a>
+  <div class="meta">4.5★ (188 reviews) — 1300 Castro St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="novy-restaurant.html">Novy Restaurant</a>
+  <div class="meta">4.4★ (820 reviews) — 4000 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="lupa-trattoria.html">Lupa Trattoria</a>
+  <div class="meta">4.4★ (341 reviews) — 4109 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="vive-la-tarte.html">Vive La Tarte</a>
+  <div class="meta">4.4★ (255 reviews) — 4026 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pancake-boy.html">Pancake Boy</a>
+  <div class="meta">4.4★ (657 reviews) — 4007 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="alice-s.html">Alice's</a>
+  <div class="meta">4.4★ (365 reviews) — 1599 Sanchez St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hi-way-burger-fry.html">Hi-Way Burger & Fry</a>
+  <div class="meta">4.4★ (559 reviews) — 3853 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="casa-mexicana.html">Casa Mexicana</a>
+  <div class="meta">4.4★ (392 reviews) — 3917 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kama-sushi.html">Kama sushi</a>
+  <div class="meta">4.4★ (60 reviews) — 1497 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="regent-thai.html">Regent Thai</a>
+  <div class="meta">4.4★ (336 reviews) — 1700 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="plain-jane.html">Plain Jane</a>
+  <div class="meta">4.4★ (410 reviews) — 1000 Guerrero St, San Francisco, CA 94110, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bernal-heights-pizzeria.html">Bernal Heights Pizzeria</a>
+  <div class="meta">4.4★ (184 reviews) — 1361 Church St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-little-chihuahua.html">The Little Chihuahua</a>
+  <div class="meta">4.3★ (465 reviews) — 4123 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eric-s-restaurant.html">Eric's Restaurant</a>
+  <div class="meta">4.3★ (532 reviews) — 1500 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-boulangerie-de-san-francisco-noe-valley.html">La Boulangerie de San Francisco, Noe Valley</a>
+  <div class="meta">4.3★ (603 reviews) — 3898 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mesopotamia-kitchen.html">Mesopotamia Kitchen</a>
+  <div class="meta">4.3★ (356 reviews) — 3915 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fiorella-noe.html">Fiorella Noe</a>
+  <div class="meta">4.2★ (80 reviews) — 4042 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barney-s-gourmet-hamburgers.html">Barney's Gourmet Hamburgers</a>
+  <div class="meta">4.2★ (889 reviews) — 4138 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="haystack-pizza.html">Haystack pizza</a>
+  <div class="meta">4.2★ (373 reviews) — 3881 24th St, San Francisco, CA 94114, USA</div>
+</div>
+<div class="restaurant">
+  <a href="twin-peaks-pizza-pasta.html">Twin Peaks Pizza & Pasta</a>
+  <div class="meta">4.2★ (123 reviews) — 1681 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oki-sushi.html">Oki Sushi</a>
+  <div class="meta">4.2★ (85 reviews) — 1740 Church St, San Francisco, CA 94131, USA</div>
+</div>
+<div class="restaurant">
+  <a href="noe-cafe-dogpatch.html">Noe Cafe - Dogpatch</a>
+  <div class="meta">4★ (33 reviews) — 601 18th St, San Francisco, CA 94107, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tung-sing-restaurant.html">Tung Sing Restaurant 東成</a>
+  <div class="meta">3.8★ (47 reviews) — 4015 24th St, San Francisco, CA 94114, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Noe Valley — San Francisco Restaurants
+
+48 restaurants in Noe Valley.
+
+- [Ingredients](ingredients.html) — 5★ (71 reviews)
+- [Falasteen](falasteen.html) — 4.9★ (50 reviews)
+- [AP’S CAFE](ap-s-cafe.html) — 4.9★ (73 reviews)
+- [Noe Indian Cuisine](noe-indian-cuisine.html) — 4.8★ (497 reviews)
+- [Grand Lake Kitchen - Noe Valley](grand-lake-kitchen-noe-valley.html) — 4.8★ (8 reviews)
+- [Trad Bone Broth](trad-bone-broth.html) — 4.8★ (140 reviews)
+- [Taffi's Cafe](taffi-s-cafe.html) — 4.7★ (53 reviews)
+- [Billingsgate](billingsgate.html) — 4.7★ (150 reviews)
+- [Saru Sushi Bar](saru-sushi-bar.html) — 4.7★ (756 reviews)
+- [L'Ardoise Bistro](l-ardoise-bistro.html) — 4.7★ (782 reviews)
+- [Dash Japanese Tapas &amp; Sushi](dash-japanese-tapas-sushi.html) — 4.7★ (125 reviews)
+- [Firefly Restaurant](firefly-restaurant.html) — 4.6★ (797 reviews)
+- [La Ciccia](la-ciccia.html) — 4.6★ (726 reviews)
+- [LeQuy](lequy.html) — 4.6★ (93 reviews)
+- [Noeteca Wine Bar](noeteca-wine-bar.html) — 4.6★ (343 reviews)
+- [Lovejoy's Tea Room](lovejoy-s-tea-room.html) — 4.6★ (635 reviews)
+- [Henry's Hunan Restaurant](henry-s-hunan-restaurant.html) — 4.6★ (351 reviews)
+- [Noe Bagel](noe-bagel.html) — 4.6★ (128 reviews)
+- [Banan - Noe Valley](banan-noe-valley.html) — 4.6★ (117 reviews)
+- [Dumpling Kitchen Noe Valley](dumpling-kitchen-noe-valley.html) — 4.5★ (107 reviews)
+- [Mamahuhu](mamahuhu.html) — 4.5★ (290 reviews)
+- [Hamano Sushi](hamano-sushi.html) — 4.5★ (321 reviews)
+- [Chloe's Cafe](chloe-s-cafe.html) — 4.5★ (604 reviews)
+- [Fiore Caffe](fiore-caffe.html) — 4.5★ (379 reviews)
+- [Martha &amp; Bros. Coffee Co.](martha-bros-coffee-co.html) — 4.5★ (432 reviews)
+- [Subs Inc.](subs-inc.html) — 4.5★ (188 reviews)
+- [Novy Restaurant](novy-restaurant.html) — 4.4★ (820 reviews)
+- [Lupa Trattoria](lupa-trattoria.html) — 4.4★ (341 reviews)
+- [Vive La Tarte](vive-la-tarte.html) — 4.4★ (255 reviews)
+- [Pancake Boy](pancake-boy.html) — 4.4★ (657 reviews)
+- [Alice's](alice-s.html) — 4.4★ (365 reviews)
+- [Hi-Way Burger &amp; Fry](hi-way-burger-fry.html) — 4.4★ (559 reviews)
+- [Casa Mexicana](casa-mexicana.html) — 4.4★ (392 reviews)
+- [Kama sushi](kama-sushi.html) — 4.4★ (60 reviews)
+- [Regent Thai](regent-thai.html) — 4.4★ (336 reviews)
+- [Plain Jane](plain-jane.html) — 4.4★ (410 reviews)
+- [Bernal Heights Pizzeria](bernal-heights-pizzeria.html) — 4.4★ (184 reviews)
+- [The Little Chihuahua](the-little-chihuahua.html) — 4.3★ (465 reviews)
+- [Eric's Restaurant](eric-s-restaurant.html) — 4.3★ (532 reviews)
+- [La Boulangerie de San Francisco, Noe Valley](la-boulangerie-de-san-francisco-noe-valley.html) — 4.3★ (603 reviews)
+- [Mesopotamia Kitchen](mesopotamia-kitchen.html) — 4.3★ (356 reviews)
+- [Fiorella Noe](fiorella-noe.html) — 4.2★ (80 reviews)
+- [Barney's Gourmet Hamburgers](barney-s-gourmet-hamburgers.html) — 4.2★ (889 reviews)
+- [Haystack pizza](haystack-pizza.html) — 4.2★ (373 reviews)
+- [Twin Peaks Pizza &amp; Pasta](twin-peaks-pizza-pasta.html) — 4.2★ (123 reviews)
+- [Oki Sushi](oki-sushi.html) — 4.2★ (85 reviews)
+- [Noe Cafe - Dogpatch](noe-cafe-dogpatch.html) — 4★ (33 reviews)
+- [Tung Sing Restaurant 東成](tung-sing-restaurant.html) — 3.8★ (47 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

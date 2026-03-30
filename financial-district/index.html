@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financial District Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Financial District, San Francisco. 47 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Financial District</div>
+<h1>Financial District</h1>
+<p>47 restaurants in Financial District, San Francisco.</p>
+<div class="restaurant">
+  <a href="teranga.html">Teranga</a>
+  <div class="meta">4.9★ (93 reviews) — level facing water fountain, 4 Embarcadero Ctr, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kokkari-estiatorio.html">Kokkari Estiatorio</a>
+  <div class="meta">4.7★ (3448 reviews) — 200 Jackson St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cenote.html">Cenote</a>
+  <div class="meta">4.7★ (95 reviews) — 99 Pine St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="toy-soldier.html">Toy Soldier</a>
+  <div class="meta">4.7★ (978 reviews) — 52 Belden Pl, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="grasso-sf.html">Grasso SF</a>
+  <div class="meta">4.7★ (30 reviews) — 214 California St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="avotoasty.html">Avotoasty</a>
+  <div class="meta">4.7★ (62 reviews) — 101 California St Suite 125, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="il-canto-cafe.html">Il Canto Cafe</a>
+  <div class="meta">4.7★ (595 reviews) — 475 Sacramento St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="holbrook-house.html">Holbrook House</a>
+  <div class="meta">4.6★ (263 reviews) — 1 Sansome St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="boulevard.html">Boulevard</a>
+  <div class="meta">4.6★ (1688 reviews) — 1 Mission St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trestle-restaurant.html">Trestle Restaurant</a>
+  <div class="meta">4.6★ (1301 reviews) — 531 Jackson St, San Francisco, CA 94133, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wayfare-tavern.html">Wayfare Tavern</a>
+  <div class="meta">4.5★ (2946 reviews) — 201 Pine St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bar-sprezzatura.html">Bar Sprezzatura</a>
+  <div class="meta">4.5★ (401 reviews) — One Maritime Plaza, #100, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tadich-grill.html">Tadich Grill</a>
+  <div class="meta">4.5★ (3085 reviews) — 240 California St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="waterbar-restaurant.html">Waterbar Restaurant</a>
+  <div class="meta">4.5★ (4345 reviews) — 399 The Embarcadero, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hed-verythai.html">hed verythai</a>
+  <div class="meta">4.5★ (386 reviews) — 88 Hardie Pl, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="stk-steakhouse.html">STK Steakhouse</a>
+  <div class="meta">4.5★ (3594 reviews) — 1 Market St Suite M3, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="perbacco.html">Perbacco</a>
+  <div class="meta">4.5★ (1016 reviews) — 230 California St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="xica.html">XICA</a>
+  <div class="meta">4.5★ (422 reviews) — 1265 Battery St Suite 100, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="oasis-grill.html">Oasis Grill</a>
+  <div class="meta">4.5★ (711 reviews) — 91 Drumm St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="leo-s-oyster-bar.html">Leo's Oyster Bar</a>
+  <div class="meta">4.5★ (549 reviews) — 568 Sacramento St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-melt.html">The Melt</a>
+  <div class="meta">4.5★ (1554 reviews) — 455 Market St at First, Suite #140, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-old-ship-saloon.html">The Old Ship Saloon</a>
+  <div class="meta">4.5★ (890 reviews) — 298 Pacific Ave, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="barcha-restaurant.html">Barcha Restaurant</a>
+  <div class="meta">4.4★ (1462 reviews) — 28 Fremont St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ristorante-tiramisu.html">Ristorante Tiramisu</a>
+  <div class="meta">4.4★ (669 reviews) — 28 Belden Pl, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sam-s-grill-seafood-restaurant.html">Sam's Grill & Seafood Restaurant</a>
+  <div class="meta">4.4★ (786 reviews) — 374 Bush St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pabu-izakaya.html">PABU Izakaya</a>
+  <div class="meta">4.4★ (1411 reviews) — 101 California St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="uno-dos-tacos.html">Uno Dos Tacos</a>
+  <div class="meta">4.4★ (2032 reviews) — 595 Market St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="john-s-grill.html">John's Grill</a>
+  <div class="meta">4.4★ (4657 reviews) — 63 Ellis St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="per-diem-financial-district.html">Per Diem - Financial District</a>
+  <div class="meta">4.3★ (616 reviews) — 43 Sutter St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sens.html">Sens</a>
+  <div class="meta">4.3★ (970 reviews) — 4 Embarcadero Ctr Level, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-vault-garden.html">The Vault Garden</a>
+  <div class="meta">4.3★ (314 reviews) — Plaza Level, 555 California St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-vault-steakhouse.html">The Vault Steakhouse</a>
+  <div class="meta">4.3★ (77 reviews) — 555 California St Concourse Level, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="royal-exchange-restaurant.html">Royal Exchange Restaurant</a>
+  <div class="meta">4.3★ (745 reviews) — 301 Sacramento St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="stone-korean-kitchen.html">Stone Korean Kitchen</a>
+  <div class="meta">4.3★ (64 reviews) — 4 Embarcadero Ctr, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="smish-smash.html">Smish Smash</a>
+  <div class="meta">4.3★ (40 reviews) — 945 Market St First Floor, San Francisco, CA 94103, USA</div>
+</div>
+<div class="restaurant">
+  <a href="irish-times.html">Irish Times</a>
+  <div class="meta">4.3★ (1122 reviews) — 500 Sacramento St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="terrene.html">Terrene</a>
+  <div class="meta">4.2★ (201 reviews) — 8 Mission St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-third-floor.html">The Third Floor</a>
+  <div class="meta">4.2★ (122 reviews) — 433 Clay St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="bodega-sf.html">Bodega SF</a>
+  <div class="meta">4.2★ (744 reviews) — 138 Mason St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="perry-s-embarcadero.html">Perry's Embarcadero</a>
+  <div class="meta">4.2★ (1171 reviews) — 155 Steuart St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="schroeder-s.html">Schroeder's</a>
+  <div class="meta">4.2★ (1259 reviews) — 240 Front St, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="osha-thai-restaurant-and-bar-embarcadero.html">Osha Thai Restaurant and Bar (Embarcadero)</a>
+  <div class="meta">4.2★ (2223 reviews) — 4 Embarcadero Ctr, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="trace.html">TRACE</a>
+  <div class="meta">4.2★ (182 reviews) — 181 3rd St, San Francisco, CA 94105, USA</div>
+</div>
+<div class="restaurant">
+  <a href="katsu-ya.html">Katsu-ya</a>
+  <div class="meta">4★ (137 reviews) — 132 Bush St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="eclipse-kitchen-bar.html">Eclipse Kitchen & Bar</a>
+  <div class="meta">4★ (381 reviews) — 5 Embarcadero Ctr, San Francisco, CA 94111, USA</div>
+</div>
+<div class="restaurant">
+  <a href="orafo.html">Orafo</a>
+  <div class="meta">3.9★ (39 reviews) — 222 Sansome St, San Francisco, CA 94104, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fish-farm.html">Fish & Farm</a>
+  <div class="meta">3.9★ (534 reviews) — 424 Clay St, San Francisco, CA 94111, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Financial District — San Francisco Restaurants
+
+47 restaurants in Financial District.
+
+- [Teranga](teranga.html) — 4.9★ (93 reviews)
+- [Kokkari Estiatorio](kokkari-estiatorio.html) — 4.7★ (3448 reviews)
+- [Cenote](cenote.html) — 4.7★ (95 reviews)
+- [Toy Soldier](toy-soldier.html) — 4.7★ (978 reviews)
+- [Grasso SF](grasso-sf.html) — 4.7★ (30 reviews)
+- [Avotoasty](avotoasty.html) — 4.7★ (62 reviews)
+- [Il Canto Cafe](il-canto-cafe.html) — 4.7★ (595 reviews)
+- [Holbrook House](holbrook-house.html) — 4.6★ (263 reviews)
+- [Boulevard](boulevard.html) — 4.6★ (1688 reviews)
+- [Trestle Restaurant](trestle-restaurant.html) — 4.6★ (1301 reviews)
+- [Wayfare Tavern](wayfare-tavern.html) — 4.5★ (2946 reviews)
+- [Bar Sprezzatura](bar-sprezzatura.html) — 4.5★ (401 reviews)
+- [Tadich Grill](tadich-grill.html) — 4.5★ (3085 reviews)
+- [Waterbar Restaurant](waterbar-restaurant.html) — 4.5★ (4345 reviews)
+- [hed verythai](hed-verythai.html) — 4.5★ (386 reviews)
+- [STK Steakhouse](stk-steakhouse.html) — 4.5★ (3594 reviews)
+- [Perbacco](perbacco.html) — 4.5★ (1016 reviews)
+- [XICA](xica.html) — 4.5★ (422 reviews)
+- [Oasis Grill](oasis-grill.html) — 4.5★ (711 reviews)
+- [Leo's Oyster Bar](leo-s-oyster-bar.html) — 4.5★ (549 reviews)
+- [The Melt](the-melt.html) — 4.5★ (1554 reviews)
+- [The Old Ship Saloon](the-old-ship-saloon.html) — 4.5★ (890 reviews)
+- [Barcha Restaurant](barcha-restaurant.html) — 4.4★ (1462 reviews)
+- [Ristorante Tiramisu](ristorante-tiramisu.html) — 4.4★ (669 reviews)
+- [Sam's Grill &amp; Seafood Restaurant](sam-s-grill-seafood-restaurant.html) — 4.4★ (786 reviews)
+- [PABU Izakaya](pabu-izakaya.html) — 4.4★ (1411 reviews)
+- [Uno Dos Tacos](uno-dos-tacos.html) — 4.4★ (2032 reviews)
+- [John's Grill](john-s-grill.html) — 4.4★ (4657 reviews)
+- [Per Diem - Financial District](per-diem-financial-district.html) — 4.3★ (616 reviews)
+- [Sens](sens.html) — 4.3★ (970 reviews)
+- [The Vault Garden](the-vault-garden.html) — 4.3★ (314 reviews)
+- [The Vault Steakhouse](the-vault-steakhouse.html) — 4.3★ (77 reviews)
+- [Royal Exchange Restaurant](royal-exchange-restaurant.html) — 4.3★ (745 reviews)
+- [Stone Korean Kitchen](stone-korean-kitchen.html) — 4.3★ (64 reviews)
+- [Smish Smash](smish-smash.html) — 4.3★ (40 reviews)
+- [Irish Times](irish-times.html) — 4.3★ (1122 reviews)
+- [Terrene](terrene.html) — 4.2★ (201 reviews)
+- [The Third Floor](the-third-floor.html) — 4.2★ (122 reviews)
+- [Bodega SF](bodega-sf.html) — 4.2★ (744 reviews)
+- [Perry's Embarcadero](perry-s-embarcadero.html) — 4.2★ (1171 reviews)
+- [Schroeder's](schroeder-s.html) — 4.2★ (1259 reviews)
+- [Osha Thai Restaurant and Bar (Embarcadero)](osha-thai-restaurant-and-bar-embarcadero.html) — 4.2★ (2223 reviews)
+- [TRACE](trace.html) — 4.2★ (182 reviews)
+- [Katsu-ya](katsu-ya.html) — 4★ (137 reviews)
+- [Eclipse Kitchen &amp; Bar](eclipse-kitchen-bar.html) — 4★ (381 reviews)
+- [Orafo](orafo.html) — 3.9★ (39 reviews)
+- [Fish &amp; Farm](fish-farm.html) — 3.9★ (534 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

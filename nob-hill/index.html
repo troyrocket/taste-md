@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nob Hill Restaurants — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant directory for Nob Hill, San Francisco. 47 restaurants indexed.">
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; color: #222; }
+    h1 { font-size: 2rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1rem; }
+    .breadcrumb a { color: #0066cc; }
+    .restaurant { border-bottom: 1px solid #eee; padding: 0.8rem 0; }
+    .restaurant a { color: #0066cc; text-decoration: none; font-weight: 600; }
+    .restaurant a:hover { text-decoration: underline; }
+    .meta { font-size: 0.85rem; color: #666; }
+    
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<div class="breadcrumb"><a href="../index.html">taste.md</a> / Nob Hill</div>
+<h1>Nob Hill</h1>
+<p>47 restaurants in Nob Hill, San Francisco.</p>
+<div class="restaurant">
+  <a href="tahona-mercado.html">Tahona Mercado</a>
+  <div class="meta">4.9★ (174 reviews) — 1168 Leavenworth St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mayaflor.html">Mayaflor</a>
+  <div class="meta">4.9★ (122 reviews) — 1494 California St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="dacha-kitchen-bar.html">DACHA Kitchen & Bar</a>
+  <div class="meta">4.8★ (408 reviews) — 1085 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="jasmin-s.html">Jasmin's</a>
+  <div class="meta">4.8★ (398 reviews) — 809 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="la-travesia.html">La Travesia</a>
+  <div class="meta">4.8★ (153 reviews) — 1022 Bush St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="wabi-sabi-sf-at-nob-hill.html">Wabi Sabi SF at Nob Hill</a>
+  <div class="meta">4.8★ (251 reviews) — 1517 Pine St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sofiya-restaurant.html">Sofiya Restaurant</a>
+  <div class="meta">4.8★ (514 reviews) — 1098 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="crostini-java.html">Crostini & Java</a>
+  <div class="meta">4.8★ (746 reviews) — 899 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="gusto-pinsa-romana.html">Gusto Pinsa Romana</a>
+  <div class="meta">4.8★ (921 reviews) — 1000 Bush St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="liholiho-yacht-club.html">Liholiho Yacht Club</a>
+  <div class="meta">4.7★ (1920 reviews) — 871 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="el-lopo.html">El Lopo</a>
+  <div class="meta">4.7★ (349 reviews) — 1327 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="kuma-sushi-sake.html">Kuma Sushi + Sake</a>
+  <div class="meta">4.7★ (922 reviews) — 1040 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cafe-isabella.html">Cafe Isabella</a>
+  <div class="meta">4.6★ (301 reviews) — 1414 Taylor St, San Francisco, CA 94113, USA</div>
+</div>
+<div class="restaurant">
+  <a href="swan-oyster-depot.html">Swan Oyster Depot</a>
+  <div class="meta">4.6★ (2173 reviews) — 1517 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="fino.html">FINO</a>
+  <div class="meta">4.6★ (1070 reviews) — 624 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="berlin-doner-kebab-house.html">Berlin Doner & Kebab House</a>
+  <div class="meta">4.6★ (368 reviews) — 901 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="k-soul-chicken.html">K Soul Chicken</a>
+  <div class="meta">4.6★ (194 reviews) — 1710 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="mymy.html">Mymy</a>
+  <div class="meta">4.5★ (1977 reviews) — 1500 California St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="rural-ramen-bar.html">Rural Ramen Bar</a>
+  <div class="meta">4.5★ (404 reviews) — 1059 Powell St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-village.html">The Village</a>
+  <div class="meta">4.5★ (539 reviews) — 1550 California St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="nob-hill-cafe.html">Nob Hill Cafe</a>
+  <div class="meta">4.4★ (1121 reviews) — 1152 Taylor St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-big-four.html">The Big Four</a>
+  <div class="meta">4.4★ (329 reviews) — 1075 California St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="top-of-the-mark.html">Top of the Mark</a>
+  <div class="meta">4.4★ (1857 reviews) — 999 California St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="del-popolo.html">Del Popolo</a>
+  <div class="meta">4.4★ (1333 reviews) — 855 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="707-sutter.html">707 Sutter</a>
+  <div class="meta">4.4★ (869 reviews) — 707 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="house-of-thai.html">House of Thai</a>
+  <div class="meta">4.4★ (830 reviews) — 901 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="common-sage.html">Common Sage</a>
+  <div class="meta">4.4★ (238 reviews) — 1552 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="osso-steakhouse.html">Osso Steakhouse</a>
+  <div class="meta">4.4★ (815 reviews) — 1177 California St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="sutter-pub-restaurant.html">Sutter Pub & Restaurant</a>
+  <div class="meta">4.4★ (1202 reviews) — 700 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="le-marais-bakery.html">Le Marais Bakery</a>
+  <div class="meta">4.4★ (362 reviews) — 1138 Sutter St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hoi-an-1608-vietnamese-restaurant.html">Hoi An 1608 Vietnamese Restaurant</a>
+  <div class="meta">4.4★ (275 reviews) — 1608 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="beanstalk-cafe.html">BeanStalk Cafe</a>
+  <div class="meta">4.4★ (772 reviews) — 724 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="aliment.html">Aliment</a>
+  <div class="meta">4.3★ (793 reviews) — 786 Bush St, San Francisco, CA 94108, USA</div>
+</div>
+<div class="restaurant">
+  <a href="honey-honey-cafe-crepery.html">Honey Honey Cafe & Crepery</a>
+  <div class="meta">4.3★ (4230 reviews) — 599 Post St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="farm-table.html">Farm : Table</a>
+  <div class="meta">4.3★ (773 reviews) — 754 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-thonglor-sf-thai-restaurant.html">The ThongLor SF - Thai Restaurant</a>
+  <div class="meta">4.3★ (1122 reviews) — 420 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="aria-korean-street-food.html">Aria Korean Street Food</a>
+  <div class="meta">4.3★ (703 reviews) — 932 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="hyde-street-seafood-house-raw-bar.html">Hyde Street Seafood House & Raw Bar</a>
+  <div class="meta">4.3★ (260 reviews) — 1509 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="620-jones.html">620 Jones</a>
+  <div class="meta">4.3★ (1143 reviews) — 620 Jones St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="tonton-restaurant.html">Tonton Restaurant</a>
+  <div class="meta">4.3★ (555 reviews) — 422 Geary St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="pls-on-post.html">PLS on Post</a>
+  <div class="meta">4.2★ (82 reviews) — 545 Post St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="cesario-s.html">Cesario's</a>
+  <div class="meta">4.2★ (1179 reviews) — 601 Sutter St, San Francisco, CA 94102, USA</div>
+</div>
+<div class="restaurant">
+  <a href="the-public-izakaya.html">The Public Izakaya</a>
+  <div class="meta">4.2★ (405 reviews) — 700 Post St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="olivos.html">Olivos</a>
+  <div class="meta">4.2★ (194 reviews) — 1017 Larkin St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="ben-thai-cafe.html">Ben Thai Cafe</a>
+  <div class="meta">4.2★ (777 reviews) — 1331 Polk St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="golden-horse-restaurant.html">Golden Horse Restaurant</a>
+  <div class="meta">4★ (147 reviews) — 1060 Hyde St, San Francisco, CA 94109, USA</div>
+</div>
+<div class="restaurant">
+  <a href="laurel-court-restaurant.html">LAUREL COURT RESTAURANT</a>
+  <div class="meta">3.6★ (325 reviews) — 950 Mason St, San Francisco, CA 94108, USA</div>
+</div>
+</div>
+<pre id="md-view">[taste.md](../index.html)
+
+# Nob Hill — San Francisco Restaurants
+
+47 restaurants in Nob Hill.
+
+- [Tahona Mercado](tahona-mercado.html) — 4.9★ (174 reviews)
+- [Mayaflor](mayaflor.html) — 4.9★ (122 reviews)
+- [DACHA Kitchen &amp; Bar](dacha-kitchen-bar.html) — 4.8★ (408 reviews)
+- [Jasmin's](jasmin-s.html) — 4.8★ (398 reviews)
+- [La Travesia](la-travesia.html) — 4.8★ (153 reviews)
+- [Wabi Sabi SF at Nob Hill](wabi-sabi-sf-at-nob-hill.html) — 4.8★ (251 reviews)
+- [Sofiya Restaurant](sofiya-restaurant.html) — 4.8★ (514 reviews)
+- [Crostini &amp; Java](crostini-java.html) — 4.8★ (746 reviews)
+- [Gusto Pinsa Romana](gusto-pinsa-romana.html) — 4.8★ (921 reviews)
+- [Liholiho Yacht Club](liholiho-yacht-club.html) — 4.7★ (1920 reviews)
+- [El Lopo](el-lopo.html) — 4.7★ (349 reviews)
+- [Kuma Sushi + Sake](kuma-sushi-sake.html) — 4.7★ (922 reviews)
+- [Cafe Isabella](cafe-isabella.html) — 4.6★ (301 reviews)
+- [Swan Oyster Depot](swan-oyster-depot.html) — 4.6★ (2173 reviews)
+- [FINO](fino.html) — 4.6★ (1070 reviews)
+- [Berlin Doner &amp; Kebab House](berlin-doner-kebab-house.html) — 4.6★ (368 reviews)
+- [K Soul Chicken](k-soul-chicken.html) — 4.6★ (194 reviews)
+- [Mymy](mymy.html) — 4.5★ (1977 reviews)
+- [Rural Ramen Bar](rural-ramen-bar.html) — 4.5★ (404 reviews)
+- [The Village](the-village.html) — 4.5★ (539 reviews)
+- [Nob Hill Cafe](nob-hill-cafe.html) — 4.4★ (1121 reviews)
+- [The Big Four](the-big-four.html) — 4.4★ (329 reviews)
+- [Top of the Mark](top-of-the-mark.html) — 4.4★ (1857 reviews)
+- [Del Popolo](del-popolo.html) — 4.4★ (1333 reviews)
+- [707 Sutter](707-sutter.html) — 4.4★ (869 reviews)
+- [House of Thai](house-of-thai.html) — 4.4★ (830 reviews)
+- [Common Sage](common-sage.html) — 4.4★ (238 reviews)
+- [Osso Steakhouse](osso-steakhouse.html) — 4.4★ (815 reviews)
+- [Sutter Pub &amp; Restaurant](sutter-pub-restaurant.html) — 4.4★ (1202 reviews)
+- [Le Marais Bakery](le-marais-bakery.html) — 4.4★ (362 reviews)
+- [Hoi An 1608 Vietnamese Restaurant](hoi-an-1608-vietnamese-restaurant.html) — 4.4★ (275 reviews)
+- [BeanStalk Cafe](beanstalk-cafe.html) — 4.4★ (772 reviews)
+- [Aliment](aliment.html) — 4.3★ (793 reviews)
+- [Honey Honey Cafe &amp; Crepery](honey-honey-cafe-crepery.html) — 4.3★ (4230 reviews)
+- [Farm : Table](farm-table.html) — 4.3★ (773 reviews)
+- [The ThongLor SF - Thai Restaurant](the-thonglor-sf-thai-restaurant.html) — 4.3★ (1122 reviews)
+- [Aria Korean Street Food](aria-korean-street-food.html) — 4.3★ (703 reviews)
+- [Hyde Street Seafood House &amp; Raw Bar](hyde-street-seafood-house-raw-bar.html) — 4.3★ (260 reviews)
+- [620 Jones](620-jones.html) — 4.3★ (1143 reviews)
+- [Tonton Restaurant](tonton-restaurant.html) — 4.3★ (555 reviews)
+- [PLS on Post](pls-on-post.html) — 4.2★ (82 reviews)
+- [Cesario's](cesario-s.html) — 4.2★ (1179 reviews)
+- [The Public Izakaya](the-public-izakaya.html) — 4.2★ (405 reviews)
+- [Olivos](olivos.html) — 4.2★ (194 reviews)
+- [Ben Thai Cafe](ben-thai-cafe.html) — 4.2★ (777 reviews)
+- [Golden Horse Restaurant](golden-horse-restaurant.html) — 4★ (147 reviews)
+- [LAUREL COURT RESTAURANT](laurel-court-restaurant.html) — 3.6★ (325 reviews)
+</pre>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');</script>
+</body>
+</html>

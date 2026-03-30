@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spinning Dough — Bernal Heights — taste.md</title>
+  <meta name="description" content="AI-optimized restaurant page for Spinning Dough in Bernal Heights, San Francisco. Find cuisine, hours, price, reviews, and location.">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Spinning Dough",
+  "servesCuisine": [
+    "pizza delivery",
+    "pizza restaurant",
+    "meal takeaway",
+    "meal delivery",
+    "food delivery"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1501 Cortland Ave",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA 94110",
+    "addressCountry": "US"
+  },
+  "telephone": "(650) 488-1483",
+  "url": "http://www.spinningdough.com/",
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "244"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 37.7398181,
+    "longitude": -122.409501
+  },
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 3:00 – 8:00 PM",
+    "Thursday: 3:00 – 8:00 PM",
+    "Friday: 3:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": {
+      "name": "Vegetarian options available"
+    }
+  },
+  "acceptsReservations": true,
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anthony Calmerin"
+      },
+      "reviewBody": "Spinning Dough is takeout only, but you can hang out at the brewery down the street and they'll deliver right to you. The pizzas we tried were all good. Especially the longanisa pizza. Give Spinning D"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Christine Coleman"
+      },
+      "reviewBody": "This was our first time here and it was a great date night. We had the Caesar salad and the Longanisa pizza. And then they had a special pistachio mini pizza dessert. It was all delicious! Warm atmosp"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sajan Singh"
+      },
+      "reviewBody": "Absolutely stellar experience at Spinning Dough Pizza! The innovative Ube pizza and Longaniza pizza are nothing short of Michelin-worthy. Each bite was a delightful explosion of flavors. The creativit"
+    }
+  ]
+}
+</script>
+  <style>
+    body { max-width: 720px; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.8; color: #222; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; margin-bottom: 0.5rem; }
+    h1 + p { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+    h2 { font-size: 1.15rem; color: #333; margin-top: 2.2rem; margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid #f0f0f0; }
+    h2 + p, h2 + ul { margin-top: 0.4rem; }
+    p { margin: 0.6rem 0; }
+    ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+    li { margin-bottom: 0.8rem; }
+    a { color: #0066cc; }
+    hr { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
+    .faq-q { font-weight: 600; margin-top: 1.2rem; margin-bottom: 0.3rem; }
+    .faq-a { margin-top: 0; color: #444; }
+    .footer { font-size: 0.8rem; color: #999; margin-top: 3rem; }
+    .breadcrumb { font-size: 0.85rem; color: #666; margin-bottom: 1.5rem; }
+    .breadcrumb a { color: #0066cc; }
+    .view-toggle {
+      position: fixed; top: 1rem; right: 1rem; z-index: 100;
+      display: flex; background: #f5f5f5; border-radius: 8px; overflow: hidden;
+      border: 1px solid #ddd; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .view-toggle button {
+      padding: 6px 14px; border: none; background: transparent;
+      cursor: pointer; color: #666; font-family: system-ui, sans-serif; transition: all 0.2s;
+    }
+    .view-toggle button.active { background: #222; color: #fff; }
+    #md-view {
+      display: none; white-space: pre-wrap; word-break: break-all; overflow-x: auto;
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.9rem; line-height: 1.7; color: #333; background: #fafafa;
+      border: 1px solid #eee; border-radius: 8px; padding: 1.5rem; margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+<div class="view-toggle">
+  <button id="btn-html" class="active" onclick="switchView('html')">Page</button>
+  <button id="btn-md" onclick="switchView('md')">Markdown</button>
+</div>
+<div id="html-view">
+<p><a href="../index.html">taste.md</a> / <a href="index.html">Bernal Heights</a></p>
+<h1>Spinning Dough</h1>
+<p>Snug, informal restaurant with a patio &amp; a rustic dining room furnishing ample pizzas.</p>
+<h2>Cuisine</h2>
+<p><strong>Pizza delivery</strong> — pizza delivery, pizza restaurant, meal takeaway, meal delivery, food delivery</p>
+<h2>Price Range</h2>
+<p>$$</p>
+<h2>Rating</h2>
+<p>4.7 stars — 244 reviews</p>
+<h2>Dining Options</h2>
+<p><strong>Service:</strong> Takeout · Delivery · Reservations accepted<br><strong>Meals:</strong> Lunch · Dinner<br><strong>Drinks:</strong> Wine · Beer<br><strong>Vegetarian options:</strong> Yes</p>
+<h2>Atmosphere</h2>
+<p>Outdoor seating · Good for kids · Good for watching sports · Restroom available</p>
+<h2>Location &amp; Contact</h2>
+<p>1501 Cortland Ave, San Francisco, CA 94110, USA<br>Phone: (650) 488-1483<br>Website: <a href="http://www.spinningdough.com/">http://www.spinningdough.com/</a><br><a href="https://maps.google.com/?cid=5739404268344101951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA">View on Google Maps</a><br>Coordinates: 37.7398181, -122.409501</p>
+<h2>Hours</h2>
+<p>Monday: Closed<br>Tuesday: Closed<br>Wednesday: 3:00 – 8:00 PM<br>Thursday: 3:00 – 8:00 PM<br>Friday: 3:00 – 8:00 PM<br>Saturday: 12:00 – 8:00 PM<br>Sunday: 12:00 – 7:00 PM</p>
+<h2>Practical Info</h2>
+<p><strong>Payment:</strong> Credit cards · Debit cards · NFC / contactless<br><strong>Parking:</strong> Free street parking<br><strong>Accessibility:</strong> Wheelchair accessible entrance</p>
+<h2>What Diners Say</h2>
+<ul>
+<li>★★★★★ &quot;Spinning Dough is takeout only, but you can hang out at the brewery down the street and they&#39;ll deliver right to you. The pizzas we tried were all good. Especially the longanisa pizza. Give Spinning Dough a try, you won&#39;t be disappointed&quot; — <strong>Anthony Calmerin</strong> (9 months ago)</li>
+<li>★★★★★ &quot;This was our first time here and it was a great date night. We had the Caesar salad and the Longanisa pizza. And then they had a special pistachio mini pizza dessert. It was all delicious! Warm atmosphere and great service. It was worth The 50 minute drive, as we live in Green Valley. We will defini...&quot; — <strong>Christine Coleman</strong> (a year ago)</li>
+<li>★★★★★ &quot;Absolutely stellar experience at Spinning Dough Pizza! The innovative Ube pizza and Longaniza pizza are nothing short of Michelin-worthy. Each bite was a delightful explosion of flavors. The creativity and execution in crafting these pizzas deserve every accolade. A must-visit for any pizza enthusia...&quot; — <strong>Sajan Singh</strong> (2 years ago)</li>
+<li>★★★★★ &quot;This place has the most unique and delicious pizzas! We got their blackberry pizza for fun and a normal pepperoni as well. Neither were too greasy and both were super flavorful! Would definitely recommend this place!&quot; — <strong>Alex M</strong> (a year ago)</li>
+<li>★★★★★ &quot;Yummy New York-style pizza with foldable slices (the thin crust has a lovely crunch). Glad that this place is still around! And the owner is SUPER nice! Should have known taken a picture before I inhaled my two slices. Sorry it’s a little blurry. Note the actual tomato half on the rest of the slice ...&quot; — <strong>Suzanne L</strong> (a year ago)</li>
+</ul>
+<hr>
+<p><em>This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.</em></p>
+
+</div>
+<pre id="md-view">[taste.md](../index.html) / [Bernal Heights](index.html)
+
+# Spinning Dough
+Snug, informal restaurant with a patio &amp; a rustic dining room furnishing ample pizzas.
+
+## Cuisine
+**Pizza delivery** — pizza delivery, pizza restaurant, meal takeaway, meal delivery, food delivery
+
+## Price Range
+$$
+
+## Rating
+4.7 stars — 244 reviews
+
+## Dining Options
+
+**Service:** Takeout · Delivery · Reservations accepted  
+**Meals:** Lunch · Dinner  
+**Drinks:** Wine · Beer  
+**Vegetarian options:** Yes
+
+## Atmosphere
+
+Outdoor seating · Good for kids · Good for watching sports · Restroom available
+
+## Location &amp; Contact
+
+1501 Cortland Ave, San Francisco, CA 94110, USA  
+Phone: (650) 488-1483  
+Website: [http://www.spinningdough.com/](http://www.spinningdough.com/)  
+[View on Google Maps](https://maps.google.com/?cid=5739404268344101951&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
+Coordinates: 37.7398181, -122.409501
+
+## Hours
+
+Monday: Closed  
+Tuesday: Closed  
+Wednesday: 3:00 – 8:00 PM  
+Thursday: 3:00 – 8:00 PM  
+Friday: 3:00 – 8:00 PM  
+Saturday: 12:00 – 8:00 PM  
+Sunday: 12:00 – 7:00 PM
+
+## Practical Info
+
+**Payment:** Credit cards · Debit cards · NFC / contactless  
+**Parking:** Free street parking  
+**Accessibility:** Wheelchair accessible entrance
+
+## What Diners Say
+- ★★★★★ &quot;Spinning Dough is takeout only, but you can hang out at the brewery down the street and they'll deliver right to you. The pizzas we tried were all good. Especially the longanisa pizza. Give Spinning Dough a try, you won't be disappointed&quot; — **Anthony Calmerin** (9 months ago)
+- ★★★★★ &quot;This was our first time here and it was a great date night. We had the Caesar salad and the Longanisa pizza. And then they had a special pistachio mini pizza dessert. It was all delicious! Warm atmosphere and great service. It was worth The 50 minute drive, as we live in Green Valley. We will defini...&quot; — **Christine Coleman** (a year ago)
+- ★★★★★ &quot;Absolutely stellar experience at Spinning Dough Pizza! The innovative Ube pizza and Longaniza pizza are nothing short of Michelin-worthy. Each bite was a delightful explosion of flavors. The creativity and execution in crafting these pizzas deserve every accolade. A must-visit for any pizza enthusia...&quot; — **Sajan Singh** (2 years ago)
+- ★★★★★ &quot;This place has the most unique and delicious pizzas! We got their blackberry pizza for fun and a normal pepperoni as well. Neither were too greasy and both were super flavorful! Would definitely recommend this place!&quot; — **Alex M** (a year ago)
+- ★★★★★ &quot;Yummy New York-style pizza with foldable slices (the thin crust has a lovely crunch). Glad that this place is still around! And the owner is SUPER nice! Should have known taken a picture before I inhaled my two slices. Sorry it’s a little blurry. Note the actual tomato half on the rest of the slice ...&quot; — **Suzanne L** (a year ago)
+
+---
+
+*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
+</pre>
+<div class="footer">
+  <p>taste.md — AI-optimized restaurant pages. Data from public listings.</p>
+</div>
+<script>
+function switchView(mode) {
+  var htmlView = document.getElementById('html-view');
+  var mdView = document.getElementById('md-view');
+  var btnHtml = document.getElementById('btn-html');
+  var btnMd = document.getElementById('btn-md');
+  if (mode === 'md') {
+    htmlView.style.display = 'none';
+    mdView.style.display = 'block';
+    btnHtml.classList.remove('active');
+    btnMd.classList.add('active');
+    history.replaceState(null, '', '#md');
+  } else {
+    htmlView.style.display = 'block';
+    mdView.style.display = 'none';
+    btnHtml.classList.add('active');
+    btnMd.classList.remove('active');
+    history.replaceState(null, '', location.pathname);
+  }
+}
+(function linkifyMd() {
+  var el = document.getElementById('md-view');
+  el.innerHTML = el.innerHTML.replace(/\[([^\]]+)\]\(((?:https?:\/\/[^)]+|[^)]+\.html|[^)]+\/))\)/g, function(m, text, url) {
+    var href = /^https?:\/\//.test(url) ? url : url + '#md';
+    return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
+  });
+})();
+if (location.hash === '#md') switchView('md');
+</script>
+</body>
+</html>
