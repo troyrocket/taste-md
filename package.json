@@ -6,7 +6,7 @@
     "fetch": "node scripts/fetch-restaurants.js",
     "generate": "node scripts/generate-pages.js",
     "build": "npm run fetch && npm run generate",
-    "preview": "npx serve dist"
+    "preview": "npx http-server dist -c-1"
   },
   "keywords": [],
   "author": "Troy Yan",

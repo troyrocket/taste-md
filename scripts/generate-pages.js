@@ -371,7 +371,7 @@ function switchView(mode) {
 }
 (function linkifyMd() {
   var el = document.getElementById('md-view');
-  el.innerHTML = el.innerHTML.replace(/\\[([^\\]]+)\\]\\(((?:https?:\\/\\/[^)]+|[^)]+\\.html))\\)/g, function(m, text, url) {
+  el.innerHTML = el.innerHTML.replace(/\\[([^\\]]+)\\]\\(((?:https?:\\/\\/[^)]+|[^)]+\\.html|[^)]+\\/))\\)/g, function(m, text, url) {
     var href = /^https?:\\/\\//.test(url) ? url : url + '#md';
     return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
   });
@@ -493,7 +493,7 @@ function switchView(mode) {
 }
 (function linkifyMd() {
   var el = document.getElementById('md-view');
-  el.innerHTML = el.innerHTML.replace(/\\[([^\\]]+)\\]\\(((?:https?:\\/\\/[^)]+|[^)]+\\.html))\\)/g, function(m, text, url) {
+  el.innerHTML = el.innerHTML.replace(/\\[([^\\]]+)\\]\\(((?:https?:\\/\\/[^)]+|[^)]+\\.html|[^)]+\\/))\\)/g, function(m, text, url) {
     var href = /^https?:\\/\\//.test(url) ? url : url + '#md';
     return '<a href="' + href + '">[' + text + '](' + url + ')</a>';
   });
@@ -563,7 +563,7 @@ AI-optimized restaurant directory for San Francisco. ${count} restaurants across
 
 ${sortedHoods.map(hood => {
   const entries = neighborhoodMap[hood];
-  return `## ${hood} (${entries.length})\n${entries.slice(0, 5).map(e => `- [${e.name}](${neighborhoodSlug(hood)}/${e.slug}.html) — ${e.rating ? e.rating + '★' : ''}`).join('\n')}${entries.length > 5 ? `\n- ... and ${entries.length - 5} more → [See all](${neighborhoodSlug(hood)}/)` : ''}`;
+  return `## [${hood}](${neighborhoodSlug(hood)}/) (${entries.length})\n${entries.slice(0, 5).map(e => `- [${e.name}](${neighborhoodSlug(hood)}/${e.slug}.html) — ${e.rating ? e.rating + '★' : ''}`).join('\n')}${entries.length > 5 ? `\n- ... and ${entries.length - 5} more → [See all](${neighborhoodSlug(hood)}/)` : ''}`;
 }).join('\n\n')}
 `;
 
@@ -619,6 +619,8 @@ const serveRewrites = [
     destination: `/${neighborhoodSlug(hood)}/index.html`
   })),
 ];
+// Add catch-all rewrite: /neighborhood/slug → /neighborhood/slug.html
+serveRewrites.push({ source: "/:hood/:slug", destination: "/:hood/:slug.html" });
 writeFileSync(join(distDir, 'serve.json'), JSON.stringify({ cleanUrls: false, rewrites: serveRewrites }, null, 2));
 
 console.log(`Generated ${count} restaurant pages across ${sortedHoods.length} neighborhoods.`);
