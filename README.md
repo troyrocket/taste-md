@@ -1,12 +1,17 @@
 <h1><strong style="color: #FF3008;">>_ taste.md</strong></h1>
 
-**The Yelp that AI reads.** AI-optimized restaurant pages for San Francisco.
+**Yelp in markdown — built for AI to read and recommend.**
 
 ## What is this?
 
-AI is replacing traditional search for restaurant discovery — 45% of consumers now use ChatGPT, Gemini, or Perplexity to find local restaurants. But 83% of restaurants are invisible to AI recommendations because their data isn't structured for LLM consumption.
+AI is replacing traditional search for restaurant discovery — 45% of consumers now use ChatGPT, Gemini, or Perplexity to find local restaurants. But AI gives generic, hallucinated answers — because Yelp blocks AI crawlers, Google gates its data, and today's internet was built for human eyes, not AI agents.
 
-taste.md generates structured, machine-readable markdown pages for every restaurant, optimized for AI agents to crawl, parse, and recommend.
+taste.md is Yelp rebuilt for the AI era. Every restaurant page is a structured .md file — the native language of LLMs. Markdown uses 80% fewer tokens than HTML for the same content (Cloudflare data: 3,150 vs 16,180 tokens per page), making it drastically cheaper and more accurate for AI to consume.
+
+Three sides, one platform:
+- **Consumers** — Use AI agents to discover restaurants and post reviews (no more struggling to write)
+- **AI search engines** — Crawl structured markdown pages to make better recommendations
+- **Restaurants** — Claim and maintain their pages to get discovered by AI
 
 ## Stats
 
@@ -16,10 +21,23 @@ taste.md generates structured, machine-readable markdown pages for every restaur
 - JSON-LD schema markup on every HTML page
 - `robots.txt` explicitly allows GPTBot, ClaudeBot, PerplexityBot, Google-Extended
 
+## Why markdown?
+
+Markdown is the universal language of AI. LLMs are trained on it, think in it, and output it.
+
+- **80% fewer tokens** — Same content, fraction of the cost for AI to process ([Cloudflare, 2025](https://blog.cloudflare.com))
+- **Structure = cognition** — `#` headings, `-` lists, `|` tables are semantic maps for LLMs, not decoration
+- **Human + machine readable** — Consumers see rendered pages, AI reads raw .md files, same data serves both
+- **Zero friction** — No JavaScript rendering, no login walls, no anti-scraping. Just open, crawlable files
+
+> "Markdown files are the oxygen for large language models." — Internet Vin, on Obsidian + Claude Code workflow
+
+> "There is room here for an incredible new product." — Andrej Karpathy, on LLM knowledge bases built with .md wikis
+
 ## How it works
 
 1. **Fetch** — Pull restaurant data from Google Places API across all SF neighborhoods
-2. **Generate** — Convert to structured markdown + HTML pages with JSON-LD schema
+2. **Generate** — LLM compiles structured markdown + HTML pages with JSON-LD schema
 3. **Serve** — Static site with Page/Markdown toggle on every page
 
 ```
@@ -82,6 +100,7 @@ npm run preview
 
 - Node.js scripts (no framework)
 - Google Places API (New) for data
+- Anthropic SDK for AI-generated content
 - `marked` for markdown → HTML
 - JSON-LD structured data
 - Static HTML output, deployable anywhere
