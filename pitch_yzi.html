@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>taste.md — YZi Labs</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #fff;
+    color: #111;
+    font-family: -apple-system, 'Inter', 'Helvetica Neue', sans-serif;
+    overflow: hidden;
+    height: 100vh; width: 100vw;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .deck { position: relative; width: 100vw; height: 100vh; }
+  .slide {
+    position: absolute; top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 0 12vw;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.4s ease;
+  }
+  .slide.active { opacity: 1; pointer-events: auto; }
+
+  /* Progress */
+  .progress { position: fixed; bottom: 0; left: 0; height: 2px; background: #FF3008; transition: width 0.4s; z-index: 10; }
+  .pn { position: absolute; bottom: 32px; right: 12vw; font-size: 13px; color: #ccc; letter-spacing: 0.05em; }
+
+  /* Type */
+  .tag { font-size: 14px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #FF3008; margin-bottom: 28px; }
+  h1 { font-size: 64px; font-weight: 700; letter-spacing: -0.035em; line-height: 1.08; color: #111; margin-bottom: 32px; }
+  h2 { font-size: 52px; font-weight: 700; letter-spacing: -0.03em; line-height: 1.1; color: #111; margin-bottom: 28px; }
+  .r { color: #FF3008; }
+  p { font-size: 22px; color: #666; line-height: 1.65; max-width: 700px; }
+  p strong { color: #111; }
+
+  /* Stat row */
+  .sr { display: flex; gap: 64px; margin-top: 48px; }
+  .s {}
+  .sv { font-size: 64px; font-weight: 700; color: #FF3008; letter-spacing: -0.03em; line-height: 1; }
+  .sl { font-size: 14px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: #999; margin-top: 8px; }
+
+  /* Two col */
+  .g { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; margin-top: 36px; align-items: start; }
+
+  /* Minimal list */
+  .ml { list-style: none; margin-top: 8px; }
+  .ml li { font-size: 21px; color: #666; padding: 8px 0; line-height: 1.55; }
+  .ml li strong { color: #111; }
+  .ml li::before { content: '— '; color: #FF3008; font-weight: 600; }
+
+  /* Flow */
+  .fl { display: flex; gap: 12px; margin-top: 36px; align-items: center; }
+  .fn { flex: 1; padding: 20px; border-top: 2px solid #FF3008; }
+  .fn-t { font-size: 16px; font-weight: 700; color: #111; text-transform: uppercase; letter-spacing: 0.06em; }
+  .fn-d { font-size: 14px; color: #999; margin-top: 4px; }
+  .fa { color: #ddd; font-size: 16px; flex-shrink: 0; }
+
+  /* Table */
+  .tb { border-collapse: collapse; width: 100%; margin-top: 24px; }
+  .tb th { text-align: left; font-size: 11px; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: #999; padding: 12px 0; border-bottom: 1px solid #eee; }
+  .tb td { font-size: 19px; color: #666; padding: 18px 0; border-bottom: 1px solid #f5f5f5; }
+  .tb td:first-child { color: #FF3008; font-weight: 600; width: 140px; }
+  .tb td strong { color: #111; }
+
+  /* Quote */
+  .q { margin-top: 40px; padding-left: 24px; border-left: 2px solid #FF3008; }
+  .q p { font-size: 20px; font-style: italic; color: #666; }
+  .q .qa { font-size: 15px; color: #999; margin-top: 8px; font-style: normal; }
+
+  /* Bar */
+  .br { margin-top: 32px; max-width: 480px; }
+  .br-row { margin-bottom: 16px; }
+  .br-l { font-size: 12px; font-weight: 600; color: #999; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 6px; }
+  .br-b { height: 32px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+  .br-dark { background: #111; color: #fff; }
+  .br-red { background: #FF3008; color: #fff; }
+
+  /* Card */
+  .cd { max-width: 400px; }
+  .cd-n { font-size: 38px; font-weight: 700; color: #111; letter-spacing: -0.02em; }
+  .cd-r { font-size: 12px; font-weight: 600; color: #FF3008; letter-spacing: 0.12em; text-transform: uppercase; margin-top: 4px; margin-bottom: 20px; }
+
+  /* Contact */
+  .ct { margin-top: 32px; }
+  .ct span { display: block; font-size: 15px; color: #FF3008; font-weight: 500; margin-bottom: 4px; }
+
+  /* Section label in grid */
+  .gt { font-size: 14px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #FF3008; margin-bottom: 16px; }
+  .gt.m { color: #ccc; }
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<div class="deck" id="deck">
+
+  <!-- 00 -->
+  <div class="slide active" data-slide="0" style="justify-content: center; align-items: center; text-align: center;">
+    <div class="tag" style="letter-spacing: 0.3em;">>&thinsp;_ taste.md</div>
+    <h1 style="max-width: 800px;">Decentralized <span class="r">Yelp</span> in markdown</h1>
+    <p style="text-align: center; margin: 0 auto;">AI-native data layer for local commerce.<br>Powered by $TASTE on BNB Chain.</p>
+    <div class="sr" style="justify-content: center;">
+      <div class="s"><div class="sv">1,450</div><div class="sl">Restaurants</div></div>
+      <div class="s"><div class="sv">39</div><div class="sl">Neighborhoods</div></div>
+      <div class="s"><div class="sv">$100</div><div class="sl">MRR</div></div>
+    </div>
+    <div class="pn">00 / 11</div>
+  </div>
+
+  <!-- 01 -->
+  <div class="slide" data-slide="1">
+    <div class="tag">Problem</div>
+    <h1><span class="r">45%</span> of consumers use AI to find restaurants. AI can't find them.</h1>
+    <p>Consumers get hallucinated answers. Restaurants are invisible to AI. And AI can't recommend well — because today's internet was built for human eyes, not agents.</p>
+    <div class="q">
+      <p>Yelp's robots.txt <strong>blocks every major AI crawler</strong> — GPTBot, ClaudeBot, PerplexityBot. Not ignorance. Structural conflict of interest.</p>
+      <div class="qa">yelp.com/robots.txt — verify yourself</div>
+    </div>
+    <div class="pn">01 / 11</div>
+  </div>
+
+  <!-- 02 -->
+  <div class="slide" data-slide="2">
+    <div class="tag">Insight</div>
+    <h1>An <span class="r">incentive gap</span>, not a technology gap.</h1>
+    <p>Yelp makes money keeping users on-platform for ads. If AI answers directly, users never visit. Opening data to AI = cannibalize revenue.</p>
+    <div class="sr">
+      <div class="s"><div class="sv">38,000:1</div><div class="sl">Pages crawled per referral</div></div>
+      <div class="s"><div class="sv">80%</div><div class="sl">Fewer tokens .md vs HTML</div></div>
+      <div class="s"><div class="sv">5x</div><div class="sl">More data per $ of inference</div></div>
+    </div>
+    <div class="pn">02 / 11</div>
+  </div>
+
+  <!-- 03 -->
+  <div class="slide" data-slide="3">
+    <div class="tag">Solution</div>
+    <h1>Every restaurant is a <span class="r">.md file</span>.</h1>
+    <p>Structured markdown — the native language of LLMs. Open, crawlable, machine-readable by default. Paid access via x402 on BNB Chain.</p>
+    <div class="fl">
+      <div class="fn"><div class="fn-t">Fetch</div><div class="fn-d">Restaurant data</div></div>
+      <div class="fa">→</div>
+      <div class="fn"><div class="fn-t">Compile</div><div class="fn-d">LLM → .md files</div></div>
+      <div class="fa">→</div>
+      <div class="fn"><div class="fn-t">Index</div><div class="fn-d">File system + JSON-LD</div></div>
+      <div class="fa">→</div>
+      <div class="fn"><div class="fn-t">Serve</div><div class="fn-d">AI agents crawl</div></div>
+      <div class="fa">→</div>
+      <div class="fn"><div class="fn-t">Pay</div><div class="fn-d">x402 on BNB</div></div>
+    </div>
+    <div class="pn">03 / 11</div>
+  </div>
+
+  <!-- 04 -->
+  <div class="slide" data-slide="4">
+    <div class="tag">Platform</div>
+    <h2>Token-incentivized <span class="r">network effect</span></h2>
+    <table class="tb">
+      <thead><tr><th>Side</th><th>Action</th><th>Incentive</th></tr></thead>
+      <tbody>
+        <tr><td>Consumers</td><td>Post reviews through AI agents</td><td>Earn <strong>$TASTE</strong></td></tr>
+        <tr><td>Restaurants</td><td>Claim & maintain .md pages</td><td>Get <strong>discovered by AI</strong></td></tr>
+        <tr><td>AI Agents</td><td>Crawl structured data</td><td><strong>80% cheaper</strong> than HTML</td></tr>
+      </tbody>
+    </table>
+    <div class="q" style="margin-top: 36px;">
+      <p>More $TASTE → more reviews → <strong>richer data</strong> → better AI recommendations → more users. Web3-native moat.</p>
+    </div>
+    <div class="pn">04 / 11</div>
+  </div>
+
+  <!-- 05 -->
+  <div class="slide" data-slide="5">
+    <div class="tag">Why Markdown</div>
+    <h1>The <span class="r">universal language</span> of AI.</h1>
+    <div class="g">
+      <ul class="ml">
+        <li><strong>80% fewer tokens</strong> — fraction of inference cost</li>
+        <li><strong>Structure = cognition</strong> — headings and lists are semantic maps</li>
+        <li><strong>Human + machine readable</strong> — one file serves both</li>
+        <li><strong>Zero friction</strong> — no JS, no login walls</li>
+      </ul>
+      <div>
+        <div class="q" style="margin-top: 0;">
+          <p>Same page: HTML <strong>16,180 tokens</strong>. Markdown <strong style="color: #FF3008;">3,150 tokens</strong>.</p>
+          <div class="qa">Cloudflare, 2025</div>
+        </div>
+        <div class="q" style="margin-top: 28px;">
+          <p>"There is room here for an <strong>incredible new product</strong>."</p>
+          <div class="qa">Andrej Karpathy — on LLM knowledge bases</div>
+        </div>
+      </div>
+    </div>
+    <div class="pn">05 / 11</div>
+  </div>
+
+  <!-- 06 -->
+  <div class="slide" data-slide="6">
+    <div class="tag">Web3 — BNB Chain</div>
+    <h1><span class="r">$TASTE</span> + x402</h1>
+    <div class="g">
+      <div>
+        <div class="gt">$TASTE Token</div>
+        <ul class="ml">
+          <li><strong>Earn</strong> — reviews via AI agents</li>
+          <li><strong>Spend</strong> — restaurants boost visibility</li>
+          <li><strong>Stake</strong> — data quality governance</li>
+          <li>BNB Chain — low fees, high throughput</li>
+        </ul>
+      </div>
+      <div>
+        <div class="gt">x402 Micropayments</div>
+        <ul class="ml">
+          <li>AI agents pay <strong>per-request</strong></li>
+          <li>HTTP 402 — <strong>native to the web</strong></li>
+          <li>Onchain settlement on BNB</li>
+          <li>Every query = <strong>revenue</strong></li>
+        </ul>
+      </div>
+    </div>
+    <div class="pn">06 / 11</div>
+  </div>
+
+  <!-- 07 -->
+  <div class="slide" data-slide="7">
+    <div class="tag">Market</div>
+    <h1>The <span class="r">data layer</span> for AI-era local commerce.</h1>
+    <div class="sr">
+      <div class="s"><div class="sv">$18B</div><div class="sl">TAM — Global Restaurants</div></div>
+      <div class="s"><div class="sv">$1.2B</div><div class="sl">SAM — US Restaurants</div></div>
+      <div class="s"><div class="sv">$40B+</div><div class="sl">All US Local Businesses</div></div>
+    </div>
+    <p style="margin-top: 36px;">Starting with <strong>1M+ US restaurants</strong>. Expanding to 33M+ local businesses — hotels, clinics, salons. Plus x402 fees that scale with AI search volume.</p>
+    <div class="pn">07 / 11</div>
+  </div>
+
+  <!-- 08 -->
+  <div class="slide" data-slide="8">
+    <div class="tag">Revenue</div>
+    <h2>Three <span class="r">revenue streams</span></h2>
+    <table class="tb">
+      <thead><tr><th>Stream</th><th>Model</th></tr></thead>
+      <tbody>
+        <tr><td>Subscriptions</td><td>Restaurants pay <strong>$100/mo</strong> — claimed pages, enhanced data, AI referral analytics</td></tr>
+        <tr><td>x402</td><td>AI agents pay <strong>per-request</strong> micropayments on BNB Chain</td></tr>
+        <tr><td>$TASTE</td><td>Restaurants spend to <strong>boost visibility</strong>; consumers earn for reviews</td></tr>
+      </tbody>
+    </table>
+    <div class="pn">08 / 11</div>
+  </div>
+
+  <!-- 09 -->
+  <div class="slide" data-slide="9">
+    <div class="tag">Traction</div>
+    <h2><span class="r">2 months</span>. Solo founder.</h2>
+    <div class="g">
+      <div>
+        <div class="gt">Done</div>
+        <ul class="ml">
+          <li><strong>1,450</strong> restaurants across 39 neighborhoods</li>
+          <li><strong>1 paying customer</strong> — $100/mo</li>
+          <li>Full pipeline: fetch → compile → deploy</li>
+          <li>Open robots.txt for all AI crawlers</li>
+        </ul>
+      </div>
+      <div>
+        <div class="gt m">Next</div>
+        <ul class="ml">
+          <li>$TASTE token on BNB Chain</li>
+          <li>x402 micropayment integration</li>
+          <li>Agent-facing CLI tool</li>
+          <li><strong>100 paying restaurants</strong> by Q2</li>
+        </ul>
+      </div>
+    </div>
+    <div class="pn">09 / 11</div>
+  </div>
+
+  <!-- 10 -->
+  <div class="slide" data-slide="10">
+    <div class="tag">Moat</div>
+    <h2>Why incumbents <span class="r">can't</span> do this.</h2>
+    <div class="g">
+      <div>
+        <p style="font-size: 18px; margin-bottom: 24px;">Yelp's ad revenue requires on-platform users. Opening data to AI would <strong>cannibalize</strong> their business.</p>
+        <div class="br" style="margin-top: 0;">
+          <div class="br-row"><div class="br-l">Yelp — AI Crawlers</div><div class="br-b br-dark">100% Blocked</div></div>
+          <div class="br-row"><div class="br-l">taste.md — AI Crawlers</div><div class="br-b br-red">100% Open</div></div>
+        </div>
+      </div>
+      <ul class="ml">
+        <li><strong>Incentive alignment</strong> — AI-first, no legacy</li>
+        <li><strong>Markdown advantage</strong> — 5x more data per $</li>
+        <li><strong>$TASTE flywheel</strong> — Web2 can't replicate</li>
+      </ul>
+    </div>
+    <div class="pn">10 / 11</div>
+  </div>
+
+  <!-- 11 -->
+  <div class="slide" data-slide="11">
+    <div class="tag">Team & Ask</div>
+    <h2><span class="r">Troy Yan</span> — Founder & CEO</h2>
+    <p style="margin-bottom: 36px;">CS @ UPenn. Strategy at TikTok (ByteDance). Tencent-backed delivery startup. Based in San Francisco. Built everything solo in 2 months.</p>
+    <div class="g">
+      <div>
+        <div class="gt">What We Need from YZi Labs</div>
+        <ul class="ml">
+          <li><strong>Tokenomics</strong> — $TASTE design & BNB deployment</li>
+          <li><strong>Ecosystem</strong> — investor network & partnerships</li>
+          <li><strong>GTM</strong> — scaling to hundreds of restaurants</li>
+        </ul>
+      </div>
+      <div>
+        <div class="gt">Looking For</div>
+        <ul class="ml">
+          <li>Web3 / tokenomics co-builder</li>
+          <li>Restaurant industry sales</li>
+        </ul>
+        <div class="ct" style="margin-top: 48px;">
+          <span style="font-size: 20px; font-weight: 600;">yanweicheng75@gmail.com</span>
+          <span>troyrocket.github.io/taste-md</span>
+        </div>
+      </div>
+    </div>
+    <div class="pn">11 / 11</div>
+  </div>
+
+</div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  const progress = document.getElementById('progress');
+  let current = 0;
+  const total = slides.length;
+  function goTo(n) {
+    if (n < 0 || n >= total) return;
+    slides[current].classList.remove('active');
+    current = n;
+    slides[current].classList.add('active');
+    progress.style.width = ((current / (total - 1)) * 100) + '%';
+  }
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); goTo(current + 1); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); goTo(current - 1); }
+  });
+  let tx = 0;
+  document.addEventListener('touchstart', (e) => { tx = e.touches[0].clientX; });
+  document.addEventListener('touchend', (e) => {
+    const d = tx - e.changedTouches[0].clientX;
+    if (Math.abs(d) > 50) d > 0 ? goTo(current + 1) : goTo(current - 1);
+  });
+  document.addEventListener('click', (e) => {
+    e.clientX > window.innerWidth / 2 ? goTo(current + 1) : goTo(current - 1);
+  });
+  progress.style.width = '0%';
+</script>
+
+</body>
+</html>
