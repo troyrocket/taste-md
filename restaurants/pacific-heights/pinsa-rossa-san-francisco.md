@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Pinsa Rossa San Francisco
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 365 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 2101 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 340-7718  
 Website: [http://pinsarossa.com/](http://pinsarossa.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3489167542783744654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7890592, -122.434068
+[View on Google Maps](https://maps.google.com/?cid=3489167542783744654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Total Score: 7.95
 
 Bathroom: 3.25/5
@@ -69,6 +70,3 @@ For pizza, we got..." — **Sriharsha A.** (2 months ago)
 - ★★★★★ "What a little gem! I’d never had a Pinsa until I came here on a solo jaunt. Similar to a pizza but so light and delicious. The toppings were fantastic, nice combinations with high quality ingredients. It’s clear the people who work here care about their service and food. Sit at the bar and order a c..." — **Samantha Rajaram** (3 months ago)
 - ★★★★★ "I am in love with this place. Pinsa is so unique. I've never had it before. It's light but still filling. The crust is very crispy and a little bit chewy. The flavor profiles of the pizzas here are also very well crafted. My favorite is the burrata. With the touch of balsamic vinegar, it is amazing...." — **drawonnoodles** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

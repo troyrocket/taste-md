@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Blush! Wine Bar
 Wines from around the world are paired with European dishes & tapas at this cozy, stylish bar.
 
 ## Cuisine
+
 **Wine bar** — wine bar, liquor store, european restaurant, live music venue, event venue, cafe, bar, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 347 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Live music · Good for groups · Restroom available
 
 476 Castro St, San Francisco, CA 94114, USA  
 Website: [http://www.blushwinebar.com/](http://www.blushwinebar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15758874774963217803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7613261, -122.43531560000001
+[View on Google Maps](https://maps.google.com/?cid=15758874774963217803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 3:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Amazing wine and great good! They even have Ravioles, my friend dish from France. Great service too! Live the vibe." — **Delphine Sanglard** (3 weeks ago)
 - ★★★★ "Being new to San Francisco, we were out exploring the Castro and stopped into BLUSH! on a whim. The vibe immediately stood out—fun, lively, and very much in tune with the neighborhood. It felt like a spot where people come to relax, connect, and enjoy themselves.
 
@@ -54,6 +55,3 @@ They have a solid selection of wine..." — **Joshua Michael** (3 months ago)
 
 The aura and vibe of the wine bar was perfect for a Thursday evening. They also live music some nights which we missed due to a dinner reservat..." — **Amirah Syrah** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Rise Over Run
 
 ## Cuisine
+
 **American restaurant** — cocktail bar, bar, american restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 3.9 stars — 183 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Restroom available
 
 33 Turk St, San Francisco, CA 94102, USA  
 Phone: (415) 523-9797  
-[View on Google Maps](https://maps.google.com/?cid=13861273231327402924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783080999999996, -122.409969
+[View on Google Maps](https://maps.google.com/?cid=13861273231327402924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 7:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This is a top-tier bar and my personal favorite for hosting out-of-town guests. The night view is breathtaking, making it the perfect spot to showcase the city. Beyond the scenery, the cocktails are expertly crafted and the fried chicken is a must-try. Highly recommended!" — **Nickie Young** (2 months ago)
 - ★★★★★ "What a cool place, the atmosphere is the best part, amazing views of the city, comfortable
 seating and heaters that keep it warm even into the late hours of the night.
@@ -61,6 +62,3 @@ My friend Yaxin and I had the best catch-up time at Rise Over Run. I would defin
 Food 4/5
 Foo..." — **Manana Hakobyan** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

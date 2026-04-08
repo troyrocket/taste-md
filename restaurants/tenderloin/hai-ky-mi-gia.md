@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Hai Ky Mi Gia
 Chinese soups filled with ingredients like egg noodles, wontons, satay beef & duck.
 
 ## Cuisine
+
 **Chinese noodle restaurant** — chinese noodle restaurant, vietnamese restaurant, chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 665 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 707 Ellis St, San Francisco, CA 94109, USA  
 Phone: (415) 771-2577  
 Website: [https://www.haikynoodles.com/](https://www.haikynoodles.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4361196454681144214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7841076, -122.4179677
+[View on Google Maps](https://maps.google.com/?cid=4361196454681144214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 9:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Braised Duck Leg Egg Noodle Soup(Dry) was delicious. Fast service. Homemade Soybean drink was good too." — **Tommy Nguyen** (7 months ago)
 - ★★★★★ "I used to live in SF for a short while and been revisiting Hai Ky for 15 years. I think about the food here a lot - the craft is amazing. It's a regular topic in my group chat.
 The broth is restrained but near perfect - the noodles are platonic ideal textures of gloss and chewiness. Glorious, bouncy..." — **Son L** (8 months ago)
@@ -54,6 +55,3 @@ The broth is restrained but near perfect - the noodles are platonic ideal textur
 - ★★★★★ "This place is one of the best noodle place in San Francisco. I usually order #7 thin or thick with separate soup. The hot soya milk is very good.
 The service is fast and the owner is very friendly.  I eat here for almost 15 years." — **Jovan Kun** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

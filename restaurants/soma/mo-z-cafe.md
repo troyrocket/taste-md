@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Mo'z Cafe
 Casual, contemporary eatery renowned for its early-morning breakfast fare that also serves lunch.
 
 ## Cuisine
+
 **Cafe** — cafe, brunch restaurant, breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,428 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 36 5th St, San Francisco, CA 94103, USA  
 Phone: (415) 777-1080  
 Website: [https://mozcafe.shop/](https://mozcafe.shop/)  
-[View on Google Maps](https://maps.google.com/?cid=3128837768814771114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783387399999995, -122.40755680000001
+[View on Google Maps](https://maps.google.com/?cid=3128837768814771114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 6:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "In town for a conference and still on East Coast time, so I was really glad to find a spot that opens at 6 a.m. Mo’z Café was exactly what I needed. The staff was incredibly friendly, and even with a steady line the service moved quickly.
 
 I ordered the eggs benedict with hash browns— the benedict w..." — **Sean McGinnis** (4 months ago)
@@ -65,6 +66,3 @@ While the ingredients seemed decent enough, the food itself was bland and uninsp
 
 The space is dark and uninvit..." — **Key Manning** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

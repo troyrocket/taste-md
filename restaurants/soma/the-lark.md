@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # The Lark
 Low-key neighborhood sports bar with beer, shots & spirits, plus bar bites in a dimly lit space.
 
 ## Cuisine
+
 **Sports bar** — sports bar, bar
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 679 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for watching sports · Dog-friendly �
 685 Market St Suite 140 A, San Francisco, CA 94105, USA  
 Phone: (415) 952-7504  
 Website: [http://www.thelarkbar.com/](http://www.thelarkbar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2307002696946888583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.787726899999996, -122.4026141
+[View on Google Maps](https://maps.google.com/?cid=2307002696946888583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 PM – 2:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "October 2025:
 Stopped by on a Friday night to watch the world series game 6. The bar is quite nice and low key. Bartenders were nice.
 
@@ -61,6 +62,3 @@ Great bartenders, solid drinks and you may encounter an awesome cockatoo named C
 
 I visited with 4 friends and we each got a drink. Very easy, very basic. I’m not drinking right now but my wife had a white wine. I c..." — **William Lambert** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

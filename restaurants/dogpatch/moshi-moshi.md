@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Moshi Moshi
 Sushi & soba are among the classic eats at this low-key Japanese eatery with an outdoor patio.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, asian restaurant, bar and grill, cocktail bar, seafood restaurant, sushi restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 821 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Dog-friendly · Restroom available
 2092 3rd St, San Francisco, CA 94107, USA  
 Phone: (415) 861-8285  
 Website: [http://www.moshimoshisf.com/](http://www.moshimoshisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10326220872660902495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7631665, -122.38906119999999
+[View on Google Maps](https://maps.google.com/?cid=10326220872660902495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Moshi Moshi is one of my favorite restaurants in San Francisco!
 
 Moshi Moshi has an extensive menu with so many great items! Every last detail is thought of. The fish is never anything but fresh. The rice is prepared perfectly each time, and the dishes come out looking and tasting perfect without fa..." — **A Blogger** (2 weeks ago)
@@ -58,6 +59,3 @@ Moshi Moshi has an extensive menu with so many great items! Every last detail is
 Hamachi toro nigiri and kibinago nigiri in particular were delicious." — **S Kim** (3 months ago)
 - ★★★★★ "The whiskey flights, the high quality of fish served here, the chill heated patio. Nothing about this spot id want to change. Add in the fact that the prices are super reasonable…. It’s probably my favorite ‘low key’ sushi spot in the 7x7. Highly recommend the Uni. Cheers!" — **Gnome Chomsky** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

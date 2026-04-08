@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Mo's Grill
 Low-key American grill/SF institution for fresh-ground burgers, milkshakes & breakfast fare.
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, bar and grill, barbecue area, american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 1,319 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 1322 Grant Ave, San Francisco, CA 94133, USA  
 Phone: (415) 788-3779  
 Website: [http://mosgrillsf.com/](http://mosgrillsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15658503450451131928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7991889, -122.4072139
+[View on Google Maps](https://maps.google.com/?cid=15658503450451131928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "OK. Maybe my expectations were too high after reading all the amazing reviews. My palette was set for the best burger in the world!
 
 My burger was good… but not the best ever. (A little dry, actually.)
@@ -62,6 +63,3 @@ On top of that, the service is always so friendly. Ou..." — **Michelle Lai** (
 
 I had two scrambled eggs with tomatoes and scallions. It came with fried potatoes and toast. Really huge portion! Potatoe..." — **Marie Gilbert** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

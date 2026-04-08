@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # 台山风味Taishan Restaurant（第二分店）
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 74 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 
 622 Jackson St, San Francisco, CA 94133, USA  
 Phone: (415) 288-2888  
-[View on Google Maps](https://maps.google.com/?cid=1102876045604456791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7962527, -122.4056584
+[View on Google Maps](https://maps.google.com/?cid=1102876045604456791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 10:30 AM – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Came on Sunday at 3pm with a group of 11. They were kind enough to give us the back room, which is typically reserved in advance for huge parties (and was booked for 5pm), and it has automatic mahjong tables and a huge karaoke setup. We got the eel claypot rice, hot boiling oil fish, and a few other..." — **Kenny Zhou** (a year ago)
 - ★★★★★ "Great place for late-night snack! Made fresh!
 
@@ -57,6 +58,3 @@ In terms of service, there is just one waiter who does ever..." — **Bebethoi T
 
 Everything seemed fresh and service was prompt." — **Harry Hoang** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Dim Sum Club 點心薈
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, chinese noodle restaurant, asian restaurant, meal takeaway, farm, cantonese restaurant, chinese restaurant, service
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 378 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 2237 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 592-8938  
 Website: [http://dimsumclub-sf.com/](http://dimsumclub-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16006299205891847069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7422517, -122.4903394
+[View on Google Maps](https://maps.google.com/?cid=16006299205891847069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We were visiting SF and one thing my hubby always want is dim sum. We just didn't want to spend an arm and a leg for it.
 We heard of Dim Sum Club and never tried it. So why not?
 
@@ -56,6 +57,3 @@ We were 2nd on the wait list and got seated within about 10 mins. Its a small cu
 - ★★★★★ "Great portions and taste. Their Mongolian beef was so tender and juicy. The chow mein packed the right flavors. Seafood tofu soup is mid. Dim sums are average, nothing mind blowing. Salt and pepper shrimps had shells but tasted great.  The sesame balls were alright. Our whole table got a free coconu..." — **Harry** (6 months ago)
 - ★★★★ "Price point was attractive compared to other restaurants. ( Yum Cha is, like everything else, getting so pricey these days). Was happy with most dishes. Got both pea sprouts as a side dish and inside a shrimp dumpling. Thought the Bean Curd wrap was pretty good as was the Har gow. Scallop dumpling w..." — **Jeffrey McGinnis** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

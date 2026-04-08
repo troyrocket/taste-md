@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Novela
 A stylish, literary-themed bar with drinks named after characters, punch on tap & book-lined walls.
 
 ## Cuisine
+
 **Cocktail bar** — cocktail bar, lounge bar, event venue, night club, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 1,678 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 662 Mission St, San Francisco, CA 94105, USA  
 Phone: (415) 896-6500  
 Website: [http://www.novelasf.com/](http://www.novelasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14663289495905548215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.787096999999996, -122.40136
+[View on Google Maps](https://maps.google.com/?cid=14663289495905548215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place had a great Halloween atmosphere! Nice vibes and decent music.
 
 Serena clocked in and immediately assisted me with getting drinks, she was the star of the show and had a great costume. Great service!
@@ -61,6 +62,3 @@ Very friendly and a joy to work with. Great food and drinks!!" — **Adrian Mart
 - ★★★★★ "Booked a private event at Novela and what an event it was!!!!  It was perfect!   From the quote to the day of the party the manager was attentive and responsive   The food, drinks, and all the staff were amazing!!  The space allows for the perfect vibe and flow. All the guests loved it!  Book your n..." — **Laura Yaeger** (7 months ago)
 - ★★★★ "Love the library themed bar! Such a fun ambiance, customer service is great, drinks were delicious just small portions. Not a fan of the nachos, tasted like something you get from a baseball stadium. After all it’s bar food, but the quality of the food wasn’t reflective of the price. Other than that..." — **Kiran Singh** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

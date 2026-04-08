@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Visitacion Valley](index.html)
-
 # Golden Moon Restaurant
 Cozy, modest Chinese restaurant offering many dishes, including seafood & vegetarian options.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 126 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 2511 Geneva Ave, Daly City, CA 94014, USA  
 Phone: (415) 239-8844  
 Website: [https://www.goldenmooncalifornia.com/](https://www.goldenmooncalifornia.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.707918299999996, -122.41714599999997
+[View on Google Maps](https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★ "Update 07/04/25 whole place smelled of catt litter or something off putting.... Old review: Small place with solid affordable Chinese food. The orange chicken was tasty, the quality of the chicken could be higher and this place would be amazing. Friendly staff -  $13 for soda and orange chicken with..." — **B** (8 months ago)
 - ★★★★★ "Found this wonderful place while I was in the area. The food I had was incredible. The beef was nice and tender, and I cut into the tofu like silk. The potstickers alone was great. Will be passing by here regularly when I am in the area." — **Joseph Castillo** (a year ago)
 - ★★★★★ "Honestly, this food surpassed our high expectations. The portion sizes were really good, the food was delicious, the leftovers were as good the next day as well which is rare. This place rocks. Definitely recommend." — **Kirsi** (9 months ago)
@@ -56,6 +57,3 @@ Mapo tofu is a must try too. Sooo tasty!
 
 Hidden gem, golden find, the golden moon!" — **Vandana** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

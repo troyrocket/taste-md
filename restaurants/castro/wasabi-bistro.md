@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Wasabi Bistro
 Contemporary location with a chic vibe for Japanese fare, including sushi, teriyaki & udon dishes.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, salad shop, soup restaurant, sushi restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 521 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 524 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 701-0082  
 Website: [https://comweb.heroonlineorders.com/wasabibistrocastro.com/](https://comweb.heroonlineorders.com/wasabibistrocastro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12025317319323753058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760417499999996, -122.43520310000001
+[View on Google Maps](https://maps.google.com/?cid=12025317319323753058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 3:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "How can I say no to ALL YOU CAN DRINK alcohol during a night out in the Castro? It's only $10 per person and everyone must also order $15 worth of food too.
 
 The drink menu has a good variety! I enjoyed the hot sake with the cans of beer! Unlimited sake bombs were fun. Soju cocktails were sweet, but..." — **Alisa B.** (3 months ago)
@@ -57,6 +58,3 @@ Said they were cleaning then we were sat and the booth was dirty. Came to the bo
 Salmon Teriyaki and California rolls were really good, but Soups lacked flavor, and the atmosphere felt a little dirty.
 They’re open until late so it’s a good spot to go before jumping into the next club/bar" — **Anna G** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Udon Mugizo - SF
 Simply decorated Japanese noodle specialist serves up a menu of udon, tempura & mochi.
 
 ## Cuisine
+
 **Japanese restaurant** — ramen restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 1,113 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 1581 Webster St #217, San Francisco, CA 94115, USA  
 Phone: (415) 931-3118  
 Website: [http://mugizo-us.com/](http://mugizo-us.com/)  
-[View on Google Maps](https://maps.google.com/?cid=513609154607549972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7849587, -122.43212869999999
+[View on Google Maps](https://maps.google.com/?cid=513609154607549972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "⭐️⭐️⭐️⭐️ Udon Mugizo – Comforting Japanese Classics
 
 Udon Mugizo offers a satisfying and comforting Japanese dining experience in Japantown. The food is good and well-executed, with hearty udon bowls, flavourful broths, and generous portions. While it may not be top-of-the-range fine Japanese dining..." — **Ronald Tan** (3 months ago)
@@ -60,6 +61,3 @@ We also enjoyed edamame, ramen with tender pork belly and crisp..." — **Monika
 - ★★★★★ "Ordered a regular ramen and a tonkatsu ramen.
 The ramen here is super chewy and bouncy with eat bite. We have never had ramen in tonkatsu broth and it was delicious nonetheless. The pork bone broth was rich and flavourful and surprisingly paired very well with the udon. The cha-su had good a good ch..." — **Luke Y** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

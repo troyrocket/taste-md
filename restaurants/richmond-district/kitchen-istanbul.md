@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Kitchen Istanbul
 Kebabs & other Turkish-Mediterranean dishes served in a warm restaurant setting with a bar.
 
 ## Cuisine
+
 **Turkish restaurant** — turkish restaurant, mediterranean restaurant, greek restaurant, wine bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 443 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 349 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 753-9479  
 Website: [http://www.kitchenistanbulsf.com/](http://www.kitchenistanbulsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8367509682231999274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7828985, -122.4632343
+[View on Google Maps](https://maps.google.com/?cid=8367509682231999274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great place!
 The service was very attentive.
 We enjoyed the delicious food.
@@ -68,6 +69,3 @@ Wine: co-equal are the incredible wine offerings. Unbeatable, hard..." — **Jam
 That said, a couple of areas could be improved. The sound level was very high, making it d..." — **Solomon Zoubi** (6 months ago)
 - ★★★★★ "Absolutely loved our dinner at Kitchen Istanbul SF! Every dish was beautifully presented and packed with incredible flavor. We started with the Levrek Marin and sautéed shrimp, both fresh and perfectly seasoned. The eggplant shakshuka was rich and comforting, and the Adana kebab had just the right a..." — **Omer Sincer** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

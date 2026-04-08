@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Pica Pica Arepa Kitchen
 Arepas & other Venezuelan eats provide the Latin flavors at this casual spot.
 
 ## Cuisine
+
 **Restaurant** — south american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 1,542 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 401 Valencia St, San Francisco, CA 94103, USA  
 Phone: (415) 400-5453  
 Website: [http://www.picapica.com/](http://www.picapica.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3166131371242319863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7664583, -122.42190559999999
+[View on Google Maps](https://maps.google.com/?cid=3166131371242319863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "We were a party of four and ordered four arepas and three appetizers. The empanadas were frozen inside, and when we politely asked to have them reheated, the response was very rude. The arepas were good, but the service was disappointing.
 
 At 8:59 p.m., while the restaurant was still full, we were r..." — **Luisa Garcia** (a month ago)
@@ -60,6 +61,3 @@ We had the Tres Empanadas and Yuca fries appetizers (loosely using that term her
 
 We got the 3 for 20 deal with he vegiterian, vegan, and spicy black bean and all three were great.  On their own they were good but what made them great was the combo with the sauces.  There were three sauces:  a cilantro lime, sun d..." — **Conner Jolly** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

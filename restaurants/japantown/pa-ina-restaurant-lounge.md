@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Pa'ina Restaurant & Lounge
 Modern, vibrant eatery serving Hawaiian-style tapas & poke, plus tropical cocktails.
 
 ## Cuisine
+
 **Hawaiian restaurant** — hawaiian restaurant, lounge bar, night club, bar, event venue, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 494 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Good for watching sports · Re
 1865 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 829-2642  
 Website: [http://www.painasf.com/](http://www.painasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15723192353099125742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.784989599999996, -122.43233239999999
+[View on Google Maps](https://maps.google.com/?cid=15723192353099125742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Had a great dinner with friends here! Especially liked the chicken wings and crab bao. This place is great for large groups and has good vibes. They also have a karaoke room! Located right in SF japantown" — **Grace Ling** (a year ago)
 - ★★★ "My friends and I went for dinner and got the combo meal! Lots of dishes were pitched as shared food. We got the platter for 4-6 people. They accidentally gave us the fish combo platter for up to 10 people, which was an extra $50, but when we told them it wasn’t what we ordered they took it away. Hop..." — **Carrie Tam** (a year ago)
 - ★★★★ "Overall the food was really good! Favorites of mine were the nachos and the mac and cheese.
@@ -60,6 +61,3 @@ Good for groups (it seems like it was mostly large parties plus a private party)
 Service was nice. Our waitress frequently checked in on us. Wings come in a bowl of 6 so it’s $1..." — **Mica J** (2 years ago)
 - ★★★★ "Walked past her with my family and saw they have $1 oysters (Thursday only & at 5-7pm). We came in and ordered some drinks & 2 dozens of oysters. It was so good that we ordered another 2 dozen but the waiter misheard me and only gave us 1 dozen. We also waited about 20 minutes or more for the 1 doze..." — **Anna Ng** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

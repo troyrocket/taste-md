@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Wabi Sabi SF at Nob Hill
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 251 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 1517 Pine St, San Francisco, CA 94109, USA  
 Phone: (415) 810-9793  
 Website: [http://www.wabisabisf.com/](http://www.wabisabisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9772367485430225239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.789481099999996, -122.4208039
+[View on Google Maps](https://maps.google.com/?cid=9772367485430225239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 1:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Sushi was SO good. Service was mad quick and the waitress was so kind. They even surprised us with a free roll at the end. Pricing was very reasonable. I got 2 rolls and a miso soup for only $20. The total price for all our food (3 ppl w big appetites) was around $60? Will definitely be returning he..." — **Siobhan Michmerhuizen** (3 weeks ago)
 - ★★★★★ "I had a great experience at Wabi Sabi SF at Nob Hill. The sushi was incredibly fresh, beautifully presented, and full of flavor. You can really taste the quality of the fish, especially the nigiri and specialty rolls.
 
@@ -56,6 +57,3 @@ The atmosphere is cozy and calm, perfect for a relaxed dinner. The staff was fri
 FOOD PHENOMENAL" — **Bartolomeo Magnani** (a month ago)
 - ★★ "I stopped in looking for a quick miso soup and rice. None of the tables were cleared when I came in. The place was half full (5:20pm Saturday). It took 20min to take my order and another 20min to get my food. Miso soup came in a cup with no spoon. Very poor communication skills of the server and poo..." — **Jaden Reimer** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

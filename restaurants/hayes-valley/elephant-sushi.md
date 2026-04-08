@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Elephant Sushi
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, meal takeaway, japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 226 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Restroom available
 400 Grove St, San Francisco, CA 94102, USA  
 Phone: (415) 400-4018  
 Website: [https://elephantsushi.com/](https://elephantsushi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14133913061943793707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7779295, -122.4236088
+[View on Google Maps](https://maps.google.com/?cid=14133913061943793707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Second time here for dinner and enjoyed everything and everyone.
 Food is excellent, fresh and savory.
 We had this time salmon miso soup, cucumber salad, grilled salmon collar with ponzu sauce, ginger marinated cod, all of which we highly recommend. Also black fig Margarita was delicious and beautifu..." — **Anastasia M** (a month ago)
@@ -58,6 +59,3 @@ The service was excellent, kind. And the place was nice. Perfect for a date or a
 
 The ..." — **Anderson Angkeyile (Flying Sailor)** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

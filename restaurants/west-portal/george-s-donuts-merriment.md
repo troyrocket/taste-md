@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # George’s Donuts & Merriment
 
 ## Cuisine
+
 **Cafe** — cafe, donut shop, coffee shop, wine bar, bakery, food store, bar, store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 198 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 
 163 W Portal Ave, San Francisco, CA 94127, USA  
 Website: [https://georgessf.com/](https://georgessf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1808169047921955616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7389978, -122.4675003
+[View on Google Maps](https://maps.google.com/?cid=1808169047921955616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Super comfy spot and the service was amazing! All of the workers here are super nice and helpful. I absolutely loved the iced matcha raspberry drink!! It was really flavorful and creamy. The raspberry taste was very strong and blended great with the matcha. The cinnamon bun was a bit disappointing t..." — **Juju C** (2 months ago)
 - ★★★ "February 2026:
 I remember people raved about the donuts at this place. The SF Gate or SF Chronicle wrote a very positive review.
@@ -59,6 +60,3 @@ We stopped by for an afternoon snack and came across this place. We decided on t
 The donut had a nice even layer of caramelized sugar and a light creme filling. The beig..." — **mika** (5 months ago)
 - ★★★★★ "We had a really enjoyable experience. We were late for our reservation, but we were seated anyways, and the waiter was very accommodating. He took an item off our bill that was taking too long and the chef special donut was especially interesting. I also love how the menu distinguishes the Palestini..." — **Ayilah Chaudhary** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

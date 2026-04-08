@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # um.ma
 Modern destination for Korean barbecue, sides & soju served in chic surrounds with an outdoor patio.
 
 ## Cuisine
+
 **Korean barbecue restaurant** — korean barbecue restaurant, bar and grill, korean restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 916 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Restroom av
 1220 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 610-7515  
 Website: [http://www.ummasf.com/](http://www.ummasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16166611691695403553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.765506099999996, -122.46624099999998
+[View on Google Maps](https://maps.google.com/?cid=16166611691695403553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Chicken wings were very yummy and extremely crispy, tteokbokki was average. Overall, food was good but not life changing. Patio was warm and cozy, but indoor vibe was not great. Would recommend for a yummy casual dinner with a nice vibe and good value." — **Avonelle Lindon** (3 weeks ago)
 - ★★★★★ "We attended a wedding dinner here, and it turned out to be such a wonderful experience.
 
@@ -56,6 +57,3 @@ Food: A variety of dishes were served family-style, including chicken wings, ric
 - ★★★★★ "Not a bad price at all for the atmosphere and quality of food. I really enjoyed the patio, super cute and cozy. My sister loved the sesame soy chicken wings. The soft tofu stew was tasty. We are definitely coming back to try their Korean BBQ!" — **Britney Pickering** (5 months ago)
 - ★★★★★ "Best Korean food in town! And at a decent price! Highly recommend their bibimbap, corn cheese, dak galbi and kimchee prawns. Most of the seating is at the back of the restaurant, each table sits 4 comfortably. Consider a reservation, especially during weekends. This place gets packed. They also have..." — **Wolf Fivousix** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

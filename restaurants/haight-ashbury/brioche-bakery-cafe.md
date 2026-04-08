@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Brioche Bakery & Cafe
 
 ## Cuisine
+
 **Brunch restaurant** — brunch restaurant, diner, breakfast restaurant, coffee shop, cafe, wine bar, food store, furniture store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 409 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 1640 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 913-7940  
 Website: [http://www.briochecafe.com/](http://www.briochecafe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8474104164348497422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7698396, -122.4492825
+[View on Google Maps](https://maps.google.com/?cid=8474104164348497422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Nice small Cafe which  serves breakfast, brunch, lunch and dinner. It alsonhas coffee and limited  pastries. It has bar seating and serve beer and wine. It has second lever seating for hight table.
 We stop by to get mocha and cold strawberry drink. Both are good. Strawberry drink is a bit too sweet ..." — **Dharma M** (3 months ago)
 - ★★★★★ "Brioche Bakery Coffee – 10/10!
@@ -58,6 +59,3 @@ Points for presentation, the flavour departure needs a restructure.
 ***" — **Malcolm Young** (6 months ago)
 - ★★★★★ "Had an amazing time ! The outdoor seating was just perfect, offering a lovely ambiance to enjoy a relaxing meal. The food was top-notch—my steak was cooked to perfection, paired with a refreshing salad and crispy fries. The mint tea was a nice touch to wrap up the meal. My partner had a turkey sandw..." — **AP** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

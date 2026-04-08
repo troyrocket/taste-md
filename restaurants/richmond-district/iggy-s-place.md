@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Iggy's Place
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, bistro, brunch restaurant, ukrainian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.9 stars — 265 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 3519 Balboa St, San Francisco, CA 94121, USA  
 Phone: (415) 425-7795  
 Website: [https://www.iggysplace.com/](https://www.iggysplace.com/)  
-[View on Google Maps](https://maps.google.com/?cid=124554324259638141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.775641199999995, -122.4966252
+[View on Google Maps](https://maps.google.com/?cid=124554324259638141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:30 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Stopped in on a whim, glad we did. Though, their Reuben is Corned Beef vs. Pastrami, I asked for a Hot Corned Beef sandwich with mustard and a Chicken Matzo soup (cup). The cups are generous, as are the sandwiches. A half should do just fine.
 Didn't have time to stick around, or we'd work through th..." — **Marc Milrod** (4 months ago)
 - ★★★★★ "Stopped by when my usual post-vet visit spot was closed and wow! What a find! Super friendly staff to start who welcomed me in from the street. I ordered the 1/2 matzo ball soup 1/2 turkey sandwich and was blown away. Amazing depth of flavor in the broth with nice pieces of chicken and a delectable ..." — **Jennifer Corbell** (3 weeks ago)
@@ -59,6 +60,3 @@ This place is amazing! I ordered the chicken matzo ball soup, the sardine sandwi
 
 Everything was just super delicious. The chicken matzo ball soup had a lot of flavor. Much better than some of the well known Jewish delis. The sardine sandwich had a nice comb..." — **Ken Wong** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

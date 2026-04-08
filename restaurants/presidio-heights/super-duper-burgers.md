@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Presidio Heights](index.html)
-
 # Super Duper Burgers
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 386 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 3401 California St, San Francisco, CA 94118, USA  
 Phone: (415) 214-3787  
 Website: [https://superduperburgers.com/](https://superduperburgers.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12386665576374047316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7865435, -122.4501961
+[View on Google Maps](https://maps.google.com/?cid=12386665576374047316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "This location of Super Duper is especially fresh for some reason. The employees are also super chill and nice. We ordered a double burger and when we got it, we realized it was a single. Before we could even turn around and tell them, they already realized their mistake and started re-prepping our b..." — **drawonnoodles** (a month ago)
 - ★★★★★ "Super, super, super duper burgers and everything else here.  A hometown hero for delicious, juicy and perfect burgers with fresh local ingredients.  The specialty burgers are terrific and the real deal — loving the Big Bay Burger that came out Jan 2026!" — **GodzillaSF** (a month ago)
 - ★★★★★ "Excellent smash burger — a Mini is enough, but why not go for a double-patty Super. French fries to perfection. House-made pickles, complimentary and a good palette cleanser that cuts through the beefy goodness.
@@ -58,6 +59,3 @@ This spot is conveniently located on the corner of California and Laurel with pa
 🍔 Truffle Burger
 I tried the Truffle Burger special, two ways: one with a regu..." — **Tommy Pak** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

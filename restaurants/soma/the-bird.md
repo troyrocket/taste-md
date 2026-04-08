@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # The Bird
 Buzzy counter-serve spot for chicken sandwiches, fries, wings, and beer.
 
 ## Cuisine
+
 **Restaurant** — sandwich shop
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 3,031 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 115 New Montgomery St, San Francisco, CA 94105, USA  
 Phone: (415) 872-9825  
 Website: [https://thebirdsf.com/](https://thebirdsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8469756796270387059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7872431, -122.40009870000002
+[View on Google Maps](https://maps.google.com/?cid=8469756796270387059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Wow, this was a mighty fine chicken sandwich! I ordered the fried chicken sandwich, and the breading was wonderfullly crispy and herbaceous, the chicken was hot and juicy, and the slaw topping was crisp and paired perfectly with the chicken. Their curly fries were well-seasoned and crispy. Portions ..." — **Erick Tseng** (3 weeks ago)
 - ★★★★ "Saturday dinner:(~6.30 pm) a few times🔥
 
@@ -62,6 +63,3 @@ Recommended!" — **SOM SANGMANEEDEJ** (2 months ago)
 - ★★★★★ "​I finally tried the original fried chicken sandwich here, and I’m officially a fan. I actually ordered it to-go, and I was seriously impressed that the chicken stayed incredibly crispy and flavorful even after the drive home.
 ​The curly fries were the perfect side—well-seasoned and fun to eat. One ..." — **Caroline Hung** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

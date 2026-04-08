@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Garden House Cafe
 Homey counter-service cafe offering sandwiches & sweets plus an outdoor back patio.
 
 ## Cuisine
+
 **Cafe** — cafe, brunch restaurant, breakfast restaurant, sandwich shop
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 439 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 
 3117 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 668-1640  
-[View on Google Maps](https://maps.google.com/?cid=18176808500880137965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7814994, -122.4927383
+[View on Google Maps](https://maps.google.com/?cid=18176808500880137965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 5:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Good food great vibes. Cash or Zelle only. There is an ATM inside.
 
 Our group came here after a hike nearby. The owner is friendly. Underrated cute space. The patio is beautiful, with tables surrounded by trees. Service was slow because it was just the owner and one other person but it didn’t matter..." — **L** (11 months ago)
@@ -60,6 +61,3 @@ Note: cash or Zelle only." — **C** (11 months ago)
 
 Only complaint was that we waited SO long for a salad & a sandwich (that was shared between 2 people). It wasn’t busy at the time we went, only 1 other pair of patrons ahead of us yet w..." — **Helen** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

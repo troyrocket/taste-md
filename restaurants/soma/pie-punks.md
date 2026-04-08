@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Pie Punks
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 643 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 145 2nd St, San Francisco, CA 94105, USA  
 Phone: (415) 535-2898  
 Website: [http://www.piepunkssf.com/](http://www.piepunkssf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=990038218951216639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7875454, -122.39896710000001
+[View on Google Maps](https://maps.google.com/?cid=990038218951216639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came here with a group of 6 and was seated immediately!
 
 Good:
@@ -62,6 +63,3 @@ Bad:
 - ★★★★ "Convenient location for a pizza bite after happy hour. They have a variety of pies. My favorite was their normal grandma slice - the classic. Love the tomato and basil combo. The bottom was very crispy and crunchy. I’ve tried their vodka martini and I wasn’t a a big fan of the olives because it was ..." — **RC** (2 months ago)
 - ★★★★ "This seems to be a bar turned pizza joint/bar. Atmosphere is great if you want a casual, somewhat noisy vibe. Quiet and romantic it is not. Fun it is. There are several TV's playing quirky movies, and music playing too. Pizzas are interesting. I come from east coast where thin crust is the norm. Pie..." — **Brad Morris** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

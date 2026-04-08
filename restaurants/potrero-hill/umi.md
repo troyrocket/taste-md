@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Umi
 Cozy sushi bar serving sustainably sourced rolls & Japanese small plates with a long list of sakes.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 313 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 1328 18th St, San Francisco, CA 94107, USA  
 Phone: (415) 355-1328  
 Website: [http://www.umisf.com/](http://www.umisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13612891367483675143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.762729900000004, -122.39614949999999
+[View on Google Maps](https://maps.google.com/?cid=13612891367483675143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The miso soup was forgettable, but I enjoyed the sashimi (chefs choice).
 
 The maki toll (spicy tuna) was quite disappointing, maybe we could’ve got something more flavorful and extravagant.
@@ -62,6 +63,3 @@ Super recommended! 🇯🇵" — **Paola Virrueta** (5 months ago)
 Tried my friends nigiri which was goo..." — **Michael Lieb** (a month ago)
 - ★★★★ "Small neighborhood sushi place that hits the spot and doesn't drain the wallet. Sure the rice could use a bit of work but the fish is fresh and tasty, I can always get a table, and service is friendly. There's usually enough parking in the area so it is rarely a problem but you could also take the M..." — **Sze Yen Chan** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

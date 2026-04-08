@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Gola Restaurant SF
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 191 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 819 Valencia St, San Francisco, CA 94110, USA  
 Phone: (415) 876-1757  
 Website: [http://www.golarestaurantsf.com/](http://www.golarestaurantsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17909772679170666464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7597582, -122.42120919999999
+[View on Google Maps](https://maps.google.com/?cid=17909772679170666464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We came to GOLA as a group of family and friends, and since the menu isn’t too big, we decided to try almost everything — and honestly, every single dish was amazing.
 
 From the lamb and chicken tagines to the grilled branzino and stuffed peppers, everything was full of rich, authentic Tunisian flavo..." — **Ciwan Jan** (5 months ago)
@@ -65,6 +66,3 @@ We have lots of options ..." — **Wendy-Kay Logan** (3 months ago)
 
 The dessert was t..." — **Hamm Khoudary** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

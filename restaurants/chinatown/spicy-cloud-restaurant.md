@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # spicy & cloud restaurant
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 194 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 823 Clay St, San Francisco, CA 94108, USA  
 Phone: (415) 398-6883  
 Website: [https://www.spicycloudrestaurant.com/](https://www.spicycloudrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9720138646582347087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7941484, -122.4066713
+[View on Google Maps](https://maps.google.com/?cid=9720138646582347087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Parking:** Paid street parking · Paid garage parking
 
 ## What Diners Say
+
 - ★★★★★ "Absolutely delicious. Spicy Perfection!
 Good flavors that keep you coming back for more! We ordered 4 dishes and we loved them all. The food looks good, smells good and tested amazing! The service was friendly and the portions are generous. I would recommend this place for a family gatherings. My fa..." — **Jun Yang** (5 months ago)
 - ★★★★ "Affordable homemade feel Chinese food great at the restaurant and delivery.
@@ -59,6 +60,3 @@ I would recommend..." — **Carter Denny** (6 months ago)
 
 We ordered the spicy sliced beef and tripe, wok-fried spicy pork intestines with chili, and ..." — **Alice Hou** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

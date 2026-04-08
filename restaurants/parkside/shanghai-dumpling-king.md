@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Shanghai Dumpling King
 This relaxed eatery specializes in Chinese dumplings & buns, but offers a full menu of entrees.
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 577 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 696 Monterey Blvd, San Francisco, CA 94127, USA  
 Phone: (415) 585-1300  
 Website: [https://shanghaidumplingkingmenu.com/](https://shanghaidumplingkingmenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4595635695277696629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7318139, -122.4510143
+[View on Google Maps](https://maps.google.com/?cid=4595635695277696629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I love this place and coming back. The server is always nice when ever I come back.
 
 You come here for the food~ their soup dumpling is to die for.
@@ -60,6 +61,3 @@ We got the honey walnut shrimp." — **Amy Ung** (2 months ago)
 Now if this is the vibe you’re going for, then perhaps you will en..." — **Christina** (a year ago)
 - ★ "The food is too salty and oily for my family and I. My parents blood pressure increased significantly after eating here because of the high salt. The quality of the food is mediocre. The bathroom is decent, not extremely disgusting like the ones in Chinatown. Restaurant is quiet, no loud music playi..." — **Super Superman** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

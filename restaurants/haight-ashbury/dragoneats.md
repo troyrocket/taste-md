@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # DragonEats
 Vietnamese spot turning out rolls, bowls & banh mi sandwiches in a small, laid-back space.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 425 reviews
 
 ## Dining Options
@@ -23,8 +24,7 @@ $
 1671 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 522-6689  
 Website: [http://www.dragoneats.com/](http://www.dragoneats.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15405078368960144050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.769494, -122.45011040000001
+[View on Google Maps](https://maps.google.com/?cid=15405078368960144050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 11:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "I really liked the Thai Ice tea. Some places fill your whole cup with too much ice. This place had just the right amount of ice not overly icy just enough and enough condensed milk in there and not overly sweet. I really enjoyed it and I would definitely buy another tie ice tea every time I walk by ..." — **1QTpie** (a month ago)
 - ★★★ "The Thai coffee was very strong, sweet and flavorful. I was looking forward to try the roasted duck banh-mi  sandwich, the bread was very light and crispy, and have plenty of roasted duck.
 
@@ -53,6 +54,3 @@ But I wish the bread was more chewy and less dry, there were lots of duck meat, 
 
 From the moment you approach the counter, you’re greeted by a gracious woman whose warmth feels instinctive rather than rehearsed, polite, attentive, a..." — **SERGIO OCAMPO JR** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

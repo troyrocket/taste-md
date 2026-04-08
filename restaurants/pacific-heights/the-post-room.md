@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # The Post Room
 
 ## Cuisine
+
 **Restaurant** — lounge bar, night club, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 94 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 450 Powell St, San Francisco, CA 94102, USA  
 Phone: (415) 395-8516  
 Website: [https://www.beacongrand.com/dine-drink](https://www.beacongrand.com/dine-drink)  
-[View on Google Maps](https://maps.google.com/?cid=16263477100397605597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7889711, -122.40841239999999
+[View on Google Maps](https://maps.google.com/?cid=16263477100397605597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 7:00 – 11:00 AM, 11:30 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I went to post room for thanksgiving 2025 with our friends . We had a special thanksgiving menu . Everything was really good! We had squash soup, salad , fish, breast turkey , and steak , everything was delicious .
 The staff were very friendly and very helpful.
 Definitely we are gonna come back for ..." — **Marilia Madrid** (4 months ago)
@@ -55,6 +56,3 @@ They were both so wonderful, accommodating, and attentive. It really makes a dif
 - ★★★★★ "We had a group gathering over a afternoon tea and the Service Lance coordinated was wonderful. The atmosphere was lovely but not gooey and holiday loaded. We thought the service for tea was spot on and our guests enjoyed both full sweet and savory stacked trays as well as gluten free. The tea smelli..." — **Erica Kodiyan** (3 months ago)
 - ★★★ "My partner and I came for a high tea date. The Beacon Grand has lovely 1920s architecture, and the presentation of the high tea was very nice. But while the food and tea tasted ok they were not amazing. For $105 per person (plus mandatory 20% gratuity, plus tax) they could have done better. The sand..." — **Anna Fero** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

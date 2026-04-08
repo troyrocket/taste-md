@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Champa Garden Restaurant
 Thai & Laotian specialties served in a simple dining room decorated with Asian motifs.
 
 ## Cuisine
+
 **Restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 428 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 613 Faxon Ave, San Francisco, CA 94112, USA  
 Phone: (415) 349-4186  
 Website: [https://champagardensf.com/](https://champagardensf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15332706772634842217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7250683, -122.46009139999998
+[View on Google Maps](https://maps.google.com/?cid=15332706772634842217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "This is an Asian fusion restaurant that serves solid Thai and Laotian cuisine at decent prices.
 
 The Food:
@@ -73,6 +74,3 @@ Ambiance: 4/5 - A decent amount of seating.
 P..." — **Spencer Q** (10 months ago)
 - ★★★★ "The mango curry with shrimp was delicious? Big surprise ther, loved that, and the basil fried rice was also very solid. Also enjoyed the mushroom soup it had a wonderful garlic taste. Panang curry was 7/10. We got the lao Thai style salad with tofu and personally like a 4/10, the onion is very stron..." — **Maggie Driggs** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

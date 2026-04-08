@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Holy Water
 Relaxed tavern pouring classic cocktails & craft beers in a rustic space with religious decor.
 
 ## Cuisine
+
 **Bar** — bar, cocktail bar, pub
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 608 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for groups · Dog-friendly · Restroom available
 
 309 Cortland Ave, San Francisco, CA 94110, USA  
 Website: [http://www.holywatersf.com/](http://www.holywatersf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5243205032343571509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.739413, -122.41825589999999
+[View on Google Maps](https://maps.google.com/?cid=5243205032343571509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 3:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Come here and give your prayers to Holy Church. 🙏😜. Great neighborhood bar. Great atmosphere. Great selection of drinks with religious inspired names. Great place for a Friday happy hour after work with good company 😉" — **Agustin Farias** (2 months ago)
 - ★★★★★ "Stopped into Holy Water in San Francisco to meet a friend before dinner, and it was perfect. We grabbed seats at the bar and could easily catch up — not loud at all, just a relaxed neighborhood vibe. It definitely seems like a local favorite; as we were heading out, we passed at least four dogs, and..." — **Sean McGinnis** (4 months ago)
 - ★★★★★ "A favorite always! I used to live in the neighborhood but will always come back and hang at Holy Water. They put so much thought into their cocktails, tap list, decor, menus, glassware — it’s just a whole moody vibe and they continue to get better as time goes on." — **Kathleen M.** (7 months ago)
@@ -52,6 +53,3 @@ Sunday: 3:00 PM – 12:00 AM
 No it was not some long haired patron but instead this awesome themed bar in San Francisco. This place had a nice chill vibe despite being crazy busy. We were still able to find some decent seats and bask in the glow of good old JC. The pl..." — **Gregg Rudes** (2 months ago)
 - ★★★★★ "Fall on your knees! O hear the angel voices! Or, you know, pull up a stool and order a drink. An exceptional cocktail can feel like a religious experience, and you will certainly have one here. Phenomenal cocktails, great craft beer selection, highly skilled and friendly staff, and just a casual amo..." — **A.C. Antonelli** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

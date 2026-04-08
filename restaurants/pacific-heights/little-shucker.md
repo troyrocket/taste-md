@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # little shucker
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.2 stars — 258 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Restroom available
 
 2016 Fillmore St, San Francisco, CA 94115, USA  
 Website: [http://littleshucker.com/](http://littleshucker.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4354278832262850005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7882506, -122.43353239999998
+[View on Google Maps](https://maps.google.com/?cid=4354278832262850005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Came here for a small Saturday lunch. It was crowded and we didn’t have a reservation, but they got us a table pretty quickly.
 
 Started with a half dozen oysters, two of each kind. They were fresh and good, but honestly I couldn’t really tell the difference between the types. They came with a green ..." — **Sriharsha A.** (a month ago)
@@ -59,6 +60,3 @@ I shared the big Shucker platter with my partner and it was more than enough for
 
 Highlights for me were ..." — **Loretto Perez, Jr.** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

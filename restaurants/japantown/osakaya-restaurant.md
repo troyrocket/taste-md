@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Osakaya Restaurant
 Japanese noodle soups, sushi & traditional plates in a no-frills Japantown eatery.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 3.5 stars — 344 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1737 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 922-2728  
 Website: [https://osakayarestaurant.site/](https://osakayarestaurant.site/)  
-[View on Google Maps](https://maps.google.com/?cid=10221371499173705314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7852083, -122.4304806
+[View on Google Maps](https://maps.google.com/?cid=10221371499173705314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Tried the tonkotsu ramen, miso ramen, chicken yakitori, and a salmon roll.
 Overall, the meal was disappointing.
 
@@ -60,6 +61,3 @@ Not sure I’d..." — **AJ** (4 months ago)
 
 What is going on with the staff here? We were seated at a table that was too small for my disability, and when I asked if another spot was available, the first woman immediately yelled “no” in my face. I pointed to an open table that clearly fit two people, and she insiste..." — **Bay-Area Public Witness** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

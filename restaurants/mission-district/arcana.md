@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Arcana
 
 ## Cuisine
+
 **Wine bar** — wine bar, californian restaurant, wedding venue, american restaurant, live music venue, event venue, bar, service
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 271 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Dog-friendl
 
 2512 Mission St, San Francisco, CA 94110, USA  
 Website: [http://www.arcanasf.com/](http://www.arcanasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7480995183221924552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7567705, -122.41907209999998
+[View on Google Maps](https://maps.google.com/?cid=7480995183221924552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 2:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Stylishly smart surroundings found at this natural wine bar on Mission. Revolving art shows rotate through on concrete walls made soft by copious amounts of living plants and mosses.
 
 An architectural treat for the design conscious. A respectful homage to the craftsmanship found in everyday construc..." — **Christopher Chung** (4 months ago)
@@ -53,6 +54,3 @@ An architectural treat for the design conscious. A respectful homage to the craf
 - ★★★★★ "Arcana has a really cool, laid-back vibe that makes it easy to settle in and stay awhile. The space feels warm and stylish with all the greenery and open layout, and the natural wine selection is interesting without being intimidating. We shared a couple of small bites with our glasses and everythin..." — **Arash Amiri** (a month ago)
 - ★★★★★ "Visited Arcana recently and really appreciated the atmosphere and attention to detail in the space. The layout feels open and thoughtfully designed, creating a comfortable setting to spend a few hours. The wine list highlights smaller producers and offers some interesting choices that you don’t usua..." — **saeideh Sadeghzadeh** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

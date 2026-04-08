@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Presidio Heights](index.html)
-
 # Barista Coffee & Brunch
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, brunch restaurant, bagel shop, breakfast restaurant, bakery, banquet hall, cafe, event venue
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.8 stars — 391 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 3313 Sacramento St, San Francisco, CA 94118, USA  
 Phone: (415) 875-9270  
 Website: [http://www.baristasf.com/](http://www.baristasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15393525608094965858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7879886, -122.44727479999999
+[View on Google Maps](https://maps.google.com/?cid=15393525608094965858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Nice little local spot for a good cup of coffee. The service is exceptional and quick! Place gets a bit overwhelmed by the high school crowd after school hours so recommend coming in the morning to maximize the experience." — **S R** (4 months ago)
 - ★★★★★ "I got the breakfast sandwich with avocado, toasts, and cucumber, pistachio latte and everything was great! Nice playlist and atmosphere 5/5" — **Keedrick Dangerfield** (3 weeks ago)
 - ★★★★★ "Delicious crepes with different fillings.
@@ -60,6 +61,3 @@ Cappuccino: The coffee packs a punch. It’s not the smoothest foam-wise, but it
 
 Came in a 2nd time- my date loved this place and wanted to go there again. We got..." — **Vasya** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

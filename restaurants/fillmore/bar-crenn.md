@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Fillmore](index.html)
-
 # Bar Crenn
 Intimate, elegant space inspired by a Japanese listening bar serving craft cocktails.
 
 ## Cuisine
+
 **Bar** — bar
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.6 stars — 233 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 3131 Fillmore St, San Francisco, CA 94123, USA  
 Phone: (415) 440-0460  
 Website: [https://www.barcrenn.com/](https://www.barcrenn.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14227935670952032827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7983812, -122.4361462
+[View on Google Maps](https://maps.google.com/?cid=14227935670952032827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "I adore a comfortable bar seat, and Bar Crenn has created a cozy space to engage with the staff and fellow diners. One of the best tasting menus I've enjoyed.
 Lucky enough to be seated with an amazing group who were just as awed by the experience. Dishes and wine pairings were phenomenal, and the so..." — **Vanessa Von Wagner** (3 months ago)
 - ★★★★★ "Absolute Gem of a Bar;
@@ -58,6 +59,3 @@ Inside felt like entering a cozy Japanese sanctuary dedicated to music lovers. T
 
 No..." — **Irina Romero** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Hook Fish Co
 Mellow, neighborhood fish market & counter-serve seafood shack offering beers & wines.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant, market, cafe
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 2,673 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 4542 Irving St, San Francisco, CA 94122, USA  
 Phone: (628) 256-0454  
 Website: [http://hookfishco.com/](http://hookfishco.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9378627027085325305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.762408, -122.50687099999998
+[View on Google Maps](https://maps.google.com/?cid=9378627027085325305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Hook Fish Co is a very good place to eat a good fish and chip with excellent fries that are well done and seasoned. The wating time is about 20-40 min on rush hours but is is worth it. There is limited parking in front of the restaurant so you will need to find street parking. There are only outside..." — **hangnath64 hangnath64** (2 months ago)
 - ★★★★ "Hook Fish absolutely lives up to the hype. We ordered the ceviche and chips, poke and chips, poke tacos, and grilled fish tacos—and everything was sooooo fresh and incredibly delicious. This is the kind of seafood that tastes clean, bright, and straight from the ocean.
 The restaurant is entirely out..." — **Kelsey Kaiser** (2 months ago)
@@ -58,6 +59,3 @@ I orderd Fish and Chips, and it was good! Crispy batter and juicy fish. The incl
 Overall, I want to try them again and enjoy ..." — **Angelito M** (2 months ago)
 - ★★★★★ "Hook Fish Co. is a cool little counter-style spot with outdoor seating and a fun, lively vibe. I got the fish and chips with black cod—you can choose any of their fish to be battered, which is awesome. The batter was super crispy, seasoned perfectly, and the fish just melted in my mouth. They also h..." — **Kevin Drost** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

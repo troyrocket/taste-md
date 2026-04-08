@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # King of Thai Noodle House
 Basic Thai chain spot open into the wee hours that serves noodles and curries to go or to stay.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 1,527 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 184 O'Farrell St, San Francisco, CA 94102, USA  
 Phone: (415) 677-9991  
 Website: [http://www.kingofthainoodlesf.com/](http://www.kingofthainoodlesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=420665342383100854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.786657399999996, -122.4077765
+[View on Google Maps](https://maps.google.com/?cid=420665342383100854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The restaurant has a very open layout with tiled floors, giving it a somewhat public-kitchen feel. Our table was rocking and quite unstable, which was a bit distracting.
 Service was quick and friendly throughout the visit.
 The food, however, was excellent vibrant and full of flavor. The papaya salad..." — **J B** (3 weeks ago)
@@ -62,6 +63,3 @@ Great service, the server was very kind and the food came out super fast!
 
 Overall great restaurant, highly recommend." — **yessenia duran** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

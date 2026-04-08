@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Macondray
 A chic cocktail den with highbrow bar bites, including oysters & New England-inspired seafood.
 
 ## Cuisine
+
 **Cocktail bar** — cocktail bar, meal takeaway, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 254 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 2209 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 829-3464  
 Website: [http://www.macondraysf.com/](http://www.macondraysf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4954395560509381105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797113599999996, -122.42219039999999
+[View on Google Maps](https://maps.google.com/?cid=4954395560509381105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 2:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Came in with a big group on a Sunday night for a birthday without a reservation. We ordered tons of food (loved the fries!) and drinks and everything was delicious! The waiter and bartender were phenomenal—super kind and attentive. Great experience." — **Joshua Keihl** (4 weeks ago)
 - ★★ "Amazing place, just had a few issues. A server was rude to me and the oysters I had were terrible.
 
@@ -59,6 +60,3 @@ Despite the rain I'm happy I di..." — **R M** (a year ago)
 
 We sat at the bar as all of the tables were full shortly after happy hour on a Friday. Hit me baby one more thyme was both of our favorites. The oysters were fresh and the toppings were flavorful. The oysters were great, I just expect..." — **Emilie Sark** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

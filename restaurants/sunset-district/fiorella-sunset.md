@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Fiorella Sunset
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 460 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 1240 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 404-6997  
 Website: [http://www.fiorella-sf.com/](http://www.fiorella-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3202976836462053693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7651584, -122.4661957
+[View on Google Maps](https://maps.google.com/?cid=3202976836462053693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We celebrated a birthday with a group of 10 adults and 2 babies, and this restaurant truly went above and beyond from start to finish. They seated us at a long table by the fireplace and even accommodated our two strollers neatly out of the way.
 
 We began with the East Coast Chopped Salad and the OC..." — **Debbie Gin** (3 weeks ago)
@@ -55,6 +56,3 @@ We began with the East Coast Chopped Salad and the OC..." — **Debbie Gin** (3 
 - ★★★★★ "Everything was amazing. Nona's Meatballs were ALMOST as good as my Nona's!!!!!! Rich and flavorful and NOT dry. I got the Mushroom pizza because it was on Every table! And it was divine. And if you ask...they have a homemade dill ranch to dip - as my son said delightfully- "This is the BEST pizza cr..." — **Laura Furumoto** (7 months ago)
 - ★★★★★ "Wow! Loved this spot and will be coming back. Their meatballs were incredible. You can tell that they care a lot about the flavor and textures into their dishes. I booked reservations in OpenTable was super convenient. They don’t take gratuity on our 6 person table. Also plus points for their themed..." — **Patricia F** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

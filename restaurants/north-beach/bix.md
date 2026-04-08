@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Bix
 Supper club with a swanky 1930s ambiance, live jazz & a dining room serving American-French cuisine.
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant, live music venue, american restaurant, event venue, night club, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 1,280 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Restroom available
 56 Gold St, San Francisco, CA 94133, USA  
 Phone: (415) 433-6300  
 Website: [http://www.bixrestaurant.com/](http://www.bixrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14672906673129886097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7968712, -122.40292980000001
+[View on Google Maps](https://maps.google.com/?cid=14672906673129886097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "While I'm not one to dine in a fine dine establishment. This was definitely an experience worth trying!
 
 Went here for a Bday dinner. Was a little hesitant at first. But everything flowed smoothly. From the waiter, to the atmosphere, the food, and the experience was well spent." — **Naret T** (a month ago)
@@ -58,6 +59,3 @@ There was a live jazz band, which added a great touch, but the noise level d..."
 - ★★★★★ "We keep coming back for special occasions,  a bit pricey, food delicious. Both my husband and I always get the lobster spaghetti, they didnt have POM juice for a Martinee but were accommodating and made one with fresh watermelon juice. Great customer service,  1 waiter per 2 tables." — **Mari Heredia** (6 months ago)
 - ★★★★★ "Tens across the board. Came here with my husband the other night without a reservation. We were having our first night away from our baby together and he found this place. At first we were just going for drinks, but the hostess was kind enough to accommodate us and found us a table. From the moment ..." — **Karyn Kennedy** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

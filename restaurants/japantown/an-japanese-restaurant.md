@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # An | Japanese Restaurant
 Snug Japanese eatery with an upscale vibe offering an omakase menu & sushi, plus sake & spirits.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, sushi restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.8 stars — 171 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 22 Peace Plaza, #510 2nd Floor, San Francisco, CA 94115, USA  
 Phone: (415) 886-5885  
 Website: [http://sushiansf.com/](http://sushiansf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7067238366867392462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7851341, -122.42919599999999
+[View on Google Maps](https://maps.google.com/?cid=7067238366867392462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Amazing food great service staff. I had the chef omakase, the chef was very kind and personable he told me about that he was a chef for 25 years originally in Japan.
 
 He explained all the dishes and treated me very well for it being my first time trying sushi and authentic Japanese food. I would rec..." — **Xero Coop** (a month ago)
@@ -59,6 +60,3 @@ A big plus for the beautiful china, decorations were del..." — **Sebastiano** 
 - ★★★★★ "5 stars cuz new family biz. Good value, I think new owners will eventually be able to carry on An’s tradition of providing access to seasonal fish at a reasonable price." — **Worpal (ThanLastTime)** (4 months ago)
 - ★★★★★ "The quality of the food was exceptional, and the restaurant’s cozy ambiance made the whole experience even better. I’m already looking forward to my next visit." — **Anlin** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

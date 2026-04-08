@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Old Jerusalem Restaurant
 Neighborhood mainstay with interior murals & outdoor seating that serves Middle Eastern fare.
 
 ## Cuisine
+
 **Middle Eastern restaurant** — middle eastern restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,261 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 2966 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 642-5958  
 Website: [https://www.oldjerusalem.co/](https://www.oldjerusalem.co/)  
-[View on Google Maps](https://maps.google.com/?cid=16690411774610381805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7495007, -122.41842179999999
+[View on Google Maps](https://maps.google.com/?cid=16690411774610381805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We had an absolutely fantastic family meal here.
 This place is a real gem.
 
@@ -63,6 +64,3 @@ Good atmosphere and great service. Thanks!" — **Nafees Shaik** (4 months ago)
 
 Also, trust me on this, yo..." — **Krysia Pietraszkiewicz** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

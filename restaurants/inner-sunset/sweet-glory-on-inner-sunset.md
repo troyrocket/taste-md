@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Sweet Glory on Inner Sunset
 
 ## Cuisine
+
 **Dessert restaurant** — dessert restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 365 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for kids · Restroom available
 1336 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 569-6395  
 Website: [https://www.sweetglorysf.com/](https://www.sweetglorysf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11525510325098571958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7633797, -122.46607660000001
+[View on Google Maps](https://maps.google.com/?cid=11525510325098571958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "very cute dessert shop in a bustling area! me and my friends went in for the crepe cakes and drinks and it was a nice place to sit down and talk to friends. i will say that their prices are a bit on the pricy end for crepe cakes ($12 for one piece), but ended up being more filling than we expected
 
 ..." — **Juliana Li** (4 weeks ago)
@@ -55,6 +56,3 @@ Starting off with the drinks, I had the Iced Matcha Latte, Iced Hojicha Latte, a
 - ★★★★★ "What a thrill to find this place! The crepe cake  tastes very heavenly and was made beaitifully. I had the biscoff cookie cake and my mouth was on cloud nine. The ambience and the store was very warm and the whole atmosphere was cute and warm. I highly recommend the oolong tea in a pot as it was ver..." — **stephaney wilson** (2 months ago)
 - ★★★★★ "What a hidden gem! This spot is perfect for anyone looking for unique flavors and a quiet atmosphere. The Pandan crepe cake is a must-try—absolutely delicious and pairs beautifully with their Genmaicha. I loved the serene vibe and the adorable back patio. It's the perfect hidden escape for a tea bre..." — **Alyssa Huang** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

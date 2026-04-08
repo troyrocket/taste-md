@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Tartine Inner Sunset
 
 ## Cuisine
+
 **Breakfast restaurant** — breakfast restaurant, bakery, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 691 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1226 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 742-5005  
 Website: [https://tartinebakery.com/san-francisco/inner-sunset](https://tartinebakery.com/san-francisco/inner-sunset)  
-[View on Google Maps](https://maps.google.com/?cid=2483138551609238955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7653542, -122.4662558
+[View on Google Maps](https://maps.google.com/?cid=2483138551609238955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We got wild mushrooms grilled cheese sandwich, hot chocolate, and cold brew cost us around $39 including tip. For someone who has small appetite this serving is good for 2.
 
 I like the vibe of this place specially in the morning. You have the option to choose for indoor or alfresco dining." — **Jen** (3 weeks ago)
@@ -61,6 +62,3 @@ The bread is great. Not sure about the jam. They said it is strawberry..." — *
 
 Unfortunately, the slice of cake I bought wasn’..." — **stefany leui** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

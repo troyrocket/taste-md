@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # The Happy Crane
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 116 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 451 Gough St, San Francisco, CA 94102, USA  
 Phone: (415) 610-1823  
 Website: [https://thehappycranesf.com/](https://thehappycranesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7771351813149830286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7774909, -122.42330030000001
+[View on Google Maps](https://maps.google.com/?cid=7771351813149830286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Finally got to try The Happy Crane, and was fortunate enough to snag a seating for their highly anticipated CNY collab with Sun Moon Studio.
 
 Amazing menu, featuring the house specials of each restaurant. Loved their creative takes on traditional Chinese dishes. Favorite bites included their collab ..." — **Joanne Yuen** (a month ago)
@@ -58,6 +59,3 @@ The Happy Crane isn’t just a food destination, it’s a journey!
 This is my third visit. I was convinced something was amazingly different with almost every dish. Jackie and Justin validated my observation. Chef made tweaks to take these dishes to the next level. The robust flavors were pour..." — **Lu See Kwik** (3 months ago)
 - ★★★★★ "I saw some comments saying they were overpriced. At least I felt quite satisfied with the meal and service. From Hong Kong but I acknowledged that they made dome twist to make me feel special and I definitely appreciate the service AND FOOD! It’s giving reminiscent of my childhood but a classy versi..." — **Danny Danisk** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Burma Love
 From the Burma Superstar group comes this elegant, bi-level eatery for Burmese favorites & drinks.
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 853 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 8 Mint Plaza, San Francisco, CA 94103, USA  
 Phone: (415) 764-4965  
 Website: [https://www.burmalove.co/](https://www.burmalove.co/)  
-[View on Google Maps](https://maps.google.com/?cid=9105128907468650161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7828996, -122.40785829999999
+[View on Google Maps](https://maps.google.com/?cid=9105128907468650161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We came to the Burma Love near the old SF mint for lunch on a Sunday. We had a reservation but I think a walk-in would have been just fine without a wait. We absolutely loved the food - everything from the platha to the tea leaf salad to the mango chicken. Just the right level of coconut spiciness a..." — **Vikram** (3 months ago)
 - ★★★★★ "This was my first time trying Burmese food. And heard really good about this place. And they did stand up to their praise.
 Went here with my family and we ordered the Burma veg samosa soup, Fiery Tofu, Burma love fresh mint-chicken and coconut rice.
@@ -58,6 +59,3 @@ Burma veg samosa soup was really something differe..." — **Ananya Dan** (3 mon
 The fo..." — **Key Manning** (7 months ago)
 - ★★★★★ "This restaurant had two gracious hosts who answered all of our many questions. They had so many delicious options on the menu that I and 7 other friends had a tough time choosing food; however, our server was patient. We started with drinks (highly recommend their lychee cocktail) and the appetizer ..." — **Carmen T. Mendoza** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

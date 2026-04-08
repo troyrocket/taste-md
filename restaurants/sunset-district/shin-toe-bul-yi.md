@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Shin Toe Bul Yi
 Bustling, no-frills storefront serving Korean cuisine including barbecue, soups & fried chicken.
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 166 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 
 2001 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 566-9221  
-[View on Google Maps](https://maps.google.com/?cid=5635684219211419175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742399, -122.48768299999999
+[View on Google Maps](https://maps.google.com/?cid=5635684219211419175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "They have hours to serve Lunch and Dinner. This place will be my go to restaurant for Korean authentic! Went there for dinner they open at 6-9pm. The chicken is perfectly cooked, crunchy and moist inside! Went used Muni L-traval(recommended) If you are using car then it’s only street parking." — **jili sembrano** (2 months ago)
 - ★★★ "I came here excited to try a few dishes, but overall the food fell short for me.
 
@@ -54,6 +55,3 @@ We ordered the fried chicken, which looked great coming out, but the meat was on
 - ★★★★★ "The best Korean restaurant on the block! It is a family-owned business, and there was a period of time when I came here almost every day. Every item on the menu is delicious—you truly cannot beat the bibimbap and bulgogi!" — **Evan** (2 months ago)
 - ★★★★★ "They’re now open for dine-in service on Fridays and Saturdays! This modest, family-run gem sits right beside the Taraval line. The mother and father lovingly prepare each dish in the kitchen, while their daughter handles the front of the house, ensuring that customers feel right at home. I’ve tried ..." — **Nansee KP** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Banan - Noe Valley
 
 ## Cuisine
+
 **Dessert shop** — dessert shop, acai shop, brazilian restaurant, confectionery, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 117 reviews
 
 ## Dining Options
@@ -20,8 +21,7 @@ $
 3862 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 872-7956  
 Website: [https://banan.co/](https://banan.co/)  
-[View on Google Maps](https://maps.google.com/?cid=6714425212192790805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.751722, -122.42886249999998
+[View on Google Maps](https://maps.google.com/?cid=6714425212192790805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -39,6 +39,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "This place is such a refreshing find! Tucked right in the heart of Noe Valley, it’s bright, clean, and full of good energy — the kind of spot that instantly lifts your mood. The smoothies and bowls here go way beyond the basics — they’re creative, nutrient-dense, and actually taste amazing.
 
 The Man..." — **Sarah Nguyen** (5 months ago)
@@ -47,6 +48,3 @@ The Man..." — **Sarah Nguyen** (5 months ago)
 - ★★★★★ "Exciting to have a full dairy free soft serve in Noe Valley! I tried the banana brûlée and it was delicious. I want to try all their menu now!" — **Mireia Codina** (5 months ago)
 - ★★★★★ "I love this spot! Healthy fun vegan menu items for all. The banana brûlée is my favorite." — **Andrew Beauchesne** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

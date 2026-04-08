@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Cow Hollow](index.html)
-
 # Left Door
 
 ## Cuisine
+
 **Restaurant** — lounge bar, cocktail bar, wine bar, night club, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 145 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Restroom available
 1905 Union St, San Francisco, CA 94123, USA  
 Phone: (415) 295-2042  
 Website: [https://www.leftdoor.com/](https://www.leftdoor.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8713931793228561359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7975814, -122.43074870000001
+[View on Google Maps](https://maps.google.com/?cid=8713931793228561359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Bumping spot with a buzzing bar and pretty good martinis. The actual space was quite crowded on a Saturday which is understandable, but the hostess was awesome and very helpful with finding us a spot at the bar. I probably wouldn't prioritize coming back, but it was good time." — **Jeremy Yowell** (6 months ago)
 - ★★★★★ "Probably one of my favorite speakeasies in San Francisco. You have to get a reservation to get a table on the weekend, but otherwise you can order at the bar. Cocktails are pricey but amazing- definitely have to try the milk punch and espresso martini. Great for date nights and catching up with frie..." — **Linda** (8 months ago)
 - ★★★★★ "I recently discovered a one-of-a-kind speakeasy secretly nestled on Union Ave in the prime Cow Hollow area of San Francisco, and it offered one of the best experiences the city has to offer. On a Tuesday evening, the venue was bustling with professionals, creating an elegant and lively atmosphere. A..." — **Shauna Graham** (a year ago)
@@ -55,6 +56,3 @@ Sunday: 4:00 – 11:00 PM
 
 Bartender was lovely and accommodating, great cocktails. I’ll definitely be back!" — **Kels** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Poesia Cafe
 
 ## Cuisine
+
 **Bakery** — bakery, cake shop, meal takeaway, bar, coffee shop, cafe, wholesaler, food store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 176 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Outdoor seating · Restroom available
 
 4076 18th St Downstairs, San Francisco, CA 94114, USA  
 Website: [http://www.poesiacafesf.com/](http://www.poesiacafesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8800459615372494438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7610889, -122.4344028
+[View on Google Maps](https://maps.google.com/?cid=8800459615372494438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 8:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Nice Italian bakery. Better than many Italian places in North Beach. I had the cappuccino and the Muffin Coffee Pecan Praline. Both were great but the muffin lacked the coffee taste!
 
 Great atmosphere and nice service!" — **Jaskaran Virdi** (2 months ago)
@@ -56,6 +57,3 @@ Ready-to-go Italian sandwiches served on housemade focaccia are solid. A simple 
 As I entered the individual behind the cash register greeted me with a big smile and welcomed me to the ..." — **Adam Gomez** (7 months ago)
 - ★★★★★ "Great place for a coffee sandwich or pastry. Great service. Easy to walk past so keep your eye open." — **Ben Carter** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

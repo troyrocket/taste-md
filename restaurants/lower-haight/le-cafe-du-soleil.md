@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Lower Haight](index.html)
-
 # Le Cafe du Soleil
 Pastries, Parisian-inspired fare, coffee & wine served in a corner bistro with sidewalk tables.
 
 ## Cuisine
+
 **Cafe** — cafe, breakfast restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 680 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 400 Waller St, San Francisco, CA 94117, USA  
 Phone: (415) 829-7935  
 Website: [https://www.lecafedusoleilsf.com/](https://www.lecafedusoleilsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6180844298539226253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7713355, -122.4304886
+[View on Google Maps](https://maps.google.com/?cid=6180844298539226253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Lovely corner cafe. Great smooth french music inside and plenty of space. We had their french toast, coffee, tea and an almond croissant and it was all very tasty. The service is very friendly, quick and attentive. We would definitely be back  :)" — **Carola Lepe Fernandez** (2 months ago)
 - ★★★★★ "Food was so good!!! Might be the best French toast I’ve had—perfect crust on the outside and almost custard-y inside. And the chicken bacon Gruyère sandwich was savory and delicious.
 
@@ -62,6 +63,3 @@ Great service and an unbeatable cafe vibe with plenty of outdoor seating and the
 I will definite..." — **gloria vazquez** (3 weeks ago)
 - ★★★★★ "This review is long overdue - I am ridiculously grateful this place exists :) Café du Soleil feels like a place that just... hugs you. It's such a cozy, welcoming spot and just feels good to be in. The coffee is always great, the food is fabulous, and the staff are all good people. It’s the kind of ..." — **Dora** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

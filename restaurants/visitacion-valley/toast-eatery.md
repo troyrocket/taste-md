@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Visitacion Valley](index.html)
-
 # Toast Eatery
 Diner grub bumped up a notch draws breakfast & lunch crowds to this casual neighborhood spot.
 
 ## Cuisine
+
 **Diner** — diner, brunch restaurant, coffee shop, cafe, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 393 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 160 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 566-2000  
 Website: [http://www.toastwestportal.com/](http://www.toastwestportal.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17185765484639299471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.739287, -122.4678045
+[View on Google Maps](https://maps.google.com/?cid=17185765484639299471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I had the BEST latte here! Staff was super nice and food was great. Definitely coming back again." — **J P** (3 months ago)
 - ★★★ "This is an average diner with not so great service. We will return and give them another try, but we weren't very impressed this time around.
 The eggs were cold, the waiter got three separate things wrong with our order and the food was just okay. It also took inordinately long for them to bring us ..." — **Doug Maner** (2 years ago)
@@ -55,6 +56,3 @@ The eggs were cold, the waiter got three separate things wrong with our order an
 - ★★★ "Met up with some friends for coffee.  Service was okay.  We had to look for another waiter to refill our coffee, since our waitress was too busy for us.  UPDATE:  Came here with my family this time.  Table wasn't clean very well and the reusable paper menus were dirty with grease/oil stains.  Food w..." — **John** (4 years ago)
 - ★★★★★ "This restaurant is always delicious; great French toast and chilaquiles!!!" — **Jesus Galaz-Montoya** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

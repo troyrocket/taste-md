@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Diamond Heights](index.html)
-
 # Jasmine Tea House
 Low-key eatery dishing up Chinese specialties including lunch specials, dim sum & meatless options.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, tea house, meal delivery, food delivery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 169 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 3259 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 826-6288  
 Website: [https://www.jasmineteahouseca.com/](https://www.jasmineteahouseca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13261362878261052186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7445857, -122.4201717
+[View on Google Maps](https://maps.google.com/?cid=13261362878261052186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Really great gem of a restaurant near mission district. Eat here with my crew regularly and never had a bad meal. Really sweet staff, great food comfortable atmosphere. Given them a try you’ll be happy!" — **Ken Olivencia** (a month ago)
 - ★★★★★ "First time come here。Service is very  good。The food is very Delicious⋯⋯ Next time is come back Try again．" — **Maggie Xiao** (6 months ago)
 - ★★★★★ "The flavors were just amazing. Fresh food for decent price. The restaurant needs a little attention. Once again, FOOD WAS AMAZING. We order dinner for two. Soup, egg rolls, and main dish for under twenty dollars. I am pretty sure that you won't be disappointed." — **The Ortega's** (9 months ago)
@@ -56,6 +57,3 @@ It was overall just below average. Got some beef fried rice, ginger fish, wonton
 Its always a gamble ordering Chinese food the first time anywhere because y..." — **James Deperalta** (6 months ago)
 - ★★★★★ "Food was great as always my Dad order a seafood soup and  and egg rolls he loves it, I order a white rice, walnut prawns and seafood chowmein it was deli delicious." — **Maria Guadalupe Martínez** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # New Taraval Cafe
 Bustling, cash-only diner whipping up traditional American breakfast plates in a compact space.
 
 ## Cuisine
+
 **Cafe** — cafe, diner, brunch restaurant, breakfast restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.7 stars — 644 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1054 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 731-3816  
 Website: [https://www.newtaravalcafe.com/](https://www.newtaravalcafe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8850910871117725023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.74310090000001, -122.47775
+[View on Google Maps](https://maps.google.com/?cid=8850910871117725023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:30 AM – 2:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This restaurant has truly become one of our favorite weekend breakfast spots as a family. From the moment you walk in, the service and atmosphere feel so friendly, cozy, and welcoming. The staff is always attentive and genuinely kind, which makes the experience even more special.
 
 The food is always..." — **Elsa Ramires** (a month ago)
@@ -54,6 +55,3 @@ The food is always..." — **Elsa Ramires** (a month ago)
 - ★★★★★ "This is my comfort place. I love breakfast food, and this is the where I go when I'm craving a good old fashioned corned-beef hash and potatoes. It's so good. Highly recommend Orlando's hot sauces. So much flavor and just enough kick. By FAR the best part of eating at NTC is getting a warm greeting ..." — **Curtis Chinn** (2 months ago)
 - ★★★★★ "our waitress was so nice! i got the eggs benedict and potatoes with cheddar cheese it was AMAZING! my husband got the taraval special with eggs, sausage and pancakes and the pancakes were so nice and fluffy, so delicious!! THE OJ AND LEMONADE IS ¡FRESH! PLEASE TRY IT!" — **jadyn marsh** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

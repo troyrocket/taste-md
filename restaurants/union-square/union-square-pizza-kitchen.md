@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Union Square Pizza & Kitchen
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, sandwich shop, salad shop, coffee shop, deli, cafe, italian restaurant, dessert shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 295 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Good for watching sports · Dog-friendly · Restroom available
 284 O'Farrell St, San Francisco, CA 94102, USA  
 Phone: (415) 542-8835  
 Website: [http://www.unionsquarepk.com/](http://www.unionsquarepk.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14387882106217603833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7863884, -122.40949959999999
+[View on Google Maps](https://maps.google.com/?cid=14387882106217603833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Best pizza in San Francisco!
 Union Square Pizza & Kitchen was fantastic from start to finish. Ramy provided great service—friendly, fast, and made the experience even better.
 
@@ -56,6 +57,3 @@ The New Englander pizza with hot honey was outstanding, with the perfect balance
 - ★★★ "I am sorry but there is no way the pizza I received is worth 40$. Yall are tripping.  The ingredients are fresh and the overall taste and quality are not worth 40$ in my opinion.  This is what you call extra cheese? Word? Like I always bring up like a broken record the value proposition is severely ..." — **Mike C** (7 months ago)
 - ★★★★★ "Great, cozy spot for a casual team/ group dinner of ~27! Pizza was incredible, salads and gelato were good too. Ramy and staff made it easy to set up in advance, so the food came out when we arrived. They also advised on how much food to buy- we had exactly one slice of pizza left. Thanks USPK!" — **Kari Lawrence** (4 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Snow Bliss Cafe
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dessert shop, confectionery, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 121 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 250 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 503-9450  
 Website: [https://order.toasttab.com/online/snow-bliss-cafe](https://order.toasttab.com/online/snow-bliss-cafe)  
-[View on Google Maps](https://maps.google.com/?cid=6874997057973062814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7384777, -122.468752
+[View on Google Maps](https://maps.google.com/?cid=6874997057973062814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The first time I discovered this place was when I was browsing through DoorDash seeing what to have to eat and it immediately made it to my list for a place to visit and tryout. This place is fairly new and a good addition to the area since there are not much Asian/Chinese restaurants in the area. U..." — **Alzila** (3 months ago)
 - ★★★★★ "delicious sinitic/east-asian eatery in west portal! 5star food and service!
 
@@ -66,6 +67,3 @@ Service was friendly. The restaurant is not very big but the..." — **Ken Wong*
 
 They specialize in bingsu, but their menu is huge, offering everything from popcorn chicken, to rice plates and noodle soups. If you're in the mood for dim sum, they have ..." — **Golden Hong** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

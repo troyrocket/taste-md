@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # North Beach Restaurant
 Traditional Tuscan fare & housemade vino served in an upscale setting by old-school waiters.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 832 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 1512 Stockton St, San Francisco, CA 94133, USA  
 Phone: (415) 392-1700  
 Website: [https://www.northbeachrestaurant.com/](https://www.northbeachrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4398876275784112276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7997844, -122.40892969999999
+[View on Google Maps](https://maps.google.com/?cid=4398876275784112276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Nice experience on a Tuesday night. Ordered fritto misto, lasagna, tiramisu. I drank Powers, neat. They provide bread with cheap olive oil and balsamic, complimentary.
 
 I asked for a table away from the live music but they put us right in front of it, so we had to ask to move. The table we moved to ..." — **Zach Weinstein** (a month ago)
@@ -59,6 +60,3 @@ It was my first time here and I will definitely be back soon.
 
 Thank you so much for such delightful and thoughtful dishes. My palate appreciates it! Shout out to ..." — **Caris Sandino** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

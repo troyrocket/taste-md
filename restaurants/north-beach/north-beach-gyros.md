@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # North Beach Gyros
 Middle Eastern fare, from gyros to seafood plates, in a bright cafe with murals of village life.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.9 stars — 4,226 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 561 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 655-9649  
 Website: [https://www.northbeachgyro.com/](https://www.northbeachgyro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3740718710049916686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.799959199999996, -122.4100156
+[View on Google Maps](https://maps.google.com/?cid=3740718710049916686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 9:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "10 STARS! The presentation made me ooo and ahhh, the meat plate do a happy dance and the warm baklava brought tears to my eyes. It was all so so good!! Best food I’ve had on this trip.
 
 This San Francisco restaurant is a gem. Bring your loved ones here in 2026. It is one of those places where I woul..." — **Ross** (a month ago)
@@ -56,6 +57,3 @@ This San Francisco restaurant is a gem. Bring your loved ones here in 2026. It i
 - ★★★★★ "This restaurant is awesome! Me and my boyfriend had a really great time on Valentine’s Day. The food is delicious and the service is amazing. The owner is really kind and he even gave our dog chicken as treats. It’s definitely worth trying in north beach and the atmosphere is so cozy and romantic. I..." — **Fei Lu** (a month ago)
 - ★★★★★ "The restaurant was truly very clean and hygienic. You can immediately notice the organization and attention to detail as soon as you walk in. The tables, service area, and overall atmosphere were well-maintained and spotless. The staff were extremely friendly, attentive, and professional. We felt co..." — **Ruhat Cakar** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

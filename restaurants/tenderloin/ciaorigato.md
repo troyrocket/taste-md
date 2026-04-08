@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # CIAORIGATO
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, asian fusion restaurant, fusion restaurant, asian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 140 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for watching sports · Restroom available
 111 Mason St, San Francisco, CA 94102, USA  
 Phone: (415) 875-9236  
 Website: [https://www.ciaorigato.com/](https://www.ciaorigato.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11451212617557933808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.784494099999996, -122.4096112
+[View on Google Maps](https://maps.google.com/?cid=11451212617557933808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "!! Finally got to try this Italian-Japanese fusion spot and it did not disappoint. Huge shoutout to our amazing server, Nevaeh she gave the best recommendations and made the whole experience even better. Everything we tried was delicious, but my absolute favorites were the gamberi and burrata sushi,..." — **Gabs** (3 months ago)
 - ★★★★★ "We had dinner for 4 and tried many different dishes family style. Most of the food was delicious yet in some dishes the fusion did not work for us. Presentation is amazing and drinks were well mixed. Definitely a place to come back to." — **N F** (3 months ago)
 - ★★★★★ "Fantastic addition to Union Square dining ! I went to Modi a few months ago and the same owners with an Italian Japanese fusion concept. Dan was my server and friendly and suggested a few items on the menu. The foccaciapan w truffle honey butter was a nice starter. I had the gamberi sushi and the po..." — **erika ampaya** (2 months ago)
@@ -55,6 +56,3 @@ Sunday: 5:00 – 10:00 PM
 But the service was absolutely incredible and the vibe and..." — **Tristan Lombard** (4 months ago)
 - ★★★★★ "Amazing meal! Matteo and Chef Marco were so warm and inviting. The food was absolutely delicious! Can't wait to come back again and again. Grazie amici!" — **Susie S** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

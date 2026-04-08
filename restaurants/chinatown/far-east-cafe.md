@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Far East Cafe
 Chinatown fixture serving Cantonese & Sichuan dishes accompanied by old-school Oriental decor.
 
 ## Cuisine
+
 **Cantonese restaurant** — cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 978 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 631 Grant Ave, San Francisco, CA 94108, USA  
 Phone: (415) 982-3245  
 Website: [https://www.fareastcafesf.com/](https://www.fareastcafesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4809818192831079169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.793005699999995, -122.406241
+[View on Google Maps](https://maps.google.com/?cid=4809818192831079169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I highly recommend this restaurant! My friend and I had a wonderful dining experience there. The ambiance is rich with history, featuring charming, unique decorations that add to its character. Our waiter was incredibly attentive and courteous, enhancing our visit. The food was not only delicious bu..." — **Natalia Arditi** (8 months ago)
 - ★★★★★ "The restaurant is large. The interior is outdated, not very clean. The service is attentive and friendly. The order was brought quickly. No napkins on the tables. The dishes are delicious. We ordered sweet pork, Mongolian beef, spicy shrimp, eggplant. I would recommend visiting, but keep in mind tha..." — **Dana** (9 months ago)
 - ★★★★★ "You can feel the history in this restaurant—awe-inspiring ambiance and kind, attentive dinner service—a truly memorable Chinatown experience in San Francisco." — **Joseph Klee** (a month ago)
@@ -57,6 +58,3 @@ The servi..." — **Johanna Anderson** (4 months ago)
 - ★★★★★ "The details and atmosphere are stunning. From century old chandeliers and murals to crown molding and vibrant colors, this restaurant will have you immersed in culture.
 We stopped in for drinks. The host was so knowledgeable about the history of the restaurant and kept us informed and entertained." — **tera simon** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

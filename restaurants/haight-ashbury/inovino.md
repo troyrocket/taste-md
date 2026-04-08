@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # InoVino
 Italian-centric wines, by the glass or in mini decanters, with salumi & cheeses in a slick boîte.
 
 ## Cuisine
+
 **Wine bar** — wine bar, italian restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 316 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Restroom available
 
 108-B Carl St, San Francisco, CA 94117, USA  
 Website: [http://www.inovinosanfrancisco.com/](http://www.inovinosanfrancisco.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4852052866224639472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.765861699999995, -122.4503678
+[View on Google Maps](https://maps.google.com/?cid=4852052866224639472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 3:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Cute, inviting atmosphere — this wine bar has a cozy vibe that makes it feel like a great spot to relax. Unfortunately, the service felt extremely rushed. It almost felt like the moment we took our last bite, our plates were cleared and the check was brought over, which took away from what could’ve ..." — **Hayden Sampson** (a month ago)
 - ★ "InoVino is a disaster. The food is overpriced, and the service is appalling. It doesn’t even compete with the other Italian restaurant in the neighborhood, Bambino’s, which is significantly better.
 
@@ -54,6 +55,3 @@ The food is nothing to write home about, the meatballs were bland, the pasta und
 
 After ordering, food took an incredibly long time to come. They gave us focaccia instead of sourdough which we asked for. The gnocchi was under seasoned. The rig..." — **Luke Knight** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

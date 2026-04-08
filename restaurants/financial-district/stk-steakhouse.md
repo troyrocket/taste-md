@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # STK Steakhouse
 
 ## Cuisine
+
 **Steak house** — steak house, lounge bar, fine dining restaurant, night club, seafood restaurant, cocktail bar, event venue, american restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.5 stars — 3,594 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 1 Market St Suite M3, San Francisco, CA 94105, USA  
 Phone: (415) 375-8094  
 Website: [https://stksteakhouse.com/en-us/location/san-francisco/](https://stksteakhouse.com/en-us/location/san-francisco/)  
-[View on Google Maps](https://maps.google.com/?cid=4755582512571218122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7932999, -122.3936867
+[View on Google Maps](https://maps.google.com/?cid=4755582512571218122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★ "I was visiting from Austin, TX and thought I’d try this steakhouse with my spouse. It appeared to be a good recommended option. What we experienced was far from it.
 
 We arrived and sat there debating what to order. The prices were outside of what we considered would be appropriate for what we though..." — **Rene' Marin** (a month ago)
@@ -56,6 +57,3 @@ Our server, Jasmine, truly elevate..." — **Amena Mansoor** (3 months ago)
 - ★★★★★ "A great place to celebrate a special day! The servers were nice & very accommodating. The interior is super-b as well as their dish. Celebrated my day here and gave us a complimentary dessert which is a yum! Also ordered their wagyu beef that is tender & tasty—they also offered different types of sa..." — **ange** (3 months ago)
 - ★★★★★ "We stopped in for the Happy Hour specials and were quite impressed! The bacon 🥓 cheeseburgers 🍔 were excellent. They were gobbled down very quickly. The Wagyu pot stickers were also excellent! The restaurant is beautiful and relaxing. Our experience was great." — **Jeff Harris** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Nightbird
 Highbrow Californian tasting menu from an upscale bistro with an adjacent cocktail lounge.
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant, californian restaurant, vegetarian restaurant, american restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.5 stars — 260 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Restroom available
 330 Gough St, San Francisco, CA 94102, USA  
 Phone: (415) 829-7565  
 Website: [https://www.nightbirdrestaurant.com/](https://www.nightbirdrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7008874281616194152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.776517299999995, -122.42279680000001
+[View on Google Maps](https://maps.google.com/?cid=7008874281616194152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "What a night! Absolutely beautiful food, service, and location. Literally everything was rock solid.
 
 Came with a friend for a girl's night.  Service started swiftly and the pacing was just right, unrushed, but never lingering too long.
@@ -60,6 +61,3 @@ Every dish was really unique and we had so many favorites.  Th..." — **Jeanett
 
 The restaurant itself has a lovely, quiet..." — **Brad Hover** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

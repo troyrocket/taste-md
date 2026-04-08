@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Toyose
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 265 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 3814 Noriega St, San Francisco, CA 94122, USA  
 Phone: (415) 731-0232  
 Website: [http://sftoyose.wixsite.com/toyose](http://sftoyose.wixsite.com/toyose)  
-[View on Google Maps](https://maps.google.com/?cid=12535393502197204722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7531997, -122.5047022
+[View on Google Maps](https://maps.google.com/?cid=12535393502197204722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 6:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Very Korean! Love coming here. Food is amazing. Seafood pancake is amazing. Kimchi fried rice is super flavorful. Love the spicy pork. Those 3 are always my go to order. I’ve tried the japchae, fried chicken, corn cheese and kimchi cheese pancake. All are amazing. I like the soju cocktails they make..." — **EMT Garry** (4 months ago)
 - ★★★★ "Decoration of this place is lovely! Almost feels like the inside of a ship, lots of wood and dark tones. And huge win for staying open late! Staff is very polite and I've heard that their drinks are good, but the food doesn't stay behind! I tried their Beef Kimchi Fried Rice, Chicken Gizzard Stir Fr..." — **Wolf Fivousix** (a month ago)
 - ★★★★ "If you wanna cozy at home feeling comfort meal come to this spot! I just revisited this place over the weekend and haven’t been back in a couple of years. Came on a Saturday night around 6:15 and waited about 40 minutes or so. It gets packed on Saturday.
@@ -56,6 +57,3 @@ Their side of rice is so good! It tasted exc..." — **Patricia F** (3 months ag
 We..." — **Hannah Arcilla** (5 months ago)
 - ★★★★★ "Every dishes are tasty and flavourful.  The servers are very prompt and accurate.  Addition that they open until late when the whole city dinner is closed early.  I asked them to cook food for my dad special dietary, they happy to cook it and it came out perfect.  Will be back when visit SF again an..." — **Ping Chaowana** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

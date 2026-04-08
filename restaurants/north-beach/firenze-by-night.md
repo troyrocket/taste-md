@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Firenze By Night
 Dinner-only ristorante serving traditional Italian pasta, fish & meat dishes with wine.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, mediterranean restaurant, seafood restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 661 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1429 Stockton St, San Francisco, CA 94133, USA  
 Phone: (415) 392-8485  
 Website: [http://www.firenzebynightsf.com/](http://www.firenzebynightsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=967421733055926221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7989436, -122.4090705
+[View on Google Maps](https://maps.google.com/?cid=967421733055926221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "8/10
 a small intimate restaurant in north beach, perfect for a date night.
 
@@ -67,6 +68,3 @@ Try to ask for a table away from the arterial thoroug..." — **Vineet Sinha** (
 - ★★ "Sooo, we went to have a nice Italian dinner because of the great reviews. The customer service was great—the staff were lovely and attentive!
 1.	“Italian” orange soda – We asked for a non-alcoholic Italian drink, and they suggested this. Unfortunately, it turned out to be a poorly made mocktail. Sti..." — **Sushmita Vigraham** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

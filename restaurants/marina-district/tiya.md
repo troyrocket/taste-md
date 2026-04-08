@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Tiya
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 444 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 3213 Scott St, San Francisco, CA 94123, USA  
 Phone: (415) 400-8500  
 Website: [https://www.tiyasf.com/](https://www.tiyasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12768470023672140677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.79950850000001, -122.4412277
+[View on Google Maps](https://maps.google.com/?cid=12768470023672140677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The reality of the meal, service & setting exceeded my expectations.
 From beginning to end the experience was first class, warm & welcoming. The entire staff was engaging and knowledgeable. The food was inspired by old world flavors with a push toward fusion of new exploration. Expertly preparred te..." — **michele swanson** (3 months ago)
 - ★★★★★ "Wonderful experience! All the items were exquisite. Especially the main course in the vegetarian - chef tasting menu.. the combination of paneer with coconut based sauce, garlic naan and dal were so comforting to the palate! The service was great. The person who waited on us was kind, sweet and offe..." — **Manasa Narasimhan (Manu)** (a month ago)
@@ -60,6 +61,3 @@ We arrived a little late for our reservation due to traffic, but Madison, the am
 We decided to sit at the bar and..." — **Anandita Sharma** (4 months ago)
 - ★★★★★ "I went here for my birthday dinner and absolutely loved the food. It looks very ordinary from the outside but has a really nice ambience. The butter chicken was very flavorful and the chicken tikka tacos were great too. The lamb shank pulao was also very melt-in-the-mouth. They even gave me a cute b..." — **Rashmi Singh** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

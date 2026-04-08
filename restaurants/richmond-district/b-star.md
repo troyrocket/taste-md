@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # B Star
 Less-crowded Burma Superstar spin-off serving Pan-Asian fare (including Burmese) in cheery setting.
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant, asian fusion restaurant, brunch restaurant, vegetarian restaurant, burmese restaurant, fusion restaurant, filipino restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 779 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 127 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 933-9900  
 Website: [http://www.bstarbar.com/](http://www.bstarbar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10732629297306916014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.78293680000001, -122.46067839999999
+[View on Google Maps](https://maps.google.com/?cid=10732629297306916014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We booked a 10 people dinner. The food was excellent, service was excellent, and the atmosphere was cute. We ordered appetizers, mains, wine and a beer pitcher. Didn’t order dessert, we had other plans for that.
 
 The total after tax/tip was $550, which means it was $55 per head. Reasonable prices." — **Choo** (2 months ago)
@@ -56,6 +57,3 @@ The total after tax/tip was $550, which means it was $55 per head. Reasonable pr
 - ★★★★★ "The nonprofit I volunteer for hosted a private event here and were blown away. The staff was kind, attentive, and incredibly accommodating, and the food was fantastic. B Star created a warm, welcoming atmosphere that helped make our evening a success. Highly recommend for private events or a delicio..." — **Brennan Bowen** (9 months ago)
 - ★★★★ "Four of us had a nice dinner. The selection or choices is great and gives you some nice flavor options. Two of our group needed gluten free and the Resteraunt was very attentive and careful which was really nice. Our food came to the table a little too randomly, another words one of four entree came..." — **Glenn Reynolds** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

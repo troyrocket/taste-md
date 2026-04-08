@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Bar Sprezzatura
 
 ## Cuisine
+
 **Restaurant** — cocktail bar, seafood restaurant, italian restaurant, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 401 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 One Maritime Plaza, #100, San Francisco, CA 94111, USA  
 Phone: (628) 466-0230  
 Website: [http://barsprezzatura.com/](http://barsprezzatura.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11592870849671435261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7956599, -122.3992066
+[View on Google Maps](https://maps.google.com/?cid=11592870849671435261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I first made a reservation at Bar Sprezzatura for my birthday dinner before heading to the Punch Line. I ordered the Fresh Bigoli Liberty Duck Ragù, which quickly joined the clean plate club. I also enjoyed the Sprezz Reviver cocktail with dinner, followed by an espresso to stay caffeinated for the ..." — **Sunshine Puppy** (2 months ago)
 - ★★★★★ "Lovely seating, easy to access with Great parking below the restaurant. Nice atmosphere. I ordered a squash soup that was delicious 😋. A chopped salad that was pretty bad actually. Butter. A bad salad. I tried to like it but it was just bad. And then I ordered meatballs and a pasta and my gosh! It'..." — **Vero Moreno-Diaz** (3 weeks ago)
 - ★★★★★ "Beautiful setting and top notch cocktails and food! The atmosphere is intimate and stylish, perfect for a night out or a date. The cocktails are thoughtfully crafted, balanced, and clearly made by bartenders who know what they’re doing. We had a tower of chichettis, the gem salad (the goddess dressi..." — **Kelly Phillips** (2 months ago)
@@ -55,6 +56,3 @@ Sunday: Closed
 Firstly, the bar it..." — **Reddick M.** (2 months ago)
 - ★★★★ "Very stylish spot.  I’ve been there a couple of times after catching a show at Punchline. The staff are very helpful. We often don’t have reservations and they accommodate us by getting us a table (I highly recommend reserving a table though) . The food and drinks are excellent. As others have menti..." — **Manoj Aggarwal** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

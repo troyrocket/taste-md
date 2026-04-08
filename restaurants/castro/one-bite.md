@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # One bite
 
 ## Cuisine
+
 **Restaurant** — mediterranean restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 67 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids
 
 506 Castro St, San Francisco, CA 94114, USA  
 Phone: (628) 588-9008  
-[View on Google Maps](https://maps.google.com/?cid=17837613164952500552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7606715, -122.43514789999999
+[View on Google Maps](https://maps.google.com/?cid=17837613164952500552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:00 AM – 3:00 AM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "Food is a bit inconsistent based on who’s working there, and seems to have gone down in quality since opening. It may be a cost control effort, but you can taste the difference in the hummus and the seasoning of the chicken (it’s a bit dry and under seasoned compared to early versions).
 
 They were a..." — **Robert Jackson** (4 weeks ago)
@@ -54,6 +55,3 @@ But the service wa..." — **Drew Tweedie** (3 months ago)
 - ★★★★ "Guy attending customers was very rude. Maybe a culture thing?  Food was decent! Just fries over seasoned. Too salty chicken wraps. Will definitely give another try" — **Omar Fuentes** (a month ago)
 - ★★★★★ "Phenomenal food. Had me moaning with every bite. The chicken shawarma had so much explode-in-your-mouth flavour, which is much better than what I can say about Gyro Express. Do yourself a favour and walk one more stoplight for this spot." — **Mark W** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

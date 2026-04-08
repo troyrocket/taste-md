@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Gott’s Roadside
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 273 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 151 Warriors Wy Suite 102, San Francisco, CA 94158, USA  
 Phone: (415) 815-2992  
 Website: [http://www.gotts.com/](http://www.gotts.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3736646757115976876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.768265199999995, -122.38879860000002
+[View on Google Maps](https://maps.google.com/?cid=3736646757115976876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Gott’s Roadside at Chase Center had a good reputation from Palo Alto, Walnut Creek, and Napa, so I figured the San Francisco location would deliver too, and it mostly did.
 
 It was a busy night with Maroon 5 in town, and the line was ridiculous, but it moved faster than expected. About 10 minutes to ..." — **G Lee** (a month ago)
@@ -58,6 +59,3 @@ The ahi poke tacos are 🔥🔥🔥🔥 onion rings are huge, and garlic fries a
 - ★★★★ "I only come here during game off season to avoid the crowds, it’s relaxing to dine in.
 The burgers are not cheap, the Specials (dungarees crab burger $29.99) even more expensive. I wouldn’t spend more than $30 (included tax and tips) for a burger to be honest. I ordered hamburgers and fries. They we..." — **Carey** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

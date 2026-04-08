@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Glen Park](index.html)
-
 # La Cigale
 
 ## Cuisine
+
 **Restaurant** — french restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 48 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Restroom available
 
 679 Chenery St, San Francisco, CA 94131, USA  
 Website: [https://la-cigale-sf.com/](https://la-cigale-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14930072300100302261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.734339999999996, -122.43343999999998
+[View on Google Maps](https://maps.google.com/?cid=14930072300100302261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "La Cigale operates on a deliberate, almost contrarian operating model—and that’s precisely where the value proposition begins.
 
 This is not a walk-in, impulse-driven dining experience. You must arrive early, put your name on the list, and commit to the process. That initial friction functions as a s..." — **John Burdge** (2 months ago)
@@ -54,6 +55,3 @@ No standard reservations, show up at the restaurant to line up for the 4:30p boo
 - ★★★★★ "Such a fantastic evening! From the beautiful space and good vibes, to the impeccable service, to the classic, tasty dishes in Southwestern French style. Such a great addition to the San Francisco food scene. We will definitely be back." — **Holger Luedorf** (5 months ago)
 - ★★★★★ "La Cigale is wonderful and unique with a different style of SW France cooking all done over a firewood driven hearth. There is also a performance element as you sit around the small kitchen/hearth with 15 seats. Food is in a rustic family serve style but very very carefully done with extraordinary a..." — **R GK** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

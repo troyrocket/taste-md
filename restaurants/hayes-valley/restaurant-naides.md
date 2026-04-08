@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Restaurant Naides
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 28 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Restroom available
 
 708 Bush St, San Francisco, CA 94108, USA  
 Website: [https://restaurantnaides.com/](https://restaurantnaides.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15637955032392455248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7902449, -122.409088
+[View on Google Maps](https://maps.google.com/?cid=15637955032392455248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -37,6 +37,7 @@ Contact restaurant for hours
 **Payment:** Credit cards · Debit cards
 
 ## What Diners Say
+
 - ★★★★★ "My friends and I had the pleasure of experiencing the tasting menu at Restaurant Naides alongside the non-alcoholic pairing, and it was truly memorable from start to finish.
 
 One of my absolute favorites was the golden beetroot paired with roasted yeast and carob cordial — I genuinely wish I could h..." — **Garrick Wong** (a month ago)
@@ -48,6 +49,3 @@ From the moment you enter, the tone is set by the open kitchen and the calm conf
 
 I expect exceptional service from Michelin level restaurants, and Naides hit every mark for me. ..." — **Arc Arceius** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

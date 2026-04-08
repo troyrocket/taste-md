@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # The Ramp Restaurant
 Casual waterfront restaurant on Mission Bay serving lunch, brunch & evening appetizers year-round.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, brunch restaurant, sports bar, bar and grill, seafood restaurant, live music venue, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 2,029 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Good for wa
 855 Terry A Francois Blvd, San Francisco, CA 94158, USA  
 Phone: (415) 689-7101  
 Website: [http://www.rampsf.com/](http://www.rampsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15736920294532807350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7640885, -122.38719689999998
+[View on Google Maps](https://maps.google.com/?cid=15736920294532807350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "While the food decent, the industrial pier view makes for a unique waterfront dining experience.
 
 - Oysters on the Half Shell fulfill a fix, but are neither super briny nor creamy
@@ -63,6 +64,3 @@ The servers were attentive and food came out hot. For a sunny ..." — **Alavini
 This is about two blocks down from Chase center adjacent to a boat yard, but has a nice dog friendly deck on the water looking out on “Crane Cove” with views across to Oakland.
 The food was pretty good al..." — **Jeff Meyer** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

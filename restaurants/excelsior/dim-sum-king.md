@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Dim Sum King
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 32 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids
 4675 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 333-7288  
 Website: [https://dimsumkingsf.com/](https://dimsumkingsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13870549195222526897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7234323, -122.43546590000001
+[View on Google Maps](https://maps.google.com/?cid=13870549195222526897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 7:00 AM – 6:00 PM
 **Parking:** Paid street parking
 
 ## What Diners Say
+
 - ★★★★★ "This place was extremely delicious!
 My bf and I tried a variety of buns and dim sum here. The Dim Sum, hands down, was made so beautifully and tasted even more so. The taste was flavorful and simple in a way that felt like home. We also had the bbq pork buns one steamed and one puffed, it was a swee..." — **Martinnia Bain** (2 months ago)
 - ★★★★ "First time and i thought there baked bbq pork bun was excellent (though needed just a bit more filling evenly distributed), egg tart was 5 stars with excellent flavor and crust. Shrimp and pork dumplings were slight better than average but I would likely not order again. Sesame ball was a bit too gu..." — **Jolene Yee** (7 months ago)
@@ -52,6 +53,3 @@ My bf and I tried a variety of buns and dim sum here. The Dim Sum, hands down, w
 -The Leek & Shrimp dumplings were okay
 -the lotus leaf chicken sticky rice was filled with tough chicken ends and a gelatinous sauce that wasn not flavorful and ..." — **Eliz** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

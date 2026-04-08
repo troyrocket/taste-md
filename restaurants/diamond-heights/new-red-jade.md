@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Diamond Heights](index.html)
-
 # New Red Jade
 Mandarin classics such as moo shu pork are the specialty at this Castro Chinese restaurant.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, meal delivery, food delivery
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 562 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Dog-friendly · Restroom available
 245 Church St, San Francisco, CA 94114, USA  
 Phone: (415) 621-3020  
 Website: [https://www.newredjade.com/](https://www.newredjade.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10323471244530699006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.766839, -122.42874300000001
+[View on Google Maps](https://maps.google.com/?cid=10323471244530699006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I’m a regular at the Red Jade, as I work nearby. Every dish I’ve tried has been fresh and lovely. The workers remember my face and occasionally give me a complimentary treat.
 This place is a respite for me from  fast paced work. The atmosphere is relaxing, and I feel welcomed. What I can’t eat on lu..." — **Naya Rashad** (2 months ago)
 - ★ "Red Jade, what happened? This place used to be amazing, and now it’s a complete disaster.
@@ -58,6 +59,3 @@ I ordered my usual dishes from the 2009–2021 era, trying to relive the old day
 - ★★★★★ "If you are looking for incredible Chinese food in San Francisco without the "big city" price tag, you have to check out The New Red Jade. It’s conveniently located right by the Safeway on Market and Church, and it is easily one of the best deals in the city.
 I eat at a lot of Chinese restaurants, an..." — **Anthony Jefferson** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

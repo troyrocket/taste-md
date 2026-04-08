@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # EL DORADO Latin Fusion
 
 ## Cuisine
+
 **Latin American restaurant** — latin american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 175 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Good for wa
 701 Folsom St, San Francisco, CA 94107, USA  
 Phone: (415) 734-7317  
 Website: [https://mariposasdining.wixsite.com/eldorado](https://mariposasdining.wixsite.com/eldorado)  
-[View on Google Maps](https://maps.google.com/?cid=16837353976728055631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783503599999996, -122.3990598
+[View on Google Maps](https://maps.google.com/?cid=16837353976728055631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came here for a work luncheon. The ambiance is really nice. Very decorative. The service was great. I ordered the lobster enchiladas. It was good but a little bland.
 When they brought out the food, they brought 1 of 5 entrees. After about 10 mins, they brought 3 more entrees. Unfortunately, I was th..." — **SFMasterP** (a month ago)
 - ★★★★ "This is a Peruvian fusion restaurant and they can also cook the way you want according to our server which we didn’t dare to do.
@@ -61,6 +62,3 @@ The food blew us away, we were so surprised. Everything was so fresh and flavorf
 I asked my wife to check if they have Michelin Stars.
 They served quite possibly the best quesabirria of my l..." — **George Carder** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

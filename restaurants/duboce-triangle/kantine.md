@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Kantine
 Breakfast & lunch eats from various Scandinavian countries including baked goods & brunch boards.
 
 ## Cuisine
+
 **Scandinavian restaurant** — scandinavian restaurant, brunch restaurant, breakfast restaurant, pastry shop, bakery, danish restaurant, dessert shop, confectionery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 932 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 1906 Market St, San Francisco, CA 94102, USA  
 Phone: (415) 735-7123  
 Website: [http://www.kantinesf.com/](http://www.kantinesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11304959595051107909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.770612799999995, -122.425387
+[View on Google Maps](https://maps.google.com/?cid=11304959595051107909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 9:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Phenomenal! Authentic Scandinavian spot with traditional Swedish and Nordic pastries, dishes and fika style treats and coffee. Couldn’t be happier to discover this place. Pastries were fresh, handmade not overly sweet. Coffee was third wave SF standard and the smoked trout bowl was incredibly health..." — **Peter Mattis** (3 months ago)
 - ★★★★★ "My Norwegian teacher recommended this as a place to try out some true Nordic pastries. It was phenomenal. We loved the danish, morning bun, poppy seed covered croissant, cardamom bun and the chocolate covered chocolate mousse. The strawberry lemonade was also excellent. We sat outside with the dog o..." — **Alicia DiGiammarino** (4 months ago)
 - ★★★★★ "Kantine is the only authentic, truly Scandinavian place in the entire Bay area. Amazing, healthy and tasty food! Love their pastries as well as their sandwiches. The interiors follows the typical Scandinavian style.
@@ -59,6 +60,3 @@ Kantine’s seasonal semla is my favorite pastry in SF! I make it a point to vis
 
 Other items like the breakf..." — **E D** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

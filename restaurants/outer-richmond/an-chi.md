@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # An Chi
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 169 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 5827 Geary Blvd, San Francisco, CA 94121, USA  
 Phone: (415) 702-9986  
 Website: [https://www.anchigeary.com/](https://www.anchigeary.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12898734620448766148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.779917999999995, -122.48206540000001
+[View on Google Maps](https://maps.google.com/?cid=12898734620448766148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 7:45 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great on a Thursday night.  Don’t need reservations.  The plate of garlic noodles were more than expected.
 Banh knots were delicious and hot.
 Nem nungs were delicious.
@@ -56,6 +57,3 @@ I would definitely go back." — **Christina S** (9 months ago)
 - ★★★★ "The food was good, but it wasn't the best. I especially loved the mini pancakes, because they were flavorful. It was a little bit more expensive than my usual Viet spot, but the portions weren't small. Super nice and polite staff!!!" — **Kara Ngamsopee** (6 years ago)
 - ★★★★★ "I enjoyed eating here, as well as my family. The service was great, the people there were nice. The food was delicious. I tried the pork chop, five spice chicken, and egg rolls, and even the banana sticky rice roll and they were all good. I’ll definitely come here again. It seems they also have Uber..." — **Dav.d H** (6 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

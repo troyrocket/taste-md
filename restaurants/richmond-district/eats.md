@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Eats
 Cozy American cafe serving hearty classics for breakfast, lunch & weekend brunch with mimosas.
 
 ## Cuisine
+
 **Breakfast restaurant** — breakfast restaurant, brunch restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 707 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 50 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 751-8000  
 Website: [https://www.eatsrestaurantsf.com/](https://www.eatsrestaurantsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4120273358735682253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7832704, -122.46003309999999
+[View on Google Maps](https://maps.google.com/?cid=4120273358735682253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This neighborhood gem is the perfect spot to grab breakfast or lunch.  Their food is always incredible and the service is great.  We stopped in for lunch since we were in the neighborhood after a doctor’s appointment.  We each ordered a version of their chicken sandwich, one grilled and one fried.  ..." — **Del G** (3 months ago)
 - ★★★★★ "January 2025:
 Stopped by for lunch and tried the chicken sandwich. I had thought it was going to be similar to a Vietnamese banh mi sandwich. It was different... Okay sandwich. Chicken was a bit too salty.
@@ -62,6 +63,3 @@ Also I ordered fried chicken sandwich while poi..." — **Patricia Pan** (2 mont
 - ★★★★★ "I can’t explain how I loved to have brunch here. The principal reason is because I was able to eat delicious food and also healthy, I ordered scrambled eggs, with salad (you could also choose potatoes) and added ALMOND FLOUR PANCAKES! So if you eat GLUTEN FREE this is your spot!
 From the kids manu w..." — **Claudia Sanchez** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

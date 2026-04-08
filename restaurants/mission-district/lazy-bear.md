@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Lazy Bear
 The revered pop-up gets a permanent setting with this midcentury space serving New American cuisine.
 
 ## Cuisine
+
 **American restaurant** — fine dining restaurant, american restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.7 stars — 1,167 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 3416 19th St, San Francisco, CA 94110, USA  
 Phone: (415) 874-9921  
 Website: [http://www.lazybearsf.com/](http://www.lazybearsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9090089212916148498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7604119, -122.4197156
+[View on Google Maps](https://maps.google.com/?cid=9090089212916148498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Cute restaurant! They print the date and what you’re celebrating on the menu booklet, so great to go on birthdays, anniversaries, etc.
 Crab is in season for Jan so there’s a crab toast course - while it’s innovative with a layer of fat on top, I did not like it as much and feel there’s a lack of fla..." — **Karen Zheng** (a month ago)
 - ★★ "Returned for my birthday after a wonderful first experience, but Lazy Bear has changed dramatically - and not for the better.
@@ -63,6 +64,3 @@ The second half (start..." — **Angela Q. Yang** (2 months ago)
 
 Food: Exceptional across the board. The cioppino, bread and butter, trout, and wagyu were out of this world. The wine pairing was spot on - remarkable bottles and one of the best S..." — **Stelios Serghiou** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

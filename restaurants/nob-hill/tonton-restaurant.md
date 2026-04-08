@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Tonton Restaurant
 
 ## Cuisine
+
 **Ramen restaurant** — ramen restaurant, japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 555 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 
 422 Geary St, San Francisco, CA 94102, USA  
 Phone: (415) 874-9664  
-[View on Google Maps](https://maps.google.com/?cid=18272117867570006025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7872123, -122.410372
+[View on Google Maps](https://maps.google.com/?cid=18272117867570006025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:45 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Everything fried is so delicious. We had pork katsu bento box, karage chicken curry, and tempura. All meat was juicy and tasty. Fried food has this quality must have a good oil temperature control. Service was a bit slow but nice, I think they are under staffing. But good food worths the wait." — **Angel Chen** (3 months ago)
 - ★★★★★ "legacy - the lasting impact, values, or tangible assets (money, property) passed down from ancestors, predecessors, or individuals to future generations. The ingredients in my ramen, every single piece, felt intentional and well prepared. The broth was delicate and the spice I asked for was exactly ..." — **John Rummel** (a month ago)
 - ★★★ "While the food here was definitely good and our server was kind, the cashier didn't want to split the bill, as others have written about. I never like to argue with staff about these kinds of things, so I didn't. Still, it was a very simple bill, and there was practically nobody else inside, so it w..." — **Haley Snyder** (2 months ago)
@@ -58,6 +59,3 @@ Well, this is US !
 
 i am as a tourist knew that every-time i eat in the restaurant should..." — **Charles Xu** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

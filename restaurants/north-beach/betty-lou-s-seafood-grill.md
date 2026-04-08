@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Betty Lou's Seafood & Grill
 Bright, spacious bistro for oysters, chowder, pasta & seafood mains in old-world environs.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant, family restaurant, italian restaurant, steak house
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,226 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 318 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 757-0569  
 Website: [https://bettylousseafoodandgrill.com/](https://bettylousseafoodandgrill.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1708641318278483110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.798245699999995, -122.40700050000001
+[View on Google Maps](https://maps.google.com/?cid=1708641318278483110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Absolutely love this place. My wife and I found this hidden gem last summer on a weekend trip to SF. So when I was in town one night for business, we made a drive intro eh city for a great dinner before our flight.
 
 Lucky for us it was a rainy Tuesday night and we didn’t have to wait for a table.  T..." — **Syd Grant** (a month ago)
@@ -61,6 +62,3 @@ The pasta and ravioli were noticeably overc..." — **Jina** (3 months ago)
 - ★★★★★ "Wonderful clam chowder with plenty ingredients. Flavors is well seasoned. Oyster is ok and fresh. Creamy pasta is in good quality.
 Service is nice. I arrived early lunch time. Plenty of seats available" — **Tom Kwan** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Palm House
 Bright hangout with a tropical theme, patio & Caribbean menu including bites & frozen cocktails.
 
 ## Cuisine
+
 **Restaurant** — californian restaurant, cocktail bar, hawaiian restaurant, american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 888 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 2032 Union St, San Francisco, CA 94123, USA  
 Phone: (415) 749-9959  
 Website: [https://www.palmhousesf.com/](https://www.palmhousesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13555164715927998705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797635799999995, -122.43288960000001
+[View on Google Maps](https://maps.google.com/?cid=13555164715927998705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "1000000/1000000! Everyone working was amazing! Our dog loved her food and her treats!  WE loved our food! The atmosphere is a great vibe and Palm House is a MUST VISIT!!" — **e d w i n z** (a month ago)
 - ★★★★ "This place is definitely a vibe, great spot on Union Street if you’re in the mood for drinks. The cocktails were delicious (loved the piña colada!), but smaller than expected, they do have those giant drinks if you’re going all in.
 
@@ -69,6 +70,3 @@ Service: 3/5 - Standard service.
 
 Ambiance: 4/5 - A nice ..." — **Spencer Q** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

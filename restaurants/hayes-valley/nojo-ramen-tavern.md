@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Nojo Ramen Tavern
 Japanese-style pub food specialist serving ramen & other nibbles in an airy atmosphere.
 
 ## Cuisine
+
 **Ramen restaurant** — ramen restaurant, asian restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,336 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 231 Franklin St, San Francisco, CA 94102, USA  
 Phone: (415) 896-4587  
 Website: [https://nojosframen.com/](https://nojosframen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16755430118445835074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7767268, -122.42147639999999
+[View on Google Maps](https://maps.google.com/?cid=16755430118445835074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 2:30 PM, 4:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Seating was limited but was given a spot at the bar immediately. Very clean and well-kept, with a calm but busy dinner ambiance. Bathroom was very clean and spacious. I ordered the Tokyo ramen with chicken broth (I have a sesame allergy) and loved it, no issues. Broth could have been richer and kara..." — **Acorn** (a month ago)
 - ★★★★★ "Best ramen experience I’ve had in SF!
 The chicken thigh was packed with flavor, even inside the meat (you know when it’s seasoned just right 👌). The broth was so rich and creamy, but perfectly balanced, not too salty and not too plain either. Everything came together so well, from the texture of th..." — **Tien Duong** (5 months ago)
@@ -59,6 +60,3 @@ The chicken thigh was packed with flavor, even inside the meat (you know when it
 
 Try the Chicken Paitan Soy Sauce ramen—hands down the best ramen I’ve ever had the pleasure of eating. The balance of flavors is absolutely perfect. I went to bed without brushing my teeth just so I could savo..." — **landon meier** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

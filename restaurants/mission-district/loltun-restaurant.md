@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Loltun Restaurant
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 90 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Good for watching sports · Restroom available
 2471 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 817-1286  
 Website: [http://loltunsf.com/](http://loltunsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=680523555680119901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.75756, -122.4187315
+[View on Google Maps](https://maps.google.com/?cid=680523555680119901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Incredibly tasty & fresh food. Oddly clean and organized (I was looking for hole-in-the-wall vibes).
 
 My guard was up at first. The burrito came perfectly cut and prepared. Tortilla roasted to a crispy finish (unlike anything I’d ever seen before in the area).
@@ -62,6 +63,3 @@ Cebada is basically horchata but with barley instead of rice. Fizzy appl..." —
 - ★★★★★ "Great food and service.  One of the best margaritas I have had & that says a lot.  We had a super quesadilla, regular burrito & guacamole.  All were excellent. It's not fancy but the food is delicious" — **Kathy 459** (4 months ago)
 - ★★★★★ "Delicious, hearty, fresh Mexican food in the heart of the mission. So far I’ve gotten the poc chuc and cochinita pibil. The service is attentive, the restaurant is very clean, and they play good music. I think of it more as a lunch spot, but during dinner hours the atmosphere is chill so you could e..." — **Melissa Megginson** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Roxanne Cafe
 Informal cafe serving breakfast standards by day & red-sauce Italian classics for dinner.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, cafe
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 2,003 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 570 Powell St, San Francisco, CA 94108, USA  
 Phone: (415) 989-5555  
 Website: [http://www.roxannecafesf.com/](http://www.roxannecafesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4086181422084538096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.790136499999996, -122.40865090000001
+[View on Google Maps](https://maps.google.com/?cid=4086181422084538096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:00 AM – 5:00 PM
 **Parking:** Paid street parking
 
 ## What Diners Say
+
 - ★★★★★ "I recently had the pleasure of dining at Roxanne’s Cafe on Powell & Bush, and I’m delighted to say it was a wonderful experience from start to finish. The moment we walked in, we felt warmly welcomed by the staff — friendly, attentive and genuinely engaged, which set the tone for the whole meal. (Ot..." — **J B** (4 months ago)
 - ★★★★★ "Being close to the hotel, we accidentally across this cafe to find a place for brunch. The service was quick and super friendly. The food was great and the atmosphere was a vibe (highly recommend the pomegranate mimosa!) Being that it was  thanksgiving, the decorations were a nice touch. A few days ..." — **Cori Broom** (3 months ago)
 - ★★★★★ "This place is fantastic.
@@ -63,6 +64,3 @@ Dinner was..." — **Joe Torres** (3 months ago)
 - ★★★★★ "Roxanne Café was a total win during our SF trip 🤍 Everything was delicious and the staff was amazing and very attentive. We came back twice and tried eggs Benedict, corned beef sunrise( our fav) , steak and eggs, Joey’s Special omelette, Roxane French toast  and pancakes all so good.
 Highly recomme..." — **Cecilia Santana** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

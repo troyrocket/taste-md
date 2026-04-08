@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # KEN
 High-end Edomae sushi tasting menus presented in an unpretentious venue with 6 seats at the counter.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 145 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 252 Divisadero St, San Francisco, CA 94117, USA  
 Phone: (628) 867-7113  
 Website: [http://www.ken-sf.com/](http://www.ken-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5017369435587202776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.771477, -122.43691689999999
+[View on Google Maps](https://maps.google.com/?cid=5017369435587202776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 5:30 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Dinner at KEN was one of those rare experiences where everything is considered, not just the fish, but the rhythm, the temperature, the ceramics, the space, and the human touch behind it all.
 
 Each course felt perfectly calibrated: cool against warm, delicate against rich, flavors building intention..." — **Joey** (a month ago)
@@ -56,6 +57,3 @@ Each course felt perfectly calibrated: cool against warm, delicate against rich,
 Not only was it incredibly fun, but also educational. This is absolutely a must-visit spot, and I’ll be sure to come back every time I’m..." — **Yuna** (6 months ago)
 - ★★★★★ "Such an amazing experience. I highly recommend visiting. Every bite was well thought out and delicious. It was perfect watching chef Ken preparing each piece. The staff was knowledgeable and helpful. We loved our wonderful dinner there." — **Ashley O'Donnell** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

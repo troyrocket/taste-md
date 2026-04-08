@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Board and Drink
 
 ## Cuisine
+
 **Restaurant** — brunch restaurant, breakfast restaurant, american restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 239 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 1329 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 658-7628  
 Website: [https://boardanddrinksf.com/](https://boardanddrinksf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12814092078648585874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8064238, -122.4194505
+[View on Google Maps](https://maps.google.com/?cid=12814092078648585874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 1:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We are so happy we stumbled on this place today. Our omelette was large enough to share, full of tasty ingredients, cooked perfectly. In addition we enjoyed a side of chicken sausage and a lovely fruit salad. The staff/owners were delightful, service was ideal, food arrived quickly. Interior is simp..." — **Sandra Tassel** (a month ago)
 - ★★★★ "The place is small with few tables but it’s cute. Ambience could have been more aesthetic and cozy.
 
@@ -56,6 +57,3 @@ Menu options are very good for brunch. Food is great. French toast was the best!
 
 Portion was quite big for us. The wait wasn’t long and we went around Saturday no..." — **Arisa Chuklin** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

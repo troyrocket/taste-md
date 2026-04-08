@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # XICA
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 422 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 1265 Battery St Suite 100, San Francisco, CA 94111, USA  
 Phone: (415) 757-0694  
 Website: [http://www.xicasf.com/](http://www.xicasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2595154222581116812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8029046, -122.4020596
+[View on Google Maps](https://maps.google.com/?cid=2595154222581116812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Had a great lunch at XICA. I sat outside on the terrace in the sun, which made the whole experience even better. The steak fajitas were delicious, full of flavour and perfectly cooked. Great atmosphere, friendly service, and a really nice spot to relax and enjoy Mexican food in San Francisco. Would ..." — **Mahadji Bahi** (3 weeks ago)
 - ★★★★★ "Xica
 Chef Maria Esquivel’s Xica has got to be one of the top 10 standout restaurants in San Francisco. Upon entry, it is clear that no detail was overlooked. It is as beautiful and aesthetic as the photos of her food are in the reviews that drove me to want to try this food. The service to me was es..." — **malcolm green** (4 months ago)
@@ -56,6 +57,3 @@ Chef Maria Esquivel’s Xica has got to be one of the top 10 standout restaurant
 The interior is beautifully designed, w..." — **Lena van der Giet** (8 months ago)
 - ★★★★★ "The atmosphere was truly amazing, and the cocktails were unbelievably good. We ordered a large mango margarita for the table. The staff were very sweet and kind. We got fried corn and fries to share. We especially loved the corn! It was really delicious (just a little spicy) (Macha Corn Ribs). My bo..." — **beyza simsekoglu** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

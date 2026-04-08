@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Nickie's
 Neighborhood bar with large screens showing major sports, plus bar food & snacks.
 
 ## Cuisine
+
 **Pub** — pub, sports bar, american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 367 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Dog-friendly · 
 466 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 947-7800  
 Website: [http://nickiesbarsf.com/](http://nickiesbarsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1559328552924095095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.772349, -122.42986409999999
+[View on Google Maps](https://maps.google.com/?cid=1559328552924095095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I love this place.  The bartenders are friendly, wonderful, and very attentive.  Everyone knows each other and if you walk in and don't know someone, give it time, and everyone will know you.  They have a great bar selection with a plethora of 0 alcohol  beverages, 0 alcohol beer, 0 alcohol cider, a..." — **Candy Smallwood** (3 months ago)
 - ★★★★ "Nice local sports bar with a neighborhood feel. Everyone seems to know each other's names, just like on Cheers. 😊
 Large selection of food, including typical pub fare and at least one healthier option like salad.
@@ -58,6 +59,3 @@ Extremely impressed with..." — **Andreas Rolén** (3 years ago)
 - ★★★★★ "Passively came to this bar to kill some time and ended up loving it! Migo was awesome and very cool to talk to. Food was good too! Great vibe and great staff." — **Amaar Zafar** (6 years ago)
 - ★★★★★ "Came in from Carolina for panther game. Did all the tourists things. Nickie's beat them all. A true slice of the city. The real San Francisco Treat." — **Scott Heath** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

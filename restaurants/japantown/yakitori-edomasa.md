@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Yakitori Edomasa
 
 ## Cuisine
+
 **Yakitori restaurant** — yakitori restaurant, japanese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 3.9 stars — 233 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $
 1581 Webster St #270, San Francisco, CA 94115, USA  
 Phone: (415) 872-7646  
 Website: [https://www.edomasa-us.com/](https://www.edomasa-us.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13547823402467580261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.784856999999995, -122.4319035
+[View on Google Maps](https://maps.google.com/?cid=13547823402467580261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "We were walking around Japantown on a Wednesday evening and decided to stop by Yakitori Edomasa for dinner. The space is small with a classic Japanese izakaya feel—lively, a bit noisy, but casual and approachable.
 
 Our server asked if it was our first visit and kindly walked us through the menu. We ..." — **Leah** (2 months ago)
@@ -56,6 +57,3 @@ The yakitori w..." — **Akshay Bhagat** (a month ago)
 - ★★★ "Cute spot, with a nice ambiance and overall vibe to it. The small bites are great and delicious. It is a bit pricy for the amount of food you are getting compared to other spots in Japantown. So although it is not the best bang for your buck I would still suggest a try if you are in the area. The se..." — **Wolf Fivousix** (7 months ago)
 - ★★★★★ "Yakitori Edomasa delivers a focused menu of grilled chicken skewers from thigh and skin to heart set in a compact, izakaya bar-style counter space. The $30 set comes with soup, rice and assorted skewers. Good sake selection. Casual yet precise, ideal for yakitori lovers or a relaxed night out." — **Slava Seropov** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

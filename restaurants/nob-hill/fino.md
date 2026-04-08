@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # FINO
 Italian eatery in The Andrews Hotel offering traditional dishes, a mahogany bar, a fireplace & more.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, wine bar, fine dining restaurant, family restaurant, catering service, californian restaurant, american restaurant, food delivery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,070 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 624 Post St, San Francisco, CA 94109, USA  
 Phone: (415) 928-2080  
 Website: [https://www.finoristorante.com/](https://www.finoristorante.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9115393673875317413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7879023, -122.41229359999998
+[View on Google Maps](https://maps.google.com/?cid=9115393673875317413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This is the place to go for a wonderful Italian meal! We had 7 people in our party and our server was amazing. All the food and dessert was incredible. Chef Ramsey would be impressed with how the scallops were prepared.
 Thank you so to the staff and Chefs for making this a memorable evening." — **abrams familywc** (a month ago)
 - ★★★★★ "Had an amazing dinner at Fino, San Francisco
@@ -63,6 +64,3 @@ The complimentary bread and oil was very good… I had to stop myself from eatin
 
 The calama..." — **Henry Wassinger** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

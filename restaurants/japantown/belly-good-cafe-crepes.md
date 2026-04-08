@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Belly Good Cafe & Crepes
 Creative Japanese-style crêpes adorned with smiles sculpted from toppings & whipped cream.
 
 ## Cuisine
+
 **Dessert shop** — ice cream shop, cafe, dessert shop, confectionery, tea house, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 318 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1737 Post St #393, San Francisco, CA 94115, USA  
 Phone: (415) 346-8383  
 Website: [http://thebellygood.com/](http://thebellygood.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9616600297478758249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7850892, -122.43064319999999
+[View on Google Maps](https://maps.google.com/?cid=9616600297478758249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Delicious crepes! Friendly service! We didn't know we ordered "cute" crepes until they handed them to us! Such a cool surprise! ❤️" — **Bug Hendrick** (3 weeks ago)
 - ★ "genuinely don’t know what the HELL the other reviews are talking about. giving this place a 4.6 is simply unfathomable. when i received the crepe, i was mildly befuddled by the presentation of the crepe. it was most definitely the ugliest crepe i’ve ever had the shame of witnessing. it also tasted j..." — **Cindy Tsang** (5 months ago)
 - ★★★★★ "My favorite crepe place in Japan Town!!!
@@ -55,6 +56,3 @@ I always get the nutell..." — **mika** (a year ago)
 - ★★★★★ "Super cute and tasty!! Affordable and lots of ingredients! The ladies are very friendly and nice too" — **Shu Guan** (a month ago)
 - ★★★★★ "My favorite place for dessert in San Francisco.  I love these crepes so much! The staff are so friendly and have creative hands/minds. The crepes are always made fresh and topped with fresh delicious fruit and ice cream. Yum yum!" — **Tina** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Banh Mi Crunch
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 357 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 
 646 Irving St, San Francisco, CA 94122, USA  
 Phone: (628) 256-3711  
-[View on Google Maps](https://maps.google.com/?cid=18316560866406018863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.764277799999995, -122.46502280000001
+[View on Google Maps](https://maps.google.com/?cid=18316560866406018863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 9:30 AM – 7:00 PM
 **Parking:** Paid street parking
 
 ## What Diners Say
+
 - ★★★★ "I tried the Banh Mi Crunch and enjoyed it overall. Flavors were solid, and the chicken had a firmer, jerky‑like texture—unique, though not for everyone. Portion size and presentation met expectations. Service was friendly, and the casual counter‑style seating made for a relaxed atmosphere." — **David Huey** (4 months ago)
 - ★★★★★ "This is the bahn mi you're looking for. We were in SF for 7 days and we ate here 3 times.
 
@@ -59,6 +60,3 @@ The beef sandwich was my favorite, followed by combo, followed by chicken- a..."
 
 Crunch has a thin veneer of delicious pate on the bottom bread. Bread was crispy on top and soft throughout which was easy to chew. Sometimes Banh mi bread makes my j..." — **Barry Louie** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

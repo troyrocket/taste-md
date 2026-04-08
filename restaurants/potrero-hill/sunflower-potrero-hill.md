@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Sunflower Potrero Hill
 This no-frills eatery is a mainstay for Vietnamese crêpes & other Southeast Asian classics.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 530 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 288 Connecticut St, San Francisco, CA 94107, USA  
 Phone: (415) 861-2336  
 Website: [https://www.sunflowersf.com/potrero-hill-menu#order-online](https://www.sunflowersf.com/potrero-hill-menu#order-online)  
-[View on Google Maps](https://maps.google.com/?cid=13035713067973900310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7626205, -122.3977372
+[View on Google Maps](https://maps.google.com/?cid=13035713067973900310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I love this restaurant. It is my favorite Vietnamese restaurant in Bay Area.
 
 I usually do dine in but today I ordered pickup from the phone. To my surprise the food was ready after 15 mins I placed my order on the phone.
@@ -61,6 +62,3 @@ Ordered food to go. Tried the vegetarian spring rolls, the chicken pho, and the 
 
 Pork and Shrimp Salad comes beautifully dressed and sprinkled with mint leaves and peanuts. Amazing presentation, even ..." — **Christopher Chung** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Izakaya mayumi
 A compact neighborhood hideaway with izakaya-style Japanese plates plus sake by the glass or bottle.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 142 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 2221 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 742-4159  
 Website: [http://izakayamayumi.com/](http://izakayamayumi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6496697919185555196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7819382, -122.48318569999999
+[View on Google Maps](https://maps.google.com/?cid=6496697919185555196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Reservations are recommended but we were able to get a table in 5-10 minutes by walking in. The restaurant is small so I wouldn't recommend it for a big group. There are a few tables as well as bar seating. The menu selection was solid and the food we got was pretty tasty too. Service was efficient ..." — **Teresita S** (a month ago)
 - ★★★★★ "I really liked this place, very Japanese from decor to food options to presentation! One of best chirashi bowls I have had in my earthly pilgrimage. Definitely get the karaage appetizer, and the miso soup comes with more substance than most other places. Also green tea ice cream is a
 very generous p..." — **Ken B. Montgomery** (4 months ago)
@@ -64,6 +65,3 @@ Agedashi mochi
 Negitoro Taru Taru: fatty tuna served in unique bamboo dish
 Motsu nabe: beef intestine hot ..." — **Arthur Ho** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

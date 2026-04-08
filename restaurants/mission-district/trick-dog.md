@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Trick Dog
 Trendy hangout in a converted warehouse with an array of craft cocktails & eclectic small plates.
 
 ## Cuisine
+
 **Cocktail bar** — cocktail bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,323 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 3010 20th St, San Francisco, CA 94110, USA  
 Phone: (415) 471-2999  
 Website: [https://www.trickdogbar.com/](https://www.trickdogbar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2046835123862417023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7592244, -122.41119270000002
+[View on Google Maps](https://maps.google.com/?cid=2046835123862417023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 4:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★ "Trick Dog is such a fun and creative spot! It’s a themed bar that switches things up every six months — last time I went, it was a poetry theme, and yesterday they had a space  theme. The menu is always super inventive, with cocktail names that match the theme perfectly. Drinks are delicious, the vi..." — **Carmen Augusto** (4 months ago)
 - ★★★★★ "Trick Dog was super fun. The menu was circus themed, with each drink printed on its own postcard. The drinks were extremely creative and interesting.
 
@@ -58,6 +59,3 @@ I finally checked out Trick Dog, a spot that’s been sitting on my Google Maps 
 We arrived pretty late, but it was still packed!
 The space has two levels — upstairs looked more like a dining area and closed early. ..." — **Hilda Liu** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

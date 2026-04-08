@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Eat Americana
 Cozy neighborhood diner for American classics, beer & wine in low-key digs with vintage accents.
 
 ## Cuisine
+
 **American restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 391 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 3532 Balboa St, San Francisco, CA 94121, USA  
 Phone: (415) 387-2893  
 Website: [http://eatamericana.com/](http://eatamericana.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8363098289242628921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.775920600000006, -122.49683890000001
+[View on Google Maps](https://maps.google.com/?cid=8363098289242628921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Really like this place the food was absolutely amazing. We sat outside it was great on a nice day. We add a cheeseburger and the mac & cheese. They were both absolutely incredible the food is phenomenal. And our waiter Eric was Top Notch, excellent customer service from Eric I really can't recommend..." — **Chris Honig** (6 months ago)
 - ★★★★★ "Eat americana is a great spot for breakfast and brunch, offering both indoor and covered outdoor seating. The friendly staff and welcoming owner, who personally greeted and seated us, added a nice touch.
 
@@ -56,6 +57,3 @@ Portobello mushroom fries were crunchy and paired well with the cilantro dipping
 The owner is usually here which makes it even better to eat here since you are ..." — **Kolby Bell** (5 months ago)
 - ★★★★ "Excellent service, waiter and everyone super nice. The food was ok, we didn't particularly liked the BAT scrambled. For the Short rib with eggs the meat was very tender but not particularly tasty. I think it's a good place but just not for us." — **Cristian Bañuelos** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

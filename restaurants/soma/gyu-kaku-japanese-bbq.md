@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Gyu-Kaku Japanese BBQ
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, barbecue restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 519 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 855 Howard St, San Francisco, CA 94103, USA  
 Phone: (415) 757-0905  
 Website: [https://www.gyu-kaku.com/sanfrancisco](https://www.gyu-kaku.com/sanfrancisco)  
-[View on Google Maps](https://maps.google.com/?cid=285061223229018728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7821348, -122.40385309999999
+[View on Google Maps](https://maps.google.com/?cid=285061223229018728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We had such a wonderful experience and the service was excellent.
 
 We tried the Valentine’s Day special menu. There was a great variety of meats and everything was fresh, tender, and full of flavor. Grilling at the table made the experience even more fun and special. The salad was very good and the ..." — **Catherine Boisseau** (a month ago)
@@ -57,6 +58,3 @@ We tried the Valentine’s Day special menu. There was a great variety of meats 
 Our favorites were the short rib, along wi..." — **vamsi C** (a year ago)
 - ★ "I decided to return to this restaurant with a friend after quite some time without visiting, thinking it would be a good idea to come back, but the experience ended up being far below expectations. From the moment we sat down, the service was practically nonexistent; we had to wait quite a while bef..." — **Max Reid.** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

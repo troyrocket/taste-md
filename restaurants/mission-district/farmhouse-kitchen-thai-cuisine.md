@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Farmhouse Kitchen Thai Cuisine
 Thai eatery for classic curries & noodles, plus rarer street foods in an airy, rustic-chic space.
 
 ## Cuisine
+
 **Restaurant** — catering service, soup restaurant, asian fusion restaurant, fusion restaurant, vegetarian restaurant, thai restaurant, asian restaurant, cocktail bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 3,028 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 710 Florida St, San Francisco, CA 94110, USA  
 Phone: (415) 814-2920  
 Website: [https://farmhousethai.com/san-francisco](https://farmhousethai.com/san-francisco)  
-[View on Google Maps](https://maps.google.com/?cid=17449614134140101572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760179099999995, -122.4112667
+[View on Google Maps](https://maps.google.com/?cid=17449614134140101572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 3:00 PM, 4:30 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "As a new California resident, I've been loving the experience of exploring so many new restaurants across San Francisco and the Bay Area. I tried Farmhouse Kitchen Thai Cuisine for a weekend lunch, and overall, it was a great experience.
 
 We started with Thai tea, which tasted good, but the giant ic..." — **rashmi nimbalkar** (2 months ago)
@@ -56,6 +57,3 @@ We started with Thai tea, which tasted good, but the giant ic..." — **rashmi n
 - ★★★ "This restaurant is hyped. The food is authentic and beautifully presented but if you are interested in authentic Thai food, there are less pricier ans less pretentious places you can go to. This restaurant is designed like a gaudy and over-the-top Thai wedding hall. The tables are too close to each ..." — **Samina K** (4 months ago)
 - ★★★★★ "I had an office happy hour right before valentine's day. so we decide placed a small catering order from Farmhouse. We ordered appetizers and they were a big hit. Everyone who attended enjoyed the food especially the Mieng Kum Kung. Our order came at the perfect time. I will definitely use Farmhouse..." — **Sal Martinez** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

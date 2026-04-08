@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Mayaflor
 
 ## Cuisine
+
 **Restaurant** — mexican restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.9 stars — 122 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 1494 California St, San Francisco, CA 94109, USA  
 Phone: (415) 307-9360  
 Website: [http://mayaflorsf.com/](http://mayaflorsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13121438534269300256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.791058199999995, -122.41895369999999
+[View on Google Maps](https://maps.google.com/?cid=13121438534269300256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 9:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Mayaflor is extremely underrated. If you find yourself waiting in line at MyMy across the street, do yourself a favor and head over to Mayaflor instead — you won’t be disappointed.
 
 The breakfast burrito here is top-tier. They don’t include potatoes inside the burrito, which I typically like, but it..." — **Pauline Kalil** (a month ago)
@@ -55,6 +56,3 @@ The service was exceptional, and don’t even get me started on the food. We had
 - ★★★★★ "WOW. Zero wait on a Saturday for brunch. Featured photos: Mexican Hot Chocolate, Pollo Mole Enchilada special, Breakfast Burrito (made vegetarian). This place is the best kept secret on California street. Kind and welcoming staff. We can't wait to come back and just walk right in and eat." — **Eric Medeiros** (2 months ago)
 - ★★★★ "The two of us were seated right away for a sunday brunch. The food took awhile to come out but it tasted homey and fresh. Waiters were nice and accommodating. We would come back again and try their dinner menu too." — **Erin Shin** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

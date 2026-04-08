@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Tratto
 Family-style rustic Italian fare, cocktails, and wine served in a refined trattoria with a buzzy vibe.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, cocktail bar, bar, event venue
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 924 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 501 Geary St, San Francisco, CA 94102, USA  
 Phone: (415) 292-8151  
 Website: [https://www.tratto-sf.com/](https://www.tratto-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3167051387820621328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7867673, -122.41174509999999
+[View on Google Maps](https://maps.google.com/?cid=3167051387820621328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:00 – 10:00 AM, 11:30 AM – 1:30 PM, 5:00 – 9:00
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Nice food and atmosphere, but very poor service.
 Tratto has a pleasant environment and the food itself is good, but unfortunately the service really took away from the experience.
 We first tried room service for breakfast, and it was honestly painful—the person we spoke with sounded in a very bad mo..." — **cecilia cordova** (3 months ago)
@@ -58,6 +59,3 @@ We ordered a beet..." — **KR AZ** (6 months ago)
 - ★★★★★ "Fritto Misto was a nice app portion, but bland. Pappardelle was with a mix meat ragu - excellent. Negroni was also excellent." — **Scott Helle** (a month ago)
 - ★★★★★ "The fluffy, golden-brown breakfast pancake was an absolute delight, with a melt-in-your-mouth texture and a perfectly sweet flavor that made every bite amazing. Morning treat in San Francisco" — **Elias Melo** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

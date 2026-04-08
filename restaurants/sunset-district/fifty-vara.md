@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Fifty Vara
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 85 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 1735 Noriega St, San Francisco, CA 94122, USA  
 Phone: (415) 571-8701  
 Website: [http://www.fiftyvarasf.com/](http://www.fiftyvarasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9940440449705910853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.753752399999996, -122.4823476
+[View on Google Maps](https://maps.google.com/?cid=9940440449705910853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "What a great place! Everything was delicious.  The calamari batter was crispy, flaky and not oily. The mushroom flatbread was excellent with a great crust. The chicken sandwich batter was also really good. We also had the burger, garlic fries and desserts. Everything was delicious. Staff was friendl..." — **Rebecca Molano** (4 months ago)
 - ★★★★★ "First, the ambience is very nice with huge windows offering natural light. Live plants give an earthy feel throughout. I went to lunch there on a Wednesday, so I was seated at a booth with no wait. All the wait staff was very cordial and friendly. I had the burger and I thought it was great. The bee..." — **Quincy Bones** (7 months ago)
 - ★★★★★ "I think the almost all eaten fries tells you I was too focused on eating and too hungry to remember about taking a picture.  lol Yes, garlic fries were good.  The mushroom flatbread was super.  The flatbread itself was excellent.  I could eat that with a dip even without the mushroom.  I think a lit..." — **Lilian** (5 months ago)
@@ -58,6 +59,3 @@ My wife had the burger and couldn't help herself,  so good it was gone!" — **M
 
 It was a pretty dead Friday as it was July 4th weekend, but I can see this place being really busy on a non-holiday weekend..." — **K C** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

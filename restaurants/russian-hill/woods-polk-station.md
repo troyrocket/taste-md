@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Woods Polk Station
 Tiny tavern serving house beers with yerba mate & locally made empanadas under a mountain mural.
 
 ## Cuisine
+
 **Brewpub** — brewpub, winery, brewery, pub, wine bar, farm, bar, manufacturer
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 139 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Live music · Good for watching sports · Dog-friendly · Res
 2255 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 463-7418  
 Website: [http://www.woodsbeer.com/polk-station/](http://www.woodsbeer.com/polk-station/)  
-[View on Google Maps](https://maps.google.com/?cid=6917224989522219844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7976958, -122.42235609999999
+[View on Google Maps](https://maps.google.com/?cid=6917224989522219844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 1:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★ "Small, intimate brewery setting with a good selection of craft beers. The herbal varieties were a bit intense in my opinion (watch out for the honey beer) but everything else was quite good and fresh. NOT dog friendly (though if you’re lucky they have a swing for 2 outside where you can sit with a p..." — **Leighann Breeze** (8 years ago)
 - ★★★★ "A lovely little place serving their won great beer together with a more weird variety. They offer flights which I recommend you go for. Gets very crowded quickly, as does everything on Polk St.
 
@@ -53,6 +54,3 @@ I'll return for their more common styles carrying my growler." — **Ivan Tolmac
 - ★★★★★ "Great beers, amazing empanadas! After hitting a restaurant up the street, we headed down to Woods and got a taster flight and then a pint.   While closing out our tab, we decided to pick up a coupld of empanadas for breakfast the following day. What a great beer inspired idea that turned out to be. ..." — **MSR (SwimOR)** (3 years ago)
 - ★★★★★ "Don’t go anywhere else! I just had the best chicken empanadas of my entire life, served by M!" — **Maxime Rancourt** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

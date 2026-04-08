@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Perilla
 Small Vietnamese joint serving garlic noodles, pho & other traditional eats in a basic setting.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 685 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 836 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 564-9980  
 Website: [http://irvingperilla.com/](http://irvingperilla.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7618468246889615891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7641251, -122.46711459999999
+[View on Google Maps](https://maps.google.com/?cid=7618468246889615891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We stopped by after the SKECHERS Hot Chocolate 10K, and the food was absolutely phenomenal. We arrived a bit before the restaurant had officially opened, but the woman working there warmly welcomed us in and quickly brought us glasses of water, which was much appreciated.
 
 I ordered the five spice c..." — **Jaewon Lee** (a month ago)
@@ -62,6 +63,3 @@ I ordered the five spice c..." — **Jaewon Lee** (a month ago)
 
 I’ve never ate at Perilla before but have walked past it many time. I really loved the beef from the garlic noodles, it was super tender and flavorful! The chicken from the vermicelli bowl is ..." — **Anna Ng** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

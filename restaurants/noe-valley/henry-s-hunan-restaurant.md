@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Henry's Hunan Restaurant
 Long-running local chain serving Hunan-style Chinese dishes in a relaxed setting.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 351 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 
 1708 Church St, San Francisco, CA 94131, USA  
 Phone: (415) 826-9189  
-[View on Google Maps](https://maps.google.com/?cid=14599154797189884654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7434112, -122.42686169999999
+[View on Google Maps](https://maps.google.com/?cid=14599154797189884654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "From time to time, I visit this restaurant and I am always delighted that they remain in business.
 
 Maybe it's because I'm a longtime San Francisco resident and this brand has been around a long time. I started eating Hunan province style Chinese food back when it was in the Chinatown/Barbary Coast ..." — **Ray Santiago** (a month ago)
@@ -56,6 +57,3 @@ Maybe it's because I'm a longtime San Francisco resident and this brand has been
 All items ordered vegetar..." — **Manish Parekh** (2 months ago)
 - ★★★★★ "Henry’s Hunan is a SF institution that used to have locations across the city. COME GET DIANA’s SPECIAL!!! An invention of the founder and named after his wife. It is my favorite dish in the world and Henry’s is the only place you can get it. Everything is fabulous, from their homemade dumplings, to..." — **Rowan Jones** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

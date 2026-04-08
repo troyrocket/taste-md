@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Pacific Catch
 Casual chain outpost dishing out seafood inspired by flavors from the Pacific Rim.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 2,123 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups
 1200 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 504-6905  
 Website: [https://pacificcatch.com/](https://pacificcatch.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4507930422110845076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.765699, -122.46626469999998
+[View on Google Maps](https://maps.google.com/?cid=4507930422110845076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Parking:** Paid parking lot · Free parking lot · Paid street parking · Free street parking
 
 ## What Diners Say
+
 - ★★★★★ "I visited Pacific Catch once a long time ago for a quick bite, but today I finally had the chance to relax and truly enjoy this wonderful place.
 
 The staff is friendly, welcoming, and very attentive. They clearly understand proper service and presentation, which makes the whole dining experience fee..." — **Yuri Pachkunov** (3 weeks ago)
@@ -54,6 +55,3 @@ Great service from staff, they always checked on us and were friendly and welcom
 - ★★★ "Good environment and nice vibe overall. The service is friendly and welcoming. The Wagyu burger was delicious, and the cocktails were great too. Unfortunately, the Korean ribs were a bit dry, which was disappointing. I wouldn’t recommend the ribs, but I might come back to try other dishes." — **Panatda Andreae** (5 months ago)
 - ★★★★★ "We had a wonderful experience. We are visiting the city. I had the ahi 3 ways, and it was SO good. Like eating all my favorite sashimi, sushi, and poke bowls all in one bite. My stepfather had the surf and turf. We couldn’t believe the size of the lobster tail for the price. We enjoyed everything ab..." — **Sarah VanDermyden** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

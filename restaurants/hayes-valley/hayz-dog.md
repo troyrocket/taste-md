@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Hayz Dog
 
 ## Cuisine
+
 **Hot dog restaurant** — hot dog restaurant, fast food restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 187 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Good for watching sports · Dog-friendly
 364 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 655-9089  
 Website: [http://www.hayzdogsf.com/](http://www.hayzdogsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15242146997459509378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.777088299999996, -122.4223502
+[View on Google Maps](https://maps.google.com/?cid=15242146997459509378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Stopped by Hayz Dog after dinner nearby since we were still a little hungry, and honestly, this ended up being the perfect second dinner. Prices are a bit higher than your average hot dog, but these are hearty, well-built dogs that definitely justify it.
 
 I ordered the Hayz, their signature dog, and..." — **Mario Esquivel** (a month ago)
@@ -61,6 +62,3 @@ There seems to be much thought and care that goes into these delicious dogs.
 
 They also got a yummy ovaltine milkshake." — **Jason Phalla** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

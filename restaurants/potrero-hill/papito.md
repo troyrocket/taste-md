@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Papito
 Mexican bistro serving French-accented organic fare in a small, colorful space with outdoor tables.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 849 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 1457 18th St, San Francisco, CA 94107, USA  
 Phone: (415) 695-0147  
 Website: [http://papitosf.com/](http://papitosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2047154874907326913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7624549, -122.39712209999999
+[View on Google Maps](https://maps.google.com/?cid=2047154874907326913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Stopped by after dropping off a friend at airport. Guacamole 🥑 was fresh with great added flavor. The shrimp 🍤 enchilada WOW. Amazing flavors that cream was over the top.
 
 The only thing I didn’t like what the too tall stools lol 😂 don’t you hate that!" — **Pablo Djblitz** (3 months ago)
@@ -57,6 +58,3 @@ The only thing I didn’t like what the too tall stools lol 😂 don’t you hat
 - ★★★★★ "Nachos with beans of choice, guacamole, sour cream, Pico di..,
 Grilled shrimp, tomatoes, cremation, cilantro, onions, yum." — **Jyoti Singh** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

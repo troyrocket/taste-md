@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # The Richmond
 Refined American eatery & wine bar offering up a limited, seasonal menu of Californian cuisine.
 
 ## Cuisine
+
 **American restaurant** — hotel, lodging, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 185 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 
 615 Balboa St, San Francisco, CA 94118, USA  
 Phone: (415) 379-8988  
-[View on Google Maps](https://maps.google.com/?cid=6173088185293790842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.777031699999995, -122.4654352
+[View on Google Maps](https://maps.google.com/?cid=6173088185293790842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "What a great place, and why I have discovered it only now.  John is the most gracious host who made us feel extremely welcome and comfortable.  The whole place is very cozy.  It's like a private dining.  We were able to enjoy our food and talk as if we were the only people in the restaurant.  The fo..." — **Pasha Gleyzer** (3 months ago)
 - ★★★★★ "The concept here is that the chef, John, and one waitress prepare all the food and service the tables in an intimate small space. The tasting menu is the only option! Every table has its own pocket, surrounded by curtains, to create a cozy private pocket. I loved the food, especially the ribeye. Two..." — **Julia Enthoven** (11 months ago)
 - ★★★★★ "We went here for a belated anniversary dinner tonight and absolutely loved it. The food was DELICIOUS, the atmosphere was great (if you like classic rock and/or 90s music, you'll also love the music selection), and the couple that run the show/served us were attentive and hooked us up with extra cou..." — **Ken McGuire** (5 months ago)
@@ -58,6 +59,3 @@ We came to this place to celebrate my birthday. We made reservation one month ea
 The dinner started from salad and bread. They are not in the tasting menu, but included. They were paired with sparkling wine.
 ..." — **John Z** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

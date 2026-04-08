@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # YUJI
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 95 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 1700 Post St k, San Francisco, CA 94115, USA  
 Phone: (415) 658-7128  
 Website: [https://www.kappoyuji.com/](https://www.kappoyuji.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1292260143507019993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7857723, -122.4301334
+[View on Google Maps](https://maps.google.com/?cid=1292260143507019993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "It was a beautiful Friday in the peak of spring. A friend from college had invited me to Kappo Yuji to experience his favorite omakase, and boy did it live up to the expectations. Though it was a little hard to find(you have to go upstairs with minimal signage outside), however once seated you find ..." — **Anthony Giang** (10 months ago)
 - ★★ "This is my second time here.  The first time was 2022.  This time, was abysmal.  We chose the sake pairing as well.
 
@@ -62,6 +63,3 @@ Unlike many omakase spots that focus primarily on nigiri, Yuji delivers a well-r
 Some standout highlights from our meal:
 •	Eggplant with..." — **Peter Kuo** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

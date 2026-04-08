@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Golden Horse Restaurant
 This unassuming eatery offers traditional Cantonese & Mandarin-style mains, plus lunch specials.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, cantonese restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 147 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1060 Hyde St, San Francisco, CA 94109, USA  
 Phone: (415) 441-8889  
 Website: [https://goldenhorse7.com/](https://goldenhorse7.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12424600415505463586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.790805399999996, -122.41723599999997
+[View on Google Maps](https://maps.google.com/?cid=12424600415505463586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Authentic Chinese cuisine for fair prices! This was our go to Chinese restaurant when we lived in the area. We came back after leaving the a few years and the food tastes exactly the same! Hats off to their consistency!
 
 This family ran joint is great for your usual greasy Chinese cravings but also ..." — **Nabil R** (a year ago)
@@ -58,6 +59,3 @@ Heaping portions lunch platter for under $10 — a bargain. Crispy fried pork ch
 ..." — **Christopher Chung** (2 years ago)
 - ★★★★ "Food was fresh and well made, portion size is great, the only thing I didn’t like was they put a lot of salt in everything, it was way too much salt particularly in chicken salad . Service was good and fast and one guy was doing everything from host stand to telephone operators, serving , clearing t..." — **syed manan** (4 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

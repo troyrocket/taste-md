@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Koja Kitchen
 Food truck team's stylish permanent space serving innovative Korean & Japanese fusion dishes.
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant, asian fusion restaurant, fusion restaurant, asian restaurant, japanese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 531 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 309 6th Ave, San Francisco, CA 94118, USA  
 Phone: (415) 463-5085  
 Website: [http://www.kojakitchen.com/](http://www.kojakitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6572018258215039840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7826423, -122.464551
+[View on Google Maps](https://maps.google.com/?cid=6572018258215039840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 9:30 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Hub got the original koja and I got the chicken koja. We were both very happy with our choices. It was a little messy to eat but they wrap it well... just don't take it out of the wrapper to eat it. I would definitely go again and bring friends. I would try to go before or after the lunch rush bc th..." — **JoAnn Cheung** (3 weeks ago)
 - ★★★★★ "This Korean-Japanese (or KoJa) restaurant makes great fries, uncommon burgers, and refreshing drinks.
 
@@ -61,6 +62,3 @@ The koja "burger" is great with short ribs in between rice buns.
 Fast and friendly service.
 They're loca..." — **Doug Maner** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

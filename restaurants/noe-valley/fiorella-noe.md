@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Fiorella Noe
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 80 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 4042 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 875-9894  
 Website: [http://www.fiorella-sf.com/](http://www.fiorella-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12740391494219138801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7514852, -122.4328828
+[View on Google Maps](https://maps.google.com/?cid=12740391494219138801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We used to love the Neighborhood Night at the Sunset location, and although it’s no longer happening, we made the trek to the Noe Valley spot and it was well worth it.
 
 A quick tip: make a reservation and note that happy hour runs only on Monday, Tuesday, and Thursday from 5–6 PM.
@@ -61,6 +62,3 @@ Our party of 20 took up two large tables so we had a prix fixe set to make it ea
 The restaurant is really loud and it's hard to have a conversation. The food is decent but nothing you haven't had before. I would call them slightly Americanized versions. The staff was very nice though.
 Might be bet..." — **Ravi** (4 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

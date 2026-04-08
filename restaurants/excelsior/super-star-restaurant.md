@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Super Star Restaurant
 
 ## Cuisine
+
 **Filipino restaurant** — filipino restaurant, breakfast restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 331 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids · Restroom available
 
 4919 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 585-4360  
-[View on Google Maps](https://maps.google.com/?cid=4712778331293013511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7195979, -122.4384724
+[View on Google Maps](https://maps.google.com/?cid=4712778331293013511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "This is a great value restaurant, everything is cheap here. The food is good and greasy. Not sure there’s anything healthy here😂.
 
 Parking in the area is PIA, they seemed to be mostly busy but the line and order is fast. I liked the filipino pork chop more than the Hong Kong fried pork chops." — **Jesse Lee** (4 months ago)
@@ -53,6 +54,3 @@ Parking in the area is PIA, they seemed to be mostly busy but the line and order
 The food has always been consistent.   The only change now is they don't give as much rice.   They used to top it off ..." — **Lynn Eglan** (10 months ago)
 - ★★★★★ "I have been here many times and everytime it was a satisfying one. This place is the definition of your moneys worth type of eatery, they give you a fulfilling plate/meal at a low cost. They offer Filipino rice dishes that comes with garlic rice, egg, choice of tomatoes or pineapples and a choice of..." — **Alzila** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

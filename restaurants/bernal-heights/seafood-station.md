@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Seafood Station
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 255 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 803 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 655-3245  
 Website: [https://seafoodstationsf.hrpos.heartland.us/](https://seafoodstationsf.hrpos.heartland.us/)  
-[View on Google Maps](https://maps.google.com/?cid=9010083524663721007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7390604, -122.4144811
+[View on Google Maps](https://maps.google.com/?cid=9010083524663721007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "My sister and I came in for happy hour on Tuesday. Service was great and food was good. We really liked the calamari, crab cakes, raw oysters, and cioppini.  We ordered the garlic fries too but it didn’t have enough garlic or maybe they were using jar garlic, I tasted more Parmesan than anything els..." — **Abbie N** (3 months ago)
 - ★★★★★ "Ramzy was very attentive, and food came out quickly. I ordered a bowl of clam chowder and Cajun cod, both were delicious and very filling! Veggies were grilled just right and not burnt, which I liked. I would visit again when I'm in the area next time." — **Megan Choi** (a month ago)
 - ★★★★★ "This place is super quaint. We arrived near 7PM on a Saturday night. It was busy, but no wait for a table. Room for a party of 4 and the service was quick. The garlic butter seafood boil seemed super fresh. None of the seafood tasted like fish or smelled that way. The corn was boiled a few days too ..." — **jkubr** (4 months ago)
@@ -54,6 +55,3 @@ Sunday: 11:00 AM – 9:00 PM
 
 Excuse the messy photo,  I was already digging in before I remembered to ..." — **Ahmed Amad** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

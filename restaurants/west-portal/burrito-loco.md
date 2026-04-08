@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Burrito Loco
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, latin american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 301 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 850 Ulloa St, San Francisco, CA 94127, USA  
 Phone: (415) 665-4677  
 Website: [http://burritolococa.com/](http://burritolococa.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1136536958360112449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7409271, -122.46563119999999
+[View on Google Maps](https://maps.google.com/?cid=1136536958360112449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Delicioso el burrito. La gente genial. Paren y coman en el Burrito Loco.
 
 Stop and eat at the Burrito Loco. The food is flavorful, decent portions and the workers are super kind and helpful. I got their regular carnitas burrito and enjoyed it a lot." — **Carlos Benitez** (2 months ago)
@@ -54,6 +55,3 @@ Stop and eat at the Burrito Loco. The food is flavorful, decent portions and the
 - ★★ "I had a Carne Asada burrito. The meat itself was charbroiled and it was delicious. However,  I am very particular about what goes inside the burrito. I'm not a fan of tomatoes inside of it. I specifically asked for no tomatoes and of course it had tomatoes in it. 2nd issue was the Mexican rice.  It ..." — **Miguel Hinojosa** (a month ago)
 - ★★★★★ "Finally discovered what others have known for 14 years.  Legit Mexican food.  Got the super al pastor burrito with hot salsa.  Al pastor was juicy and spiced just right.  Pinto beans were soft and creamy.  Salsa was really good.  Tasted like a roasted habanero.  Chips were light, thin, ethereal.  Ge..." — **Three Ng Circus** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

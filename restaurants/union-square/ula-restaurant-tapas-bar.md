@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Ula Restaurant & Tapas Bar
 Upscale French bistro with an art deco feel serving seafood-focused fare, cocktails, and desserts.
 
 ## Cuisine
+
 **Tapas restaurant** — tapas restaurant, steak house, mediterranean restaurant, spanish restaurant, seafood restaurant, cocktail bar, italian restaurant, french restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.1 stars — 494 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Dog-friendly · Restroom available
 450 Post St, San Francisco, CA 94102, USA  
 Phone: (415) 999-4950  
 Website: [https://ulasf.com/](https://ulasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6278337761582435421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7883413, -122.4093607
+[View on Google Maps](https://maps.google.com/?cid=6278337761582435421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Strangely one of the best kept secrets in union square. Extremely talented bartender staff who will try any drink you ask for and are also quite creative.  They are super friendly always willing to chat and have the benefit of working in a very beautiful restaurant. This restaurant space has evolved..." — **Edward Hernandez** (4 weeks ago)
 - ★★★★★ "Wowza!!! This was a surprise hit in NYE afternoon. We were looking for a tapas bar near Union Square and we ended up here… MUCH TO OUR DELIGHT!
 
@@ -61,6 +62,3 @@ Our waitress was very kind, as were the bartender and manager. But, they forgot 
 
 The interior is stunning – sophisticated, w..." — **Vitalina Haidai** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

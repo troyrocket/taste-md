@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # El Sabor Yucateco
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 74 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 173 Eddy St, San Francisco, CA 94102, USA  
 Phone: (415) 658-7225  
 Website: [https://elsaboryucatecoca.com/](https://elsaboryucatecoca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7433527788597605370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7841182, -122.41040989999999
+[View on Google Maps](https://maps.google.com/?cid=7433527788597605370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 9:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I love this place, and if I could, İ'd eat there every day
 This is not haute cuisine if that's what one expects. I've been trying to find the words to convey why they are so special to me.
 
@@ -55,6 +56,3 @@ Enough of that, and onto the food. We tried the panuchos and everyone at the tab
 - ★★★★★ "Super flavorful and authentic. Impeccable textures. These restaurants are the ones that deserve spotlight, that neighborhoods and cities should hold dear at all costs. Seriously, seriously awesome food." — **H. Suh-Howard** (a year ago)
 - ★★★★ "Authentic Yucatan cuisine from Mexico at the heart of Tenderloin. New in the area (6 months). The place must be an old restaurant with clean & spacious seating area. This is a good place if you crave for authentic Mexican/Yucatan cuisine like you have back home." — **Nicholas “Nicko” Santos** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

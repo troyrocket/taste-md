@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # NINNIKU RAMEN IZAKAYA
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4 stars — 134 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Restroom available
 
 1730 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 829-3411  
-[View on Google Maps](https://maps.google.com/?cid=5655588918560617062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7856929, -122.43303990000001
+[View on Google Maps](https://maps.google.com/?cid=5655588918560617062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:30 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This is my go-to place when I am around Japantown/Fillmore area!
 
 We really enjoy getting their happy hour menu deals as well as their ramen. The Chashu Cha Han (BBQ Pork Fried Rice) was delicious and definitely our favorite. The soft boiled egg on top was a delightful addition to the flavorful frie..." — **mika** (4 months ago)
@@ -59,6 +60,3 @@ Good:
 - ★★★★★ "This small, cozy restaurant served us well. We ordered chicken karagee, spicy miso chashu ramen, takoyaki, and tonkotsu chashu ramen. The staff was extremely friendly and welcoming, with a wait time of approximately 30 minutes during the lunch rush. We were required to sign in for the waitlist and r..." — **Mari Ramirez** (3 months ago)
 - ★★★ "Not terrible nor praiseworthy, worth trying going during the happy hour. That’s the best part of this place, along with the nice atmosphere. The spicy miso yuzu ramen I got wasn’t offensive, but the spring mix lettuce was an odd garnish and the broth was extremely oily. The matcha cheesecake was fin..." — **Ozias H** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

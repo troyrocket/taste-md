@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Sweet Maple
 Local spot for homemade morning/lunch fare like signature brown-sugar-glazed “millionaire’s bacon.”
 
 ## Cuisine
+
 **Brunch restaurant** — brunch restaurant, diner, breakfast restaurant, californian restaurant, cafe, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 4,475 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2101 Sutter St, San Francisco, CA 94115, USA  
 Phone: (415) 655-9169  
 Website: [https://www.sweetmaplesf.com/](https://www.sweetmaplesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9820403042462480656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785708199999995, -122.43512030000001
+[View on Google Maps](https://maps.google.com/?cid=9820403042462480656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "This morning I visited Sweet Maple for brunch with high expectations.
 
 I ordered the New York steak medium rare, but unfortunately it was served medium. The presentation was good, but when it comes to steak, temperature is everything, and I specifically did not order medium. When the server came to ..." — **Mary Maldonado** (a month ago)
@@ -56,6 +57,3 @@ I ordered the New York steak medium rare, but unfortunately it was served medium
 - ★★★★★ "We stumbled on this looking for a breakfast spot. We walked in and was seated before 8 am. I got the omurice dish and it was very tasty. We tried the bacon and was seasoned to perfection. We would definitely come back again!" — **Marty Ignacio** (a month ago)
 - ★★★★★ "Sweet Maple is definitely a brunch spot worth the hype! I ordered their Big Hip— their famous deep-fried French toast— and wow, it did not disappoint. Crispy on the outside, soft and warm on the inside, and paired perfectly with pure Vermont maple syrup, butter, and powdered sugar. Absolute perfecti..." — **Kevin Drost** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

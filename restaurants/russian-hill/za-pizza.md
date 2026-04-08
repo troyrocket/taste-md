@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Za Pizza
 Thin-crust pies with loads of toppings draw locals & families to this neighborhood pizza joint.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 1,184 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Good for watching sports · Restroom availab
 1919 Hyde St, San Francisco, CA 94109, USA  
 Phone: (415) 771-3100  
 Website: [http://zapizzasf.com/](http://zapizzasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9190967331249309559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.798542999999995, -122.419157
+[View on Google Maps](https://maps.google.com/?cid=9190967331249309559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Everything about this place just clicks and works perfectly. The music, the children’s art on the wall, the overall vibe is a true California pizza shop vibe.
 
 They got a number of slice options, the Monday meat is very good. The sausage and the garlic go well together. The thing that really makes t..." — **Farshad P** (a year ago)
@@ -56,6 +57,3 @@ They got a number of slice options, the Monday meat is very good. The sausage an
 - ★★★★★ "Exceptional thin-crust NY-style pizza, quality ingredients and great atmosphere, Hyde street vibe and friendly service.  We wandered in unexpectedly and loved it, then up the block to Swenson’s for ice cream on a Saturday night.  Most of our group grew up in NY, and were suitably impressed across th..." — **GodzillaSF** (2 months ago)
 - ★★★★★ "Excellent pizza in an a neighborhood setting. The staff was chill and very friendly. Loved the art on the walls! Would definitely recommend for anyone looking for a great slice or pie in the area." — **Tim McGugan** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

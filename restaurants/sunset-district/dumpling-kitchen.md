@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Dumpling Kitchen
 Modest Chinese joint specializing in meat & vegetarian dumplings also offers soups & noodle dishes.
 
 ## Cuisine
+
 **Dumpling restaurant** — dumpling restaurant, asian restaurant, noodle shop, meal delivery, food delivery, chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 1,095 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1935 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 682-8938  
 Website: [https://dumplingkitchenca.com/](https://dumplingkitchenca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7022952798831110620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742376199999995, -122.4870455
+[View on Google Maps](https://maps.google.com/?cid=7022952798831110620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The food is excellent the service was ok they were rushed off their feet with to go orders. With a few tables.
 1. Pea sprouts with roasted garlic- delicious
 2. Pan fried juicy pork- must have so good
@@ -58,6 +59,3 @@ Sunday: 10:30 AM – 9:00 PM
 - ★★★★★ "Tried this place with my friend for the first time. we got four items. It was good portion. We couldn’t finish the XLB and had to take it to go. The food, atmosphere, and service were mostly good. however, it can get quite loud during peak hours. It’s in a quiet neighborhood, mostly residential area..." — **Ivy Lu** (7 months ago)
 - ★★★★ "The dumplings were delicious, the peashoots and garlic and rice cakes were delicious. The salt and pepper fried ribs had too much batter." — **AJM** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Doppio Zero San Francisco
 
 ## Cuisine
+
 **Italian restaurant** — family restaurant, pizza restaurant, brunch restaurant, vegan restaurant, vegetarian restaurant, catering service, food delivery, italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,036 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 395 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 624-3634  
 Website: [https://doppiozerogroup.com/doppiozerosanfrancisco](https://doppiozerogroup.com/doppiozerosanfrancisco)  
-[View on Google Maps](https://maps.google.com/?cid=11911094549088691048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7768119, -122.4228144
+[View on Google Maps](https://maps.google.com/?cid=11911094549088691048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "This restaurant carries a history of Michelin recognition (2019-2021), which naturally sets a certain expectation.
 
 The Burrata & Prosciutto and grilled octopus were well executed, and the Cacio e pepe pasta truly stood out, perfectly al dente and full of flavor. The rotisserie chicken was nicely ro..." — **Mary Maldonado** (a month ago)
@@ -59,6 +60,3 @@ I ordered the Margherita and the shrimp/calimari combo, along with s..." — **K
 Some..." — **Conery Wilbanks** (3 weeks ago)
 - ★ "I would give negative stars if I could. Pizza was PITCH BLACK, literally all you could taste is a bitter taste. The waiter didn't even cut my pizza for me, I had to cut it myself and then it's bitter and not edible. I can't believe I paid 32$ at this restaurant for this horrible quality. This place ..." — **William Zhao** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

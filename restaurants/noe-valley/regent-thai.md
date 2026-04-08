@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Regent Thai
 Low-key Thai restaurant with colorfully presented curries, rice & noodle dishes, satays & more.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 336 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 1700 Church St, San Francisco, CA 94131, USA  
 Phone: (415) 643-5893  
 Website: [http://www.regentthaisf.com/](http://www.regentthaisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15605709707281470635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7435638, -122.42686119999999
+[View on Google Maps](https://maps.google.com/?cid=15605709707281470635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "No wait and lots of open tables. We came around 6:00pm on a Monday. We have been coming here since the original location was on Monterey Blvd. All their food is delicious and not Thai spicy unless you want that burn and I am sure they can help you with that.
 
 They start you off with a basket of frie..." — **Jay Chino** (7 months ago)
@@ -60,6 +61,3 @@ One of the things that I value in a restaurant is consistency of quality and the
 And while there are so many Thai eateries in San Francisco in plent..." — **Ray Santiago** (a year ago)
 - ★★★★★ "I have been a fan of this spot for many years after a friend of mine got me hip to the skip. The food is always fresh, well presented and flavorful. You never taste anything odd or mysterious as it is prepared with such care. All of my friends, family and general loved ones know that this is the pla..." — **JD Cogmon** (8 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

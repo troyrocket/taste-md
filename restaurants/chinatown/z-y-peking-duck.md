@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # 御食园 Z & Y Peking Duck
 Small, brick-clad Asian pick serving yakitori skewers, Lanzhou ramen & other Sichuan favorites.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dim sum restaurant, asian restaurant, cantonese restaurant, dumpling restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,302 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 606 Jackson St, San Francisco, CA 94133, USA  
 Phone: (415) 986-1899  
 Website: [https://zandypekingduck.com/](https://zandypekingduck.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14335227080888040666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.796352399999996, -122.40549159999999
+[View on Google Maps](https://maps.google.com/?cid=14335227080888040666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The food was excellent. Short wait to get in even though there was a line. Great vibe, modern decor. It looks like they have a downstairs. We were able to get their Peking Duck and we were able to get more pancakes. Overall, it was a good experience. We definitely would consider coming back. Just no..." — **Suara Orchids** (2 months ago)
 - ★★★★★ "This restaurant offers excellent Beijing-style cuisine, with the Peking duck being the absolute highlight.
 The duck is perfectly roasted, with crispy skin and tender, flavorful meat.
@@ -63,6 +64,3 @@ The tea service ..." — **liliane chow** (5 months ago)
 
 Once we were seated, we were served quickly.  We ordered avocado, Peking duck and grilled lamb...." — **Eunice Chia-Lim** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

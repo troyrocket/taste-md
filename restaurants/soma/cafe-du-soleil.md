@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Cafe du Soleil
 Charming, European-inspired cafe with French sandwiches & salads, espresso drinks & all-day brunch.
 
 ## Cuisine
+
 **Cafe** — cafe, french restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 225 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating
 345 3rd St, San Francisco, CA 94107, USA  
 Phone: (415) 699-6154  
 Website: [https://cafedusoleilsoma.com/](https://cafedusoleilsoma.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7329405895502789611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7832838, -122.39791550000001
+[View on Google Maps](https://maps.google.com/?cid=7329405895502789611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Incredible little spot for lunch.  The owner is caring and attentive, the food is amazing, the portions are big!! Highly rated for a reason" — **Eryn DeMaertelaere** (a month ago)
 - ★★★★ "Large portions, fresh food.  We enjoyed the Soup of the Day which was a mushroom bisque, the Salade Niçoise with smoked salmon, and the Omelette Paris (omelette with mushrooms and ham).  My only small complaint is that there was a bit too much dressing on the Salade Niçoise.  I liked the fact that w..." — **Cynthia Lopez** (2 months ago)
 - ★★★★★ "A bite of Paris in the heart of Downtown SF.  Breads are fresh, meats are plenty, and the love in the preparation of the food is felt at each table.  The menu was as joy to browse over to see what I will come back to get next.  Thank you Chef Michael for the wonderful meal!" — **James Kieu** (2 years ago)
@@ -54,6 +55,3 @@ Sunday: Closed
 I would *highly* recommend this restaurant to anyone who's looking for a fillin..." — **The_Advocate42** (a year ago)
 - ★★★★★ "This is one of the best cafes for lunch I’ve ever been too. Everything was super fresh and made to order. The gentlemen running the place is incredibly nice as well. Highly recommend" — **Andrew Weiss** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

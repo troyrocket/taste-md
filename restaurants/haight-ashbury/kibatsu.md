@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Kibatsu
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 233 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 400 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 872-9636  
 Website: [https://www.kibatsusushi.com/](https://www.kibatsusushi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14860464267671082545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.772483699999995, -122.42900689999999
+[View on Google Maps](https://maps.google.com/?cid=14860464267671082545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "I'm still not sure what to think about Kibatsu. Fantastic atmosphere, and it serves some unique dishes (like shark skin), some high quality fish dishes, and some basic dishes along with some (somewhat weird...) fusion Japanese. It is very inconsistent in quality and feels like it keeps some of its t..." — **May Bresler Herzog** (2 months ago)
 - ★★★ "Decent omakase experience. Some of the best bites included the king crab, scallop, tiger prawn, uni fried rice and toro with caviar and uni. They also have a selection of sake to go with your food. The place is rather small but you are able to make reservations online. Be careful though because they..." — **Drew Hinkson** (a month ago)
 - ★★★★ "Super nice cozy vibes, love the decor of this place! Mid to low light, great for a romantic dinner with good food! Although it is not the best sushi in town, for a little above average price you're getting some good stuff!" — **Wolf Fivousix** (2 months ago)
@@ -53,6 +54,3 @@ Sunday: Closed
 However, the w..." — **Yvonne** (a month ago)
 - ★★★★★ "This was my first time here. A friend who lives in the neighborhood recommended it and I couldn’t have been more pleased. Very cute dark intimate atmosphere, unique plating, great quality flavor and really friendly staff. The chef even gifted us a tasty special piece of sushi. Highly recommend!" — **Daniel Johnson** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Abu Salim Middle Eastern Grill
 
 ## Cuisine
+
 **Middle Eastern restaurant** — middle eastern restaurant, halal restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 730 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 1599 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 522-0122  
 Website: [https://www.abusalimsf.com/](https://www.abusalimsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=389457497088543639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7696616, -122.4483383
+[View on Google Maps](https://maps.google.com/?cid=389457497088543639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "They were quick with the smiles,  greetings and beverage fill ups.
 The food was delicious.
 The best creamy hummus I've ever had.  I didn't even km l need the juicy chicken schwarma on top.
@@ -59,6 +60,3 @@ The..." — **MOE JARADAT** (4 months ago)
 - ★★★★★ "This is my new favorite place to get lunch! Everything there is good, If you’re ordering for pickup, do it through their website for a discount :) also! The lady who works there even gave me two hot sauces today when I asked! thats twice the yum!
 Cant wait to try everything on the menu." — **Emily Peterson** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Roti Indian Bistro
 Modern, warm-hued Indian eatery turning out traditional, innovative & vegetarian options.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, family restaurant, vegetarian restaurant, cocktail bar, bar, north indian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 583 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 53 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 665-7684  
 Website: [http://www.rotibistrosf.com/](http://www.rotibistrosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3187871420833436721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7402163, -122.4662146
+[View on Google Maps](https://maps.google.com/?cid=3187871420833436721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "We have been waiting to try this place, as it’s always busy, so of course we assumed it was good. Yes, the food was good, but they really need to have more work on service. We called to say we would be ten minutes late to our reservation, but once seated saw no one except for menus and water for 20 ..." — **LA Brekke** (2 months ago)
 - ★★★ "Great spot for date night on a lively street surrounded by other restaurants and nightlife. We made reservations and had a smooth, welcoming experience from start to finish. The service stood out, our waitress was friendly, attentive, and helped guide us through the menu.
 We chose the pre-feast opti..." — **Jorge Anthony** (a month ago)
@@ -57,6 +58,3 @@ We chose the pre-feast opti..." — **Jorge Anthony** (a month ago)
 
 Want to come back here for dinner since the cocktail menu looked great. Highly recommend" — **Michael Wishart** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

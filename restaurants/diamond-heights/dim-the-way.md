@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Diamond Heights](index.html)
-
 # Dim The Way
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 33 reviews
 
 ## Dining Options
@@ -20,8 +21,7 @@ Unknown
 1109 Ocean Ave, San Francisco, CA 94112, USA  
 Phone: (415) 964-7062  
 Website: [http://www.dimtheway.com/](http://www.dimtheway.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3295802137279117801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.723343199999995, -122.454398
+[View on Google Maps](https://maps.google.com/?cid=3295802137279117801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Sunday: 9:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Best price!!!!!
 I really like this place!
 The foods is very delicious and not too salty.
@@ -50,6 +51,3 @@ The shop is clean and cute. It is a great place to go with friends. I will come 
 - ★★★★★ "Updated review: Heads up, for the rice rolls, there are two free toppings available out of three. Pick from lettuce, green onion or coriander/cilantro. The toppings however, don't make it less plain as it is a plain dish. Same with the +$1 egg option. It tastes the same as before for my pork rice ro..." — **Jeff Ho** (a month ago)
 - ★★★★★ "I ordered takeout last night and delivery again this morning, and everything was amazing. I highly recommend this restaurant, it’s absolutely delicious!" — **Kanokwan Sinnang** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

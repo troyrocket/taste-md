@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Presidio Heights](index.html)
-
 # As Quoted
 Hip, minimalist eatery serving organic American fare with dairy-, gluten-, nut- & soy-free options.
 
 ## Cuisine
+
 **Restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 362 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 3613 Sacramento St, San Francisco, CA 94118, USA  
 Phone: (415) 914-0689  
 Website: [http://eatasquoted.com/](http://eatasquoted.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8286788901023827097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.787399, -122.45222
+[View on Google Maps](https://maps.google.com/?cid=8286788901023827097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Loved the food here, I had bone broth with fresh grated ginger and turmeric, fresh banana muffin (divine) and big protein breakfast." — **S Kre** (3 months ago)
 - ★★★★ "I start at 5 stars and go down if needed.
 
@@ -64,6 +65,3 @@ I have mixed..." — **Rafael DeAusen** (a year ago)
 Edited 1/28/26
 The male barista with the glasses deserves a raise. He remembers that I usually bring my own cup and is so detail-oriented that..." — **Thip R** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

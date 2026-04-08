@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Peasant Pies, Inner Sunset
 Cheery, bright counter-serve place offering a variety of savory & sweet hand-held pies.
 
 ## Cuisine
+
 **Cafe** — cafe, fast food restaurant, bakery, catering service, food delivery, food store, store, service
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 374 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 1039 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 731-1978  
 Website: [https://www.peasantpies.com/](https://www.peasantpies.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14906683819160932974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7637745, -122.46918419999999
+[View on Google Maps](https://maps.google.com/?cid=14906683819160932974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:30 AM – 4:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Great small pies- savory and sweet! Pies can be heated up for you to enjoy hot. From the mouth of the cashier, the most popular vegetarian pie is spinach/feta and the most popular vegan pie is the garbanzo bean curry. I can vouch for the garbanzo bean curry pie- it was yummy and not too spicy either..." — **Katia Martha** (3 months ago)
 - ★★★★★ "The man working behind the counter was very friendly and helpful. They have two vegan pies and he recommended the vegan garbanzo pie. It was delicious with garbanzo beans and curry!" — **Maria** (2 months ago)
 - ★★★★★ "Dropped by as their vegan pie caught my eye. The size was perfect and hearty as well. It’s nice that the crust was soft, not too thick nor too thin. I ate the lentil, yam, cumin and onion pie that was heated in their front table near the window. They had meat, poultry, seafood, veggies and vegan opt..." — **Ming Wai** (7 months ago)
@@ -55,6 +56,3 @@ Sunday: 9:30 AM – 4:30 PM
 
 A special shoutout to Ally, who was so great to work with – incredibly helpful, responsive, and just genuinely nice throughout the ent..." — **Niyat Kahsay** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

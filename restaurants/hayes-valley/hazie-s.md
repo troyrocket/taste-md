@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Hazie's
 
 ## Cuisine
+
 **Restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4 stars — 365 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 501 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 678-5156  
 Website: [https://www.haziessf.com/](https://www.haziessf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1727268208428770222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7765501, -122.4247769
+[View on Google Maps](https://maps.google.com/?cid=1727268208428770222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Friends and I dined here for the first time
 NYE. We were happy to see it was absolutely packed. We decided to share all dishes family style since all sounded delicious. We ordered a bottle of champagne, a starter, and three mains amongst four people. We ordered: Crispy Glazed Pork Belly Bao Buns, Ri..." — **Karina S** (2 months ago)
 - ★★★★★ "This place was buzzing after 530p with almost all the seats taken inside and outside! Looks like a good happy hour.
@@ -56,6 +57,3 @@ We ate at a table before a symphony show and it is a very short walk to the perf
 - ★★★★★ "Exceptional service from staff! Particularly Eduardo and Art. The food is fresh and made to order. I had the Beet salad which was more filling than I expected, and delicious. Even the restrooms are 5 star. Don’t make it out to the city very often, but next time we see a show nearby, we will be back." — **Sabrina Italia** (3 months ago)
 - ★★★★ "Cozy and cute spot for tasty American fare! I visited Hazie’s for a Saturday morning brunch on a whim and was pleasantly surprised by how lovely the space was! The restaurant is spacious and extremely cozy, with ample seating and sunlight. The staff was remarkably friendly, cheerful, and attentive —..." — **Sonya Hu** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

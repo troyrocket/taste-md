@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Lava Java
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, brunch restaurant, breakfast restaurant, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 224 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Outdoor seating
 
 852 Stanyan St, San Francisco, CA 94117, USA  
 Phone: (415) 751-7375  
-[View on Google Maps](https://maps.google.com/?cid=11013070864128976817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7666483, -122.45284799999997
+[View on Google Maps](https://maps.google.com/?cid=11013070864128976817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 7:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Great little stop for coffee and breakfast/lunch items.   My ginger chai had great flavor.   It could have been hotter for my taste.  The person serving me was new and didn’t yet know the menu or prices.  She was friendly enough and will be good once trained up.   The spinach mushroom wrap was good,..." — **Diane Olsen** (a month ago)
 - ★★★★★ "Lovely staff, lovely service, tasty mochas. We frequented these guys for a couple years while living in the city - Iced Mocha is the way to go. Humble looking establishment from the outside but serves the neighborhood well. Thanks guys," — **Tom Draper** (3 months ago)
 - ★ "Staff is really sweet and I love the ambiance. It’s a cute little cafe!
@@ -51,6 +52,3 @@ Ordered an almond latte but it was undrinkable. My friend ordered a latte and th
 - ★★★★★ "I love the egg cheese ham bagel here, also turkey swiss sandwich so nice!
 Strongly recommend the avocado smoothie." — **maggie cheung** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

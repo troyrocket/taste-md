@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Noodle in a Haystack
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 61 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Restroom available
 
 4601 Geary Blvd, San Francisco, CA 94118, USA  
 Website: [http://noodleinhaystack.com/](http://noodleinhaystack.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10287173714686126435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.780660999999995, -122.4687255
+[View on Google Maps](https://maps.google.com/?cid=10287173714686126435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -38,6 +38,7 @@ Contact restaurant for hours
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Best meal we've ever had.
 
 Each dish was executed to perfection and the level of variety and uniqueness was unparalleled. There were so many different and novel flavor combinations. The most unique and the best ramens I've ever had.
@@ -55,6 +56,3 @@ Good:
 - ★★★★★ "One of the best & true Japanese ramen joint you can find in San Francisco - hands down! I love the  details they thought of into the making of every dishes that they served in front for you. Most of the dishes they made are often tied back to a story / reminder of other dishes  that takes you back t..." — **Giovanni Fnu** (a year ago)
 - ★★★★★ "Delicious tasting menu! The husband and wife duo are passionate about their menu and it really shows. However, I did wish there were more ramen inspired dishes (not just one ramen dish). Nonetheless I still had a great meal and it was worth the experience. There aren't many seats at the counter, so ..." — **Steph Kwan** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

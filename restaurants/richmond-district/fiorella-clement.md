@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Fiorella Clement
 Chic, cozy bistro dishing up elevated Italian pastas & wood-fired pizzas, plus wine & craft beer.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, wine bar, italian restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 715 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2339 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 340-3049  
 Website: [http://www.fiorella-sf.com/](http://www.fiorella-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15246294121082901782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7818464, -122.48451209999999
+[View on Google Maps](https://maps.google.com/?cid=15246294121082901782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Dropped in around 2 PM on a Saturday for a late lunch. We had a picky eater in our group and our waiter took it in stride. Note they do not make any menu substitutions, but did allow us to customize a margarita pizza for the picky person. Everything we ordered tasted great, especially the quality of..." — **Caroline Gutierrez** (2 months ago)
 - ★★★★★ "Excellent food and great menu. Tables are a little close together, so be ready for a louder noise level. Long wait on weekends, so I recommend a reservation. Save room for coffee and dessert." — **Stacey Eliason** (4 weeks ago)
 - ★★★★★ "5/5 Stars - Incredible Birthday Celebration!
@@ -63,6 +64,3 @@ The restaurant was full and we did not have a reservation but we were brought in
 The service was great
 The beer we ordered was made 1.5 hrs away from where we l..." — **Lucy B.** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

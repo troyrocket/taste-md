@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # el Mil Amores
 
 ## Cuisine
+
 **Restaurant** — breakfast restaurant, mexican restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 495 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for kids · Restroom available
 2780 21st St, San Francisco, CA 94110, USA  
 Phone: (415) 866-4121  
 Website: [https://instagram.com/elmilamoresrestaurant21?igshid=YTQwZjQ0NmI0OA%3D%3D](https://instagram.com/elmilamoresrestaurant21?igshid=YTQwZjQ0NmI0OA%3D%3D)  
-[View on Google Maps](https://maps.google.com/?cid=4183952693552058523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.757712, -122.41043099999999
+[View on Google Maps](https://maps.google.com/?cid=4183952693552058523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of the best plates of food I've had in a while.
 
 We tried the cdmx bowl and the chilaquiles. We also ordered the tres leches pancakes.
@@ -59,6 +60,3 @@ My favorite part of the meal was the café de olla. It was sweet, spiced, and co
 - ★★★★★ "Came here on a Tuesday ~10:30am and waited around 15 mins. The food was so delicious. We ordered the Cdmx plate and tres leches pancakes. The cafe de olla reminded me of abuelita's coffee. The place is very clean and the staff is attentive and kind." — **Jubal Rodriguez** (2 months ago)
 - ★★★★★ "I was on a biz trip and wanted to grab breakfast so I looked on tik tok and it lead me to this cute little Mex restaurant that sat me at the end of the bar in front of the Christmas tree 🌲I ordered this delicious plate with green chilaquiles with mild spice which was perfect for me, and a side of s..." — **The Paty Pillow** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Sriracha Thai Cuisine
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 1,295 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 1319 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 564-7722  
 Website: [https://www.srirachathaicuisineca.com/](https://www.srirachathaicuisineca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18171039837806732775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763619, -122.4664831
+[View on Google Maps](https://maps.google.com/?cid=18171039837806732775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Excellent Thai food.
 
 I had the summer rolls with prawns and a massaman curry with chicken.  Both were excellent.
@@ -71,6 +72,3 @@ All the food tasted amazing, and I’ll definitely come back." — **Karthik Rav
 - ★★★★ "Came here for a quick lunch. The food was good but not spectacular. I appreciated that they cooked my dish with fresh tofu vs fried per my request. The crispy chicken was the wrong choice for us. It was deep fried chicken skin so it was not a healthy choice. It was very busy and it seems like it has..." — **Liz Armstrong** (3 months ago)
 - ★★★★★ "Our meal at Sriracha was fantastic! The rich, aromatic curry was bursting with flavor, perfectly complementing the savory and slightly sweet Pad Thai. Each dish was fresh and expertly prepared. The service was equally wonderful—attentive and friendly, making our dining experience truly delightful. W..." — **jia li** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

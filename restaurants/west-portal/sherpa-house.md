@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Sherpa House
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 157 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 733 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 564-6400  
 Website: [http://www.sherpahousesf.com/](http://www.sherpahousesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17530433566662005429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7429132, -122.4741824
+[View on Google Maps](https://maps.google.com/?cid=17530433566662005429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "We had one of the best meals at this family run restaurant located in Parkside/Sunset area.Momos are perfectly seasoned, even our two year old enjoyed it! We really liked how their menu caters to both Indo-Chinese options apart from delicious Nepalese cuisine. A little bit of Himalayan flavors for e..." — **Laxmi rai** (2 months ago)
 - ★★★★★ "What a cozy little place with an amazing food. Super friendly staffs. Sherpa House is certainly going to be our weekly rotational dining spot. Cheers and Thanks to all the wonderful people working there for offering such an unforgetful dining experience." — **Nepal one** (2 months ago)
 - ★★★★★ "Sherpa House, SF
@@ -61,6 +62,3 @@ Highly recommend to anyone who likes delicious food and great ..." — **Alex Am
 
 I also tried the grille..." — **Prakash Bhandari** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Matsuyama Shabu House
 
 ## Cuisine
+
 **Japanese restaurant** — japanese izakaya restaurant, asian restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 111 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Restroom available
 
 1726 Buchanan St, San Francisco, CA 94115, USA  
 Phone: (415) 658-7656  
-[View on Google Maps](https://maps.google.com/?cid=593842041712923953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7860525, -122.42980499999999
+[View on Google Maps](https://maps.google.com/?cid=593842041712923953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Stopped in on a Saturday afternoon and I'm surprised more people didn't. Maybe they were like us and didn't know what shabu shabu is or what they offered, but a quick search told us we were in for a lot of yummy food.
 
 We went with the mid grade all you can eat (68 per person) and ordered all the me..." — **Shiloh Reading** (a month ago)
@@ -53,6 +54,3 @@ We went with the mid grade all you can eat (68 per person) and ordered all the m
 - ★★★★★ "Amazing experience we came for my birthday in march and it was so delicious the Golden chicken broth is a must ! Smells so good and the food is so delicious! It felt like a good home cooked meal truly! And the waiter was one of the most memorable parts very attentive kind and patient ! I am now back..." — **Veronicuhh Perez** (6 months ago)
 - ★★★★★ "For a restaurant offering All You Can Eat options, the quality and presentation of the food is in the top tier. There is a fair amount of variety when it comes to broth and they do provide enough vegetables and side dish choices to make the meal complete. The higher tiers of AYCE are most worth it f..." — **Easton Morris** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

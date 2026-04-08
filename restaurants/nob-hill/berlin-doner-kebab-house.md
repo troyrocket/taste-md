@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Berlin Doner & Kebab House
 
 ## Cuisine
+
 **Restaurant** — turkish restaurant, mediterranean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 368 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids
 901 Sutter St, San Francisco, CA 94109, USA  
 Phone: (415) 914-5598  
 Website: [https://order.online/business/berlin-doner--kebab-house-11590510](https://order.online/business/berlin-doner--kebab-house-11590510)  
-[View on Google Maps](https://maps.google.com/?cid=5718348022030377529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7882801, -122.41533439999998
+[View on Google Maps](https://maps.google.com/?cid=5718348022030377529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Phenomenal Döner & menu overall
 
 The restaurant & staff ooze authenticity, warmth & a deep passion for the cuisine, they serve their guests
@@ -60,6 +61,3 @@ I’ve had a lot of döner in different places, and in my opinion, no döner in 
 Free water is front and center, there is a bathroom, great prices and even greater food.
 The staff are extremely nice and although the location is a bit wonky (uphill battle.) If you're not sure if this is good, please just trust me and eat her..." — **Bernie** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Dumpling Kitchen Noe Valley
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dumpling restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 107 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Live music · Good for kids · Restroom available
 3913 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 282-4969  
 Website: [https://www.dumplingkitchenca.com/locations/dumpling-kitchen-noe-valley/](https://www.dumplingkitchenca.com/locations/dumpling-kitchen-noe-valley/)  
-[View on Google Maps](https://maps.google.com/?cid=12647618408131975520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7514208, -122.43001939999998
+[View on Google Maps](https://maps.google.com/?cid=12647618408131975520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 8:45 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came here with my family!
 
 Good:
@@ -63,6 +64,3 @@ Bad:
 - ★★★★ "Have sampled their dumplings and soup a couple times now. The food is fresh. We’ve had some issues with service. Really slow and very hard to get attention and refills on drinks and water, for instance. Hopefully they’ll work out all the kinks!" — **Musik the Dog Actor** (6 months ago)
 - ★★★★ "We had a great dinner here—ordered the basil beef, boiled wontons in chili oil, steamed barbecue pork buns, and the steamed shrimp har gow dumplings. Everything was SUPER tasty, though the boiled wontons in chili oil were not my preference. Barbecue pork buns and shrimp har gow were hot and soft, ve..." — **Spencer Browning** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

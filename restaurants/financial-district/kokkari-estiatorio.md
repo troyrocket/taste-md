@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Kokkari Estiatorio
 Taverna-inspired cuisine served in a candlelit, wood-beamed dining room that attracts a chic crowd.
 
 ## Cuisine
+
 **Greek restaurant** — greek restaurant, meal takeaway
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.7 stars — 3,448 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 200 Jackson St, San Francisco, CA 94111, USA  
 Phone: (415) 981-0983  
 Website: [https://kokkari.com/](https://kokkari.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12957869814535908416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7970323, -122.3997559
+[View on Google Maps](https://maps.google.com/?cid=12957869814535908416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "I was planning to try this SF staple for a while and was not disappointed. Beautiful lively restaurant, amazing food and great service. It wasn’t easy to book a table for my birthday dinner (even though it was Monday evening and I was booking in 4 weeks before). The spot we got was in an alcove whic..." — **Аlisa Paludeti** (3 weeks ago)
 - ★★★★★ "Great interior design, many details that keep you engaged with the space as you enjoy the food. Food was exceptional. Reasonably priced for the quality they offer. Huge tables that can accommodate big groups." — **Christos Bletsios** (4 weeks ago)
 - ★★★★ "We had a reservation on Sunday. It was nice that they had the exact table ready for us - they were just opening back up at 5pm. The waitress was attentive, as were all the other servers - this is very important to me when we're spending good money at a restaurant. They do have a policy in small prin..." — **Manda E** (2 months ago)
@@ -58,6 +59,3 @@ I had a wonderful lunch at Kokkari Estiatorio, and it easily lived up to its ste
 
 The Gr..." — **Juan Martin Maglione** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Saru Handroll Bar
 Restaurant for seasonal fish in Edomae & traditional style, with a modern Japanese twist.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, seafood restaurant, sushi restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.2 stars — 308 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Dog-friendly · Restroom available
 2206 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 801-0348  
 Website: [https://saruhandroll.com/](https://saruhandroll.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13562505393672322252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797207, -122.4219
+[View on Google Maps](https://maps.google.com/?cid=13562505393672322252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "December 2025 Japanese handroll bar restaurant finally makes it to the SFO area.  This single roll by roll process with special attention given to each roll makes dining here an omakase feel.
 
 Depending on the person making the rolls, the process is highly personalized but the menu makes for a simpl..." — **Oliver Pe** (3 months ago)
@@ -57,6 +58,3 @@ Depending on the person making the rolls, the process is highly personalized but
 Everything was delicious—especially the tempura, which was perfectly crispy and full of flavor 🍤. The seaweed wrapping the rice and handrolls was unbelievably fresh and crunchy—I’ve never had anything like it! The staff were incredibly friendly and professio..." — **Wen** (9 months ago)
 - ★★ "We’ve been here over a dozen times, but this was by far the worst experience. If you don’t want hand rolls as thick as chopsticks, avoid the chef with mixed black and white hair. The chef with tattoos made every roll noticeably better. Several long-time servers provided very poor service. Very disap..." — **Pearl Lake** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

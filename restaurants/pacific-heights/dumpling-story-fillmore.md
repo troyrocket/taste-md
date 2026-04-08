@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Dumpling Story - Fillmore
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, asian restaurant, dumpling restaurant, chinese noodle restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 366 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2114 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 829-3664  
 Website: [https://dumpling-story.menu-world.com/](https://dumpling-story.menu-world.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13250585734742297326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7893075, -122.4337137
+[View on Google Maps](https://maps.google.com/?cid=13250585734742297326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Came here on a Saturday night for dinner. It was crowded and we didn’t have a reservation, but only waited about 15 minutes.
 
 This was my first time having dumplings properly and I went all in. We got the chicken xia long bao, shiitake and chicken dumplings, chicken dumplings, shrimp egg and chive d..." — **Sriharsha A.** (a month ago)
@@ -65,6 +66,3 @@ Service is prompt and no frills.
 
 The place is cozy, modern, and ..." — **Oliver Pe** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Hi Tops San Francisco
 Gay bar supplying top-shelf fast food & drinks plus TVs tuned to sports in a setting with gym decor.
 
 ## Cuisine
+
 **Bar** — bar and grill, sports bar, american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 678 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for watching sports · Restroom avail
 2247 Market St, San Francisco, CA 94114, USA  
 Phone: (415) 320-8575  
 Website: [https://www.hitopsbar.com/](https://www.hitopsbar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2121685081118347702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7649009, -122.4317092
+[View on Google Maps](https://maps.google.com/?cid=2121685081118347702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "I can't decide what's better - the food, the drinks, or the staff.
 
 From the Berry Zito to the Big Unit, their handcrafted cocktails are absolutely delicious. The bartenders are always friendly and enthusiastic. As for the food, I'm a creature of habit and haven't explored much outside of the kale s..." — **Ryan Guymer** (a month ago)
@@ -57,6 +58,3 @@ Rude response for a simple request. Do better! You are working a minimum wage jo
 
 The bartenders here are extremely rude to African Americans. I will never step foot in this establishment again. I'm not giving my hard earned money to a racist bar." — **J Jones** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

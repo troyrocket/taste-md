@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Chestnut Diner
 Cozy neighborhood diner dishing up American classics such as eggs Benedict, pancakes & burgers.
 
 ## Cuisine
+
 **Diner** — diner
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 560 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 1312 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 441-1168  
 Website: [https://chestnutdiner.top/](https://chestnutdiner.top/)  
-[View on Google Maps](https://maps.google.com/?cid=9824343783727039637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.802338899999995, -122.42519439999998
+[View on Google Maps](https://maps.google.com/?cid=9824343783727039637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:30 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I was in SF for the weekend escaping the polar death of NC. I was averaging around 10-12 miles walking a day.  If you need a good, solid breakfast to fuel your city wandering, this place is perfect.
 
 It’s quaint, has delicious food, and is your classic no frills diner - which was exactly what I want..." — **Emily Milton** (2 months ago)
@@ -58,6 +59,3 @@ Great service and chill atmosphere. This spot is a great low key place if you wa
 
 Thank you Chestnut Diner!" — **Hector Martinez** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

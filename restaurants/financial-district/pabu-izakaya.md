@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # PABU Izakaya
 A sleek space with a buzzy ambiance, this high-end spot offers classic Japanese cuisine in style.
 
 ## Cuisine
+
 **Restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.4 stars — 1,411 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 101 California St, San Francisco, CA 94111, USA  
 Phone: (415) 535-0184  
 Website: [https://www.michaelmina.net/restaurants/pabu-san-francisco/](https://www.michaelmina.net/restaurants/pabu-san-francisco/)  
-[View on Google Maps](https://maps.google.com/?cid=13443383298274222006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7931707, -122.3985162
+[View on Google Maps](https://maps.google.com/?cid=13443383298274222006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Had the Omikaze. Fresh, tasty food. Attentive service. Caviar blue fin toro tartar - great texture. Salt from caviar brought out flavor in toro. Nigiri was excellent.  The presentation was eye catching.  The atmosphere was chill and we were able to converse without shouting.  The only thing I didn’t..." — **Von Chan** (4 weeks ago)
 - ★ "Valentine's Day Dinner — A $175/Person Disappointment
 
@@ -61,6 +62,3 @@ We ordered à la carte and overall the food was good. Highlights included the tu
 - ★★★★ "Had our team holiday lunch here. Service was exemplary, props to the team for that. As for the food... It was a bit of a mix. The nigiri was high quality and was probably my favorite. The karaage were a bit too dry, but I still enjoyed it. Flavor profile reminds me of Taiwanese popcorn chicken. As f..." — **Harry** (3 months ago)
 - ★★ "Not recommended. Prices are in Nobu territory, but the food is barely average. The tuna carpaccio was unremarkable. The duck gyoza tasted indistinguishable from Trader Joe’s frozen gyoza. The miso cod was genuinely delicious, but the portion was comically small for the price. The Ken roll was good, ..." — **Stelios Serghiou** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

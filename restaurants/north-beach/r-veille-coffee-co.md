@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Réveille Coffee Co.
 Cafe for New American breakfast & lunch plus coffee drinks in a loftlike, contemporary setting.
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, brunch restaurant, breakfast restaurant, cafe, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 878 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 200 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 868-3086  
 Website: [http://reveillecoffee.com/](http://reveillecoffee.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9952112219192673983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797272199999995, -122.40557779999999
+[View on Google Maps](https://maps.google.com/?cid=9952112219192673983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:30 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Small high-quality coffeeshop with lots of seating. Seems a lot of people are working from here which is always a big plus! Latte was beautiful and tasty but slightly too hot and served in a paper cup even though I was sitting here" — **Sanna** (5 months ago)
 - ★★★★★ "Found this coffee joint on google and let me tell you it was amazing. Sitting here waiting for my food felt like I was in Europe so many foreigners come and go. This is why I love SF cause of the hippie culture and European tourists. I ordered a platter potatoes, eggs, bacon and sourdough toast. It ..." — **Snow Byrd** (4 years ago)
 - ★★★★★ "One of the more European feeling coffee shops along Columbus street.  Some pastries too." — **Tim Olson** (3 months ago)
@@ -65,6 +66,3 @@ For the ice coffee, I wish they had creamers like vanilla or caramel instead of.
 
 The only inconvenient part was the designer chairs. They looked good but didn't have a backrest and were quite uncomfortable." — **Darshan Gajara** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

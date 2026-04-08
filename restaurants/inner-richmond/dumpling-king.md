@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Dumpling King
 
 ## Cuisine
+
 **Dumpling restaurant** — dumpling restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 118 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Good for watching sports · Restroom available
 336 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 387-8370  
 Website: [http://dumplingkingsf.com/](http://dumplingkingsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11562882361329806136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7832259, -122.4630225
+[View on Google Maps](https://maps.google.com/?cid=11562882361329806136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We visited Dumpling King on 2/17 to celebrate the Lunar New Year and were honestly just grateful they were open. The place was absolutely slammed. The energy felt festive, but be warned: it was very cold inside despite the packed dining room. A few staff members were even wearing parkas, so definite..." — **Leah Nelson** (a month ago)
 - ★★★ "We did not visit the establishment with the intention of dining, but rather to utilize their restroom facilities. Upon reviewing the menu, we found that their offerings were limited to dumplings. Given that we were already using their facilities, we decided to order a few dishes, including the color..." — **Pet Spaw mobile Ma** (a month ago)
 - ★★★★★ "I think I found my new favorite Chinese restaurant in the city!! Everything we had was soooo delicious and reasonably priced. I like the cozy dine-in experience and how you could watch and see how fresh the dumplings and noodles are made. Will definitely be going back and bringing my family and frie..." — **Lizzy Guevara** (6 months ago)
@@ -59,6 +60,3 @@ We have been a few times and our favorites have been: hot and sour soup, bbq por
 
 Definitely worth checking..." — **Kiran Kaur** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

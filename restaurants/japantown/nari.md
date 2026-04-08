@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Nari
 Sophisticated venue for contemporary Thai-Californian cuisine & inventive cocktails.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.2 stars — 555 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1625 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 868-6274  
 Website: [http://www.narisf.com/](http://www.narisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17431474946500495682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7854185, -122.42878879999999
+[View on Google Maps](https://maps.google.com/?cid=17431474946500495682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Overall the food and service was amazing. The decor was also nice. We chose the tasting menu so we can try more dishes. The stand out items were the duck curry puff, pork jowel, and ox tail curry. These were top notch. The other items we had were executed well, but not quite at a higher level. Our o..." — **Steph Kwan** (a month ago)
 - ★ "Nari has a very nice ambiance, but unfortunately everything beyond that was a disappointment. While the space itself is polished and inviting, the overall dining experience fell far short of expectations.
 
@@ -61,6 +62,3 @@ I took a date here for Valentines day on Feb 15th 2026. The restaurant atmospher
 Food:
 Overall everything was incredibly salty. We had the squid and pork jowl, namtok nuea and crab curry with garlic noodles. The pork an..." — **Ethan Lee** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

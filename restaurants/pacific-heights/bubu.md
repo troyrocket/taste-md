@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # BUBU
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 102 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Restroom available
 
 1800 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 374-7799  
-[View on Google Maps](https://maps.google.com/?cid=10532041126612453101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7862477, -122.43313409999999
+[View on Google Maps](https://maps.google.com/?cid=10532041126612453101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:30 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Came for happy hour and it was delicious! Absolutely loved the spicy tuna roll - it was SO juicy. The hand rolls were great but I didn’t love the California hand roll as it didn’t have any cucumber and only had mayo crab and avocado which was unexpected." — **Juju C** (2 months ago)
 - ★★★★ "$6 uni handroll is definitely a steal, but fishy uni so be warned! (Hubby still loved it, lol)
 The handrolls are surprisingly good portioned with lots of fish. Other items on the HH menu are not so worth it. Especially the karaage and crispy rice nigiris which are tiiiiny" — **Ingrid** (2 months ago)
@@ -52,6 +53,3 @@ The handrolls are surprisingly good portioned with lots of fish. Other items on 
 - ★★★★★ "Came here for happy hour with my friend, and I'd say we were pretty satisfied with the food overall. The overall atmosphere and service was pretty nice, and the interior was clean as well. The rolls were pretty good (definitely recommend the ones where it is 2 for $5), and I will definitely come bac..." — **Jaewon Lee** (7 months ago)
 - ★★★★★ "Wonderful service & even more wonderful food! The fish was fresh and absolutely delicious! Their happy hour prices were insanely affordable and made us more inclined to try a greater variety of food. I recommended this place to everyone!" — **Anastasia Shiryaeva** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # The Laundromat SF
 
 ## Cuisine
+
 **Restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 636 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 3725 Balboa St, San Francisco, CA 94121, USA  
 Phone: (415) 379-4340  
 Website: [https://www.thelaundromatsf.com/](https://www.thelaundromatsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10657246937818728138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7755094, -122.49890309999999
+[View on Google Maps](https://maps.google.com/?cid=10657246937818728138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "How do I even begin to explain the love that I have for The Laundromat? My fiance and I first went to the Laundromat last summer, and it quickly became our favorite place in SF (no exaggeration). The bagels, the pizza, the wine, and the vibe are all exceptional — but what gives the Laundromat its “j..." — **Sarah Wilde** (4 months ago)
 - ★★★★★ "TLDR: limited but delicious menu with indoor and outdoor seating and drinks
 
@@ -59,6 +60,3 @@ Highly recommended the Brussel sprouts and the pepperoni pizza with ranch!
 Also, the gluten free pizza will change your life..." — **R Jay** (4 months ago)
 - ★ "Coming from an sf native and a once New Yorker: We were disappointed. We got bagels here because we were told they were some of the better ones in the city. The bagels sit out in the open air amongst any filth, bugs, and dust floating around. They get stale this way. The bagels are sooo soft - and t..." — **Oliver Hamilton** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

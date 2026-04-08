@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Sai Jai Thai
 No-frills restaurant known for its pork shoulder fried rice & other traditional Thai food.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 418 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 771 O'Farrell St, San Francisco, CA 94109, USA  
 Phone: (415) 673-5774  
 Website: [http://www.saijaithaisf.com/](http://www.saijaithaisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12481902039243560329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785025499999996, -122.4172966
+[View on Google Maps](https://maps.google.com/?cid=12481902039243560329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "Sai Jai Thai... shame on you.
 
 Mostly the same taste, but half the quantity with lower quality items, and increased costs! Don't spend your money here. Go elsewhere for less money and better value. There is NO EXCUSE for robbing customers for half the product. Probably drop to a quarter of what they..." — **Brandon W.** (3 months ago)
@@ -54,6 +55,3 @@ Mostly the same taste, but half the quantity with lower quality items, and incre
 - ★★★★ "So easy to remember…#41 BBQ Pork Shoulder Fried Rice is simply the best! The sauce is also to die for. The area though is kinda rough. I guess I go bec I’m a local and #41 is just worth it! 😋👌🏼" — **Albert Vital** (11 months ago)
 - ★★★★★ "The most authentic Thai food I've seen in California. Prices are reasonable and the service is fine. I love the shrimp paste fried rice and beef noodle soup. It is in the heart of tenderloin so the location can be a problem." — **Cedric C** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

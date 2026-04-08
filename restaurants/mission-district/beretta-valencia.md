@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Beretta Valencia
 Handcrafted pizzas, small bites & unique cocktails keep this trendy spot hopping.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, wine bar, cocktail bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 2,555 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Dog-friendly · Restroom available
 1199 Valencia St, San Francisco, CA 94110, USA  
 Phone: (415) 695-1199  
 Website: [http://berettasf.com/](http://berettasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8845976221826617844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7538556, -122.42063270000001
+[View on Google Maps](https://maps.google.com/?cid=8845976221826617844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I can't believe it. But Every Place I ate  in SF is so good that it is just unbelievable but so true. The Multiple 🍄 Pizza that I ate here was so extremely good & tasty that it blew me away.
 And the Tiramisu? Thank God.... First time it came with Rum. Thanks😃" — **Daniel Borovich** (2 months ago)
 - ★★★★ "The staff was friendly and accommodating throughout our visit. We ordered the calamari, pizza with burrata, bucatini, and saffron risotto. There was a small mix-up with my order—they accidentally brought out the spring risotto—but they were quick to fix it without any fuss, which I appreciated. Over..." — **Louise** (11 months ago)
@@ -57,6 +58,3 @@ I had a great experience at Beretta in San Francisco's Mission District. It's be
 - ★★★★★ "Tried pizzas, risotto and the butternut squash dip! It had the perfect texture, and perfect sweetness!" — **Vrutika Premani** (4 months ago)
 - ★★★★★ "My God the food is so good. Appetizers to drinks and dessert all amazing. Server was great too and cocktails were some of the best I've ever had. With alcohol that's high end and mixed right I was feeling perfect from two drinks. Highly recommend and our dog loved the outside seating." — **Kelly Flanagan** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

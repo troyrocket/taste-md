@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # R & G Lounge
 Celebrated Cantonese grub, dished out in a basic downstairs space & more formal upstairs room.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, family restaurant, asian fusion restaurant, asian restaurant, seafood restaurant, fusion restaurant, catering service, meal takeaway
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 3,780 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 631 Kearny St, San Francisco, CA 94108, USA  
 Phone: (415) 982-7877  
 Website: [https://www.rnglounge.com/](https://www.rnglounge.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9919333893051552971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.794115, -122.40494199999999
+[View on Google Maps](https://maps.google.com/?cid=9919333893051552971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Definitely going back if I’m in SF. If you ever wondered what kind of Chinese restaurants are good and authentic this place is. You know it’s legit when a group of Chinese family  are waiting to be seated.
 Food wise no brainer get the eggplant and shrimp. Only if you like eggplant. On a cold night g..." — **Jessica T.** (3 months ago)
 - ★★★★★ "What a fabulous meal!
@@ -66,6 +67,3 @@ What went wrong
 
 Had lunch with a client.  Ordered honey spareribs, beef brisket and turnip, dried scallops with melon, and salted ..." — **Hugh Do** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

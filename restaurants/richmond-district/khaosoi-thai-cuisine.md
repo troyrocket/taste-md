@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Khaosoi Thai Cuisine
 Colorful, casual Thai restaurant serving authentic standards & regional specialties.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant, ramen restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 297 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 4403 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 571-8524  
 Website: [http://www.khaosoisf.com/](http://www.khaosoisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15328084175185424672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7807404, -122.4666418
+[View on Google Maps](https://maps.google.com/?cid=15328084175185424672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "What a treat!
 
 Finally stopped in to try this cozy little spot and will be back!
@@ -64,6 +65,3 @@ It's a very petite sit down spot with about a half dozen tables. The service is 
 - ★★★★★ "A cute and cozy Thai spot with friendly staff and fresh food. We ordered Pad Gra Pao, Thai fried rice with fried chicken, and Pad Eggplant. The chicken was flavorful, and the smaller menu focuses on high quality dishes. A solid find in the Richmond area." — **Vash** (5 months ago)
 - ★★★★★ "Great food, fast service, clean area.  We left the Golden Gate park looking for a place to eat.  We found parking on a side street and walked right in at 5:30 pm.   The spring rolls and sauce was amazing.   Pad chicken was great as well." — **J.P. Libert** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

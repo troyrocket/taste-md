@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Kingdom Of Dumpling
 Casual all-day cafe offering Chinese dumplings & dim sum with a variety of meat & veggie fillings.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dumpling restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 298 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 1713 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 566-6143  
 Website: [https://kingdom-of-dumpling.com/](https://kingdom-of-dumpling.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1017026934925400169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7424786, -122.48464510000001
+[View on Google Maps](https://maps.google.com/?cid=1017026934925400169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Kingdom of Dumpling surprised me in the best way. We tried delivery on a whim and it turned out to be so good. The pork and Napa cabbage dumplings were juicy with tender skins, and the Shanghai pan fried soup dumplings had that crispy bottom with rich flavor.
 
 The eggplant tofu with rice was another..." — **Claire** (6 months ago)
@@ -60,6 +61,3 @@ We had ordered dumplings, chicken, fried rice soup, dumplings, and pancakes. I l
 
 Food was decent, we ordered Shanghai soup dumplings, pan fried Shanghai dumplings, napa cabbage boiled dump..." — **Jane Lee** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

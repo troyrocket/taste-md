@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Glen Park](index.html)
-
 # Win Garden
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 99 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 2794 Diamond St, San Francisco, CA 94131, USA  
 Phone: (415) 333-1331  
 Website: [https://www.wingardenca.com/](https://www.wingardenca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12538286358082731115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7346918, -122.43395249999999
+[View on Google Maps](https://maps.google.com/?cid=12538286358082731115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:15 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Excellent Chinese food with great vegetarian and “meatless” options.
 We’ve been coming here (mostly take out) for ten years and the food has been consistently delicious.  Generous portions,  made with quality ingredients : standard dishes you’d expect like chow mein, fried rice (my husband and son’s..." — **Liz Cong** (2 months ago)
 - ★★★★★ "The best broccoli I’ve had in my life.  Sautéed with ginger, simple and delicious.  I also got the dry brined wings and asked for them salter and pepper style.  Just delicious even with the long walk back to Sussex." — **Marie Wenzel** (a month ago)
@@ -55,6 +56,3 @@ We’ve been coming here (mostly take out) for ten years and the food has been c
 
 The standouts for me are the fresh, perfectly crisp veget..." — **Chef Raúl Dominguez** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

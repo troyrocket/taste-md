@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Pasta Panino
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 210 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids
 4150 18th St, San Francisco, CA 94114, USA  
 Phone: (415) 829-3806  
 Website: [http://pastapanino.com/](http://pastapanino.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2936737302344376408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760937299999995, -122.4360203
+[View on Google Maps](https://maps.google.com/?cid=2936737302344376408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "It’s great to have a casual dinner spot right in the Castro, perfect for dinner before a night out.
 
 Went with a group of 6 and had no problem grabbing a table on a Saturday night. The service was quick, food was hot and fresh, and vibe was warm. Nothing flashy, but gets the job done.
@@ -61,6 +62,3 @@ Pasta Panino nails it. Hot, delicious, fresh. Quantities are very generous for t
 The pasta is really good.  Perfectly cooked.
 there are a variety of dishes available.  I like the  basics.   One glaring omiss..." — **SF DOM 415 aka Destiny** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

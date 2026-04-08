@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Tadich Grill
 Institution for fresh fish and classic cocktails with an old-school setting and a lively atmosphere.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant, bar and grill, historical landmark, american restaurant, bar, historical place
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 3,085 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 240 California St, San Francisco, CA 94111, USA  
 Phone: (415) 391-1849  
 Website: [http://www.tadichgrillsf.com/](http://www.tadichgrillsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7707263299283615717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7934352, -122.3994491
+[View on Google Maps](https://maps.google.com/?cid=7707263299283615717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Shrimp cocktail: 5/5 Served in a coupe glass with a textured cocktail sauce (tomato pulp and finely chopped lettuce). The prawns were fresh and tender. Perfectly paired with a Sauvignon Blanc from Rombauer Vineyards.
 
 The setting: classic, polished service—white tablecloths and crisp white jackets o..." — **Gina B** (4 weeks ago)
@@ -59,6 +60,3 @@ I ordered the Dungeness crab cocktail, Boston clam chowder, and their seafood ci
 
 We were seated right away and warmly welcomed by our waiter, Brian. He was very attent..." — **Veronica Silva** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

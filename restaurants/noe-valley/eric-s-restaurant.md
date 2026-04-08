@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Eric's Restaurant
 Low-key but popular Noe Valley Chinese restaurant serving large portions of classic dishes.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 532 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 1500 Church St, San Francisco, CA 94131, USA  
 Phone: (415) 282-0919  
 Website: [http://erics-restaurant.com/](http://erics-restaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1801277945161963426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7467739, -122.4271381
+[View on Google Maps](https://maps.google.com/?cid=1801277945161963426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "This is my second, maybe third, time dining at Erick’s, a Chinese restaurant located in the Noe Valley District near Church and 27th Street. Every time I go there, I hope my experience will be better than the last one.
 
 My main concern is that when I go out to eat, I expect the food  to be served (w..." — **Zee Truth** (2 months ago)
@@ -59,6 +60,3 @@ One thing is for sure. Eric has left the building or an apprentice with the same
 Let's start fro..." — **R M** (12 months ago)
 - ★★★★★ "I just ate their food for the first time. Amazing flavors, loved the String Beans and Walnut Prawns. Very clean restaurant with a quiet atmosphere. Server is very nice, always attentive making sure you stay happy. I made sure to tell the chef thank you in person!" — **AVENGING ANGEL** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

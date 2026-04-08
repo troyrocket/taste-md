@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Arbor
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4 stars — 202 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 384 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 626-1211  
 Website: [https://arborsf.com/](https://arborsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11567484240505963831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7771087, -122.4226547
+[View on Google Maps](https://maps.google.com/?cid=11567484240505963831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Arbor is such a cozy hidden-gem patio. The courtyard feels like a little garden oasis with string lights, heaters, and the perfect relaxed vibe after work. We went for happy hour :)
 
 The food was so good. Fish filet sandwich, classic bacon cheeseburger, and the roasted Brussels sprouts were all hits..." — **Alexis Godfrey** (a month ago)
@@ -63,6 +64,3 @@ The food was bland. My fish sandwich was way too much bread, very little sauce, 
 
 prefer coming here for drinks + fries over actual dinner." — **Venki Kumar** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

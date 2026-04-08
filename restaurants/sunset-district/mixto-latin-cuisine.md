@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Mixto Latin Cuisine
 
 ## Cuisine
+
 **Peruvian restaurant** — peruvian restaurant, latin american restaurant, brunch restaurant, breakfast restaurant, mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 181 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for kids · Restroom available
 3914 Judah St, San Francisco, CA 94122, USA  
 Phone: (628) 432-0401  
 Website: [http://mixtosf.com/](http://mixtosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7773812619045011917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760632, -122.50409899999998
+[View on Google Maps](https://maps.google.com/?cid=7773812619045011917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Peruvian with a mix of other Latin food. We had the Quesabirrias and the pork was tasty and tender, it was really good. Then we had the flourless chocolate cake that tasted really good, it was like a big truffle! Servers were really nice and kind. I think it’s a great place for a date, and also to g..." — **Claudia Sanchez** (10 months ago)
 - ★★★★ "We made reservations for a party of seven and when we arrived we were immediately taken to our table. Our party consisted of five adults and two children, ages 10 & 8.
 For starters we ordered Mejillones, Ceviche Chino & Ceviche Mixto.
@@ -57,6 +58,3 @@ The..." — **Gene Buonviri** (9 months ago)
 The sangria was great - light and flavorful. Overall, a very good pl..." — **Hebberly Ahatlan** (a year ago)
 - ★★★★★ "I can’t say enough about how good Peruvian food is. The Saltado Vegetales is a gastronomical experience if you ask me. Mixto is brilliant. I came here with my family after a long day of park hopping with our toddler and our waitress was brilliant. She was patient and helped my wife pick something sh..." — **Baffour Anim** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

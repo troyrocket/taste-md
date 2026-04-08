@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Tsing's Chinese Restaurant
 A standard lineup of Chinese stir-fries & noodles served in a simple, traditional dining room.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, meal delivery, food delivery
 
 ## Price Range
+
 $
 
 ## Rating
+
 3.7 stars — 135 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 361 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 681-6808  
 Website: [http://ordertsingschineserestaurant.com/](http://ordertsingschineserestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1819311254607697126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.737099, -122.46984300000001
+[View on Google Maps](https://maps.google.com/?cid=1819311254607697126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This is one of the best Chinese food places ever . The food I had delivered to my place from here was outstanding . I highly recommend  that restaurant. I wish I could give them 50 stars. The ambiance and the service are amazing from what I read in other reviews" — **Steven Straus** (3 months ago)
 - ★★★★★ "I love going to this little family-owned Chinese restaurant—it just feels so warm and welcoming, like you’re walking into someone’s home. The food always makes me happy.
 
@@ -57,6 +58,3 @@ Their orange chicken is amazing—crispy on the outside, tender on the inside, a
 The orange chicken? Absolutely addictive—crispy, saucy, and bursting with just the right amount of sweetness. The prawns are plu..." — **Emily H** (3 months ago)
 - ★★★★★ "This place is honestly one of my favorite spots to eat. It’s a small, family-owned Chinese restaurant, and you can really feel the love in everything they do. The food tastes homemade — fresh, flavorful, and comforting in the best way. You can tell the recipes have been in the family for a long time..." — **mason** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

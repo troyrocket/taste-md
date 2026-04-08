@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Cow Hollow](index.html)
-
 # La Fromagerie Cheese Shop
 
 ## Cuisine
+
 **Restaurant** — sandwich shop, wine bar, food store, bar, store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 138 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Restroom available
 2260 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 374-7325  
 Website: [http://lafromageriesf.com/](http://lafromageriesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4437307177139598181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8004417, -122.44061439999999
+[View on Google Maps](https://maps.google.com/?cid=4437307177139598181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Absolutely incredible food! The croissant sandwiches are to die for, absolutely the best! Food is fresh and made to order. The staff were remarkably friendly and accommodating. Small seating area outside." — **Noelle Arduini** (4 months ago)
 - ★★★★★ "We got the breakfast sandwiches here, and they were divine!! Quality ingredients for a great price. The pastry was amazing as well" — **Allison Bass** (4 months ago)
 - ★★★★★ "I'm a local business owner who uses and recommends La Fromagerie for all of my events. The team is helpful, responsive, and always works within the budget of my team and my customers. Their quality is unmatched and they are the number one business I recommend when a customer of mine needs a lovely c..." — **Theodore Kramer** (2 months ago)
@@ -53,6 +54,3 @@ Sunday: 10:00 AM – 6:00 PM
 The staff is super kind and friendly!
 Franchement Oh là là 😅 Totally recomm..." — **Syrine Jaouadi** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

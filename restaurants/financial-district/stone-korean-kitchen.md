@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Stone Korean Kitchen
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 64 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Restroom available
 4 Embarcadero Ctr, San Francisco, CA 94111, USA  
 Phone: (415) 839-4070  
 Website: [http://www.stonekoreankitchen.com/](http://www.stonekoreankitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1398027745511796397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7955068, -122.3959625
+[View on Google Maps](https://maps.google.com/?cid=1398027745511796397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Lunch at one of my pre-covid favorites! So happy they survived. We shared stone sticky wings, fried shrimp, kimchee fried rice and pork trotters.  Soooo good.
 
 All the little sides were good as well. One of the benefits of being back in SF part time for work is definitely the restaurants and great f..." — **Rae Zachary** (3 years ago)
@@ -56,6 +57,3 @@ Staffs are not good at English.
 Recommend for quick lunch." — **Que Le** (2 years ago)
 - ★★★★★ "So delicious! Recommend everything we ordered 👌" — **Carolyn N.** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

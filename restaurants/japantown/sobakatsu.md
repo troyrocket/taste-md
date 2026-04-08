@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Sobakatsu
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 158 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Restroom available
 
 1700 Laguna St, San Francisco, CA 94115, USA  
 Website: [https://www.sobakatsu03.com/](https://www.sobakatsu03.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12527479055373549667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7868703, -122.42820999999999
+[View on Google Maps](https://maps.google.com/?cid=12527479055373549667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "I arrived right at opening and was still looking at about an hour wait, which honestly seems pretty standard for this place. If you're hoping to minimize the line, I'd recommend getting there at least 30 minutes to an hour before they open. The shop itself is very small and cozy, maybe 10 to 15 seat..." — **Mario Esquivel** (a month ago)
 - ★★★★★ "Very uniquely Japanese, you look at menu, choose and pay for thr items you want, then wait for a seat to become available, and by that time, you be able to sit and enjoy your bowl of perfectly temp noodles... 😍.
 
@@ -55,6 +56,3 @@ The food is p..." — **Joshua Yuan** (4 months ago)
 First, the drama: This place is sel..." — **Vivienne** (2 months ago)
 - ★★★★★ "This place serves soba that rivals or even surpasses, most of the soba restaurants I’ve tried in Japan. It’s easily one of the best restaurants in all of San Francisco. Made with 100% buckwheat, the noodles have that perfect, slightly firm texture and a wonderful aroma that comes through even in the..." — **JEONGBUM SEO** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

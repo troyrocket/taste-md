@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Diamond Heights](index.html)
-
 # Creighton's Bakery Cafe
 
 ## Cuisine
+
 **Bakery** — bakery, coffee shop, bagel shop, sandwich shop, cafe, food store, store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.1 stars — 70 reviews
 
 ## Dining Options
@@ -20,8 +21,7 @@ Unknown
 
 5214D Diamond Heights Blvd, San Francisco, CA 94131, USA  
 Phone: (415) 282-2366  
-[View on Google Maps](https://maps.google.com/?cid=7336585233735779583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.743779499999995, -122.4398413
+[View on Google Maps](https://maps.google.com/?cid=7336585233735779583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Sunday: 7:30 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★ "Stopped in after my pet’s vet appointment because I was starving and needed something quick. I ordered two sandwiches, the combo and the pork banh mi, so my husband and I could share and get a taste of both.
 
 I’ve definitely had better banh mis. The pâté in the combo looked and tasted like liverwurs..." — **MeeshElle** (2 months ago)
@@ -48,6 +49,3 @@ I’ve definitely had better banh mis. The pâté in the combo looked and tasted
 - ★★★★★ "This is a local sandwich place around the neighborhood, there are not much choice in this little plaza. I ordered the hot pastrami, good taste and the size are full. The lady will ask you if you want cheese, remind you that it’s extra 1 dollar for cheese. I will come back next time" — **Andy C** (2 years ago)
 - ★★★★★ "Awesome pastrami sandwich, tastes as good as it looks, yummy. However if you want to dine in you better bring your own restroom! They don't allow the use of their restroom, you have to leave the restaurant and walk about 1000 feet and up some stairs and around a building to use a park restroom.  Pro..." — **Kevin Bishop** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

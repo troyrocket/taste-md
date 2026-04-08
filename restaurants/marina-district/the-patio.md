@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # The Patio
 Modern, minimalist wine bar with a rotating menu of prix fixe food pairings & a la carte items.
 
 ## Cuisine
+
 **Restaurant** — wine bar, cocktail bar, lounge bar, night club, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.7 stars — 261 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 3232 Scott St, San Francisco, CA 94123, USA  
 Phone: (415) 580-7080  
 Website: [http://patiosf.com/](http://patiosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1353558348645072579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7997386, -122.44096259999999
+[View on Google Maps](https://maps.google.com/?cid=1353558348645072579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "The host was very nice! The brunch menu was fairly limited, so I expected each dish to really shine. I ordered the chilaquiles and was hoping for more queso fresco, beans, and radishes than what was served. The proportions felt off, and overall the dish didn't quite live up to my expectations. The p..." — **Sugandh Agrawal** (2 months ago)
 - ★★★★★ "Loved our experience!! Saturday lunch. Heated lamps. Great ambience. My teens LOVED their mocktails.  We were given samples of wine to try before choosing which was wonderful.  Food was excellent!!" — **Amy Vota** (2 months ago)
 - ★★★★★ "We had the most incredible experience hosting our wedding reception at The Patio. From the beginning, the entire team went above and beyond to make everything seamless, beautiful, and filled with warmth.
@@ -59,6 +60,3 @@ As expected, it was packed due to the event so every restaurant ..." — **Saman
 
 She ex..." — **Guilherme D'Agostino Romanini de Freitas** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

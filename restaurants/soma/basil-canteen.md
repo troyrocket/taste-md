@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # BASIL CANTEEN
 Creatively presented Thai dishes & Asian-inspired cocktails served in a hip, exposed-brick setting.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 414 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1489 Folsom St, San Francisco, CA 94103, USA  
 Phone: (415) 552-3963  
 Website: [http://www.basilcanteen.com/](http://www.basilcanteen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1376731673020047989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7718998, -122.4137423
+[View on Google Maps](https://maps.google.com/?cid=1376731673020047989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Parking:** Paid street parking · Free street parking
 
 ## What Diners Say
+
 - ★★★★★ "Hit up Basil Canteen a couple weeks okay for Happy Hour and tried new-to-me Thai eats! Started off with the Thaiphoon with mekhong Thai rum, coconut milk, and Thai tea—fun, but not that memorable of a cocktail, honestly. But the sakhoo sal mu was delicious! They are steamed tapioca dumplings filled ..." — **Becca Gomez Farrell** (5 months ago)
 - ★★★★★ "I really liked Basil Canteen. The space is not large so there's not a ton of seating, but the food is high quality and very tasty.
 
@@ -57,6 +58,3 @@ It's a good place to have in SoMa where there aren't a ton of food options at th
 This place is just solid in the best possible way. The food is consistently good — every time. The service is always friendly and o..." — **Kevin Reed** (2 months ago)
 - ★★★★★ "Lovely Thai resturaunt, has quite a bit of seating, but can get quite busy here. Be aware that you may be seated at communal tables if the place is packed! The service is quick and efficent. And the food comes out hot, fresh, and packed with flavour! I would say a great place if you want to experien..." — **Kay Liew** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

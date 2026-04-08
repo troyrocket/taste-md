@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Noeteca Wine Bar
 Locals stop in for French-inspired breakfast, lunch & dinner fare & a well-curated wine list.
 
 ## Cuisine
+
 **Restaurant** — wine bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 343 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Restroom available
 
 1551 Dolores St #1553, San Francisco, CA 94110, USA  
 Phone: (415) 377-3487  
-[View on Google Maps](https://maps.google.com/?cid=3122349493809443082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7445532, -122.42427909999999
+[View on Google Maps](https://maps.google.com/?cid=3122349493809443082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Noeteca has become my favorite Brazilian spot in SF. Every time I go, the food tastes exactly like home cooking from Brazil, which is something I really miss. Everything is fresh, comforting and full of flavor, and I love that I can always try a different dish and it still feels amazing.
 
 The servic..." — **Sabrina Ribeiro** (4 months ago)
@@ -57,6 +58,3 @@ It's a must that I go back again to visit soon!" — **Dejannah Currington** (3 
 
 I would have had a great time in SF if I didn't make it here,  but going here i had the absolute best time ev..." — **Jasmine Holmes** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

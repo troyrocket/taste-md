@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Live Sushi Bar
 Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live preparations & bento boxes.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, catering service, food delivery, japanese restaurant, asian restaurant, service
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 718 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 2001 17th St, San Francisco, CA 94103, USA  
 Phone: (415) 861-8610  
 Website: [http://www.livesushibar.com/](http://www.livesushibar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2050971651759860564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7646018, -122.4037118
+[View on Google Maps](https://maps.google.com/?cid=2050971651759860564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I always have a wonderful experience at this sushi place! The food is always incredibly fresh, beautifully presented, and full of flavor every roll I’ve tried has been delicious and clearly made with care. Honestly, whenever I’m craving sushi, this is my favorite place to go and enjoy a great meal.
 ..." — **farah agoune** (a month ago)
 - ★★★ "This is your reliable hole in the wall sushi spot. The food was good, fresh and satisfying, but nothing mind blowing or wildly different, though it definitely hit the spot and satisfied my sushi cravings. Many diners also praise the fresh fish and beautiful presentation, especially sashimi and speci..." — **Ziling Mai** (2 months ago)
@@ -66,6 +67,3 @@ Our waitress was fabulous!! She went above and beyond.
 
 The other sushi (either California Roll or Crunchy Roll) and the veggies in the tempura were just okay.  The shrimp tempura was so ..." — **Carolin Sturtevant** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

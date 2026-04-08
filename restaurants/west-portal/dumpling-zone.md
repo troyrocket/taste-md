@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Dumpling Zone
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, chinese noodle restaurant, dumpling restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 237 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 408 Dewey Blvd, San Francisco, CA 94116, USA  
 Phone: (415) 665-6888  
 Website: [https://order.mealkeyway.com/merchant/7854474d34637473312f7834385769332b35456563773d3d/main](https://order.mealkeyway.com/merchant/7854474d34637473312f7834385769332b35456563773d3d/main)  
-[View on Google Maps](https://maps.google.com/?cid=11831036656267557450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7473364, -122.4595838
+[View on Google Maps](https://maps.google.com/?cid=11831036656267557450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place might have had one of the best Shanghai pan fried pork buns I've tried. All of the other items that we got -- xiaolongbao, green beans, tan tan mien, and chili oil wontons -- were also superb. Definitely would recommend." — **Jaewon Lee** (4 months ago)
 - ★★★★★ "Came here for the first time from a friends recommendation for XLB. The XLB did not disappoint!!! I’d recommend to go and I’d also come back to eat again. The wrap around the XLB was strong, and there was the right amount of soup inside. Do not be intimidated by the store front. Just go in and order..." — **drew kenneth** (4 months ago)
 - ★★★★★ "On Saturday around 7 PM, we stopped by Dumpling Zone after reading solid reviews online. The wait for our party of five was about 30 minutes, but parking was easy since it’s located in a residential part of Midtown.
@@ -57,6 +58,3 @@ The restaurant is small—maybe a dozen tables—and was packed with families an
 
 We order boiled (chicken and mushroom), steamed (veggies), and fried (pork, shrimp, and chive) and each one seemed better than the last.  And not being a mushroom or veggie fan, ..." — **Avant Lard Travel - by Houston Porter** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

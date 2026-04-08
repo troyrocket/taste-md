@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Teranga
 
 ## Cuisine
+
 **African restaurant** — african restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 93 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Live music · Good for kids · Good for watching sports · Do
 level facing water fountain, 4 Embarcadero Ctr, San Francisco, CA 94111, USA  
 Phone: (415) 879-8372  
 Website: [http://www.terangafoods.com/](http://www.terangafoods.com/)  
-[View on Google Maps](https://maps.google.com/?cid=585278913343749102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.79509170000001, -122.3957435
+[View on Google Maps](https://maps.google.com/?cid=585278913343749102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Arrived 11:45am on Friday, not a lot of people and it eas very east to order and get a seat inside.
 
 Food was lovely, i had the Djolof Rice and the Maafe Bowl. Each was colorful, and flavorful. I had chicken with the djolof and egg with the maafe.
@@ -62,6 +63,3 @@ I went out for lunch and planned to try a Korean restaurant I had heard about. O
 
 I had no idea what to order when I entered, so I asked the lady ..." — **Afshin Afshar-Ghasemlou** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

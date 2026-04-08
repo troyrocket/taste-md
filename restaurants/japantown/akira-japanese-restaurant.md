@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Akira Japanese Restaurant
 Sushi, sashimi & Japanese classics, plus an omakase menu, offered in petite, modern quarters.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 351 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 1634 Bush St, San Francisco, CA 94109, USA  
 Phone: (415) 800-8498  
 Website: [https://akirasf.com/](https://akirasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4074728972799452125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7883278, -122.4241861
+[View on Google Maps](https://maps.google.com/?cid=4074728972799452125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Very impressed with this place and will be going back.
 
 Tasteful, small dining area, was greeted immediately after entering, hot hand towels before the meal, quick food service, and food was delicious.
@@ -63,6 +64,3 @@ The staff was pleasant and helpful.
 We were quite undecided and there were so many yu..." — **Alyssa Goodrum** (7 months ago)
 - ★★★★★ "Quality and reasonable price Japanese cuisine in town. I tried Saba on my 1st visit, the taste was unforgettable🤩 so tender and mouthwatering….love it! Chef is super friendly and passionate in pursuing real Japanese cooking details. Your tongue can tell.  Last week tried sushi combo 🍣🍙😋which is ..." — **Edith Ho** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

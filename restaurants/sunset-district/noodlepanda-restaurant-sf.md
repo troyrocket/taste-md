@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # NoodlePanda Restaurant SF
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 123 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 1055 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 859-0669  
 Website: [http://www.noodlepanda.com/](http://www.noodlepanda.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9437575118314324443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7427528, -122.47763820000002
+[View on Google Maps](https://maps.google.com/?cid=9437575118314324443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "i can't believe i've never eaten here before! everything was so amazing. right when you walk  you see the employees hard at work pulling the handmade noodles and dumplings made fresh right in front of you.
 
 my favorite part about this place is how you can customize the noodles based on your likings...." — **Cristina Padilla** (2 weeks ago)
@@ -57,6 +58,3 @@ Service ..." — **Loan Dieu Nguyen** (2 months ago)
 - ★★★★★ "This is the best noodle restaurant I visited this year! The restaurant looks so warm and cute. The service is good. The most important thing is that the soup of the noodle is so delicious, I ordered braised hand pulled beef noodle, the beef inside mixed with lean and also fat. It's soooo good, defin..." — **Alexia Wang** (3 months ago)
 - ★★★★ "This place gets pretty packed most of the tine. Went in for late lunch on weekend, Just couple of tables and the service was prompt! Ordered via QR code, very convenient. Braised beef Noodle Soup, little oily but flavorful. Lamb skewers took forever to come out and the taste was average -little dry ..." — **N B** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

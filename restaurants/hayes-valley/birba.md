@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Birba
 Wine bar for European wines & small plates in a charming, narrow space with bar & patio seating.
 
 ## Cuisine
+
 **Wine bar** — wine bar, tapas restaurant, brunch restaurant, garden, liquor store, mediterranean restaurant, italian restaurant, spanish restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 366 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Dog-friendly · Restroom available
 
 458 Grove St, San Francisco, CA 94102, USA  
 Website: [http://www.birbawine.com/](http://www.birbawine.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8993637405957935441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7778352, -122.4242241
+[View on Google Maps](https://maps.google.com/?cid=8993637405957935441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 1:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Such a wonderful wine bar. Perfect for a drink and some small bites before a show at the nearby Symphony or SFJazz.
 
 The staff is friendly and super knowledgeable, their wine selection is excellent, and you can browse the bottles right there and have a direct look at the labels, etc.
@@ -58,6 +59,3 @@ The pistachio feta dip plate was fun. At $11, I’d happil..." — **Emilio Reye
 
 Highly recommended for those seeking a low-key and unique side to San Francisco." — **Christopher Chung** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

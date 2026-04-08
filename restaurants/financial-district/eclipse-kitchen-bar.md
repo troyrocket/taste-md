@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Eclipse Kitchen & Bar
 American restaurant & lounge at the San Francisco Hyatt Regency with a long menu & wine list.
 
 ## Cuisine
+
 **American restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4 stars — 381 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 5 Embarcadero Ctr, San Francisco, CA 94111, USA  
 Phone: (415) 291-6581  
 Website: [https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco/sfors/dining?src=corp_outlets_gmb_seo_SFORSR1](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco/sfors/dining?src=corp_outlets_gmb_seo_SFORSR1)  
-[View on Google Maps](https://maps.google.com/?cid=7605192661194899671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7943851, -122.39607669999998
+[View on Google Maps](https://maps.google.com/?cid=7605192661194899671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Eclipse Kitchen & Bar, located inside the Hyatt in the Financial District, is a solid spot with good food and a welcoming atmosphere. We originally visited while staying at the Hyatt prior to moving here, and it’s a place we’ve continued to come back to since.
 
 The food has been consistently good on..." — **Joshua Michael** (3 months ago)
@@ -55,6 +56,3 @@ The food has been consistently good on..." — **Joshua Michael** (3 months ago)
 - ★★★★★ "We had a large group descend after a sales kickoff and we were HUNGRY. Food was ready in minutes, and the service provided by Alfonso and Carolina was top notch. Highly recommend for larger parties ready to eat, drink, and leave with a smile." — **Lael Halasz** (3 months ago)
 - ★★★★★ "Restaurant inside the Hyatt Regency in Embarcadero 5. Food is pricey, but delicious. Staff are amazing!! Best customer service BY FAR for any restaurants in the city. Wine list is limited but there are plenty of cocktails to choose from. I had fish tacos which were light and crisp with fresh avocado..." — **Elizabeth Barron** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # La Tortilla
 Counter-serve joint dishing up classic Mexican favorites in a cozy, colorful atmosphere.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 3.9 stars — 452 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 
 495 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 861-3990  
-[View on Google Maps](https://maps.google.com/?cid=2728931800123910678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7611184, -122.4349005
+[View on Google Maps](https://maps.google.com/?cid=2728931800123910678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "Genuinely hurts my tooth on the giant stem left in the Chile  rellano burrito I ordered. Literally the only extra step  in making this dish (taking 2 seconds to cut out the singe stem) was completely ignored by the Monday night staff. Could have choked or fully broken a tooth.
 
 Adding insult to inju..." — **N. Jay** (a month ago)
@@ -57,6 +58,3 @@ This place is racist and homophobic even though it is in the Castro Distr..." �
 - ★★ "Good location. But they don’t try at all unfortunately. Sad bc the location is so convenient, but after two tries ( burritos and then tacos), you can understand why it’s usually empty.
 Food is bland. And they wouldn’t even let me pay for extra salsa" — **Gabriel Velazquez** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

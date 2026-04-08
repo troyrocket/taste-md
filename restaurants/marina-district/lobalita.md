@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Lobalita
 
 ## Cuisine
+
 **Restaurant** — cocktail bar, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 8 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Restroom available
 
 2231 Chestnut St, San Francisco, CA 94123, USA  
 Website: [https://www.lobalita.com/](https://www.lobalita.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17776081679011978099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8001278, -122.4400528
+[View on Google Maps](https://maps.google.com/?cid=17776081679011978099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -38,6 +38,7 @@ Saturday: 4:00 PM – 2:00 AM
 Sunday: 4:00 PM – 2:00 AM
 
 ## What Diners Say
+
 - ★★★ "Little bummed by the happy hour bar vibe to it. No hostess with open seating as an intentional vibe. Didn’t like that.
 
 The menu is very small with no real entrees besides two enchiladas. Two tortas are the feature of the menu but it’s not really enough food. Was really hoping this restaurant would ..." — **Ian D** (in the last week)
@@ -56,6 +57,3 @@ The Mamacita cocktail is just the right amount of heat....." — **Kevin G.** (a
 - ★★★★★ "This place is amazing" — **Sy Patel** (a week ago)
 - ★★★ "Lobalita is a bustling spot on Chestnut. We dropped in for dinner and found that the service was great and food came very quickly. A couple quirks were that we were asked to pay our bill before receiving food or drinks (hard to determine a tip amount before ‘service’), and the food came faster than ..." — **Emily H** (a week ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

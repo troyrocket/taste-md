@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Daeho Kalbijim & Beef Soup
 Diners line up for big portions of Korean barbecue at this contemporary lunch & dinner venue.
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant, soup restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,432 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1620 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 563-1388  
 Website: [https://www.daeho-kalbijjim.com/](https://www.daeho-kalbijjim.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14511245178569392468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785882699999995, -122.42855349999998
+[View on Google Maps](https://maps.google.com/?cid=14511245178569392468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Food was great — especially the kalbijjim. Banchan were also very good.
 
 However, on a Friday at 6:30pm we waited about two hours total (one hour online + one hour at the door, even with preorder). Then we were asked to leave after 40–50 minutes of being seated, which felt rushed.
@@ -60,6 +61,3 @@ Ordered the Regular size premium Kalbijjim and it was amazing!  The portion was 
 - ★★★★★ "2025: One of the best meals we had on our trip here. Service is flawless, dishes are absolutely delicious and packed with flavour.
 The Kalbijim / braised ribs is a massive dish that probably feeds four, sadly we didn't even come close to finishing it. Everything in it is so tender and resonates with..." — **Malcolm Young** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

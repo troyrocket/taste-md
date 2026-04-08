@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Bun Mee
 Upgraded Vietnamese banh mi sandwiches with meat & pickled vegetables in a tidy white-walled space.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.1 stars — 401 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 2015 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 800-7696  
 Website: [http://www.bunmee.co/](http://www.bunmee.co/)  
-[View on Google Maps](https://maps.google.com/?cid=13342265801495811161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.788165, -122.4339542
+[View on Google Maps](https://maps.google.com/?cid=13342265801495811161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I really love the rice bowls here!  Lots of fresh veggies, the five spice chicken is freshly cooked and tender. Even though parking is rough in the Fillmore, I still drop by here when I can. It's definitely worth it." — **Samia Husain** (2 months ago)
 - ★★★ "So this is a 4 star place that I downgraded to 3(see end).
 
@@ -66,6 +67,3 @@ I recommend this if you're looking for a pretty solid meal without waiting too l
 The Bun Noodle Bowl is a huge amount of food, and the pork is delicious, definitely recommend. The Banh Mi is a bit small for the costs, but still..." — **Matt B** (a year ago)
 - ★★★★★ "Quick, easy, and delicious spot. Can’t go wrong with the fried chicken bun (my fav) and the egg rolls. Today we tried the noodle bowls and those did not disappoint. Would love it if they had lemongrass chicken!" — **Jill Tindle** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

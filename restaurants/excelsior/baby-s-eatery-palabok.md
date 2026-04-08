@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Baby's Eatery & Palabok
 
 ## Cuisine
+
 **Filipino restaurant** — filipino restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 63 reviews
 
 ## Dining Options
@@ -20,8 +21,7 @@ Unknown
 
 4609 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 585-0990  
-[View on Google Maps](https://maps.google.com/?cid=11777755572341782384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.724433, -122.4347249
+[View on Google Maps](https://maps.google.com/?cid=11777755572341782384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -38,6 +38,7 @@ Sunday: Closed
 **Payment:** Cash only
 
 ## What Diners Say
+
 - ★★★★★ "Incredibly authentic Filipino hole-in-the-wall doling out a wide variety of ready-to-go stews and crispy fried specialties (e.g whole fish)
 
 Very reasonably priced, generously portioned lunch platters with choice of carbohydrate and two entrees. Highlights include:
@@ -55,6 +56,3 @@ Real talk, I've eaten in hella Filipino restaurants. From fancy fusion to classi
 - ★★ "I used to like this place but I came in today and asked if they sold puto, a Filipino steamed rice cake and an old lady just laughed in my face. There are plenty of other Filipino restaurants that have respectful employees and better food. Save yourself a trip and check out Irma’s, Chibog, or Isla i..." — **Marian Bamba** (9 months ago)
 - ★★★★★ "I have to say this is one of my favorite places to grab food they are always so nice I will be in soon to grab me a plate" — **joseph tokes** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

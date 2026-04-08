@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Parkside Market Sandwich & Liquor
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, supermarket, grocery store, liquor store, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 106 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $$
 1600 Hayes St, San Francisco, CA 94117, USA  
 Phone: (415) 885-3483  
 Website: [https://www.parksidemarketsandwichnliquor.com/](https://www.parksidemarketsandwichnliquor.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7421280450913434140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7745852, -122.44300170000001
+[View on Google Maps](https://maps.google.com/?cid=7421280450913434140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -41,6 +41,7 @@ Sunday: 9:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "I live nearby and have seen the ownership change multiple times. Even after multiple changes the corner store remains friendly and affordable. Never have an issue with finding anything. There is a chill vibe in the store that makes it ideal if you need something quick.
 Negatives: they close around 9..." — **Declan Lane** (8 months ago)
 - ★ "For the second time my sandwich barely had any meat. I ordered a turkey sandwich and this is how much meat that was given. ☹️☹️☹️" — **Adrian Diaz** (11 months ago)
@@ -53,6 +54,3 @@ I got Escape from Alcatraz, my brother got Crossing the Bay, and they were both 
 
 The staff is also super friendly here!" — **Jonathan Kearns** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

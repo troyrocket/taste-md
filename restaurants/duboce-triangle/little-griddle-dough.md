@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Little Griddle @ Dough
 Pours from boutique wineries & international brews alongside small plates & an in-house library.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, hamburger restaurant, brunch restaurant, fast food restaurant, breakfast restaurant, coffee shop, cafe, food store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 409 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 1455 Market St, San Francisco, CA 94103, USA  
 Phone: (415) 864-4292  
 Website: [https://www.eatlittlegriddle.com/](https://www.eatlittlegriddle.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2063373390512320468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7757356, -122.41823459999999
+[View on Google Maps](https://maps.google.com/?cid=2063373390512320468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I was downtown looking at things that used to be considered great, and now are just a resting place for heroin users, then outa nowhere I spot the Little Griddle @ Dough Restaurant!
 Well...if they can hold out through the madness they must be doing something right, so in I went!
 I got a cheeseburger..." — **American Angler** (6 months ago)
@@ -60,6 +61,3 @@ A little messy, but I would like to come back for a breakfast platter or a ..." 
 
 I ordered pickup on Uber Eats but it kept taking me across the street to a closed location. Next time I’ll order from the QR code on their menu to m..." — **Jesus Covarrubias** (4 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

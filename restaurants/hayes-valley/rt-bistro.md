@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # RT Bistro
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 38 reviews
 
 ## Dining Options
@@ -20,8 +21,7 @@ Unknown
 
 205 Oak St, San Francisco, CA 94102, USA  
 Website: [https://www.rt-bistro.com/](https://www.rt-bistro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7768216243541797262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.774839899999996, -122.4229511
+[View on Google Maps](https://maps.google.com/?cid=7768216243541797262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -39,6 +39,7 @@ Sunday: 5:00 – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "The best way I can describe this place has cozy casual vibes without casual food.
 
 The lasagna was like a sweet flat pasta. It is more unique than yummy. The burger was "the best I've ever had" according to my friend. It is on the soggier side, but I don't mind getting my hands dirty. I loved the tr..." — **Eilene Cho** (a month ago)
@@ -61,6 +62,3 @@ The trout was cooked very well, but we found the tarta..." — **Andy Akins** (2
 
 The Rich team have done it again with a restaurant that just works. Their RT burg..." — **Kabir Mahal** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

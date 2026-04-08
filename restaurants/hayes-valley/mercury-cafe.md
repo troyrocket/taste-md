@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Mercury Cafe
 Airy daytime spot with an arty vibe serving fair-trade coffee, organic light food & baked goods.
 
 ## Cuisine
+
 **Cafe** — cafe, sandwich shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 405 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Dog-friendly · Restroom available
 201 Octavia St, San Francisco, CA 94102, USA  
 Phone: (415) 252-7855  
 Website: [http://www.mercurycafe.net/](http://www.mercurycafe.net/)  
-[View on Google Maps](https://maps.google.com/?cid=849635159482449259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7739809, -122.42425340000001
+[View on Google Maps](https://maps.google.com/?cid=849635159482449259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "The place is unsanitary. The circled black spot on the mug was some dirt that was not coffee or anything similar. I wiped it with my thumb in front of the worker. Disgusting. BTW the mug in the picture is UNTOUCHED. That's how I got it. Crazy, right?
 
 About coffee. It's your average gas station drip..." — **Liviu Orehovschi** (2 months ago)
@@ -60,6 +61,3 @@ Great atmosphere, great tasting cold brew (above average for the Bay). 4 St..." 
 - ★★★ "Super cute cafe, good wifi, was not super busy on a Monday midday. However the coffee took 20-30 mins to come and the avocado toast was a bit stale. I’m not sure that the food was really worthwhile. The coffee was nice, $6.50 for a vanilla latte. Staff were nice but not super friendly :(" — **Isabella Grandic** (a year ago)
 - ★★★★★ "So cute and cozy. Lots of books scattered throughout the place to read and great art. They have a piano for the occasional jazz night. Delicious pour over. Really tasty sandwiches with fresh bread. Overall, a really tasteful and tasty place to visit!" — **Katie Ahmann** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

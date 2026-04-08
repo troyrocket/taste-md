@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Moki's Sushi & Pacific Grill
 Pan-Asian small plates & grilled mains complement the sushi menu & South Pacific-influenced decor.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 245 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 615 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 970-9336  
 Website: [http://www.mokisf.com/](http://www.mokisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6440360038136220385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.739105599999995, -122.4156
+[View on Google Maps](https://maps.google.com/?cid=6440360038136220385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Love Moki's. We had the special garlic noodles with cod and Japanese curry pork katsu. Also a seaweed salad and a couple sushi rolls. Service is excellent and food was delicious" — **Smiley Dan** (2 months ago)
 - ★★★★★ "Fantastic place! A few colleagues and I stayed at an Airbnb in the neighborhood and liked this place so much we visited 3 times in the week we spent in SF. I lived in Japan years ago and this was a great reminder of how good sushi can be. Delicious food, and really friendly dly owners/staff made it ..." — **Randy Gribben** (2 months ago)
 - ★★★★★ "I was surprised at how much I liked this place since I had no expectations going in.
@@ -59,6 +60,3 @@ I would def come here again." — **Q Chow** (a year ago)
 Incredible service and food.
 Worth stopping in when visiting or if you're local!" — **Eli GM** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Al Pastor Papi
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 125 reviews
 
 ## Dining Options
@@ -23,8 +24,7 @@ Good for groups · Good for kids
 ## Location & Contact
 
 232 O'Farrell St, San Francisco, CA 94102, USA  
-[View on Google Maps](https://maps.google.com/?cid=4144268638552032224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7864848, -122.40860789999999
+[View on Google Maps](https://maps.google.com/?cid=4144268638552032224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Wanted some tacos in SanFran, and I got them when I randomly stopped in to this location.
 Menu takes a moment to absorb, esp. if you haven't been here before.
 Ordering was simple, and staff was friendly and kept location clean. There was a decent amount of people eating here on a Sat
@@ -56,6 +57,3 @@ This place is easy to find and just around the block from Union Square. I got th
 
 Pastor is on the trompo and all but they use a very lean and thicker cut and it's also sliced thicker, so it's a bit dry and chewy. It doesn't have that melti..." — **jkaw** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

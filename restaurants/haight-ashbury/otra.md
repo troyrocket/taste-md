@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Otra
 Chill neighborhood spot featuring modern takes on casual Mexican food, plus a vibrant bar.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 388 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 682 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 500-2774  
 Website: [https://www.otrasf.com/](https://www.otrasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18426572784709600292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.771927999999996, -122.4334751
+[View on Google Maps](https://maps.google.com/?cid=18426572784709600292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I love Otra. Maybe I love it a little bit too much sometimes, but that’s a good thing as far as I’m concerned. The food is incredible and the menu is created by Chef Nick with love and fresh flavors.
 
 The bar is ran by consummate professionals. The service is top notch, the staff is friendly, kind, ..." — **Aaron Mullagh** (2 months ago)
@@ -67,6 +68,3 @@ Good:
 Bad:
 - I thought the cod to..." — **Jenny Xu** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

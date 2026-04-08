@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Hong Kong Clay Pot Restaurant
 Clay pots soaked in water cook & steam many of the dishes at this Chinese lunch & dinner spot.
 
 ## Cuisine
+
 **Cantonese restaurant** — cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 1,741 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 
 960 Grant Ave, San Francisco, CA 94108, USA  
 Phone: (415) 989-2638  
-[View on Google Maps](https://maps.google.com/?cid=10319442672519131771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7958566, -122.40653379999998
+[View on Google Maps](https://maps.google.com/?cid=10319442672519131771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM
 **Parking:** Paid street parking
 
 ## What Diners Say
+
 - ★★★★ "After closure of Oriental Pearl Restaurant, we are still searching for a near close joint… this place is on the first floor, just like Oriental Pearl, a bit difficult to carry a stroller upstairs… restaurant was 70% full when we arrived at around 6:30 pm, the soup was very standard, nothing exceptio..." — **Anirban Misra** (5 months ago)
 - ★★★★★ "FOOD IS THE BEST
 
@@ -74,6 +75,3 @@ The space is up a flight of stairs and there is no elevator. It us a family styl
 
 Only a short stay in SF after travelled from East coast. Dad and I have been craving for a good and authentic Chinese Canton meal. After looked at all the Google reviews of the whole Chinatown. We decided to go for this place and we made the right choice. The sizzling claypot d..." — **Hester Lau** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

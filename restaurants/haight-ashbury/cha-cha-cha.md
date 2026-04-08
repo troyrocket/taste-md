@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Cha Cha Cha
 Boisterous eatery with Santeria-related decor serving Caribbean small plates & pitchers of sangria.
 
 ## Cuisine
+
 **Caribbean restaurant** — caribbean restaurant, tapas restaurant, cuban restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 2,109 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Dog-friendly · Restroom available
 1801 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 386-7670  
 Website: [http://www.chachachasf.com/](http://www.chachachasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10926756026849679460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.769266, -122.4519974
+[View on Google Maps](https://maps.google.com/?cid=10926756026849679460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Just happened upon this fun restaurant as I was walking the Haight Ashberry area.  I was seated at the bar.  They have a good selection of mixed drinks beer and wine.  The bartender server was very friendly and had recommendations of places to visit.  The food was amazing.  I had the pepper and onio..." — **Diane Olsen** (a month ago)
 - ★★★★★ "Located on Haight Street, across the street from Kezar arena.  This is a fun Caribbean restaurant is a great place to enjoy delicious food and sangria!  I highly recommend their The paella mixta, which is Spanish rice with saffron, mussels, clams, chunks of fish and shrimp.  We loved their cajun shr..." — **Richard H** (4 months ago)
 - ★★ "Very disappointing dining experience overall. The food was far below expectations. The menu highlights their “famous” sangria, but it turned out to be quite ordinary and nothing special. The ceviche had a strong fishy taste that made it difficult to eat. The voodoo pasta was extremely oily and heavy..." — **Edward Nan** (a month ago)
@@ -56,6 +57,3 @@ Sunday: 11:30 AM – 10:30 PM
 The staff were super friendly, and the bright, colorful vibe made it a fun spot to visit.
 The food was really good and I would definitely recommend it if you’re in San Francisco!" — **uni** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

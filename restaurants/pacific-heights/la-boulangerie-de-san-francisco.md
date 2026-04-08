@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # La Boulangerie de San Francisco
 French-American bakery & cafe with coffee, pastries, brunch & lunch items in cozy, rustic-chic digs.
 
 ## Cuisine
+
 **Bakery** — bakery, salad shop, coffee roastery, sandwich shop, pastry shop, dessert shop, confectionery, breakfast restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 468 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $$
 2325 Pine St, San Francisco, CA 94115, USA  
 Phone: (415) 440-0356  
 Website: [https://www.laboulangeriesf.com/](https://www.laboulangeriesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14276906912534211313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7877381, -122.43407549999999
+[View on Google Maps](https://maps.google.com/?cid=14276906912534211313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 6:30 AM – 3:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Lovely French bakery with fresh, perfectly flaky pastries and great coffee. The atmosphere is warm and inviting, with friendly staff and plenty of charm. Everything tastes homemade and authentic — especially the croissants and quiche. A perfect place for a relaxed breakfast or afternoon treat in San..." — **Olga Nemesh** (5 months ago)
 - ★★★ "Love going to La Boulangerie when in SF 🫶🏽🥐 BUT, what is up with the two women that were working during my visit?
 
@@ -56,6 +57,3 @@ The ladies inside were so nice and friendly ☺️
 Almost reminds me of a neighbor that baked some fresh pastries and sharing it with you in the morning!
 ..." — **Hilda Liu** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

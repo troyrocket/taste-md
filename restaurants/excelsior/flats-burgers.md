@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Flats Burgers
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, american restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 34 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids
 4753 Mission St, San Francisco, CA 94112, USA  
 Phone: (628) 282-7871  
 Website: [http://flatsburgers.co/](http://flatsburgers.co/)  
-[View on Google Maps](https://maps.google.com/?cid=110902082631228448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7221273, -122.4364391
+[View on Google Maps](https://maps.google.com/?cid=110902082631228448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "We ordered the Sarap Manila with a side of seasoned fries and the Aji inferno. Each has a unique taste and I think based on one’s preference, you can find a burger suited to your palate.
 
 The Sarap Manila is flavorful because of the longganisa patties while I liked the Aji Inferno because of the jal..." — **Rosary Ann Oca** (4 months ago)
@@ -58,6 +59,3 @@ The food is not just fantastic, but the owners are very sweet. On the 3 time I o
 Last time I went my bun was way too toasted to the point where my bun was hard on top. Mid burger, you could taste that they just rushed to
 Make it.  Hope they take this as constructive criticism. Wish you the best!!!" — **AD PHETTI** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

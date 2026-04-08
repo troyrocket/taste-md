@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Loló
 Knickknacks decorate the colorful walls of this venue known for inventive Mexican small plates.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, tapas restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,880 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 974 Valencia St, San Francisco, CA 94110, USA  
 Phone: (415) 643-5656  
 Website: [http://lolosf.com/](http://lolosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5817645904408455586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.757381699999996, -122.4213624
+[View on Google Maps](https://maps.google.com/?cid=5817645904408455586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Wow! The tropical taco was phenomenal! Also had the house N/A drink and it was surprisingly good. Service was very nice - bartender and waiters very kind.
 
 Also really enjoyed the octopus and the chicken confit enchiladas.
@@ -62,6 +63,3 @@ We had a reservation at 7:30pm on a Friday night, got seated at 7:40pm and by 8:
 The server didn’t even offer dessert or other drinks. The check was on the table as soon as we finished our p..." — **Marcos Ciarrocchi** (a month ago)
 - ★★★★ "The fish tacos are incredible. If you’re a fish taco lover and have had them from all over like me, absolutely get these. I’m so picky and these were fantastic.  The chicken tinga quesadilla tasted good but was so disappointing small. And the beer and drink pricing is high. $9 for a can of beer and ..." — **Katie Laskowska** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

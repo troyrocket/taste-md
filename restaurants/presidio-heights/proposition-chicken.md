@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Presidio Heights](index.html)
-
 # Proposition Chicken
 Cafe dishing varied preparations of fried & rotisserie chicken plus crispy tofu in modern digs.
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 929 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 3465 California St, San Francisco, CA 94118, USA  
 Phone: (415) 422-0646  
 Website: [http://propositionchicken.com/](http://propositionchicken.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14140066338193609730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7864493, -122.45116259999999
+[View on Google Maps](https://maps.google.com/?cid=14140066338193609730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Please tell me what brand of bread you use for the chicken sandwich. The bread was so good it unfortunately took away from the chicken. The fried chicken was good too dont get me wrong but I'm still thinking about that BREAD. The cup of chicken broth was very delicious and flavorful but really expen..." — **drawonnoodles** (3 months ago)
 - ★★ "Overpriced with Nickel-and-Diming
 
@@ -57,6 +58,3 @@ The sandwich comes with only fried chicken and coleslaw—nothing else. When I a
 - ★★★★ "Tofu entree was very good and different from most vegetarian options you normally see. Biscuit was delicious.The chicken in the salad was dry so that dish was a disappointment. Why can’t chicken places not serve dry chicken?? The rest of the salad was okay, nothing spectacular. Next time we’ll try t..." — **Liz Armstrong** (11 months ago)
 - ★★★★★ "Seriously some of the best chicken matzoh ball soup. Someone really thought about it. Carrots. Dill. Chicken. Croutons is a wonderful broth. So excellent. That’s why I had to write about it!" — **Carol Mills** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

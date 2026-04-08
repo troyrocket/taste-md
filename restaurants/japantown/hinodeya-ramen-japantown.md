@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # HINODEYA Ramen Japantown
 Elevated ramen spot whipping up starters and dashi broth bowls in a simple, contemporary surrounding.
 
 ## Cuisine
+
 **Ramen restaurant** — ramen restaurant, noodle shop, catering service, vegan restaurant, vegetarian restaurant, breakfast restaurant, food delivery, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 3,152 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1737 Buchanan St, San Francisco, CA 94115, USA  
 Phone: (415) 216-5011  
 Website: [https://hinodeyaramen.com/hinodeyaramenjapantown](https://hinodeyaramen.com/hinodeyaramenjapantown)  
-[View on Google Maps](https://maps.google.com/?cid=10607582309817739771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7862424, -122.43005799999999
+[View on Google Maps](https://maps.google.com/?cid=10607582309817739771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place never disappoints. Generally, there is a line to get in. The atmosphere is lively when it’s busy. The place is about medium size, not too cozy and not that big. There is outside seating. The service is great. I’ve been here several times & always get the Creamy vegan ramen. It’s really go..." — **SFMasterP** (4 months ago)
 - ★★★★★ "Have been to this location multiple times and am never disappointed. There is almost always a waitlist, but it's very easy to walk around the area while waiting for food. Tried the winter special on this visit, and it came with a good amount of meat, but I think I would recommend the more classic op..." — **Azolan Clarke** (3 weeks ago)
 - ★★★ "Guy next to us had his folding chair collapse. He fell to the ground and seemed ok. I prefer to eat without worrying about the structural integrity of the chairs. Nice to sit outside though.
@@ -61,6 +62,3 @@ The food was amazing, an..." — **Jihyeong Yoon** (3 months ago)
 
 We sat at the table for quite a while before realizing that you have to order in your phone after scanning a QR code, that was a littl..." — **matt leonardo** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Sohunan of Henry's Hunan
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 418 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for groups · Good for kids · Restroom available
 674 Sacramento St, San Francisco, CA 94111, USA  
 Phone: (415) 795-3607  
 Website: [http://sohunan.com/](http://sohunan.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17465411530750903063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.793725699999996, -122.4041544
+[View on Google Maps](https://maps.google.com/?cid=17465411530750903063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Not delicious as what I expect for Hunan food and the flavors are quite bland. I'm not sure why the review score is so high, but my expectation for an authentic, flavorful Hunan food was definitely not met.
 
 We went in during a weekend dinner and there were very few people - kind of already indicati..." — **Y. A. Zhang** (5 months ago)
@@ -66,6 +67,3 @@ I asked for help.  Was shunned" — **Nij Chawla** (4 months ago)
 
 We ordered the pork belly, which was absolutely delicious. It was well-seasoned and flavorful. However, I must admit that I could’ve gone a bit spicier. It was a bit on the mi..." — **Andre** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

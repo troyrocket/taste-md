@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Tartine Manufactory
 Bread is the star here, whether heritage grain loaves, sweet pastries or rustic sandwiches.
 
 ## Cuisine
+
 **Bakery** — bakery, american restaurant, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 4,304 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Restroom available
 595 Alabama St, San Francisco, CA 94110, USA  
 Phone: (415) 757-0007  
 Website: [https://www.tartinebakery.com/](https://www.tartinebakery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9860582280079748003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7618278, -122.41189720000001
+[View on Google Maps](https://maps.google.com/?cid=9860582280079748003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "⭐⭐⭐⭐⭐ 5 Stars
 Tartine Bakery absolutely lives up to the hype. From the moment we walked in, the service was warm, attentive, and genuinely welcoming. The staff was patient, knowledgeable about the menu, and made the whole experience feel relaxed and enjoyable — even during a busy brunch rush.
 The st..." — **Thomas Reeh** (a month ago)
@@ -61,6 +62,3 @@ All of their pastries are delicious. I particularly love their almond croissant 
 
 The mo..." — **Ruchira Khanvilkar** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

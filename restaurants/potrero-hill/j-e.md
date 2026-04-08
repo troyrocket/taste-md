@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # J & E
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 199 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids · Restroom available
 
 3508, 2537 24th St, San Francisco, CA 94110, USA  
 Phone: (415) 282-5177  
-[View on Google Maps](https://maps.google.com/?cid=10708660184351979024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7529354, -122.4049889
+[View on Google Maps](https://maps.google.com/?cid=10708660184351979024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I finally gave it a shot and tried this place out via delivery after seeing it pop up many times on Doordash. They offer a wide variety of Chinese and Chinese American dishes, such as chow mein, fried rice, soup, appetizers entrees like orange chicken, salt and pepper chicken wings/salt and pepper p..." — **Alzila** (4 months ago)
 - ★★★★ "Went in on a Saturday night! Partner and I got the orange chicken over rice and the green bean and chicken over rice. Food was piping, hot and fresh. not overly salted as well. There are indoor tables for seating." — **Feibien Cheah** (a year ago)
 - ★ "Giving this review because I found a hair in my food twice.
@@ -54,6 +55,3 @@ I hate to have to do this, I think their food is good, but food production seems
 
 Firstly, when I called to place my order, the worker on the phone seemed impatient and unfriendly, clearly annoyed by my questions. Despite this, I decided to give them the..." — **Antonia Salazar** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

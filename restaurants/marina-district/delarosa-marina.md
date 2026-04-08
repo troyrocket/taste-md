@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Delarosa Marina
 Bustling, modern eatery offering Roman pizzas, antipasti, creative cocktails & communal tables.
 
 ## Cuisine
+
 **Restaurant** — pizza delivery, meal delivery, brunch restaurant, cocktail bar, pizza restaurant, italian restaurant, meal takeaway, food delivery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 1,551 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2175 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 673-7100  
 Website: [https://delarosasf.com/](https://delarosasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1013703457966053960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.800287, -122.43911019999997
+[View on Google Maps](https://maps.google.com/?cid=1013703457966053960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Good Italian restaurant in the Marina. It has a nice outdoor seating area, as well as lots of seating indoors. It's a bit cramped indoors, and most of the seating is at long tables sitting on hard stools, which aren't very comfortable. Because of the long tables, you may end up sitting right next to..." — **Laura** (2 weeks ago)
 - ★★★★★ "Calamari was simply delicious, couldn’t stop eating it.  Loved the addition of shishitos and the lovely sauce.
 
@@ -62,6 +63,3 @@ Pizza w/fennel sausage (no pic) was par. Pasta with pork ..." — **Lindsey Barl
 
 Louis was our server and the service was excellent.  Bathrooms were clean and ..." — **Jaydee Sheppard** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

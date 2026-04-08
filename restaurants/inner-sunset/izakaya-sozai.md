@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Izakaya Sozai
 Ramen, yakitori & other traditional Japanese small plates in simple, casual surrounds.
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, ramen restaurant, japanese izakaya restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 624 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 1500 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 371-9721  
 Website: [http://www.izakayasozai.com/](http://www.izakayasozai.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3384850164810597686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7638466, -122.4741211
+[View on Google Maps](https://maps.google.com/?cid=3384850164810597686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "First time walking it, it felt small but had character, you can tell this was a local's favorite. Only once have I seen this place not packed. Service was great, knowledgeable and kind. Chef was attentive to care to see if any guests had any food restrictions/allergies.
 
 The food was amazing, not th..." — **ShadowMax** (a month ago)
@@ -56,6 +57,3 @@ The food was amazing, not th..." — **ShadowMax** (a month ago)
 
 After a round of Sake to quench our th..." — **Betty L** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

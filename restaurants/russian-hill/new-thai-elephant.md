@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # New Thai Elephant
 Thoughtfully sourced Thai classics are served family-style at this warm, easygoing restaurant.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant, asian restaurant, vegetarian restaurant, meal takeaway
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 2,017 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Restroom available
 393 Bay St, San Francisco, CA 94133, USA  
 Phone: (415) 818-8999  
 Website: [https://www.newthaielephant.com/](https://www.newthaielephant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11474422897705508597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8054963, -122.4134439
+[View on Google Maps](https://maps.google.com/?cid=11474422897705508597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I got recommended this place after the gym and it was definitely worth the 20 min walk!!
 
 The bbq pork fried rice was super delicious, but I was still a little hungry so I then ordered the Ka Na Moo Krob (Crispy pork with chinese broccoli) and that was probably some of the best asian food I had so f..." — **Richard Lam** (3 weeks ago)
@@ -58,6 +59,3 @@ However, the n..." — **Shane J** (2 months ago)
 - ★★★★★ "5 star experience. We ordered red curry, mango shrimp salad, eggplant basil chicken sautee and all were flavorful and delicious. Piping hot entrees perfect for a cold day." — **Anna Webber** (a month ago)
 - ★★★★ "We arrived around 2:45 PM and managed to place our order just before the kitchen closed for lunch. We started with several appetizers: Roti, Papaya Salad, Curry Puff, Fresh Rolls, and Chicken Satay. The Curry Puff was the standout, while the Papaya Salad - served with cabbage instead of the more typ..." — **Nikhil** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

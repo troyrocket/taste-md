@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Park Tavern on Washington Square
 Lively & trendy bistro serving creative American eats in a stylish space with wood-beamed ceilings.
 
 ## Cuisine
+
 **Restaurant** — bar, event venue
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 826 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1652 Stockton St, San Francisco, CA 94133, USA  
 Phone: (415) 432-9399  
 Website: [https://www.parktavern-sf.com/](https://www.parktavern-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3346125522270003926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8010729, -122.40914099999998
+[View on Google Maps](https://maps.google.com/?cid=3346125522270003926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The perfect setting in San Francisco for amazing food,  wonderful service and a very interesting and fun wine list! Yes, there are classic pasta and pizza options but everything else on this menu is way more intriguing and absolutely delicious. San Francisco is a city that offers a lot for foodies, ..." — **Selena Hughes** (a month ago)
 - ★★★★★ "My husband and I sat at the bar where he had an exceptional dinner.Scott an Margirito were our bartenders and the  service was incredible. Honestly, the food was divine but the service was impeccable. Addeline who iga lived in San Francisco for 32 years and is originally from Ireland was so sweet an..." — **Daniel Hunt** (a month ago)
 - ★★★ "We had a couple dinners here soon after they reopened. Both were bad experiences so we took a break.
@@ -59,6 +60,3 @@ D..." — **Jim Robbins** (3 weeks ago)
 
 In my other visits we loved the pork Milanese, b..." — **Jessica Gulish** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

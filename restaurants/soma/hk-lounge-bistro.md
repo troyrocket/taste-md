@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # HK Lounge Bistro
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 315 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 1136 Folsom St, San Francisco, CA 94103, USA  
 Phone: (415) 668-8802  
 Website: [https://hkloungebistro.com/](https://hkloungebistro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5618802236237661269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7761613, -122.4088266
+[View on Google Maps](https://maps.google.com/?cid=5618802236237661269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 2:30 PM, 5:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "The dim sum here was pretty good. Every dish was prepared well and tasted fresh. I'm not sure why the restaurant's ratings are so high though. While the food was fine, the prices were exorbitant, especially given the small portions.
 
 Perhaps the greatest offender was the $18 plate of black and peppe..." — **Erick Tseng** (5 months ago)
@@ -60,6 +61,3 @@ We ordered 7 dishes among 3 people and for the total to come out to $60+ per per
 
 The ..." — **James Wang** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

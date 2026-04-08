@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Kushi Tsuru
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, sushi restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,111 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1737 Post St #380, San Francisco, CA 94115, USA  
 Phone: (415) 922-9902  
 Website: [http://www.kushitsuru.com/](http://www.kushitsuru.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13741593314362646148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7851371, -122.4307827
+[View on Google Maps](https://maps.google.com/?cid=13741593314362646148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The staff were nice and food is good. The menu is fairly large, so I’m not sure what they do best here. We had the Tonkatsu and Spicy ramen - both I feel could have had more flavor.  There is a happy hour deal 3pm - 5pm Monday - Thursday." — **Chad Soares** (5 months ago)
 - ★★★★★ "Solid quality.  Tonkatsu ramen was on point.  I came during a busy day, so it was a long wait.  The ramen, dragon roll, and sashami was pretty tasty.
 
@@ -57,6 +58,3 @@ Nabeyaki Udon was flavorful, but in someways, had too much flavor — a..." — 
 - ★★ "Review is on the sushi rolls. The rice is soggy and mushy. Doesn't have that vinegar taste in there like better restaurants. Haven't tried their ramen and others since they have many options. If you want sushi, this is not the place. Staff is friendly though and the place looks clean." — **Howard Wong** (3 months ago)
 - ★★★ "Seems like a pretty interesting restaurant. It is in the middle of Japan town. It also seemed a bit busy there. We sat down and then were able to order. The menu seems pretty nice with some specials laid out here and there. We got the food ordered. We got the curry croquettes and the spicy ramen. An..." — **Sir Kumamon** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

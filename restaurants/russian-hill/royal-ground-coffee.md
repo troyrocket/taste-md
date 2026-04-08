@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Royal Ground Coffee
 Part of a local mini-chain serving signature blends plus beer, sandwiches & pastries in casual digs.
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, wine bar, breakfast restaurant, bar, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 290 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Live music · Good for watching sports · Restroom available
 ## Location & Contact
 
 2216 Polk St, San Francisco, CA 94109, USA  
-[View on Google Maps](https://maps.google.com/?cid=3982069919251868917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7971898, -122.4218597
+[View on Google Maps](https://maps.google.com/?cid=3982069919251868917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 8:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Absolutely love Royal Ground Coffee! This spot has quickly become one of my favorites on Polk Street. The Lavender Latte is beautifully balanced—floral without being overpowering—and the Wolflower Latte is unique, comforting, and thoughtfully crafted.
 
 The breakfast sandwich is solid and satisfying,..." — **rahul** (3 months ago)
@@ -54,6 +55,3 @@ The breakfast sandwich is solid and satisfying,..." — **rahul** (3 months ago)
 
 I had the best matcha l..." — **Mahi Erdal** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

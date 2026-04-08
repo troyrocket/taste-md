@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Lower Haight](index.html)
-
 # Mythic Pizza
 Convenient spot to grab a quick bite, from classic & deep-dish slices to hot wings & sandwiches.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 246 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids
 
 551 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 864-1999  
-[View on Google Maps](https://maps.google.com/?cid=17601449443500624968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7718979, -122.43134069999998
+[View on Google Maps](https://maps.google.com/?cid=17601449443500624968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I have eaten her many times and it never disappoints. Absolutely 💯 hands down delicious. I get the majestic slice and it’s loaded with pepperoni, cheese. Salami, mushrooms, onions, bell peppers and I added garlic it’s so fresh piping hot and the best thing is that have the guys slice my one slice i..." — **Angel Robinson-Jackson** (2 months ago)
 - ★★★★★ "Super tasty the mythic slice, great price for size of slice. Super fast delivery. Def coming back!" — **Mermaid** (5 months ago)
 - ★★★★★ "I ordered a half and half XL pizza from here yesterday. This is my new spot from here on. The pizza took about 25 minutes to make, and was perfectly cooked. I’m not typically a pepperoni person but in this case, I was impressed. As for the crust and cheese, I appreciated that it did not have a sour ..." — **M** (a year ago)
@@ -57,6 +58,3 @@ Thank you!" — **Christopher Johnson** (3 months ago)
 
 Staff is great. Prices are fair, and they're open late. Everything is made fresh, unlike a lot of other places nearby." — **Neal** (6 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

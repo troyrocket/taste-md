@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Pazzia Ristorante Italiano
 Small, casual eatery for thin-crust pizza, housemade pastas & other traditional Italian dishes.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, lounge bar, pizza restaurant, night club, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 684 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 337 3rd St, San Francisco, CA 94107, USA  
 Phone: (415) 512-1693  
 Website: [http://www.pazziasf.com/](http://www.pazziasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9195357315675046883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783417899999996, -122.3980356
+[View on Google Maps](https://maps.google.com/?cid=9195357315675046883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "The service was excellent. It’s got a very family like vibe with a friendly host. She was funny and talkative. She was the soul of the place.
 
 But the food didn’t impress. The pizza had way too much sauce, and was under-seasoned. The pastas were better but they lacked depth of flavor. The tiramisu w..." — **Paul Cheong** (2 months ago)
@@ -57,6 +58,3 @@ But the food didn’t impress. The pizza had way too much sauce, and was under-s
 Conveniently located in SoMa, easy to get to by car and on foot. Use paid street parking or a nearby garage. We had..." — **Walter “Wally” Pietsch** (3 months ago)
 - ★★★★★ "We stumbled across Pazzia on a Thursday evening.  This is the best Italian place I have ever been to. The food was amazing, the service top notch, and the atmosphere was perfect! My husband and I will definitely be returning." — **Myrna Baylis** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

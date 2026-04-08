@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Blue Fog Market
 Cafe & deli selling gourmet prepared food & Blue Bottle Coffee targeted to on-the-go clientele.
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, meal takeaway, market, coffee shop, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 271 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating
 2567 Gough St, San Francisco, CA 94123, USA  
 Phone: (415) 931-9331  
 Website: [http://www.bluefogmarket.com/](http://www.bluefogmarket.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14048716070299269161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7971079, -122.42720609999999
+[View on Google Maps](https://maps.google.com/?cid=14048716070299269161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We love this local market. They have such a wonderful stuff every time we walk in. They are so kind and accommodating for my five-year-old son. They always carry great items for kids, which my son appreciates, especially the cookies and Pezz dispensers.
 
 I always order their vegetarian sandwich on a..." — **Adrienne** (3 weeks ago)
@@ -55,6 +56,3 @@ I always order their vegetarian sandwich on a..." — **Adrienne** (3 weeks ago)
 - ★★★★★ "FANTASTIC VEGAN BREAKFAST OPTIONS - i highly recommend!!! delicious and super fairly priced!!! i got the vegan big blue and a maple oat latte for only 20$!!!" — **Nine Haddad** (5 months ago)
 - ★★★★★ "This place makes some of the best sandwiches I’ve ever had. I’m also hooked on their iced lavender matcha. Everyone’s always so sweet when I’m in there!" — **Jane L** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

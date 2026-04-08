@@ -3,5 +3,27 @@ node_modules/
 dist/
 data/restaurants.json
 data/reviews-for-faq.json
+data/restaurants-mission-backup.json
 .DS_Store
 *.png
+.wrangler/
+
+# Application docs & personal files
+Founder.md
+Reference.md
+YC.md
+YZi labs.md
+video-script.md
+tmd-admin.md
+pitch_pu.html
+
+# Claude Code session exports
+2026-*.txt
+
+# Video files
+*.mov
+
+# Worker local dev
+worker/.dev.vars
+worker/.wrangler/
+worker/node_modules/

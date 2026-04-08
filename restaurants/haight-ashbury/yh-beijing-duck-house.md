@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # YH - Beijing Duck House 颐和北京烤鴨店
 Casual, contemporary Chinese restaurant & bar offering a diverse menu with meatless selections.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, vegetarian restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 441 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 500 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 355-9125  
 Website: [https://yh-beijing.com/](https://yh-beijing.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13064421078743446939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7721917, -122.43061870000001
+[View on Google Maps](https://maps.google.com/?cid=13064421078743446939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 3:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Review based on the string beans, chicken wings, mapo tofu, and chow fun.
 We wanted to order the Peking duck, however their oven malfunctioned when we waited an hour for the dish. So this review does not reflect that.
 
@@ -65,6 +66,3 @@ Val..." — **Robert Wu** (12 months ago)
 
 Recommend: Peking duck, vegetable with mushroom" — **Johnny L.** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

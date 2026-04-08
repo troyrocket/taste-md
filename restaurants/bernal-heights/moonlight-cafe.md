@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Moonlight Cafe
 Familiar fixture preparing omelets, burgers, crepes & other casual fare, breakfast–afternoon.
 
 ## Cuisine
+
 **Brunch restaurant** — brunch restaurant, cafe
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 340 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 
 634 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 647-6448  
-[View on Google Maps](https://maps.google.com/?cid=6188583775535086333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7388553, -122.4152815
+[View on Google Maps](https://maps.google.com/?cid=6188583775535086333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Moonlight Cafe is a lovely spot with great food and a cozy atmosphere. Everything was fresh and flavorful, and the service was friendly. A perfect place to relax and enjoy a good meal." — **Jayaram Pandit** (3 months ago)
 - ★★★ "The Sausalito scramble lacked flavor. It was flat and the presentation was poor.
 We also had a turkey sandwich which was relatively good except the quality of the turkey was very processed." — **NomeG** (2 months ago)
@@ -57,6 +58,3 @@ Great spot for breakfast they have so much to choose from it's hard to make a de
 2. The delicious American cuisine at Moonlight Cafe is a true culinary delight for the taste buds.
 3. From classic burgers to flavorful BBQ dishes, the menu at Moonlight Cafe showcases the best of Am..." — **bijay Gurung** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

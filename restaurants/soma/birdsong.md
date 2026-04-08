@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Birdsong
 Cozy, upscale stop with a chef's tasting menu highlights Pacific Northwest & wood-fire cooking.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, fine dining restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.6 stars — 460 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Restroom available
 1085 Mission St, San Francisco, CA 94103, USA  
 Phone: (415) 369-9161  
 Website: [http://www.birdsongsf.com/](http://www.birdsongsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10055297503267307804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7793925, -122.4103825
+[View on Google Maps](https://maps.google.com/?cid=10055297503267307804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Husband took me here for my birthday and we had an amazing experience. The moment we got inside we felt welcomed by the great staff. During the whole meal someone explained every dish and wine we had. And each dish was delicious and beautifully presented to us. It was great to see how the dishes wer..." — **Ryan Chua** (3 months ago)
 - ★★★★★ "This is the restaurant that truly opened our eyes to GREAT food.
 
@@ -62,6 +63,3 @@ The food was innovative, creative, and deeply thoughtful every dish felt unique 
 
 I prefer not to bore you with the details but I thin..." — **Pedro Vicente** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

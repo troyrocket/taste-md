@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Sears Fine Food
 Local institution serving Swedish pancakes & classic diner standards amid nostalgic surroundings.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 3,911 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 439 Powell St, San Francisco, CA 94102, USA  
 Phone: (415) 986-0700  
 Website: [http://www.searsfinefood.com/](http://www.searsfinefood.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11557307547305264890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7887938, -122.4087411
+[View on Google Maps](https://maps.google.com/?cid=11557307547305264890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Sears Fine Food is a true San Francisco classic! you can really feel the history and charm the moment you walk in.
 I had the spinach omelet with extra mushrooms and an orange juice, everything was amazing. The omelet was perfectly cooked, fresh, and flavorful. Service was fast, friendly, and efficie..." — **Remi Tayar** (a month ago)
 - ★★★★★ "Can't fault this at all. In a city and country where food prices seem to be soaring, this spot is still offering reasonably priced and perfectly prepared breakfasts. Ambience is classic, service was polite, prompt and professional, and the smoked salmon benedict perfectly prepared. With a tomato jui..." — **Matthew Branch** (2 months ago)
@@ -56,6 +57,3 @@ I had the spinach omelet with extra mushrooms and an orange juice, everything wa
 
 I must for the food and old world atmosphere if you're making a stop in San Francisco" — **Europa LLC** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

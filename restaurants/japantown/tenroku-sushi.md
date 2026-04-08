@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Tenroku Sushi
 Conveyor-belt sushi is the specialty of this Japanese cafe also offering kitchen entrees & sake.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 736 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $$
 
 1825 Post St #215, San Francisco, CA 94115, USA  
 Phone: (415) 673-1328  
-[View on Google Maps](https://maps.google.com/?cid=5792682944255297195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785154, -122.43164329999999
+[View on Google Maps](https://maps.google.com/?cid=5792682944255297195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Tenroku Sushi offers a fun and casual kaiten-style (conveyor belt) sushi experience right in the heart of Japantown. The presentation is colorful and appetizing—each plate neatly prepared and portioned.
 
 The ikura gunkan was especially generous with roe, bursting with flavor. The seared salmon toppe..." — **JP Figure (DollJPF)** (8 months ago)
@@ -52,6 +53,3 @@ The ikura gunkan was especially generous with roe, bursting with flavor. The sea
 
 I got six plates and it came out to $36 before tax and tip. That’s on average about $6 a plate. I did get one expensive o-toro for about $8.50 which was just ok, tasted a little fishy. My favorite was actually the tuna sashi..." — **Wilson Tsang** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

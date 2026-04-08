@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Castro Indian Restaurant & Bar
 
 ## Cuisine
+
 **Indian restaurant** — brewery, fine dining restaurant, asian fusion restaurant, fusion restaurant, asian restaurant, vegan restaurant, vegetarian restaurant, cocktail bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 379 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 468 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 875-9141  
 Website: [http://www.castrorb.com/](http://www.castrorb.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3169330553941348479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7614188, -122.435331
+[View on Google Maps](https://maps.google.com/?cid=3169330553941348479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We visited during new year’s eve; the place was empty and service was quick.
 
 The ambience is ambient, food options excellent and drinks also on point.
@@ -66,6 +67,3 @@ The moment we entered, we n..." — **Divya K** (2 months ago)
 We waited for over an hour for our food, a time frame ..." — **Daz Bay** (11 months ago)
 - ★★★★★ "Restaurant with good ambience, classy decor and beautiful bold art on the walls. The staff is extremely attentive and friendly. But most importantly the food was fantastic. The Vegetarian Coconut Curry and the Paneer Tiki Masala are AMAZING. We literally licked our plates clean. (No shame!)." — **Héctor Casanova** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Bella Trattoria
 Housemade pastas are among the Italian classics served at this warm neighborhood trattoria.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,054 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 3854 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 221-0305  
 Website: [http://www.bellatrattoriasf.com/](http://www.bellatrattoriasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13143237729077794698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7813576, -122.4609231
+[View on Google Maps](https://maps.google.com/?cid=13143237729077794698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Went later in the night since they close at 10pm. Nice ambiance with dim lighting. Service was pretty good.
 
 Appetizers:  I thought the complimentary bread felt nice and soft, but the gf felt it was old and cold compared to hot & buttery bread served at other restaurants. Next, the Bruschetta ca' pu..." — **Johnny Auyoung** (2 months ago)
@@ -62,6 +63,3 @@ Because it was the day before Valent..." — **Ritvik Nag** (a month ago)
 - ★★★★★ "We were a group of 6 adults and 1 toddler. Bella Trattoria had a table set up for us with a high chair, and they were very accommodating. The place is warm and cozy, and had an eclectic group of customers, some couples on date night at the bar and the front tables, and 3-4 tables had young families...." — **Tonia Carsten** (5 months ago)
 - ★★★★★ "Delicious! Be sure to make a reservation during peak dining hours because its popular and fills up. I ordered the Margherita pizza - cooked in a wood fired oven and topped with fresh Genovese basil leaves. Paired nicely with a glass of Barbera d'Alba. Also, in this review is the butternut squash fet..." — **Dina M** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

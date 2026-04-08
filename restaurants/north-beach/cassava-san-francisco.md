@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Cassava San Francisco
 New American restaurant serving Californian cuisine & brunch in a cozy space.
 
 ## Cuisine
+
 **Cafe** — cafe, catering service, food delivery, japanese restaurant, service
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 828 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Dog-friendly · Restroom available
 633 Battery St Ste 130, San Francisco, CA 94111, USA  
 Phone: (415) 640-8990  
 Website: [http://www.cassavasf.com/](http://www.cassavasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12500884616689425645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7971457, -122.40115370000001
+[View on Google Maps](https://maps.google.com/?cid=12500884616689425645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Like this spot for it’s intimate feel. Getting there in the middle of the day teleports you to a twilight zone with warm lights on and slow vibes. I liked my avocado toast. It was loaded with salmon, cream cheese and greens. The presentation was great too. My friend tried the salad and also liked it..." — **Аlisa Paludeti** (2 months ago)
 - ★★★ "I’ve had Cassava on my want to go list for some time, so when we stopped in on Friday and they had a table without reservations, we were very excited.
 We decided to try to $118 tasting menu because it was suppose to be a James Beard finalist and you normally put your best dishes on a tasting menu li..." — **Jing Li** (a year ago)
@@ -57,6 +58,3 @@ We decided to try to $118 tasting menu because it was suppose to be a James Bear
 The food, though, left much to be desired.  My friend and I got the egg salad sandwiches and Chicken Tsukune Miso.  While they were nicely presented and made with fres..." — **JD Rosensweig** (2 months ago)
 - ★★★★ "Food was very good for the most part. Thought the cod was a bit bland. The fried chicken was delicious and light, black sesame dessert was a hit and rigatoni with smoked salmon was cooked perfectly and way more delicious than you might think! Also had some of the duck and it had a great flavor to it..." — **Justin Snider** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

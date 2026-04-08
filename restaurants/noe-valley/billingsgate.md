@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Billingsgate
 
 ## Cuisine
+
 **Market** — market
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 150 reviews
 
 ## Location & Contact
@@ -16,8 +17,7 @@ Unknown
 3859 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 590-3001  
 Website: [http://www.billingsgatesf.com/](http://www.billingsgatesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14237663135610903136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.751540999999996, -122.4287947
+[View on Google Maps](https://maps.google.com/?cid=14237663135610903136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -36,6 +36,7 @@ Sunday: 10:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Love this place. I am a loyal Sun Fat guy for the past 10+ years, but Billingsgate is a welcomed addition to the mix.
 
 Prices are competitive for the quality.
@@ -52,6 +53,3 @@ We had the Spanish octopus carpaccio and Wild Scallop Ceviche both of which were
 They also had a nice section of Japanese shoyu an..." — **Ernie P.** (a year ago)
 - ★★★★★ "This is one of those reviews that as a local I almost don’t want to post because Billingsgate is that good. Freshest seafood in The City, and the service is phenomenal. They also have all of the fresh herbs you could need for any of your seafood dishes which is a nice touch, and their food is fantas..." — **Damon Berger** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

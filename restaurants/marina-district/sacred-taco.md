@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Sacred Taco
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 306 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 1875 Union St, San Francisco, CA 94123, USA  
 Phone: (415) 653-8975  
 Website: [http://sacredtacosf.com/](http://sacredtacosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12887409310240518256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797598, -122.43004889999999
+[View on Google Maps](https://maps.google.com/?cid=12887409310240518256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Went in on a quiet Wednesday night and had some fantastic tacos.  Chicken and carnitas were flavored perfectly.  Chips tasted delicious.  Didn’t get a chance to try a drink, but they looked fantastic.  Highly recommend." — **Bryan Story** (a month ago)
 - ★★★★★ "Hosted a baby shower on the back patio and had a great experience! We were having trouble finding a venue we liked and grateful our friend recommended this place!
 
@@ -55,6 +56,3 @@ The taco bar and drinks were delicious, and the staff was very accommodating to 
 - ★★★★★ "My first time dining here and I thought the traditional margarita was refreshing and the 3 taco meal was delicious. I had the carnitas, seared cod and lengua as my 3 taco meal. Yum!" — **Chad Belicena** (5 months ago)
 - ★★★★★ "We hosted our baby shower at Sacred Taco last month, and it was an amazing experience. Kristian and his team were incredibly supportive and helpful throughout the planning process. The hosting area is beautiful, filled with natural light, and versatile enough that it didn’t require much decoration. ..." — **Sneha Ghosh** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

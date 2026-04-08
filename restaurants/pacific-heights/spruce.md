@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Spruce
 Posh locale with rotating art serving seasonal, contemporary American fare & handcrafted cocktails.
 
 ## Cuisine
+
 **American restaurant** — bar, american restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 1,734 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 3640 Sacramento St, San Francisco, CA 94118, USA  
 Phone: (415) 931-5100  
 Website: [http://www.sprucesf.com/](http://www.sprucesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12784987250191810097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7876049, -122.45278510000001
+[View on Google Maps](https://maps.google.com/?cid=12784987250191810097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Spruce embodies the elegance and precision of a true gourmet kitchen, making it a wonderful choice for an intimate and refined dinner.
 
 The wine selection is impressive, and the three course menu is thoughtfully designed, allowing guests to choose their main course and dessert for a balanced dining ..." — **Mary Maldonado** (3 weeks ago)
@@ -62,6 +63,3 @@ The appetizers had some salty or fruity flavors, but not something that made us 
 Main entrees we chose were dry-aged duck and grilled cod - I can taste the flavor of the..." — **Y. A. Zhang** (6 months ago)
 - ★★★★★ "Late review-  came to celebrate a birthday and had the BEST service.  It was fun bringing a wine expert and fellow restauranteur here. Love having him experience and interact with the Somm. Highly recommend- make a reservation and enjoy! We did !!" — **SunshiineMoonRise** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

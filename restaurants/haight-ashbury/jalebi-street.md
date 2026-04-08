@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Jalebi Street
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 474 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids
 1466 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 373-2009  
 Website: [https://order.spoton.com/so-jalebi-street-23015/san-francisco-ca/67d86c06b778067b98f10567](https://order.spoton.com/so-jalebi-street-23015/san-francisco-ca/67d86c06b778067b98f10567)  
-[View on Google Maps](https://maps.google.com/?cid=17049333872233319378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7703079, -122.4464805
+[View on Google Maps](https://maps.google.com/?cid=17049333872233319378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 2:00 PM, 5:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "We experienced one of the authentic tasting north Indian chats out here that’s closer to what you will eat in Delhi. We tried 4-5 items and all of them tasted very good. Plus presentation is also at par. Jalebi at the end worked as cherry on the top.
 
 Service has some room to improve. Ambience is bi..." — **Vipin Kalra** (3 months ago)
@@ -61,6 +62,3 @@ Jalebi and rabrdi were ok.
 
 Overall a little expensive for home style food." — **Akshay Bhagat** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

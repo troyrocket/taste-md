@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Gourmet Kitchen
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4 stars — 122 reviews
 
 ## Dining Options
@@ -23,8 +24,7 @@ Good for kids
 ## Location & Contact
 
 1051 Stockton St, San Francisco, CA 94108, USA  
-[View on Google Maps](https://maps.google.com/?cid=18434858126705494101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7956509, -122.40837469999998
+[View on Google Maps](https://maps.google.com/?cid=18434858126705494101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 7:00 AM – 6:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "stopped by on a visit and quickly realized it was going to be a repeat spot. Simple, comforting, and consistently good.
 
 The food is fresh, warm, and hits in that deeply satisfying way that makes you want to order more than you planned. There’s no overthinking here, just well-made dishes that speak ..." — **Brandon Brown** (3 months ago)
@@ -57,6 +58,3 @@ Price is cheap too, 3 sides with white rice for $8. You can get noodles or fried
 
 Been to Gourmet Kitchen twice in two days. What a lovely dim sum place this is! Very, very tasty dim sum. Especially the bbq pork bun is lovely: it’s very soft a..." — **C Chiu** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

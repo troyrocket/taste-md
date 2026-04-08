@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Taqueria Guadalajara
 Counter-serve Mexican joint offering burritos, tacos & quesadillas amid murals of Mexico.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, fast food restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 1,459 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 
 4798 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 469-5480  
-[View on Google Maps](https://maps.google.com/?cid=9351223460942847845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.721354500000004, -122.43763600000001
+[View on Google Maps](https://maps.google.com/?cid=9351223460942847845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 1:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Would never trade this place for anything else. I hope they never change anything about what they do, because they serve the BEST mexican ever.
 Rivals mexican in the mission.
 I usually get a tomato based  super burrito, with carne Asda and pinto beans. Absolutely amazing. They give you free tortilla..." — **Alex Snazell-Holding** (2 months ago)
@@ -63,6 +64,3 @@ The burritos are delicious. My companion and I ordered the Regular and Super Shr
 
 I highly recommend." — **Paul Harrison** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

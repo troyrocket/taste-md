@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # La Oaxaqueña
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, south american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 941 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 2128 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 714-9119  
 Website: [https://www.laoaxaquenaca.com/](https://www.laoaxaquenaca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9707339544789039434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7629157, -122.4197557
+[View on Google Maps](https://maps.google.com/?cid=9707339544789039434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 2:30 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Super yummy and filling meal! As is typical for mission burritos, you get what could honestly be two meals for the price of one.
 
 I got the California burrito with carne asada. The tortilla was excellent. The first few bites were okay but it got better midway through as I got to the cheese and the j..." — **Jack Wittmayer** (a month ago)
@@ -59,6 +60,3 @@ The restaurant itself is pretty small and intimate, and it has a lot of very col
 
 During my friend’s and my lunch visit in early September 2025, crispy roasted Oaxacan grasshoppers (chapulines) were in season, and La Oaxaqueña’s were crunchy and tasty just..." — **Roy Seto** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

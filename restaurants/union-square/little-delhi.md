@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Little Delhi
 Traditional favorites are served along with a few harder-to-find dishes at this cozy Indian eatery.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.1 stars — 1,156 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 83 Eddy St, San Francisco, CA 94102, USA  
 Phone: (415) 398-3173  
 Website: [https://basnetcorporation.wixsite.com/website-1](https://basnetcorporation.wixsite.com/website-1)  
-[View on Google Maps](https://maps.google.com/?cid=12994420867383791340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7842759, -122.409154
+[View on Google Maps](https://maps.google.com/?cid=12994420867383791340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★ "I stumbled upon Little Delhi purely out of necessity—my phone battery had completely died, and I was desperately looking for a place nearby to charge it. This spot came up just a short walk from Market Street, not too far away from Powell station near Carl.
 
 From the very first moment, the customer ..." — **Bareen Husain Naqvi** (3 months ago)
@@ -69,6 +70,3 @@ Ambience is average as well..." — **Prabhava Bhat** (3 months ago)
 
 The restaurant is located in an area that may feel a bit rough around the edges ..." — **Yesh** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

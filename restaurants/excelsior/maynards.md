@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Maynards
 Located on a wharf, this bustling American joint offers gluten-free options, tap beers & martinis.
 
 ## Cuisine
+
 **American restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 4,287 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 685 Excelsior Blvd, Excelsior, MN 55331, USA  
 Phone: (952) 470-1800  
 Website: [http://maynards-excelsior.com/](http://maynards-excelsior.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11092839000775672128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 44.9029679, -93.5613363
+[View on Google Maps](https://maps.google.com/?cid=11092839000775672128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Great spot with excellent views and hearty portions! Every dish we ordered came out generous in size, and everything tasted fresh and delicious. My favorite was the buffalo chicken wrap—it was huge and packed with flavor, with way more blue cheese than most places usually give. The outdoor patio ove..." — **Andrew Leizens** (6 months ago)
 - ★★★ "Food is really salty, I couldn’t finish the dish. If you have high blood pressure you should ask them less salt or no salt.
 I will seriously consider whether re-visit this restaurant." — **IDAHO GEE** (2 months ago)
@@ -55,6 +56,3 @@ I will seriously consider whether re-visit this restaurant." — **IDAHO GEE** (
 - ★★★★★ "Fannie’s Chicken Salad was absolutely delicious! The coated chicken paired perfectly with the honey mustard dressing, flavorful and satisfying. Customer service was excellent, and the overall atmosphere made the experience even better." — **Amy N Xiong** (5 months ago)
 - ★★★★★ "Such a lovely atmosphere on a beautiful day. We enjoyed our dinner at the lakefront restaurant , outdoor sitting. It was my wife's birthday dinner , and she enjoyed every moment. The food was really good, and the staffs were super freindly and nice. 5 star for everything here. They have enough sitti..." — **Avijit Das** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

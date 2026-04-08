@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Joyride Pizza - Yerba Buena Gardens
 Small bites, brunch & a variety of international teas served in a serene lounge with garden views.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, pizza delivery, cocktail bar, meal takeaway, meal delivery, food delivery, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,005 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 730 Howard St, San Francisco, CA 94103, USA  
 Phone: (415) 295-2914  
 Website: [http://www.joyridepizza.com/](http://www.joyridepizza.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15905898013703886149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.784479399999995, -122.40192320000001
+[View on Google Maps](https://maps.google.com/?cid=15905898013703886149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I am not a huge pizza lover but every year I’m in town this place closes because the companies who are part of the conference buy it out for a whole week. This year I made it my mission. I actually got there right as they were going to close to the public for the week but I didn’t know it because th..." — **Christina Stephens** (7 months ago)
 - ★★★★★ "Just had the best pizza of my life! I love that we found a random restaurant in SF and it was amazing." — **Amy Wilkinson** (a month ago)
 - ★★★★★ "This place is so cute and in such a nice location that I would definitely come again! We had a party of 4 and were seated immediately at 3 pm on a Friday afternoon.
@@ -58,6 +59,3 @@ Food: We got the iron goddess of mercy and the mochi platter and the scone platt
 
 The owners have done a great ..." — **Dyanna Volek** (4 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

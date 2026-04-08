@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Golden Mediterranean Cuisine
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 42 reviews
 
 ## Dining Options
@@ -21,8 +22,7 @@ Unknown
 3611 California St, San Francisco, CA 94118, USA  
 Phone: (415) 339-5820  
 Website: [https://goldenmediterranean.com/](https://goldenmediterranean.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11915648326962980117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7861745, -122.45369029999999
+[View on Google Maps](https://maps.google.com/?cid=11915648326962980117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "The food here was so delicious. The restaurant is super clean and accommodating. They have a very cute place and a lot of seating. We ordered the combo platter for two and the combo appetizer and I can’t say I disliked anything honestly. The meat was juicy and cooked to perfection, the bread was war..." — **Sannah Alimi** (a month ago)
 - ★★★★★ "Lovely, local restaurant!
 
@@ -57,6 +58,3 @@ Highly recommend!" — **Erica W** (a month ago)
 Huge thanks to the kitchen and staff — hands up to the chefs! 👏
 The atmos..." — **Sezgin Şahbal** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

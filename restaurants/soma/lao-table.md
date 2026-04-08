@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Lao Table
 Upscale chain restaurant serving cocktails & modern riffs on Thai classics in a stylish setting.
 
 ## Cuisine
+
 **Restaurant** — asian restaurant, thai restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 1,406 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Dog-friendly · 
 149 2nd St, San Francisco, CA 94105, USA  
 Phone: (415) 278-9991  
 Website: [http://laotablesf.com/](http://laotablesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4385865621557535173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.787460599999996, -122.39886849999999
+[View on Google Maps](https://maps.google.com/?cid=4385865621557535173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place absolutely exceeded my expectations. The place is primarily Vietnamese but you would find Thai flavours.
 
 Such a wide variety of items in here - and everything is finger licking good. I absolutely had a feast here. I got Chicken Friend rice and it was good - not the best but above average..." — **Kumar Vaibhav** (2 months ago)
@@ -68,6 +69,3 @@ Ordered several appetizers (calamari and chicken skewers were lowkey not worth i
 
 ..." — **Sarina Iwai** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

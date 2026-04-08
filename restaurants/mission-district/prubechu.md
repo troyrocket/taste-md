@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Prubechu
 Modern Chamorro fare from Guam served family-style in spacious digs with natural elements.
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 526 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Restroom av
 2224 Mission St #A, San Francisco, CA 94110, USA  
 Phone: (415) 853-0671  
 Website: [http://www.prubechu.com/](http://www.prubechu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16684141539697013474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.761336199999995, -122.4196269
+[View on Google Maps](https://maps.google.com/?cid=16684141539697013474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Food from Guam? San Francisco really does have it all. This was my first time trying this cuisine and I was blown away. I did not know what to expect, but I got exactly what I needed: delicious dishes, great portions, and unconventional flavors that somehow worked perfectly together.
 
 Sadly, I do no..." — **Amaury S** (a month ago)
@@ -56,6 +57,3 @@ Sadly, I do no..." — **Amaury S** (a month ago)
 - ★★★★★ "Highly highly highly recommend the tasting menu. It’s a type of cuisine you don’t often get a chance to try. You might as well get to experience the full range of it. And man did it deliver. Absolutely loved it and will be back" — **Matt Kobulnick** (3 months ago)
 - ★★★★★ "Prubechu has a really great vibe and the staff was super friendly and welcoming. The chicken wings and coconut braised cassava were my favorites and the shrimp and grits where also delicious." — **Francesca** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

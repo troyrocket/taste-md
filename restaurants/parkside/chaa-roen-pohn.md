@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Chaa Roen Pohn
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 91 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1241 Vicente St, San Francisco, CA 94116, USA  
 Phone: (415) 742-4141  
 Website: [https://www.chaaroenpohn.com/](https://www.chaaroenpohn.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10077919783492058204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.738990799999996, -122.4804613
+[View on Google Maps](https://maps.google.com/?cid=10077919783492058204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I hate it how close this restaurant is to me….now I’m tempted every time I go out for dinner.
 
 Tried soft shell crab, green curry, chicken satay, chicken wings, tom yum soup, mango salad.
@@ -65,6 +66,3 @@ Namtok Beef Noodle Soup ($16.00) - good! we ordered this with the f..." — **Va
 For starters, we got regular rolls which is made of glass noodles and veggies wrapped in wonton skin. They were not too greasy and went well with the sweet and sour sauce it came with. For meals, we got khao soi, which is flat egg noodles in chicken curry, w..." — **Aimee Huang** (2 months ago)
 - ★★★★★ "We ordered the tom yum soup with shrimp and a sausage, as well as a pad see yew with beef. Food was flavorful and fresh, and the service was very warm and nice. Highly recommend!" — **Julia Pfeiffenberger** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

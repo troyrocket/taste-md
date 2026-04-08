@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Toyama Japanese Restaurant
 Casual storefront eatery with a massive menu of sushi & rolls, ramen & cooked Japanese fare.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 325 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 3727 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 221-9811  
 Website: [http://www.toyamasf.com/](http://www.toyamasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14198823380667309509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.780941299999995, -122.4594453
+[View on Google Maps](https://maps.google.com/?cid=14198823380667309509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The restaurant has has a nice atmosphere, and there's a counter where you can see the chef doing the sushi. I tried the Double tuna roll, which was ok (the garlic stole the favor) and the tuna sashimi - which was the highlight for me, high quality fish. I recommend visiting, I definitely wanna try a..." — **Gustavo Gomes** (6 months ago)
 - ★★★★★ "My kids favorite sushi restaurant. The chef is amazing the staff are so friendly and kind. We tried many other places but we always come back here . The sushi is so fresh and yummy . The teriyaki is delicious the soups all really taste.
 Thank you for always being kind and friendly with my twin boys" — **Asmae Lakhili** (6 months ago)
@@ -56,6 +57,3 @@ Thank you for always being kind and friendly with my twin boys" — **Asmae Lakh
 The service is warm and welcoming and the nigiri, stone crab and speciality rolls were some of the freshest sushi I’ve ever had." — **Rick Garibay** (9 months ago)
 - ★★★★★ "Just moved to SF from SoCal, and in this price range, this is definitely the best sushi I’ve had in my six years of living in California. I’ve actually been pretty disappointed with the overall food quality Californians consider “good,” but this restaurant is one my wife and I genuinely love. The su..." — **olivia faye** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

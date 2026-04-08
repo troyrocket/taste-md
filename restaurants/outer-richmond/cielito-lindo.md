@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Cielito Lindo
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 388 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for kids
 
 3440 Balboa St, San Francisco, CA 94121, USA  
 Phone: (415) 742-0959  
-[View on Google Maps](https://maps.google.com/?cid=15058886026586407602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7759806, -122.49592809999999
+[View on Google Maps](https://maps.google.com/?cid=15058886026586407602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 8:30 AM – 7:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came here because we read an article saying their breakfast burrito was the best in the city. It was not.
 
 Huevo con Chorizo Breakfast Burrito ($13.51) - Not bad. Good portion and fair price. It comes with 2 sauces that paired well. We added potatoes to it thinking it would be fried like hash browns..." — **Vanessa Cheung** (4 months ago)
@@ -57,6 +58,3 @@ I came here with family after a surf session at Ocean Beach, and this spot compl
 
 We all ordered the steak & avocado breakfast bu..." — **Paul Tacci** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

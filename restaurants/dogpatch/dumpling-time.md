@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Dumpling Time
 Modern restaurant with an industrial-chic vibe specializing in varied dim sum, plus rice & noodles.
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 310 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 191 Warriors Wy Suite 101, San Francisco, CA 94158, USA  
 Phone: (415) 757-0252  
 Website: [https://www.dumplingtime.com/](https://www.dumplingtime.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4747698491658782793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7676078, -122.388658
+[View on Google Maps](https://maps.google.com/?cid=4747698491658782793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "My friend work across the street and told me how amazing this place is. We came here for an evening date and it was a good environment. We are also from another state, but we’ve had dumplings and dim sum recently in the Richmond district a few weeks prior to this.
 The food was overpriced and it tast..." — **Michael Romero** (6 months ago)
 - ★★★★★ "food was yummy! they have unique flavors of XLB (soup dumplings) that i’ve never seen before of my favorite things. like sinigang and pho xlb??? they were fun to try. the cucumber appetizer was also soooooo good, everyone at the table wanted more. dare i say better than the ones at din tai fung…
@@ -61,6 +62,3 @@ Stopped by for dinner and had an enjoyable meal. Sat at the bar and tried the gr
 April 2024:
 Stopped by for dinner and thought I should update my review. Ordered the pork dumplings, the shrimp toast and the brocollini. Ever..." — **Ken Wong** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

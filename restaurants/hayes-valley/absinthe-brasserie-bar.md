@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Absinthe Brasserie & Bar
 Upscale, Parisian-style brasserie & bar serving French-Mediterranean cuisine & creative cocktails.
 
 ## Cuisine
+
 **French restaurant** — french restaurant, brunch restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 1,796 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 398 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 551-1590  
 Website: [http://www.absinthe.com/](http://www.absinthe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6425557835396706278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7771042, -122.4227403
+[View on Google Maps](https://maps.google.com/?cid=6425557835396706278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Absinthe Brasserie & Bar is one of those SF spots that nails the brasserie vibe—warm, a little moody, and perfect for a relaxed but special night out. **4.5 stars** from me, mostly because the experience feels thoughtfully done from drinks to plating.
 
 The biggest highlight: **their absinthe selecti..." — **Rav cell** (3 weeks ago)
@@ -60,6 +61,3 @@ Duck was not cooked properly. Fat was not rendered and duck was not prepared pro
 - ★★★ "I love their cocktails but feel always that their food main menu is okay especially for the price. It’s okay but not inspiring or memorable.
 The salad with persimmon was great but the scallops and the mushroom tagliatelle were just okay. Honestly, I will go back there for the appetizers and drinks, ..." — **Eunju Tae** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

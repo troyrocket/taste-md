@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Blue Plate
 Neighborhood restaurant offering innovative takes on American comfort fare plus garden seating.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, wine bar, mediterranean restaurant, garden, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 591 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 3218 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 282-6777  
 Website: [http://www.blueplatesf.com/](http://www.blueplatesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15198558697488479021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7451621, -122.4203773
+[View on Google Maps](https://maps.google.com/?cid=15198558697488479021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Blue Plate offers elevated American cuisine, but the overall experience was disappointing.
 
 The chicory salad with dates was very good, with a tasty dressing and nice balance.
@@ -67,6 +68,3 @@ I can’t wait to bring our family back.
 Yes the KEY LIME Dessert is the best I’ve had in years!!!
 I’m excited that the restauran..." — **Nick Webster** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

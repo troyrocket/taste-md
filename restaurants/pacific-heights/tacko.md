@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Tacko
 Tacos, quesadillas & other thoughtfully sourced Mexican dishes in a relaxed restaurant.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,162 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 3115 Fillmore St, San Francisco, CA 94123, USA  
 Phone: (415) 796-3534  
 Website: [http://www.tackosf.com/](http://www.tackosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2980995192323727100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.798290699999995, -122.4358867
+[View on Google Maps](https://maps.google.com/?cid=2980995192323727100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "🌮 A Must-Try for Fish Taco Lovers! 🌮
 
 As someone who’s passionate about trying fish tacos all over the world, I have to say—this was hands down one of the best I’ve ever had! The taco was huge, packed generously with fresh, flavorful ingredients, and absolutely delicious. Every bite was bursting w..." — **Ra Sh** (5 months ago)
@@ -59,6 +60,3 @@ As someone who’s passionate about trying fish tacos all over the world, I have
 Person at register was sweet, but the waiters were a bit rude. Wish we went to some other place for lunch. Very small tables, not recommended for groups with more than 4 people." — **Vijay J** (4 months ago)
 - ★★★★★ "Quesabirria, San Fran Burrito, chips and salsa, and horchata were all great. Nothing outstanding or fancy but just really tasty food. Definitely a great spot for a meal!" — **Dom H** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

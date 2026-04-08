@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Reem's California Mission
 Down-to-earth option offering shared plates, flatbreads & Arab specialties, plus baked goods.
 
 ## Cuisine
+
 **Restaurant** — middle eastern restaurant, bakery, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 275 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 2901 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 780-3294  
 Website: [http://www.reemscalifornia.com/](http://www.reemscalifornia.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10532771496226339791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7505546, -122.4179873
+[View on Google Maps](https://maps.google.com/?cid=10532771496226339791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Reem’s California Mission is an absolute gem! From the moment you walk in, you’re embraced by the warmth of Palestinian hospitality and the incredible aromas coming from the kitchen.
 
 The food is outstanding - every dish is made with such care and authenticity. The mana’eesh is perfectly crispy and ..." — **Ali Mohamed** (a month ago)
@@ -70,6 +71,3 @@ Falafel Salad is satisfyingly good, with enough of a savory crunch to satiate ev
 Perfect for a friendly catch up or a first date with someone very health conscious." — **Christopher Chung** (a year ago)
 - ★★★★★ "Tucked in San Francisco’s Mission District, this cozy Mediterranean spot blends rustic charm with vibrant flavors. Guests enjoy mezze, wood-fired kebabs, and fresh seafood, paired with local wines and craft cocktails. Warm service and lively energy make it a favorite for both casual nights and celeb..." — **Will Huntington** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

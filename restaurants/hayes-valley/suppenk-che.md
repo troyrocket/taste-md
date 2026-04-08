@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Suppenküche
 Authentic German fare like pretzels & schnitzels plus imported beers served in a glass boot.
 
 ## Cuisine
+
 **German restaurant** — german restaurant, european restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,950 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 525 Laguna St, San Francisco, CA 94102, USA  
 Phone: (415) 252-9289  
 Website: [http://www.suppenkuche.com/](http://www.suppenkuche.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2384648456497744885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7763134, -122.42641879999998
+[View on Google Maps](https://maps.google.com/?cid=2384648456497744885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 3:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A classic German restaurant with a friendly ambiance!
 
 On the recommendation of one of my daughter’s friends, we tried out Suppenkuche located in the safe and revitalized Hayes Valley District , reasonably close to the Civic Center area, on my last night in San Francisco. Both of us were delighted w..." — **Edward J. Rutyna** (2 months ago)
@@ -56,6 +57,3 @@ On the recommendation of one of my daughter’s friends, we tried out Suppenkuch
 - ★★★★★ "My husband's cousin and her husband met in this restaurant and they're so nice to bring us here to have a double date with us.  We enjoyed the food and drinks.
 It's just a bit loud inside." — **Miss Glassess** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

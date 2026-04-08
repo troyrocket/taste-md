@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Brothers Restaurant
 Tabletop grills fire cook-your-own Korean BBQ feasts at this no-frills veteran family-style spot.
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 671 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 4128 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 387-7991  
 Website: [http://www.brothersrestaurantsf.com/](http://www.brothersrestaurantsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15211455221720376767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7813076, -122.46375940000001
+[View on Google Maps](https://maps.google.com/?cid=15211455221720376767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I knew from the moment I stepped into this restaurant it was going to be awesome. The air was smoky, the food smelt incredible and the atmosphere was lively.
 
 We cooked the meat at the table on coal, and there were heaps of complimentary sides that were amazing. Everything was delicious, I can’t wai..." — **Julia Ghent** (2 months ago)
@@ -58,6 +59,3 @@ We cooked the meat at the table on coal, and there were heaps of complimentary s
 The owners gave us complementary veggie kimchi jjigae because 1 of us is a vegetarian
 🧡 very hospitable." — **Minh Phan** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

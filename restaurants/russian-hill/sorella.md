@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Sorella
 Carefully sourced, ambitious New American cuisine & cocktails in a sleek space with a long bar.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 294 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1760 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 359-1212  
 Website: [http://www.sorellasf.com/](http://www.sorellasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13211445077278025945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7931806, -122.4210694
+[View on Google Maps](https://maps.google.com/?cid=13211445077278025945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Really happy with everything we ordered! Did our homework and ordered the Parmesan budino which was indeed to die for. Also loved the veal tartare.
 The pasta dishes were so well done and the texture of both pasta was the best part.
 We got the beef cheek malfadine and clam spaghetti - definitely the ..." — **Ingrid** (2 months ago)
@@ -60,6 +61,3 @@ Highly recommend making a reservation or going early to grab a seat at the bar. 
 
 That orange cake will live in my head rent free!!!" — **Caroline Labib** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

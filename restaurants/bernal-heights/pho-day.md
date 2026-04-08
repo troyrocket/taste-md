@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Pho Day
 
 ## Cuisine
+
 **Restaurant** — vietnamese restaurant, noodle shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 168 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 59 30th St, San Francisco, CA 94110, USA  
 Phone: (415) 238-2837  
 Website: [https://order.toasttab.com/online/pho-day-59-30th-street](https://order.toasttab.com/online/pho-day-59-30th-street)  
-[View on Google Maps](https://maps.google.com/?cid=605352203767075551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7422144, -122.42314609999998
+[View on Google Maps](https://maps.google.com/?cid=605352203767075551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "April 2023:
 Stopped by for the chicken pho. They give you a little minced ginger to add to the soup. I thought it enhanced the flavor 👍. I would probably get the chicken pho again.
 
@@ -58,6 +59,3 @@ Over. Then it only set us back $40 each! We will be back often :)" — **Fleur Z
 
 I wanted to give this place a try because I’ve lived near this area for a while now and have seen this restaurant change a lot (used to be a French/Italian spot, then pizz..." — **Christina** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

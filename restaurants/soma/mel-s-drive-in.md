@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Mel's Drive-In
 Part of a local chain, this family-friendly 1950s-style diner serves classic American comfort fare.
 
 ## Cuisine
+
 **Diner** — diner, breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 5,445 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 801 Mission St, San Francisco, CA 94103, USA  
 Phone: (415) 227-0793  
 Website: [http://www.melsdrive-in.com/](http://www.melsdrive-in.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7981444424386141479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7840396, -122.4044376
+[View on Google Maps](https://maps.google.com/?cid=7981444424386141479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★ "Visiting town for Super Bowl Weekend and saw this local spot as I was walking down the street. I enjoy a good diner so I figured I'd stop in and see what Mel's had to offer.
 
 I was able to get some seating at the counter quickly even though it was a busy weekend. The decor is your typical old timey ..." — **Leasure Trading Company** (a month ago)
@@ -55,6 +56,3 @@ I was able to get some seating at the counter quickly even though it was a busy 
 - ★★★★★ "I came in a few times for breakfast and dinner whilst staying in San Francisco, and each time I had a great experience all round! The food and drink was delicious, and the service and staff were always super friendly and welcoming. I absolutely loved the retro 50’s vibes, and the classic American di..." — **Jordan Allen** (4 months ago)
 - ★★★★★ "Stayed nearby and decided to check out Mel's for breakfast. Fantastic decision. If you are seeing this then this is your call to just go to Mel's. Portions were large and the breakfast burrito was superb. Great presentation and flavor. Waitress was very attentive but serving the whole place. It wasn..." — **Z** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

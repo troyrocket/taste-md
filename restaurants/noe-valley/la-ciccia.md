@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # La Ciccia
 Tiny, rustic spot serving homemade spaghetti, octopus stew & other Sardinian eats plus myriad wines.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, bar, seafood restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 726 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 291 30th St, San Francisco, CA 94131, USA  
 Phone: (415) 550-8114  
 Website: [http://www.laciccia.com/](http://www.laciccia.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18102838917262822760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7419286, -122.42664400000001
+[View on Google Maps](https://maps.google.com/?cid=18102838917262822760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "I rarely leave negative reviews because I understand how important positive feedback is for small businesses. However, our recent experience was disappointing.
 
 The server’s attitude felt disrespectful from the start. He questioned whether we were comfortable with the wine prices in a way that made ..." — **Grecia Lozano** (a month ago)
@@ -60,6 +61,3 @@ It's a small family style restaurant with a cozy vibe, and the service is always
 We've tried pretty much everything on the menu at this..." — **Jiasheng Zhu** (a year ago)
 - ★★★★★ "For the appetizer, we ordered Inzalaredda de Acciugasa e Arangiu, which paired perfectly with the bread. We also ordered Prupisceddu in Umidu cun Tomatiga, which was incredibly tender. Pasta Cruzza cun Arrizonis for the main course was very authentic, and eating it warm was a delightful experience. ..." — **Nora Du** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # The Public Izakaya
 
 ## Cuisine
+
 **Izakaya restaurant** — japanese izakaya restaurant, japanese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 405 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 700 Post St, San Francisco, CA 94109, USA  
 Phone: (415) 714-0733  
 Website: [https://www.thepublicizakayaca.com/](https://www.thepublicizakayaca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3891717342975319883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7878404, -122.4135658
+[View on Google Maps](https://maps.google.com/?cid=3891717342975319883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 4:30 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Chose this izakaya as a lot of other restaurants in the area close early. We're from out of town and this place did not disappoint. We ordered several appetizers, got the American wagyu skewers, and everything was amazing. I ordered the NY strip beef steak teppenyaki, they ran out but the manager as..." — **Leland Quilalang** (3 weeks ago)
 - ★★★★★ "Great atmosphere with really great food!
 We just tried this place for the first time and it did not disappoint! We had various ramens and they were all good. We also had the Flaming Toro roll, which was sublime. We are definitely coming back!" — **Nick Gloyd** (5 months ago)
@@ -59,6 +60,3 @@ This place has a great atmosphere, they really went all out with the interior de
 The service can sometimes be a bit di..." — **Gustavo Herrera** (4 weeks ago)
 - ★★ "Not a good experience overall. The wooden spoon smelled like fresh from the soap water and its wet. Nabe was too salty, I suspect they put too much soy sauce in it. Not much service either. The only good ones are the skewers. Not worth the price definitely." — **Barney Jin** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Aliment
 Inventive eatery serving a hearty American menu, craft beer & wine in spacious, cafelike quarters.
 
 ## Cuisine
+
 **American restaurant** — californian restaurant, wedding venue, cocktail bar, event venue, american restaurant, service, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 793 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Restroom av
 786 Bush St, San Francisco, CA 94108, USA  
 Phone: (415) 829-2737  
 Website: [http://www.alimentsf.com/](http://www.alimentsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7779919248728728561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7901405, -122.4102139
+[View on Google Maps](https://maps.google.com/?cid=7779919248728728561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Recommendations: Grilled Pork Chop, Wild Mushroom Fettuccine with Shrimp, Grilled Salmon 10/10! Must try Pistachio Tiramisu 10/10!  Do NOT order the Buttermilk Fried Chicken- too tough or the Ricotta Doughnuts- taste like hush puppies. Staff pleasant and efficient. Atmosphere welcoming and lively" — **Alicia Rubio** (3 weeks ago)
 - ★★★★★ "Aliment was a pleasant surprise! Their food is amazing. This restaurant is a definite must if you’re in San Francisco.
 
@@ -64,6 +65,3 @@ We wil..." — **iTo** (3 months ago)
 
 The margarita? Spot-on—perfectly balanced and so refreshing. The bites were next-level: crispy Brussels sprouts,..." — **Maddy Larson** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

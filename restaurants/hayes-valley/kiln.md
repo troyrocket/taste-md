@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Kiln
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 148 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 149 Fell St, San Francisco, CA 94102, USA  
 Phone: (415) 982-9722  
 Website: [http://www.kilnsf.com/](http://www.kilnsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15476983298208337153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7760913, -122.42042389999999
+[View on Google Maps](https://maps.google.com/?cid=15476983298208337153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "I recently dined at kiln. The service was warm and attentive, and the ambiance was beautiful and intimate, both truly enjoyable. However, from a culinary perspective, the experience did not feel aligned with a two star Michelin level, if anything it felt closer to one star.
 
 While the menu was inter..." — **paloma barrera** (a month ago)
@@ -57,6 +58,3 @@ While the menu was inter..." — **paloma barrera** (a month ago)
 
 + Menu was protein forward, which is absolutely my type. I was part..." — **Linh Nguyen** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

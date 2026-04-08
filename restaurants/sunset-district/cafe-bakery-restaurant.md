@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Cafe Bakery Restaurant
 Part of an adjacent restaurant, this no-frills Chinese bakery offers pastries, coffee & milk teas.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, bakery, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 393 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 1365 Noriega St, San Francisco, CA 94122, USA  
 Phone: (415) 661-6116  
 Website: [http://cafe-bakery.cafes-city.com/](http://cafe-bakery.cafes-city.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10807126809194627466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7540511, -122.4782684
+[View on Google Maps](https://maps.google.com/?cid=10807126809194627466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "I stumbled upon Cafe Bakery & Restaurant when another spot was closed. The prices seemed high, but the generous portions made them reasonable. Each meal includes complimentary borscht soup and jello. The food was decent but not exceptional, and the wait was a bit long, with one dish arriving 20 minu..." — **Andrew John Cooger** (3 months ago)
 - ★★★★ "I only discovered this restaurant because my mom brought a to-go order home. It was a Baked Chicken with Portuguese Sauce that left such an impression that I had to bookmark and visit in person.
 
@@ -61,6 +62,3 @@ UPDATE:  2-20-2025
 Service is better and food is still decent.  Beware of silly 25 cents surcharge for take out cont..." — **John** (a year ago)
 - ★★★★★ "Had a great dinner, our first time. Recommended by a friend who goes regularly. A very different Chinese restaurant, they have great rib eye steaks, their daily specials are a great value! Tuesday's curry pasta dish was delicious. We will definitely be back and the lamb is next on the list to try." — **Steven Finkelstein** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

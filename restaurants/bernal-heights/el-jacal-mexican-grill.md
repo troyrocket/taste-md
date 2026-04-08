@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # El Jacal Mexican Grill
 
 ## Cuisine
+
 **Restaurant** — burrito restaurant, brunch restaurant, breakfast restaurant, taco restaurant, mexican restaurant, catering service, food delivery, service
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 142 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 800 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 374-7379  
 Website: [https://eljacal-mexicangrill.com/](https://eljacal-mexicangrill.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15738061497073640498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.738695, -122.414467
+[View on Google Maps](https://maps.google.com/?cid=15738061497073640498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Visited from Oregon, stumbled upon this place looking for a spot to each lunch at.
 
 Pictures: Tacos de lengua, caldo de camarón, & mojarra (fried fish)
@@ -61,6 +62,3 @@ Both the Baja Shrimp & Baja Cauliflower tacos were superb and my friend loved al
 Twice I have been charged more than the listed menu price. When it happened previously I thought perhaps I had misinterpreted something but today I called th..." — **David McMillan** (4 weeks ago)
 - ★★★★ "There are so many Taquerias in San Francisco, it's rather difficult to try them all.  So I stumbled upon El Jacal while strolling through the Bernal village.  If I see lengua on the menu then I need to try it.  To me lengua is some of the best tender meat (if done right) one can eat.  Yes if done wr..." — **R M** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Takoyaki Yama-chan
 
 ## Cuisine
+
 **Takeout restaurant** — meal takeaway
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.2 stars — 207 reviews
 
 ## Dining Options
@@ -23,8 +24,7 @@ Good for kids
 ## Location & Contact
 
 1737 Post St STE395, San Francisco, CA 94115, USA  
-[View on Google Maps](https://maps.google.com/?cid=3171454582782148759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785076, -122.43054939999999
+[View on Google Maps](https://maps.google.com/?cid=3171454582782148759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "We were in the line for about 10 minutes and wait for our orders for 45 minutes but totally worth it. They freshly made order to order (that is why it took so long) and we ate them right away when they are still hot. The textures outside were crispy and inside was soft and hot. We ordered original t..." — **Food Soul** (7 months ago)
 - ★★★ "It's inside the Japanese market hall. Turn Right at the entrance to the market.
 It's a Japanese street food corner shop with variety of Takoyaki pieces. Delicious and fresh. Octopus one is delicious.
@@ -53,6 +54,3 @@ A few complaints: the batter wasn’t crispy. They were soft like they had been 
 - ★★★ "The star rating on this is due to the actual lack of octopus (tako) in the Takoyaki, nothing else.
 We came during the Cherry Blossom Festival (4/20/25). The line was ridiculously long but I really wanted some takoyaki and needed that fix. I also understand takoyaki is not a quick process and they we..." — **Candy Nakajima** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # hed verythai
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 386 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 88 Hardie Pl, San Francisco, CA 94108, USA  
 Phone: (415) 796-3944  
 Website: [https://hedverythaisf.com/](https://hedverythaisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11888467480965746472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.790406, -122.4034643
+[View on Google Maps](https://maps.google.com/?cid=11888467480965746472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A nice little gem. A little tucked at the end of a small alley. Nice industrial decor inside and well laid tables. The tasting menu sets are genius : you can have a little of everything without having to order too much. I got the caramelized pork belly, and the eggplant were tasty and excellent. You..." — **Mathieu Meisser** (5 months ago)
 - ★★★★★ "Great Thai restaurant. Don’t be fooled by the entrance in the alleyway, the inside is warm and cozy. You are greeted right away by a waiter. Reservations are not required but recommended. My party of 6 didn’t have a reservation but still got a table within minutes. The menu is great. This Thai resta..." — **Xiaobo Lu** (3 months ago)
 - ★★★★★ "A Thai bistronomic restaurant centered on seasonal fixed menus.  Where modern Thai flavors, attentive service, and an intimate setting come together to create a cohesive, elevated dining experience. It’s the perfect date spot. Choose wisely ;)" — **A A** (2 months ago)
@@ -63,6 +64,3 @@ I came here to grab dinner with a friend while visiting the city.
 
 Service was quick and courteous -- we were seated quickly and they were patient with me while I waited for my friend to arrive. It seems like a pop..." — **Rathin Kacham** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

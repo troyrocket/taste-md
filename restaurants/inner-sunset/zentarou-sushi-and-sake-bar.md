@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Zentarou Sushi and Sake Bar
 
 ## Cuisine
+
 **Restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 218 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 1380 9th Ave, San Francisco, CA 94122, USA  
 Phone: (659) 246-9635  
 Website: [https://www.zentarousf.com/](https://www.zentarousf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16283007664319811981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7626072, -122.4660839
+[View on Google Maps](https://maps.google.com/?cid=16283007664319811981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I had an amazing experience at Zentarou Sushi and Sake Bar! The omakase here is truly impressive, especially for the price. Every piece of fish was incredibly fresh, well-balanced, and thoughtfully prepared. You can really feel the chef’s passion—each course was explained with care, and the pacing o..." — **Bobower E** (3 months ago)
 - ★★★★★ "Zentarou has outstanding tableside service, even when the restaurant is busy. The staff is attentive and genuinely takes care of your needs. I really enjoyed the umeshu plum wine, and the omakase is a must-try—the fish is very high quality. The menu changes every season, which keeps things fresh and..." — **Joko Manullang** (2 months ago)
 - ★★★★★ "I went Zentarou with my friends for my husband’s birthday. The experience was the BEST I could ask for in the entire Bay Area. Bee was super friendly, nice, and professional. All the staff were welcoming and passionate. We tried some sakes. All of them were amazingly tasty!! My husband and I had an ..." — **Ranxu Zhao** (2 months ago)
@@ -56,6 +57,3 @@ The drinks deserve their own shoutout. They’re creative, well thought out, and
 
 Wonderful people. Even better food. Highly recommend if you like sushi. ..." — **Illan Weiner** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

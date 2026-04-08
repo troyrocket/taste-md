@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Brenda's French Soul Food
-Cozy eatery serving French, Creole, and Southern cuisine, including beignets and po' boys. 
+Cozy eatery serving French, Creole, and Southern cuisine, including beignets and po' boys.
 
 ## Cuisine
+
 **American restaurant** — brunch restaurant, cajun restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 6,239 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Restroom available
 652 Polk St, San Francisco, CA 94102, USA  
 Phone: (415) 345-8100  
 Website: [http://www.frenchsoulfood.com/](http://www.frenchsoulfood.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12074054251018812705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782913199999996, -122.41889950000001
+[View on Google Maps](https://maps.google.com/?cid=12074054251018812705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "I tried this spot for Sunday brunch based on its great reviews. We had a reservation, but for parties of two, it seemed walk-in seating was readily available—several two-tops remained open during our meal. However, a group of five that arrived before us wasn’t seated until we were almost done. So, I..." — **Jean Explores & Reviews** (2 months ago)
 - ★★★★★ "We had a wonderful breakfast here. The staff was friendly, warm, and on top of everything. Water service was great and I appreciated that they offered half orders for several items.
 
@@ -58,6 +59,3 @@ Service is nice, place is lovely. The area arou..." — **Sovereign** (4 months 
 - ★★★★★ "Echo all the great reviews here. Quick service at 10:00 am on a Saturday morning. Pork belly grits were delicious. Nice and hot. Great crisp on the pork. Lots of good cheese and poached egg too. Spicy onion jam was really good. Croque Monsieur and slaw was good. Got the 3 way (plain, apple, chocolat..." — **June Wong** (2 months ago)
 - ★★★★★ "Honestly this place is perfect. I feel like it’s just the right size and that they’ve truly perfected the service speed, style,portions and recipes. I’d almost not want to see them expand it because they do it so well currently.  You know how like when you double a recipe sometimes it doesn’t come o..." — **AL Cobb** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

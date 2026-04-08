@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Molinari Delicatessen
 Old-school Italian deli offers artisanal meats, cheeses & breads, with takeaway sandwiches & fare.
 
 ## Cuisine
+
 **Deli** — deli, sandwich shop, grocery store, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 1,397 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating
 373 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 421-2337  
 Website: [http://themolinarideli.com/](http://themolinarideli.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15255183613653254552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.798488899999995, -122.40786670000001
+[View on Google Maps](https://maps.google.com/?cid=15255183613653254552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:30 AM – 4:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "⭐⭐⭐⭐⭐ An absolute San Francisco institution!
 You can’t say you’ve truly experienced North Beach without a stop at Molinari Delicatessen. Stepping inside this legendary shop on Columbus Ave feels like being transported straight to a classic Italian deli in New York or Naples.
 
@@ -55,6 +56,3 @@ The sandwiche..." — **Thomas Reeh** (a month ago)
 - ★★★★★ "I bought 2 sandwiches a turkey basil sandwich with fresh mozzarella roasted bell pepper and sun dried tomatoes. The 2nd was a chicken cutlet with provolone cheese on a Ciabatta bread. Both sandwiches were delicious" — **Tom D** (a month ago)
 - ★★★★★ "Molinari Delicatessen is one of those places that defines North Beach. It’s been around forever, it’s usually busy, and it feels like it hasn’t tried to reinvent itself just to keep up with trends, and that’s a good thing. I’ve stopped here many times over the years to grab a sandwich to go, and it ..." — **Afshin Afshar-Ghasemlou** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

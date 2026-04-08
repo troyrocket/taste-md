@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Ah Ma’s Kitchen
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 42 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1115 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 571-8478  
 Website: [https://www.ahmaskitchensf.com/](https://www.ahmaskitchensf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10986814403087584621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7824776, -122.47124819999999
+[View on Google Maps](https://maps.google.com/?cid=10986814403087584621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We got here around 1:30 in the afternoon and most tables were taken, only two tables were open but still wasn't cleaned. It took close to 10 minutes for us to get seated a table, didn't get a menu until 5 minutes later we were sat, and didn't get even water until 15 minutes later.
 I believe there's ..." — **CeeJay F.** (4 weeks ago)
 - ★★★★★ "Really good clay pot chicken. super flavorful, tender, and juicy. The price is very reasonable for SF, definitely worth it.
@@ -60,6 +61,3 @@ We loved everything we ordered!
 
 We got the dragon shrimp, salt and pepper calamari, the dried scallop fried rice, honey walnut shrimp and we split a chicken pineapple..." — **Danielle Hardin** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

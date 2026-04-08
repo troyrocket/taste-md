@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Pinecrest Diner
 Old-school, 24-hour eatery slinging generous portions of diner classics to a lively crowd.
 
 ## Cuisine
+
 **Diner** — diner, breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 4,696 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 401 Geary St, San Francisco, CA 94102, USA  
 Phone: (415) 885-6407  
 Website: [https://pinecrestdiner.com/](https://pinecrestdiner.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4948911722475589401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7870443, -122.4100294
+[View on Google Maps](https://maps.google.com/?cid=4948911722475589401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I went in today for breakfast at 4pm. Gotta love a 24-hour breakfast joint. This is one of the best in SF. Huevos rancheros hit the spot. They're served with black beans, eggs of your choice, corn tortillas, avocado, sour cream, salsa. I cut it all up and blended it together for a delicious concocti..." — **G B** (2 months ago)
 - ★★★★★ "A step back in time to ambiance, prices, service, huge servings! Great food! I loved the "Mighty Moose". Biscuits and gravy, eggs, chicken fried steak  😋 I never had to ask for a refill on my coffee. I didn't ask but the gentleman running it looked like he could have been the son of the original ow..." — **Karl Gregoire** (2 months ago)
 - ★★★★ "I got tired of the catered food at the Westin  and wanted a hearty meal. The local IATSI crew recommended “ The mighty moose “.
@@ -60,6 +61,3 @@ Side of fries
 And ..." — **Agape Bodywork** (5 months ago)
 - ★★★★★ "Great diner experience. The huevos rancheros were wonderful. It was served with handmade tortillas and a salsa that tasted amazing like someone had hand selected produce at the farmer's market.  The staff were so friendly and attentive. I'll definitely be back!" — **Jessica Mendenhall** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

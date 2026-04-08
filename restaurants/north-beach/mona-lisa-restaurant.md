@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Mona Lisa Restaurant
 Renaissance-inspired decor sets the scene for homemade pastas, pizzas & other Italian specialties.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 2,378 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 414 Columbus Ave, San Francisco, CA 94123, USA  
 Phone: (415) 989-4917  
 Website: [https://monalisasf.com/?y_source=1_MjgxODg1NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D](https://monalisasf.com/?y_source=1_MjgxODg1NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D)  
-[View on Google Maps](https://maps.google.com/?cid=12882834029052027939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7990304, -122.40800759999999
+[View on Google Maps](https://maps.google.com/?cid=12882834029052027939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came here for dinner and it wasn’t too crowded — we got seated right away.
 The tables are a bit close together and seating feels slightly tight, but nothing uncomfortable. The place was clean overall.
 We ordered two pastas, a pizza, and two glasses of wine and were definitely full by the end.
@@ -64,6 +65,3 @@ But if you're by yourself, it's not good unless there's nobody in the restaurant
 - ★★★★★ "Amazing authentic Italian food. I will start by saying the service was absolutely perfect. The waiter didn’t let our glasses to be one sip empty, everyone was addressed as Bella with great attitude. I had the privilege to meet the owner and he is awesome. We tried fried calamari, burrata Fresca (whi..." — **Yassi Sadri** (5 months ago)
 - ★★★★★ "My wife and I had been going to the original Mona Lisa at 353 Columbus for several years now.  It closed, unbeknownst to us when we made our reservation for Valentines Day, in October 2025.  The owners, who also owned/own Mona Lisa Mare E Monti renamed that restaurant Mona Lisa.  The food is still g..." — **Bill O** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

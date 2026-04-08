@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # El Mansour
 Traditional Moroccan restaurant where authentic fare is accompanied by nightly belly dancing.
 
 ## Cuisine
+
 **Moroccan restaurant** — moroccan restaurant, mediterranean restaurant, halal restaurant, middle eastern restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 401 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Restroom available
 3119 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 849-7898  
 Website: [https://www.elmansour.com/](https://www.elmansour.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8243639577709879938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.781524, -122.492796
+[View on Google Maps](https://maps.google.com/?cid=8243639577709879938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I celebrated my 48th birthday there and had a truly delightful and delicious experience. I chose it mainly for the food, since I hadn’t been to a Moroccan restaurant since my trip to Morocco in 2000, and I wasn’t particularly seeking the dancing. That said, the belly dancing was spectacular! She fun..." — **Alex Iglecia** (a month ago)
 - ★★★★★ "It was a fantastic experience with Morrocan ambience with decor,  food, and music. The belly dancing show is a must see and enchanting. It starts at 7:30 so make sure to make sure before. It's a delicious 5 course meal. Bring cash for the belly dancers to show your love!" — **Cassandra B** (3 months ago)
 - ★★★★★ "El Mansour is a feast for the senses—rich flavors, vibrant ambiance, and unforgettable entertainment all wrapped in Moroccan elegance.
@@ -58,6 +59,3 @@ Stepping into El Mansour in San Francisco’s Outer Richmond feels like entering
 
 The food is nice. The dish I love the most is chicke..." — **Sasi Li** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

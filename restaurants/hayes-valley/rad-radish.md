@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Rad Radish
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 598 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 301 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 916-8548  
 Website: [https://eatradradish.com/](https://eatradradish.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13686094195963484054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7769287, -122.42157420000001
+[View on Google Maps](https://maps.google.com/?cid=13686094195963484054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Spicy chickn sandwich is actually spicy. I always want to try other things but the sandwich is so good I have to have it. Even the ketchup is ridiculously good.
 
 When I first started coming here they were never too packed inside. Now if I come 11am or a little after lunch almost every table is full...." — **Gordon Li** (a month ago)
@@ -65,6 +66,3 @@ Mix of "healthy" and not. Dessert treat
 Very busy at 1pm Sunday afternoon which I expected. Pretty nice interior with varied seating capacity.
 Three ways to order, easy QR ordering with my pre-existing Toas..." — **Stephen H** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

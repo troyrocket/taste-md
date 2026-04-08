@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Brochette Dumpling
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 180 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 31 Cambon Dr, San Francisco, CA 94132, USA  
 Phone: (415) 333-1199  
 Website: [http://www.brochettedumpling.com/](http://www.brochettedumpling.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13170219788322544836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.718058899999996, -122.4743178
+[View on Google Maps](https://maps.google.com/?cid=13170219788322544836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "The setting is simple but the food is
 delicious! Noteworthy are the string beans and the garlicky-sweet cucumber salad. The mushroom-fish dumplings were boring. Others were very good." — **D Cheh** (a month ago)
 - ★★★★★ "Looking for a new place for a family lunch and what a pleasant surprise!  XLB and Pan Fried Buns are so good.  It's inside a strip mall in Park Merced and we managed to find parking.  We will be back for more." — **Bill Lai** (4 months ago)
@@ -53,6 +54,3 @@ delicious! Noteworthy are the string beans and the garlicky-sweet cucumber salad
 - ★★★★★ "One of my favorite dumpling places in the city! Very low key, food is delicious and staff is quick to help. Personal fave is the Pan Fried Soup Dumplings and the Pork dumplings in chili oil!" — **Elena Corona** (4 months ago)
 - ★★★★★ "I ordered the House Special Pork XLB and Fresh Cucumber Salad as a quick bite to eat. I ended up enjoying their food and their organized efficient service during my time here. Thank you Brochette Dumpling!" — **Lewis Do** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Mexico Tipico
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, burrito restaurant, latin american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 601 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 4581 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 337-7562  
 Website: [https://mexicotipico.net/](https://mexicotipico.net/)  
-[View on Google Maps](https://maps.google.com/?cid=8114814777890038701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.72495, -122.4344265
+[View on Google Maps](https://maps.google.com/?cid=8114814777890038701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 9:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "I'm disappointed in writing this review because I generally don't write low ratings for local small businesses, and I wrote a highly rated review of this restaurant.
 
 I ordered a carne asada and shrimp burrito super burrito to go.  When I was eating my burrito, I noticed that it did not have any car..." — **Phil Wu** (a month ago)
@@ -54,6 +55,3 @@ I ordered a carne asada and shrimp burrito super burrito to go.  When I was eati
 - ★★★★★ "OMG was i missing OUT! if you're not obsessed with this place yet, please do give it a try! Wow! From the authenticity of the food (super fresh salsas,  killer micheladas, REAL chips, etc.)" — **Onin von De Jose** (a month ago)
 - ★★★★★ "Ordered a carne asada burrito and it was spectacular. The green sauce was one of the best sauces I’ve ever had. Yaya. The burrito was wrapped very respectfully. Huge props." — **John K** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

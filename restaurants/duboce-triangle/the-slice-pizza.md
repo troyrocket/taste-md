@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # The Slice Pizza
 Pizza by the slice is offered along with ribs, wings, sandwiches salads & other simple favorites.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, pizza delivery, meal takeaway, meal delivery, food delivery
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 226 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids
 719 14th St, San Francisco, CA 94114, USA  
 Phone: (415) 431-1722  
 Website: [https://www.theslicepizzamenu.com/](https://www.theslicepizzamenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10550726784481422430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.767589699999995, -122.4296823
+[View on Google Maps](https://maps.google.com/?cid=10550726784481422430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:00 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "David and Jorge are awesome and so kind! I pre-ordered a few pizzas for a party. The order was ready exactly on time and so delicious! Everybody kept asking where I got the pizza from.
 
 Go try their food, you will not be disappointed 😊" — **Natasha Mayor** (a month ago)
@@ -59,6 +60,3 @@ highly recommend both the food and t..." — **Japneet Khanuja** (4 months ago)
 
 A slice of pizza here starts at $6, which is pretty high, even for San Francisco. However, the pizza has a perfect crispy crust and the perfect amount of toppings placed on the flavorful tomato sauce. They also offer complimentary parmesan an..." — **Neal** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

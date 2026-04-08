@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Little Nepal Indian Cuisine
 Traditional Nepalese dishes prepared by a Kathmandu-trained chef & served in a little space.
 
 ## Cuisine
+
 **Indian restaurant** — north indian restaurant, indian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 190 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 925 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 969-4777  
 Website: [http://www.littlenepalindiancuisine.com/](http://www.littlenepalindiancuisine.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6715104559860612606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.739129299999995, -122.41359959999998
+[View on Google Maps](https://maps.google.com/?cid=6715104559860612606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I want to preface this by saying I am NOT an expert on Indian food. I maybe get it once a year. I was looking for someplace open within walking distance and placed an order for takeout
 
 The gentleman working there was very nice and helpful, the atmosphere was very friendly and inviting. The restaura..." — **Vlad Satchouk** (5 months ago)
@@ -58,6 +59,3 @@ So we have all been to either an Indian or Nepalese restaurant before, I assume,
 Overall experience was good. The lamb vindaloo was tasty and tender." — **Fook-Main Heng** (7 months ago)
 - ★★★★★ "Had a wonderful meal here! The vibe of the place was lovely, and the service truly stood out. Vikas, my host and server, was incredibly kind, attentive, and quick to respond to anything we needed. He made the experience feel welcoming and smooth. Definitely a place I’d love to come back to." — **Manik Singh** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

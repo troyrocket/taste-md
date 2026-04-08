@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Great Eastern Restaurant
 Seafood fished from big tanks & dim sum bites are the main draws at this basic Chinese spot.
 
 ## Cuisine
+
 **Cantonese restaurant** — cantonese restaurant, dim sum restaurant, seafood restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4 stars — 1,826 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 
 649 Jackson St, San Francisco, CA 94133, USA  
 Phone: (415) 986-2500  
-[View on Google Maps](https://maps.google.com/?cid=13595111836853839999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.796002, -122.40592979999998
+[View on Google Maps](https://maps.google.com/?cid=13595111836853839999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Came to this Chinese dim sum place at the recommendation of ChatGPT…chose it because Lee Hsien Long and Obama was here.
 
 Food was 50:50 - half was amazing, other half meh.
@@ -57,6 +58,3 @@ Food was 50:50 - half was amazing, other half meh.
 - ★★★★ "A decent restaurant in Chinatown. The service was good. The tea especially was highlight as well. Loved our peeking duck and fried crab. Both were delicious. The ambience was decent." — **Krishna B Kidambi** (2 months ago)
 - ★★★★★ "My mom and I ate here on 11/7 and we had the best dinner here of our whole trip to sf! The food was very tasty, at an excellent temperature and the staff was very attentive. They sat us right away as soon as we entered the restaurant and gave us a delicious hot tea to go with our meal. We will be ea..." — **Reneé Mencías** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

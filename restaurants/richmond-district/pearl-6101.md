@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Pearl 6101
 Small restaurant & bar offering Mediterranean-inspired pastas & seafood, plus specialty cocktails.
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 639 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 6101 California St, San Francisco, CA 94121, USA  
 Phone: (415) 592-9777  
 Website: [http://www.pearl-sf.com/](http://www.pearl-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8354691837836480808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7838487, -122.48302539999999
+[View on Google Maps](https://maps.google.com/?cid=8354691837836480808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:15 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I had an absolutely wonderful dining experience at The Pearl 6101 in San Francisco. Every dish was thoughtfully prepared and beautifully presented. The Japanese sweet potatoes were an unexpected standout, perfectly roasted with a caramelized edge that made them both comforting and elegant. The kampa..." — **Maria** (5 months ago)
 - ★★★★★ "Had a great dinner at Pearl 6101! We grabbed the chips & dip while waiting for our table — super good and tasty, definitely worth it. Then we had the Japanese sweet potato as an appetizer, which was insanely good.
 
@@ -57,6 +58,3 @@ For mains, we tried the Handkerchief and Crescenza Caramelle pastas — both wer
 - ★★★★★ "Pearl 6101 hit all the marks. Creative dishes, shareable or not, fun drinks, charming dining room, and attentive service.
 Definitely a redo" — **Jane Khoury** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

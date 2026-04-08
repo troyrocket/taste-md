@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Escape From New York Pizza
 Chain pizzeria offering thin-crust pies amid walls adorned with historic photos & memorabilia.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 1,214 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids
 1737 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 668-5577  
 Website: [https://escapefromnewyorkpizza.com/home/haight/](https://escapefromnewyorkpizza.com/home/haight/)  
-[View on Google Maps](https://maps.google.com/?cid=12586780895825249350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7693186, -122.45135020000001
+[View on Google Maps](https://maps.google.com/?cid=12586780895825249350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I know there are so many places in San Fran that social media stars love to showcase, and I am sure those places are good. But every time I come to san francisco I have to go to Escaoe from New York pizza in the Haight. I will say that I generally like a slice of cheese, but today not only did I get..." — **Karen C** (2 months ago)
 - ★★★★★ "Wow, I loved this escape! The pizza are really original and delicious. What I even enjoyed more is the great vibe and amazingly nice staff. Great place to go for fantastic slices of pizza!" — **Olivier Sauquet** (5 months ago)
 - ★★★★★ "Delicious pizza! We got a personal size and it was a great size for two to share as a late night snack. We went after the Valkyries game! The man working was very friendly." — **Sydney Toole** (6 months ago)
@@ -57,6 +58,3 @@ There is a recisit guy who is making a pizza
 He should not work there. Please avoid him and don’t show him respect because he doest deseres it.
 The employee I dealt with was rude, unprofessional, and completely disrespectful. Instead of greeting customers or..." — **California Eagle** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

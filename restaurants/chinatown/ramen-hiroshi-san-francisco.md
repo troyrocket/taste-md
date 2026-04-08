@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Ramen Hiroshi San Francisco
 
 ## Cuisine
+
 **Ramen restaurant** — ramen restaurant, yakitori restaurant, japanese izakaya restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 237 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 322 Kearny St, San Francisco, CA 94108, USA  
 Phone: (415) 997-0997  
 Website: [http://ramenhiroshi.com/](http://ramenhiroshi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4413898391899745991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7912059, -122.4039351
+[View on Google Maps](https://maps.google.com/?cid=4413898391899745991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 2:30 PM, 3:30 – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Ramen Hiroshi is a hidden spot tucked away in a plaza surrounded by other restaurants, making it easy to miss—but definitely worth finding. The setup feels similar to a food court or restaurant buffet style, which makes ordering quick and convenient.
 
 The ramen was delicious and full of flavor, rich..." — **Hua Butler** (2 months ago)
@@ -55,6 +56,3 @@ The ramen was delicious and full of flavor, rich..." — **Hua Butler** (2 month
 - ★★★★★ "I had the tonkotsu ramen, and I was quite happy with it! It wasn't very busy at dinner time, so I got a table right away.  The broth was flavourful, and I liked the thicker cut pork belly, which was very tender and delicious. The noodles themselves were thin and a little firm, which was better than ..." — **Dylan Li** (5 months ago)
 - ★★★★★ "Mmm I loved this place!  Very tasty food, lots of great options besides the Ramen too!" — **Kenneth Martinson** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

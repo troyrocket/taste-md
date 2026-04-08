@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Il Pirata
 No pirates, but this roomy, TV-lined pub offers a lengthy bar-grub menu, a dance floor & patios.
 
 ## Cuisine
+
 **Bar** — bar
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 112 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for watching sports · Restroom avail
 2007 16th St, San Francisco, CA 94103, USA  
 Phone: (415) 626-2626  
 Website: [http://ilpiratasf.com/](http://ilpiratasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3919825495759083951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7657126, -122.4068136
+[View on Google Maps](https://maps.google.com/?cid=3919825495759083951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Can’t believe this place is still open!
 Just stopped by cause the outside light was on. Got 2 Anchor Steam beers on draft. Bartender remembers me after all these years. Beers are only $6 each!
 Great spot as a low key, neighborhood bar.
@@ -56,6 +57,3 @@ Stop by for a chill time!" — **David George Johnson** (2 years ago)
 
 The dance floor is pretty big and works out even though the place gets quite crowded." — **Vardhman Jain** (7 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

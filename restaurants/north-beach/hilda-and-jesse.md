@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Hilda and Jesse
 Hip venue focusing on creative fixed-price & tasting menus, plus wine, brunch & a la carte options.
 
 ## Cuisine
+
 **Restaurant** — brunch restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4 stars — 530 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Dog-friendly · Restroom available
 701 Union St, San Francisco, CA 94133, USA  
 Phone: (415) 872-7023  
 Website: [http://www.hildaandjessesf.com/](http://www.hildaandjessesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4524655486669164169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8000413, -122.41104370000001
+[View on Google Maps](https://maps.google.com/?cid=4524655486669164169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The Food
 While exploring new and unique food in our area, my wife and I discovered Hilda and Jesse. They are a brunch and dinner space with what they called modern "funluxury" with a twist. We ordered a few of their dishes for our brunch
 - Chop Salad
@@ -64,6 +65,3 @@ Service throughout the evening was excellent. We chose the Chef’s Adventure Me
 My frien..." — **Becca Gomez Farrell** (a month ago)
 - ★★★★ "Had a great brunch at Hilda & Jesse. From start to finish service was amazing. The staff was very interactive with our daughter. We did the chef's tasting, & my daughter had the French toast sticks which she enjoyed, but she really loved the micro greens and the staff was kind enough to get her a bo..." — **Paul Nguyen (Dukie Travels)** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

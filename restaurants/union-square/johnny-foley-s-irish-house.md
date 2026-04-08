@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Johnny Foley's Irish House
 Irish bar with pints & hearty pub grub as well as frequent live music & dueling piano shows.
 
 ## Cuisine
+
 **Irish pub** — irish pub, family restaurant, pub, live music venue, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 3,793 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for groups · Good for kids · Good for watching sports · Re
 243 O'Farrell St, San Francisco, CA 94102, USA  
 Phone: (415) 954-0777  
 Website: [https://www.johnnyfoleys.com/eat](https://www.johnnyfoleys.com/eat)  
-[View on Google Maps](https://maps.google.com/?cid=8194303506775753802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7862083, -122.40875279999997
+[View on Google Maps](https://maps.google.com/?cid=8194303506775753802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We had dinner here and it was a good time. Their beer battered fish and chips were delicious! Plus their Guinness was served really cold and their cocktails were strong!
 
 The staff were friendly and serviced was fast. Love the low light and quiet ambience. The tables got filled as soon as we got sea..." — **Belle** (4 weeks ago)
@@ -55,6 +56,3 @@ The staff were friendly and serviced was fast. Love the low light and quiet ambi
 - ★★★★★ "Popped into Johnny Foley’s for a nightcap and dessert and had such a great time! We tried the Irish Soda Bread & Butter Pudding with Caramel & Bailey’s Custard Sauce—it was absolutely delicious. Rich, comforting, and just the right amount of sweetness. The atmosphere is cozy and perfect for a relaxe..." — **Kevin Drost** (5 months ago)
 - ★★★★ "After a long flight, we decided to call by Johnny Foley’s Irish Bar for a quick drink and bar snack as it was close to our hotel. We were warmly welcomed on arrival by the hostess, who quickly showed us to a high table with tall chairs, which was perfect for a casual stop. Shortly after sitting down..." — **matthew w** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

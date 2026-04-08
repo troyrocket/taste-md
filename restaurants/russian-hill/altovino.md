@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # AltoVino
 Cozy cable car-adjacent bistro serving wines & seasonal Italian bites by the InoVino team.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.6 stars — 410 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 1358 Mason St, San Francisco, CA 94133, USA  
 Phone: (415) 529-2435  
 Website: [http://www.altovinosf.com/](http://www.altovinosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17033653648674349895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7962024, -122.4114906
+[View on Google Maps](https://maps.google.com/?cid=17033653648674349895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Our team dinner at Altovino tonight was nothing short of spectacular. From the moment I stepped into this beautiful establishment, I was greeted with warm smiles and genuine hospitality that instantly set the tone for the evening.
 
 I even had the pleasure of chatting with Chef Nick himself and WOW. ..." — **Jesten Grant** (3 months ago)
@@ -60,6 +61,3 @@ We had reservations for outdoor seating at 530p and arrived on time. It was a co
 
 That said, the food was hit or miss. The standout dish of the night was the pappardelle - perfect..." — **JonLuca DeCaro** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Ernest
 Hip option with an open kitchen preparing local & global dishes & desserts, plus a robust wine list.
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 451 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1890 Bryant St Suite 100, San Francisco, CA 94110, USA  
 Phone: (415) 829-2961  
 Website: [https://www.ernestsf.com/](https://www.ernestsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15444057393179428253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7631497, -122.41099500000001
+[View on Google Maps](https://maps.google.com/?cid=15444057393179428253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A wonderful experience for a casual, but elevated, business dinner.   The service was impeccable from the moment I entered the restaurant--personable host, friendly and attentive server who was present, but not overbearing.  The $99 omakase was superb:  right-sized portions, creatively fresh offerin..." — **Yvonne Lin** (2 months ago)
 - ★★★★★ "We ordered the tasting menu! Might not be in the same order as the pics:
 - Osetra Caviar with banana bread and butter (best banana bread and butter and experience and taste and texture of a banana bread I’ve ever had in my whole life)
@@ -60,6 +61,3 @@ Oscar and Ignacio made us feel so welcome and took amazing care of us.
 Huge thanks to Chef Rodolfo and the kitchen team for an unforgettable night.
 We can’t wait to come back!" — **Ivan Herrera** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

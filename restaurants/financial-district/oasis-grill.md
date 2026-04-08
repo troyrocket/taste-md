@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Oasis Grill
 Narrow counter-serve destination offering Mediterranean comfort food prepared in an open kitchen.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant, middle eastern restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 711 reviews
 
 ## Dining Options
@@ -23,8 +24,7 @@ $$
 91 Drumm St, San Francisco, CA 94111, USA  
 Phone: (415) 781-0313  
 Website: [https://oasisgrill.com/](https://oasisgrill.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14652653413575309708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7943929, -122.3967467
+[View on Google Maps](https://maps.google.com/?cid=14652653413575309708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: 10:00 AM – 7:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Incredible chicken melt. Fresh and hot. Lavash and veggies made it feel lighter than a burrito, no food coma after.
 
 Petite chicken shawarma is great too.
@@ -57,6 +58,3 @@ I participated in a multi-month professional training program in San Francisco's
 
 One other thing that impressed me the most was, as I walking out the door with my order, a person in need was asking the owner for some food, indicating he was hungry.  Without hesitation, the owner turned ar..." — **Dipesh Patel (Peshy)** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Sunset](index.html)
-
 # Beach Chalet Brewery and Restaurant
 Historic building in Golden Gate Park with ocean views, housemade beer and American fare.
 
 ## Cuisine
+
 **American restaurant** — brunch restaurant, brewpub, seafood restaurant, pub, american restaurant, wedding venue, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 3,786 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Restroom available
 1000 Great Hwy, San Francisco, CA 94121, USA  
 Phone: (415) 386-8439  
 Website: [http://www.beachchalet.com/](http://www.beachchalet.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6303292318601808028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7694627, -122.51021079999998
+[View on Google Maps](https://maps.google.com/?cid=6303292318601808028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "I recently visited this restaurant and had a great overall experience — especially if you love fresh seafood and good drinks. From the moment we sat down, it was clear that this place takes pride in its quality ingredients and relaxed atmosphere. The fries were surprisingly tasty, perfectly crispy o..." — **Hugo Chen** (3 months ago)
 - ★★★★★ "We had reservations at another restaurant on Valentine’s Day and everything went sideways there for reasons I won’t get into; so we had to rally quickly, and I called Beach Chalet directly and although they were booked, and near to closing time- they were very happy to accept us last minute.
 The min..." — **Mike Hogan** (3 weeks ago)
@@ -60,6 +61,3 @@ The service , and the prices were not worthy of the b..." — **SARAH** (5 month
 - ★★★★★ "Delicious upscale restaurant with several dining rooms to choose from. Views of the coast or park are available. Enjoy the gorgeous murals on the lower level before going upstairs to the restaurant.
 Service was quite nice. I enjoyed the lobster roll which came with slaw. I also ordered a salad which..." — **cliffb1930** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

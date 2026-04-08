@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Wabi-Sabi SF at Soma
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, sushi restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 438 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 246 Ritch St APT 101, San Francisco, CA 94107, USA  
 Phone: (415) 810-9793  
 Website: [http://www.wabisabisf.com/](http://www.wabisabisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3021928033034411680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7802188, -122.39581629999998
+[View on Google Maps](https://maps.google.com/?cid=3021928033034411680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 – 4:00 PM, 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A hidden gem, truly. This was by far the best sushi have ever had. The freshness and quality of their ingredients sets a high standard that has changed how I look at sushi restaurants.
 
 Each roll was made with masterful precision and care. While some sushi restaurants boast a large variety of "speci..." — **Taylor Patch** (a month ago)
@@ -64,6 +65,3 @@ Wabi Sabi SF is officially my new favorite sushi spot in SoMa. The vibe is relax
 
 Yesterday I had the Hotto Sake and t..." — **Terry Hinton, M.Sc, MBA** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

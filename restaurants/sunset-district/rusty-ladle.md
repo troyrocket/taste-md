@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Rusty Ladle
 
 ## Cuisine
+
 **Soup restaurant** — soup restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 110 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 3645 Lawton St, San Francisco, CA 94122, USA  
 Phone: (415) 966-5167  
 Website: [https://rustyladle.com/](https://rustyladle.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17770135093598199586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7567096, -122.50203300000001
+[View on Google Maps](https://maps.google.com/?cid=17770135093598199586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Soups were still tasty, sandwiches were …ok, but they really need to make a change to the slow production.  From ordering to getting our food, it took 24 minutes.  Mind blown.  Suggestions: 1. Get a bigger or add another panini grill.  Move the ice machine somewhere else to make room for the sandwic..." — **Lilian** (4 months ago)
 - ★★★ "Overall the food was okay, certain dishes disappointed me more than others. The service was okay, they took my order and served me my food within a reasonable time frame. The atmosphere is by far my favorite part of this establishment. The indoor seating gave a cozy, diner feel and the outdoor seati..." — **Carol Deng** (7 months ago)
 - ★★★★★ "Cozy, Delicious, and Super Satisfying
@@ -56,6 +57,3 @@ Rusty Ladle SF totally hit the spot. We had their clam chowder and a sample of t
 What..." — **Ali Mohamed** (a month ago)
 - ★★★★★ "The perfect place if you want soups. Very difficult to find such gems. Loved this place and atmosphere. We ordered the potato leek, tomato and the chicken soup. All 3 were great. They also have sandwiches which looked super tempting." — **Devanshu Mehta** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

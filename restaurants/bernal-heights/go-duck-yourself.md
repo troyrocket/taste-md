@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Go Duck Yourself 去你鸭的
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 147 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 439 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 963-1222  
 Website: [https://www.go-duck-yourself.com/](https://www.go-duck-yourself.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7283127601402230980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7392961, -122.4170613
+[View on Google Maps](https://maps.google.com/?cid=7283127601402230980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Go Duck yourself is casual csntonese bbq restaurant at Bernal Height. It is small restaurant with unique interior. The menu is simple.
 Popular dishes includes
 GDY Cantonese Roast Duck: The signature dish, served with duck au jus and plum sauce.
@@ -58,6 +59,3 @@ Duck was meaty and skin was crispy, but lack..." — **Steve S** (a month ago)
 - ★★★★ "We checked out Go Duck Yourself after seeing it recommended by a wave of influencers—and let’s be honest, influencer hype isn’t always a guarantee. This time, though, it delivered.
 I’m not typically a fan of duck, but when it’s done right, it absolutely hits the spot—and they do it right here. Flavo..." — **Jason Aranda** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

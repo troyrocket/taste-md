@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Orafo
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, breakfast restaurant, wine bar, family restaurant, brunch restaurant, fine dining restaurant, seafood restaurant, lounge bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 3.9 stars — 39 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 222 Sansome St, San Francisco, CA 94104, USA  
 Phone: (415) 276-9888  
 Website: [https://www.fourseasons.com/embarcadero/dining/lounges/orafo/](https://www.fourseasons.com/embarcadero/dining/lounges/orafo/)  
-[View on Google Maps](https://maps.google.com/?cid=17603454318877124846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7924666, -122.40083290000001
+[View on Google Maps](https://maps.google.com/?cid=17603454318877124846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 7:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Orafo is a hidden gem perched above San Francisco’s Financial District — a restaurant that blends California boldness with classic Italian soul, all wrapped in Four Seasons elegance. I came here for two breakfasts and one indulgent lunch, and each meal was a perfect mix of thoughtful preparation, fr..." — **Genta** (8 months ago)
 - ★ "Absolutely terrible breakfast
 1) we ordered avocado toasts. Bread was swimming in oil and I think oil was poured over the toast as well (even though avocado itself is very high in fat). I still feel bitter aftertaste from the bread. I was able to eat only half
@@ -54,6 +55,3 @@ Sunday: 7:00 AM – 10:00 PM
 - ★★★ "Disappointed meal for a Four Seasons property.
 While Anton the server was pleasant, knowledgeable and very kind he was clearly by himself on a busy Friday night. Appetizer came out incorrectly, pasta cold, burger overcooked. No manager present." — **d m** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

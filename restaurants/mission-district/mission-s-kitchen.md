@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Mission’s Kitchen
 
 ## Cuisine
+
 **Breakfast restaurant** — breakfast restaurant, mexican restaurant, italian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 544 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 2738 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 648-1577  
 Website: [https://missionskitchengo.site/](https://missionskitchengo.site/)  
-[View on Google Maps](https://maps.google.com/?cid=13008900901406339746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.753271, -122.4188387
+[View on Google Maps](https://maps.google.com/?cid=13008900901406339746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:00 AM – 3:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "First time and definitely won't be our last! :)
 
 The food was delicious and VERY fairly priced(!!), service was kind and attentive, and the ambiance is *perfect*--chill, cozy neighborhood diner vibes.
@@ -58,6 +59,3 @@ HIGHLY recommend Mission'..." — **Pamela S.** (3 weeks ago)
 Breakfast is definitely my favorite meal of the day and they totally delivered what was promised!" — **Jacobina de Rivera** (2 years ago)
 - ★★★★★ "The central american breakfast is the best. My go to when I want a staple lazin american breakfast. Will fill you up all day." — **Rene Navarro** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

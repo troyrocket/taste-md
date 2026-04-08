@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Moya
 Humble, modern restaurant serving Ethiopian-American fare for lunch & dinner, plus espresso drinks.
 
 ## Cuisine
+
 **Ethiopian restaurant** — ethiopian restaurant, african restaurant, vegan restaurant, vegetarian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 362 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 121 9th St, San Francisco, CA 94103, USA  
 Phone: (415) 431-5544  
 Website: [https://eatmoya.square.site/](https://eatmoya.square.site/)  
-[View on Google Maps](https://maps.google.com/?cid=10239776955387566534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7759664, -122.41417629999998
+[View on Google Maps](https://maps.google.com/?cid=10239776955387566534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "+Great food.  A little expensive but fair prices
 -Terrible ambience and mediocre service.
 
@@ -64,6 +65,3 @@ The food came out in less than ten minutes and what a feast it was. The vega..."
 - ★★★★★ "Amazing Ethiopian food! We got the vegetarian samplers, the chicken and the beef. Everything was delicious and really well packaged for delivery. The injera was so fresh, and the perfect accompaniment to all the tasty dishes. Mel was also super friendly, helpful and kind. Strongly recommend/will be ..." — **Marc Gough** (3 months ago)
 - ★★★★★ "As a tourist from Illinois who was fiending for Ethiopian food, Moya did not disappoint. I’ve only had Ethiopian food three times in my life: once when I was 16 in Milwaukee, another when I was 21 in Nashville, and now at 27, I got the chance to have it in San Francisco. The service is top-tier, the..." — **Angelica Torres** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

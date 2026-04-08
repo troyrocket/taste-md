@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Double Decker
 No-frills counter-service eatery doling out burgers, fries & buffalo wings in a utilitarian setting.
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, chicken wings restaurant, american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 433 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 465 Grove St, San Francisco, CA 94102, USA  
 Phone: (415) 552-8042  
 Website: [https://doubledeckerssf.square.site/](https://doubledeckerssf.square.site/)  
-[View on Google Maps](https://maps.google.com/?cid=6193469030299052463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7776169, -122.42387869999999
+[View on Google Maps](https://maps.google.com/?cid=6193469030299052463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We came here by chance while waiting for my mother-in-law’s medical appointment to finish. We ordered the California Burger, 3 Wings (mild sauce) with fries and strawberry milkshake. The food was great.
 
 The burger was juicy and not salty compared to other burgers (so if you’re into “unsalted” or li..." — **Rosary Ann Oca** (10 months ago)
@@ -57,6 +58,3 @@ The burger was juicy and not salty compared to other burgers (so if you’re int
 
 The milkshake was mediocre. It didn't have a rich creamy texture or vibrant sweetness to it. The onion rings were fine. The burger was okay, but I expected more for a $10 burger...." — **Junsu Park** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

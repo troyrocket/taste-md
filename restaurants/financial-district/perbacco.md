@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Perbacco
 Upscale, bi-level restaurant serving a seasonal menu of Piedmont-influenced Italian fare & wines.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, wine bar, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 1,016 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Dog-friendly · Restroom available
 230 California St, San Francisco, CA 94111, USA  
 Phone: (415) 955-0663  
 Website: [https://www.perbaccosf.com/](https://www.perbaccosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14848773536599269184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7934333, -122.39931390000001
+[View on Google Maps](https://maps.google.com/?cid=14848773536599269184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Food: 5/5
 Service: 5/5
 Atmosphere: 5/5
@@ -63,6 +64,3 @@ The Acme bread and parmigiano butter were delicious. The butter was nice and sof
 - ★★★ "This is touted as an upscale Italian restaurant. I went after work and so did everyone else it seems. The crowd was dressed business casual to casual. The bar was lively and crowded. The lighting was dim/moody. There were table cloths and linen napkins. Our waiter spoke in Italian. He was very over ..." — **Ce Cee** (3 months ago)
 - ★★★★ "Perbacco is a fantastic lunch spot in the Financial District if you’re craving classic, authentic Italian food. You can’t go wrong with the burrata plate. I don’t often finish a plate of pasta, but I enjoyed every last bite of the pesto pasta here. Of course, a meal isn’t complete without dessert, s..." — **Sunshine Puppy** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

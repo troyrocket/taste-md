@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Sens
 2nd-floor bistro offering Mediterranean dining & dramatic views of the Ferry Building & the bay.
 
 ## Cuisine
+
 **Restaurant** — greek restaurant, mediterranean restaurant, meal takeaway, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.3 stars — 970 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 4 Embarcadero Ctr Level, San Francisco, CA 94111, USA  
 Phone: (415) 362-0645  
 Website: [http://www.sens-sf.com/](http://www.sens-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10524877974647746315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7949105, -122.39571060000002
+[View on Google Maps](https://maps.google.com/?cid=10524877974647746315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "First time visiting Sens Restaurant and wow — what an incredible experience! The ambiance is elegant with beautiful Mediterranean décor that immediately sets the tone.
 The service was outstanding. Our server was gracious, attentive, and took the time to clearly explain the menu, which we really appr..." — **Robert Cortez** (3 weeks ago)
 - ★★★★★ "I had a wonderful experience at this restaurant while attending an office party. Everything was absolutely delightful from start to finish. The food was delicious, the service was exceptional, and the atmosphere made the evening truly special. The stunning view and prime location added an extra touc..." — **Ipsita Was Here** (3 months ago)
@@ -61,6 +62,3 @@ Staff and food were amazing. Tons of seating.
 
 Loved sitting by the window and watching people outside play Padel. There’s also an outdoor seating area with many fireplaces." — **Heidi Liou** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

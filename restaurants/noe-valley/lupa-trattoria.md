@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Lupa Trattoria
 Neighborhood Italian spot dishing out classic, seasonal Roman fare & handmade pasta in a cozy space.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 341 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 4109 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 282-5872  
 Website: [http://lupatrattoria.com/](http://lupatrattoria.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18075244452925415082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.751164599999996, -122.43455499999999
+[View on Google Maps](https://maps.google.com/?cid=18075244452925415082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Average food overall. Slightly greasy and a tad salty.
 
 The noise level was not conducive to a relaxing evening. All the tables around us were filled with very loud conversations that appeared to be competing to be heard. We couldn’t hear each other talk. After a long week at work, this was not the ..." — **John Rushforth** (a month ago)
@@ -67,6 +68,3 @@ The bruschetta was divine!!!! Crème brûlée was slightly over toasted.
 
 Would return!" — **Nicholas Simone** (4 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

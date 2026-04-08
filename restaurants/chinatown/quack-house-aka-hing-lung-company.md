@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # QUACK HOUSE aka Hing Lung Company
 Bustling take-out joint specializing in roast duck & pork, plus fried rice & noodles.
 
 ## Cuisine
+
 **Takeout restaurant** — meal takeaway, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 190 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids
 927 Post St, San Francisco, CA 94109, USA  
 Phone: (415) 963-1222  
 Website: [http://quack-house.com/](http://quack-house.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15709725728129916574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.787022199999996, -122.4171675
+[View on Google Maps](https://maps.google.com/?cid=15709725728129916574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Uber eats - the poached chicken is dry and over done,
 Shockingly bad.
 The roast duck tastes OK except it’s literally swimming in its oil.
@@ -75,6 +76,3 @@ Too many places are rated by foodies and most have no idea what good Chinese foo
 
 Wish it’s a little cleaner and ..." — **Jesse Lee** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

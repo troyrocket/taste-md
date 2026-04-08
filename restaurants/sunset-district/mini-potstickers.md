@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Mini Potstickers
 
 ## Cuisine
+
 **Asian restaurant** — asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 212 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 2045 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 742-4681  
 Website: [https://minipotstickers.kwickmenu.com/](https://minipotstickers.kwickmenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3561005319876248371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7633332, -122.48010450000001
+[View on Google Maps](https://maps.google.com/?cid=3561005319876248371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "This was so pleasant and yum :) We ordered the chinese burrito, mini potstickers, scallion pancakes, bok choy (this was off menu lol, we just saw someone else with it), a sweet tofu dessert.
 
 The interior is small but cozy-feeling, and the women working are sweet. Definitely will return." — **Jingyi Wang** (a month ago)
@@ -61,6 +62,3 @@ nice soft Chinese pop music in background." — **Marcus Pun** (3 months ago)
 The place is small so if it's busy, you might have to wait. The staff is very friendly.
 I will definitely come back a..." — **Howard Wong** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

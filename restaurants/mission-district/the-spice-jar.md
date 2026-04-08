@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # The Spice Jar
 Casual corner bistro for Californian-Asian fare served family-style in a homey, country-chic space.
 
 ## Cuisine
+
 **Asian fusion restaurant** — asian fusion restaurant, fusion restaurant, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 477 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 2500 Bryant St, San Francisco, CA 94110, USA  
 Phone: (415) 829-3668  
 Website: [https://thespicejar.toast.site/](https://thespicejar.toast.site/)  
-[View on Google Maps](https://maps.google.com/?cid=10663760090547502603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7543088, -122.40944870000001
+[View on Google Maps](https://maps.google.com/?cid=10663760090547502603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "An amazing ramen experience in San Francisco!
 
 We discovered this place during our trip and absolutely loved it. The ramen was incredibly flavorful, with rich broth, perfectly cooked noodles, and fresh, high-quality ingredients. Every bowl was comforting and delicious.
@@ -59,6 +60,3 @@ The atmosphere was cozy and w..." — **bastien 189** (3 months ago)
 
 The spice jar is a solid place for Asian food of all kinds. The menu has a great variety of dishes and everything is really good. The prices range between 13 and 19 dollars per dish, depending if you go for lunch or dinner. Everything has the right amount of spice and flavor. I defini..." — **Lamarrathon** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

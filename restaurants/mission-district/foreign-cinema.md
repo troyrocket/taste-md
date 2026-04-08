@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Foreign Cinema
 Crowds eat Californian-Mediterranean fare (& a popular brunch) in an outdoor space screening films.
 
 ## Cuisine
+
 **Californian restaurant** — californian restaurant, mediterranean restaurant, american restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 3,311 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 2534 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 648-7600  
 Website: [http://www.foreigncinema.com/](http://www.foreigncinema.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3410591911709045721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7564917, -122.41911940000001
+[View on Google Maps](https://maps.google.com/?cid=3410591911709045721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:30 AM – 2:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great ambience and a very unique setting. The courtyard with the movie screen makes it a special place for dinner. The oysters were absolutely fantastic and the highlight of the evening.
 
 The starters and mains were good, but not outstanding. The carpaccio and the fish stew à la bouillabaisse were s..." — **Tamir Bermann** (a month ago)
@@ -62,6 +63,3 @@ For starter we ordered a selection of oysters - pretty fresh with a wide selecti
 For..." — **Karen Zheng** (5 months ago)
 - ★★★★★ "Came for a private event and the atmosphere of this place (and sister bar Laszlo) were sexy and fun! I had the sesame curry fried chicken and ate every morsel. I highly recommend this spot for a great meal and evening!" — **Angela Olton** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

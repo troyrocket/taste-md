@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Tara Indian Cuisine
 Snug Indian cafe offering traditional eats in an intimate setting with traditional decor touches.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, meal delivery, food delivery, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 540 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 2217 Market St, San Francisco, CA 94114, USA  
 Phone: (415) 861-6655  
 Website: [http://taraindiancuisine.com/](http://taraindiancuisine.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16447977154070615137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7653123, -122.4314241
+[View on Google Maps](https://maps.google.com/?cid=16447977154070615137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "It's a solid, value-driven Indian spot worth trying for its variety and welcoming vibe, even if flavors aren't always spot-on. Service and ambiance are genuine highlights, with friendly staff and a cozy setup that makes it easy for casual meals or groups.
 
 The menu offers tons of dishes to choose fr..." — **Abhi** (a month ago)
@@ -61,6 +62,3 @@ Good:
 - The naan sampler here was a great quantity - 3 naans for about the price of 2
 - The saag paneer here was solid, I liked how large it was since I brought it back for anothe..." — **Jenny Xu** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

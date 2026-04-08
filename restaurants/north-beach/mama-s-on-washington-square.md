@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Mama's On Washington Square
 Long lines form for the hearty breakfast & light fare served at this cozy American restaurant.
 
 ## Cuisine
+
 **Brunch restaurant** — brunch restaurant, breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 3,120 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for kids · Restroom available
 1701 Stockton St, San Francisco, CA 94133, USA  
 Phone: (415) 362-6421  
 Website: [http://www.mamas-sf.com/](http://www.mamas-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10254198419123471356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8015323, -122.40958349999998
+[View on Google Maps](https://maps.google.com/?cid=10254198419123471356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "WE WERE SO LUCKY!!!  My wife and I were scooting around on Saturday morning looking for breakfast.   I've always know about Mama's but the line outside was always a deterrent.
 By chance,  we passed Mama's and there was no line.   My eye jumped off and went inside.   I parked my Vespa and she came ru..." — **M Antonio C** (4 weeks ago)
 - ★★★★★ "Mama’s consistently delivers a best in class dining experience with standout execution across the menu. The Montecristo sandwich is rich, perfectly balanced, and cooked to absolute perfection. The Washington Square omelette is exceptional, fluffy, flavorful, and clearly made with quality ingredients..." — **Roger Zelaya** (2 months ago)
@@ -59,6 +60,3 @@ I came here to grab breakfast with a friend while visiting the city, We stopped 
 
 The French toast was overly sweet and the bread didn’t seem cooked properly — it still tasted eggy inside. The de..." — **Manik Kumar** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

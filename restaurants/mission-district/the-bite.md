@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # The Bite
 Airy, rustic locale offering a health-focused menu of Mediterranean wraps, bowls, and salads.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 918 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 996 Mission St, San Francisco, CA 94103, USA  
 Phone: (415) 757-0414  
 Website: [https://www.thebitesf.com/](https://www.thebitesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1346497083638753906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7812578, -122.4086088
+[View on Google Maps](https://maps.google.com/?cid=1346497083638753906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Been a rough week and The Bite made sure I end it on a high note. I just ordered late night delivery for tonight's dinner, and next two days of meals. Entrées are high quality ingredients. Made fresh to order. Meat was not dried out. Lightly seasoned to enjoy the fresh natural flavor of the foods.
 
 ..." — **Gypsy AyMelek** (4 months ago)
@@ -57,6 +58,3 @@ Sunday: 11:00 AM – 9:00 PM
 We..." — **Sage Recaps** (6 months ago)
 - ★★★★★ "Ordered takeout and it was ready quickly and made for an unexpectedly fantastic lunch. I had the grilled chicken breast salad which came with a large portion of chicken that was grilled perfectly and tender and moist. The dressings and sauces were all yummy but especially the lemon dressing. The hum..." — **A A** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

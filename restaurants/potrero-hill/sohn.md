@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # SOHN
 
 ## Cuisine
+
 **Cafe** — cafe, coffee shop, bakery, korean restaurant, food store, store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 211 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Restroom available
 
 2535 3rd St, San Francisco, CA 94107, USA  
 Website: [https://sohnsf.com/](https://sohnsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12032656067725194548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.757324, -122.3879397
+[View on Google Maps](https://maps.google.com/?cid=12032656067725194548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 9:00 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Parking was a challenge...given you're in San Francisco.
 We went close to closing and we were seated pretty fast. We were a party of 4. If it was busy. You'd have to wait in line to be seated.
 The inside is so cute & very open! I love how they decorated the place. Very light and cozy. Definitely a g..." — **CeeJay F.** (4 weeks ago)
@@ -59,6 +60,3 @@ Breakfast sandwich: Fluffy egg with a savory sweet jam and flaky croissant-like 
 Popcorn chicken: Chicken was hot, crispy and juicy. Since the chicken was fried, I think I would have liked the rice cakes not fried ..." — **My T** (a month ago)
 - ★★★ "Great and cute cafe. Lovely atmosphere with high ceilings and japandi-esque furniture. There’s a cute little shop in the corner of the cafe that sells korean cookbooks, art and dishware. We got the banana oat matcha latte and the regular matcha latte. The regular matcha latte wasn’t too sweet which ..." — **Anjera C** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Domo
 Tiny counter spot with a few tables for straight-up sushi, sashimi & sake plus creative rolls.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 593 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Restroom available
 511 Laguna St, San Francisco, CA 94102, USA  
 Phone: (415) 861-8887  
 Website: [http://www.domosf.com/](http://www.domosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17258783409923805405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7758872, -122.42630369999999
+[View on Google Maps](https://maps.google.com/?cid=17258783409923805405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "We had dinner here on 8/10/2025. The restaurant is open and is as amazing as it has been the several times I have eaten here before. The food was fresh, the service was excellent and the ambience was romantic for our date night.
 
 Some pictures of the amazing appetizers and rolls we ate.
@@ -59,6 +60,3 @@ I want everyone to try the Sushi Domo  it’s my absolute favorite… but please
 - ★★★★★ "I have been here 5 times and always enjoy it! It’s a solid, intimate spot for high quality sushi. On my most recent visit Frankie was playing Renaissance by Beyoncé on repeat and the ambience had never been better. Immaculate music taste! Will definitely be back." — **Theresa** (5 months ago)
 - ★★★★★ "love this place, just went to domo today. all the staff there were so friendly and kind! And the sushi taste so fresh " — **Shanaya Imani** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

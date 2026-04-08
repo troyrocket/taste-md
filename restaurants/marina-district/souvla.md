@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Souvla
 
 ## Cuisine
+
 **Greek restaurant** — greek restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 480 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 2272 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 680-9400  
 Website: [http://www.souvla.com/](http://www.souvla.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2282198876129524871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8003688, -122.44081240000001
+[View on Google Maps](https://maps.google.com/?cid=2282198876129524871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We ordered the chicken sandwich, juicy potatoes, and the baklava frozen yogurt — everything was absolutely delicious! I can’t wait to come back next time to try the rotisserie chicken. The frozen yogurt is a must-try.
 
 I once had a blueberry yogurt gelato in Las Vegas that was the best gelato I’ve e..." — **y Zoe** (3 months ago)
@@ -57,6 +58,3 @@ They have indoor seating and outdoor patio seating with heaters. Will try their 
 - ★★★★★ "Amazingly tasty food! I had the lamb sandwich, greek fries, and frozen yogurt with olive oil and flaky salt for 30$. Service was super quick and host was super friendly!" — **Marie-Eve Castonguay** (4 weeks ago)
 - ★★★★★ "Oh yeah, this place is amazing for fast casual. Food came out quick and was so good. The yogurt soft serve was unreal too! Huge fan." — **Troy Wisneski** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

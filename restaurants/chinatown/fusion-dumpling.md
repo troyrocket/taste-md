@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # FUSION DUMPLING
 Buzzy, no-frills eatery for Sichuan cuisine ranging from mild to hot in a narrow, red-hued setup.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dim sum restaurant, hot pot restaurant, cantonese restaurant, noodle shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 669 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 650 Jackson St, San Francisco, CA 94133, USA  
 Phone: (415) 981-0803  
 Website: [https://fusiondumplingsf.com/](https://fusiondumplingsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12302372092331066710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.796258099999996, -122.40607049999998
+[View on Google Maps](https://maps.google.com/?cid=12302372092331066710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Nice decor, attentive staff, good selections of different dumplings, noodles and dishes. Interesting and fun presentation of food. The Dan Dan noodles and crispy Chileans sea bass are very good. Cold chili noodles in ice bowl was very creative, it is vegetarian and good flavor. Truffle dumplings is ..." — **Angie L. Krackeler (Angie)** (2 months ago)
 - ★★★★★ "Wow. Wow. WOW.
 
@@ -61,6 +62,3 @@ Honey walnut shrimp
 Peking duck potsti..." — **Maha** (4 months ago)
 - ★★★★★ "Stopped by Fusion Dumpling for lunch and liked it. Had the XLB, onion pancake, General Tso’s, Tan Tan  noodles and spicy pork soup dumpling.  The XLB and onion pancakes were excellent. The General Tso’s was just ok.  The staff were super friendly and helpful. I would definitely go back." — **P W** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

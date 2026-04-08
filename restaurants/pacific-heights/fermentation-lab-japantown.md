@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Fermentation Lab Japantown
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 160 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 1700A Post St, San Francisco, CA 94115, USA  
 Phone: (415) 757-0667  
 Website: [http://www.fermlabsf.com/](http://www.fermlabsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5398615001546413222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7857099, -122.43003610000001
+[View on Google Maps](https://maps.google.com/?cid=5398615001546413222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Easy self seating on a Saturday afternoon for two, cocktails are solid but at market rate for this area. My matcha martini was well made and those duck fat fries were damn good! Brussel sprouts were as expected.... lots of standard bar fare and happy hour prices.  Fast service, we would definitely g..." — **Jamie Chan** (3 weeks ago)
 - ★★★★ "I stumbled into this restaurant without doing much research—honestly, the name had me expecting some kind of fermented-food theme, which made the actual menu a funny surprise. The atmosphere is airy and inviting, and the staff couldn’t have been warmer or more attentive.
 
@@ -60,6 +61,3 @@ My only note is that the Korean fried ..." — **Kom** (4 months ago)
 - ★★★★ "Came here for happy hour, $2 oyster was great. We had four servings, the oysters were fresh. Only had two that tasted funny, but overall is great, no sand, good size. Oysters were from Washington, still prefer eastern oysters that come with a bit of sweetness.
 We also ordered the Brussels sprouts, m..." — **Jane S** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

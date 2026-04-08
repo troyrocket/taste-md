@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # The Old Siam Thai Restaurant
 Casual Thai restaurant serving traditional fare including a variety of soups & vegetarian options.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 976 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 201 Ellis St, San Francisco, CA 94102, USA  
 Phone: (415) 885-5144  
 Website: [https://theoldsiamthairestaurant.shop/](https://theoldsiamthairestaurant.shop/)  
-[View on Google Maps](https://maps.google.com/?cid=613120242229486631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7851632, -122.4096814
+[View on Google Maps](https://maps.google.com/?cid=613120242229486631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The Old Siam is conveniently located on the corner of Ellis and Mason streets in downtown area (two walking blocks away from Powell Street Subway Station) that is surrounded by hotels imhv should be regarded one of the few best authentic affordable Thai restaurants left in The City.
 According to leg..." — **Mason Chen** (3 weeks ago)
 - ★★★ "The restaurant was quite busy, yet the service remained efficient and attentive. Despite the crowd, the food arrived quickly.
@@ -57,6 +58,3 @@ I ordered the lemongrass chicken. Unfortunately, the flavor profile was somewhat
 - ★★★★ "If you’re looking for authentic Thai food, you should definitely go. The flavors are truly Thai. Personally, I didn’t love it, but that’s mainly because I’m not really a fan of Thai food in general. Objectively, I think they serve good-quality food.
 We also ordered soup, and they brought a very larg..." — **sara sepasi** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

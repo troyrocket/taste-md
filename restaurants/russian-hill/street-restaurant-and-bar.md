@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Street Restaurant and Bar
 Creative New American fare, house-infused vodkas & wine served in a contemporary space.
 
 ## Cuisine
+
 **American restaurant** — vegetarian restaurant, cocktail bar, steak house, meal takeaway, bar, american restaurant, seafood restaurant, food store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 210 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 2141 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 775-1055  
 Website: [https://streetrestaurant.com/](https://streetrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13620593130905760714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7965857, -122.42207850000001
+[View on Google Maps](https://maps.google.com/?cid=13620593130905760714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "There is good and there is not so good to be said about this cozy little restaurant: The French onion soup is a definite no. It is a tomato marinara sauce with a piece of toast and cheese on top. Should be called Italian Soupa..
 The big dinner salad is as ok. Not super great,  neither super big,  bu..." — **Josie C** (a month ago)
 - ★★★★ "Small business owned and and operated by San Francisco and Russian Hill owners! A true gem!
@@ -60,6 +61,3 @@ This place had a lot of charm and the family running it has a lot ..." — **Eri
 - ★★★★★ "A nice atmosphere and staff. Very good food with generous plates. They serve one of the best Crème brûlée in the States, it equals with no doubt the ones you can eat in France." — **J W** (6 years ago)
 - ★★★★★ "Highly recommended. I search for a dinner and walk myself to this. The salmon is very crispy and tasty, the service is better than expected, I don't remember the name of the girl who served me, but she is very friendly and lovely. The asmosphere is a good combination of good dining restaurant and ba..." — **Duc Le** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

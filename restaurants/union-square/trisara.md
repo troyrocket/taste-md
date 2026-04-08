@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Trisara
 
 ## Cuisine
+
 **Restaurant** — indian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 648 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 211 Kearny St, San Francisco, CA 94108, USA  
 Phone: (415) 658-7812  
 Website: [http://www.trisarasf.com/](http://www.trisarasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6890192422306332784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7900335, -122.40414910000001
+[View on Google Maps](https://maps.google.com/?cid=6890192422306332784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Come in around 9pm on a Friday night, not a lot of people in the place and it was very easy to order. My food arrived fairly quickly as well.
 
 Food was yummy, i had goat biryani, lamb curry and garlic naan. Each one was wonderful and complemented each other.
@@ -59,6 +60,3 @@ The chicken choila wasn’t as good as expected; it felt like it needed a bit...
 - ★★★★ "We ordered paneer tikka masala which tasted more like paneer butter masala. We ordered garlic naan and jhol momo which were good in taste. Overall average food taste." — **Ankur Kumar** (a month ago)
 - ★★★★★ "Super friendly service and delicious food! They will do non-spicy if you want, but will add the spice if you do. I stopped here randomly and will be back. They were also super quick with the food which I appreciated." — **Krystal** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

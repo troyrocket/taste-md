@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Lillie Coit's
 
 ## Cuisine
+
 **Restaurant** — bar and grill, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 145 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Restroom available
 
 1707 Powell St, San Francisco, CA 94133, USA  
 Website: [http://www.lilliecoits.com/](http://www.lilliecoits.com/)  
-[View on Google Maps](https://maps.google.com/?cid=395546164332102836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.800398799999996, -122.4110845
+[View on Google Maps](https://maps.google.com/?cid=395546164332102836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 4:00 PM – 1:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Nick is about as good an owner as they come. You can tell he really cares about not only his bar but North Beach as a whole with their local cuts of meat, princess cake from Victoria Pastry, and a cocktail menu that includes staples to the area. Their oyster eating leadership board, their welcome sp..." — **Tommy Balcom** (a month ago)
 - ★★★★★ "Best late night spot.
 Delicious food,
@@ -63,6 +64,3 @@ Bottle of house red and white wine.
 The Caviar and last an order of broccolini." — **J Gutierrez** (5 months ago)
 - ★★★★★ "Love this place for a drink before dinner! Whenever we go out in the area, we always stop by and grab a cocktail. Great vibe, good music and atmosphere. Usually busy but never have to wait to be seated!" — **Justin** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

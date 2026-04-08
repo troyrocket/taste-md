@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Turtle Tower - Marina
 
 ## Cuisine
+
 **Restaurant** — vietnamese restaurant, asian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 37 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly
 3145 Fillmore St, San Francisco, CA 94123, USA  
 Phone: (415) 298-0897  
 Website: [https://www.turtletowersf.com/](https://www.turtletowersf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4615750056320431241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7986163, -122.43602010000001
+[View on Google Maps](https://maps.google.com/?cid=4615750056320431241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "This location is stunning! From the moment I walked in, I was wowed by the decor and ambiance; the vibe is classy yet welcoming, making it a great spot for any occasion.
 
 The service perfectly matched the atmosphere, as the staff were both friendly and helpful.
@@ -61,6 +62,3 @@ My absolute favorite rotating must order soup trio are the Pho Tai (rare beef wi
 This is northern pho so do not expect to ..." — **Teason Miao** (2 months ago)
 - ★★★★★ "Great new Vietnamese restaurant on Fillmore…new to the neighborhood with this location, but original location in Richmond District been there for years serving up awesome pho and other Vietnamese dishes." — **Geof “Chef Geof” Lambert** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

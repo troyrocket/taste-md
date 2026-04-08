@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # House of Nanking
 Known to have lines out the door, this long-standing spot serves Chinese chow in cozy quarters.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, family restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 5,128 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 919 Kearny St, San Francisco, CA 94133, USA  
 Phone: (415) 421-1429  
 Website: [https://www.houseofnankingsf.com/](https://www.houseofnankingsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9482508346896050955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7964791, -122.4053898
+[View on Google Maps](https://maps.google.com/?cid=9482508346896050955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "House of Nanking absolutely lived up to the hype. We ordered the mobu fish, five-spice fish, rice soup, tofu bao bun, cold sesame noodles, and apple prawn—and every single dish was exceptional. The flavors were an explosion in the best possible way: bold, layered, and perfectly balanced.
 
 The rice s..." — **Sadia Haq** (2 months ago)
@@ -58,6 +59,3 @@ The rice s..." — **Sadia Haq** (2 months ago)
 The s..." — **Dwayne “Cisco kid” Ohelo** (3 months ago)
 - ★★★★★ "Amazing American-style Chinese food! The honey crispy beef was insane. The cubed beef was so tender and rich- it paired perfectly with the acidity of the garlic bok choy. Absolutely delicious, though the portion of meat was a bit small in comparison to the veggies. The crispy pork belly bun was incr..." — **Lindsay** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

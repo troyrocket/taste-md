@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Lower Haight](index.html)
-
 # House of Thai 2
 Casual Thai restaurant with Zen-like surrounds and a menu of traditional curries, soups & entrees.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4 stars — 291 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 494 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 552-2960  
 Website: [https://www.houseofthai2.com/](https://www.houseofthai2.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15642230667429536286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7722222, -122.4302778
+[View on Google Maps](https://maps.google.com/?cid=15642230667429536286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 10:15 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "I started buying from this place because at their other location on Larkin Street, the food is really good. I decided to give this location a try, I’ve eaten here before and also ordered take-out. But this last time was very disappointing. The order was not prepared the way I asked, and the portion ..." — **jenny Alvarado** (6 months ago)
 - ★★★ "I recently tried the Pad See Ew at this restaurant, and while the texture of the dish was spot on, the flavor was a complete miss for me. The noodles were cooked to perfection, and the chicken was soft and delicious. The vegetables were a bit on the hard side but still edible.
 
@@ -55,6 +56,3 @@ However, my biggest i..." — **Christopher B** (a year ago)
 - ★★★★★ "Really good food. $27.16 (pre-tip) for a bowl and sticky rice is a lot, but good food." — **Benyam Ephrem** (6 months ago)
 - ★★★★ "I got red curry here after Danny Coyles and it was amazing, very flavorful with lots of veggies. I ate every bite. Service was super quick. Will come again to try something else." — **Karen N** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

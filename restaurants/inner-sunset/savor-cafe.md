@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Savor Cafe
 
 ## Cuisine
+
 **Vegetarian restaurant** — vegetarian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 360 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 401 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 702-6048  
 Website: [https://savor.menu/](https://savor.menu/)  
-[View on Google Maps](https://maps.google.com/?cid=16541069415288948011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.764082699999996, -122.4622264
+[View on Google Maps](https://maps.google.com/?cid=16541069415288948011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 3:30 PM, 5:30 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of the best restaurants we have been to, in a very long time! We were looking for a vegetarian spot and Savor is such an amazing local gem. The chef was really fun and took care of our group of 5. We ordered 5 dishes and each and every bite was delicious and SAVOR-y! Don't skip the soup they off..." — **Jeena James** (2 months ago)
 - ★★★★★ "Savor Cafe might just be my favorite restaurant in the city. The food feels home made - you can feel the effort put in to each dish. I’m vegan and appreciate how nearly every dish is already vegan and those that aren’t mostly all can be adjusted.
 
@@ -61,6 +62,3 @@ Owner/Chef Mo was incredibly welcoming and fun to talk to - we felt like VI..." 
 
 Our waiter (who I suspect might be the owner) was very personable and even memorized o..." — **Elisa Han** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

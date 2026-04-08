@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Kin Khao
 Modern hot spot at the Parc 55 hotel providing ambitious, locally sourced Thai dishes and cocktails.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.2 stars — 2,099 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 55 Cyril Magnin St, San Francisco, CA 94102, USA  
 Phone: (415) 362-7456  
 Website: [http://www.kinkhao.com/](http://www.kinkhao.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12526953157639105755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7852408, -122.409331
+[View on Google Maps](https://maps.google.com/?cid=12526953157639105755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "KIN KHAO
 
 Dined at KIN KHAO and was thoroughly impressed. The food was exceptional—especially the squid and the pork belly, which were truly outstanding. The balance of flavors and execution were spot on.
@@ -60,6 +61,3 @@ The wings are hot, so watch out! Those peppers are sneaky! Reser..." — **Joy H
 - ★★★ "The restaurant is nice in a way. Has a slight boutique feel to it. The food while good, I don't see how it differs from any good Thai restaurant. The black rice pudding was good and I like the spicy chicken. We had a side of rice, the noodle vegatarian style and the salad. Overall, I say give it a t..." — **Luchano Jones** (2 months ago)
 - ★★★★★ "We were staying in the downtown area, and we don't want to get out of the neighbourhood due to safety and temperature reasons. And more importantly, we had too much steaks or sandwiches in the past 2 days, therefore, we wanted to eat some non Western food.  Scrolled through the Google map and manage..." — **Celia Cheng** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

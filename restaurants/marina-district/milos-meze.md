@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Milos Meze
 
 ## Cuisine
+
 **Restaurant** — greek restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.9 stars — 358 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 3348 Steiner St, San Francisco, CA 94123, USA  
 Phone: (415) 655-9967  
 Website: [http://www.milosmeze.com/](http://www.milosmeze.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5131520076390222108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.80032, -122.43766999999998
+[View on Google Maps](https://maps.google.com/?cid=5131520076390222108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Our first time at Milos Meze and we absolutely loved it! The staff was very kind, friendly, and attentive.
 
 We tried the spicy hitipiti, saghanaki, horiatiki salad, beef souvlaki, and lavraki. The saghanaki stole the show - reminded me of an Argentine provoleta. Delicious melted cheese with lemon. W..." — **Martina Barrera-Hernandez** (3 months ago)
@@ -58,6 +59,3 @@ This place is one of my favorites in San Francisco. The food is always fresh and
 - ★★★★★ "We had moussaka and chicken souvlaki and both were excellent.  They served complementary pita bread with a very tasty spread (lots of garlic!).  Save room for the baklava which is served warm with pistachio ice cream and strawberries soaked in honey with walnuts.  The service all round was very effi..." — **Rona Henry** (5 months ago)
 - ★★★★★ "Found Milos Meze on Yelp and decided to give it a shot after seeing all the great reviews. Totally worth it. The place has amazing food, great vibes, and top-notch service. We tried a bunch of different dishes and every single one was fresh and packed with flavor. Big shout-out to our server Ali — s..." — **Walter Leviz** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

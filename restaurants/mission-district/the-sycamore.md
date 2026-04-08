@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # The Sycamore
 Lively gastropub featuring bottomless mimosas at brunch, craft beers, board games & a huge patio.
 
 ## Cuisine
+
 **Bar** — bar, wine bar, gastropub, american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 1,040 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Dog-friendly · Restroom available
 2140 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 252-7704  
 Website: [http://thesycamoresf.com/](http://thesycamoresf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6836051491108680358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7627696, -122.41973999999998
+[View on Google Maps](https://maps.google.com/?cid=6836051491108680358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 1:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★ "Decidedly lower quartile espresso martini. Friends of mine love this place; so other drinks are probably better? I have been here before (2014 for my birthday with a large group of friends) and even then I wondered, why do people like it? It’s popular for sure. But not my thing. Not refined. I’m lef..." — **Bea Knecht** (5 months ago)
 - ★★★★★ "I love this place! They have an outdoor patio for seating in the front and heated patio in the back!
 
@@ -60,6 +61,3 @@ This is a memb..." — **Thomas Bouldin** (5 months ago)
 - ★★★★★ "If you're looking for a good ole fashioned slightly upscale dive with swell lesbians behind the counter, look no further!
 Good food, good service, good peeps" — **Glenn Bush** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

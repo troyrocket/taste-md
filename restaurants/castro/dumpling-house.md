@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Dumpling House
 Dumplings, noodles & classic Asian bites, plus beer, wine & tea, served in a casual setting.
 
 ## Cuisine
+
 **Dumpling restaurant** — dumpling restaurant, dim sum restaurant, cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 544 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 335 Noe St, San Francisco, CA 94114, USA  
 Phone: (415) 829-2789  
 Website: [https://s.mintbl.net/hcVj7fNAw](https://s.mintbl.net/hcVj7fNAw)  
-[View on Google Maps](https://maps.google.com/?cid=7768557434443845171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7635606, -122.43280389999998
+[View on Google Maps](https://maps.google.com/?cid=7768557434443845171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Our experience at this dumpling house was a mix of practical positives and some notable drawbacks.
 
 On the plus side, the dumplings are decent, and the prices are fair. The steady stream of delivery drivers in motorcycle helmets suggests its main business is takeout. For walk-in customers like us, t..." — **Viale M** (5 months ago)
@@ -63,6 +64,3 @@ Decoration and (silent) tv on Chinese cooking channel making one appreciate even
 - ★★★★ "It was cold and we found soup. Won ton soup with delicious won tons and baby bok choy that was vibrant while tender...so tender. The broth was light, not salty.
 We also enjoyed soup dumplings that were so fresh, hot, and tasty, the black vinegar with slivers of ginger. As well as the won tons in chi..." — **francis montgomery** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

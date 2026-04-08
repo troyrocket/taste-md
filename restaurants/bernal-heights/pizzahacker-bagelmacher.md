@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # PizzaHacker/BagelMacher
 Casual & bustling food truck spin-off specializing in thin-crust pizzas made with local ingredients.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, bagel shop, bakery, meal takeaway, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 589 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 3299 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 874-5585  
 Website: [https://order.toasttab.com/online/pizzahacker-mission-3299-mission-st](https://order.toasttab.com/online/pizzahacker-mission-3299-mission-st)  
-[View on Google Maps](https://maps.google.com/?cid=2683414900426186668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7441361, -122.4206472
+[View on Google Maps](https://maps.google.com/?cid=2683414900426186668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Excellent pizza! The crust is thin but holds up when you grab a slice (perfect for not needing a knife and fork!). The toppings are great, too. They come up with new combinations of toppings frequently, and the best ones go on the menu permanently.
 
 We ended up getting the wrong pizza but that was r..." — **Charles Cook** (8 months ago)
@@ -56,6 +57,3 @@ We ended up getting the wrong pizza but that was r..." — **Charles Cook** (8 m
 Husband felt his Ohio pizza had way too many peppers..." — **Snigdha Agarwal** (3 months ago)
 - ★★★★ "Solid pizza ~ The Margarita was alirght "The Ohio" was quality. Very nice place, good beer on tap, good vibes" — **B** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

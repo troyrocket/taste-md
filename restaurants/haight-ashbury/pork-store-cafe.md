@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Pork Store Cafe
 American comfort food (including regional choices) for breakfast & lunch in a tiny, no-frills space.
 
 ## Cuisine
+
 **Breakfast restaurant** — breakfast restaurant, brunch restaurant, hamburger restaurant, cafe, american restaurant, meal takeaway
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 1,054 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 
 1451 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 864-6981  
-[View on Google Maps](https://maps.google.com/?cid=10630725061645719949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.769999999999996, -122.4462523
+[View on Google Maps](https://maps.google.com/?cid=10630725061645719949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A classic diner atmosphere with a porky twist. Great food and service. I was promptly seated at the bar. It was nice because it’s right in front of the grill so you get to watch your breakfast being made. My breakfast quesadilla was incredible. Packed with flavour. Super filling. It was one of those..." — **Kristen Brady** (2 months ago)
 - ★★★★★ "Update:
 Was back first week of September and had breakfast and lunch several times. Was as great as always. My favorite place for breakfast and lunch in SF...!
@@ -59,6 +60,3 @@ Amazing place and I will go back as much as I can." — **Panda_Sage** (2 months
 
 They would prefer everyone in the party to be there before they sit you. Love the fact that there’s pork chops and other items like chicken fried steak on ..." — **Teck Boon** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

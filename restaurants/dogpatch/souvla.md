@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Souvla
 
 ## Cuisine
+
 **Greek restaurant** — greek restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 198 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 2505 3rd St, San Francisco, CA 94107, USA  
 Phone: (415) 980-6800  
 Website: [http://www.souvla.com/](http://www.souvla.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17694408170678314405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.757722, -122.38794959999998
+[View on Google Maps](https://maps.google.com/?cid=17694408170678314405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "It does have a large portion for the lamb salad. It looks appealing, however it had a strong taste of feta cheese. I usually like feta, but this was over the top. Also there was so much oil in the dressing, making it very greasy. I would not reorder" — **Elizabeth Vaughan** (2 months ago)
 - ★★★★ "As a vegetarian I left this beautiful place quite disappointed. There was one option on the menu and a special. If I was still hungry, and I was, I could got the fries. The sweet potato pita was just not up to the mark. The texture and the flavor was underwhelming. It's personal, but the element of ..." — **Ashwin Mudigonda** (6 months ago)
 - ★★★★ "Beautiful and cozy outpost of this SF fast casual staple! Souvla has always been a favorite, with its outstanding salads, pitas, and frozen yogurt. My go-to is their vegetarian salad, which is absolutely loaded with tons of fresh greens, cheese, olives, nuts, and roasted white sweet potato. You can ..." — **Sonya Hu** (7 months ago)
@@ -55,6 +56,3 @@ Sunday: 10:00 AM – 9:00 PM
 Souvla meat served over salad — excellent. Both in-house dining or togo, a great option." — **Christopher Chung** (2 months ago)
 - ★★★ "I had the pork sandwich, which came with cherry tomatoes, feta, olive oil, and fresh herbs. While the flavors were nice, the pork itself was a bit dry. The fries were crispy and well-seasoned, but we were surprised to find that hummus wasn’t anywhere on the entire menu!!! a greek restaurant with no ..." — **Tyler** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

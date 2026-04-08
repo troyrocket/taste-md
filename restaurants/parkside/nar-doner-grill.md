@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # NAR Doner & Grill
 
 ## Cuisine
+
 **Turkish restaurant** — turkish restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 144 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids
 3251 20th Ave, San Francisco, CA 94132, USA  
 Phone: (415) 939-6701  
 Website: [https://www.nardonersf.com/](https://www.nardonersf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3589818247479851644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7277303, -122.47697489999999
+[View on Google Maps](https://maps.google.com/?cid=3589818247479851644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "Price - Medium
 Staff & Service - Disappointing
 Combo meal review:
@@ -59,6 +60,3 @@ Born in Saudi Arabia, having traveled across Arab countries, and eaten doner and
 - ★★★★★ "Fresh, tasty, and well cook donor. We ordered the combo donor plate and the beef and lamb donor plate. Both are freshly cooked. Their salad marinate is super tasty. Service is 4 stars as they are a bit slower compared to other places in the mall. Worth the wait but they could parallelize orders more..." — **Victor** (2 years ago)
 - ★★★★★ "Quite tasty food and very nice lady that takes the orders here. I had the kofte wrap with hummus on the side and a drink. Also got the Baklava to try it out. Worth the visit, specially cause it stands out in the mall food court that is almost entirely asian culinary based." — **Rômulo Santos** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

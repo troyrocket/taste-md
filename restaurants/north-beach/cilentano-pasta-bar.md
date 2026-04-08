@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Cilentano Pasta Bar
 Floor-to-ceiling windows line this cozy Italian venue that dishes up pizzas, pastas & desserts.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 404 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 
 579 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 894-7689  
-[View on Google Maps](https://maps.google.com/?cid=1671838192741079592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.800157299999995, -122.4102152
+[View on Google Maps](https://maps.google.com/?cid=1671838192741079592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Incredible pasta dishes--fresh and light and lovely. I had the truffle gnocchi, the homemade sausage rigatoni and the mushroom agnolotti. Next time I'd skip salad and desserts and just order double the amount of pasta. It's that good. Owner is a friendly, funny guy. Bill came out exactly right. Can'..." — **Alison M C** (6 months ago)
 - ★★★★★ "We came to Il Cilentano Pasta Bar four years ago and had such a great experience that we had to come back — and it’s still just as amazing! My daughter loves their gnocchi, it’s perfectly soft and full of flavor. The pizza, fresh bread, and appetizers were all delicious too.
 
@@ -56,6 +57,3 @@ The restaurant has such..." — **J H** (4 months ago)
 
 The interior is clean, albeit not particul..." — **Matty Easton** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

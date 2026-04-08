@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Universal Bakery on Mission
 
 ## Cuisine
+
 **Restaurant** — breakfast restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 658 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids · Restroom available
 3458 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 821-4971  
 Website: [https://www.universal-bakery.com/](https://www.universal-bakery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12848260070574715494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.741405, -122.42280769999998
+[View on Google Maps](https://maps.google.com/?cid=12848260070574715494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 7:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The line was out of the door for over an hour. This is the best indicator of a successful diner/bakery. I absolutely love the Bolillo, Frijoles Negro con Queso Fresco. The grilled Pollo Adobo Asada was 10 stars....." — **Eddie Valadez** (8 months ago)
 - ★★★★★ "This is truly a hidden gem in the community. Everything is made fresh. Staff are very friendly & helpful. Decent prices for being San Francisco.
 Deliciously Good!" — **Xiomara Mirella** (5 months ago)
@@ -52,6 +53,3 @@ Deliciously Good!" — **Xiomara Mirella** (5 months ago)
 - ★★★★★ "Such a hidden gem: wonderful guatamalen breakfast spot with delicious traditional style pastries and various hot drinks (rice milk, Lima bean flour milk)." — **Fiona Su** (8 years ago)
 - ★★★★★ "Great Guatemalan food it felt like I was having my moms cooking" — **Mark Gamez** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

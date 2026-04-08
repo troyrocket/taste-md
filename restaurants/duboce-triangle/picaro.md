@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Picaro
 Diners share small plates & sangria pitchers amid colorful, art-filled walls or on an outdoor patio.
 
 ## Cuisine
+
 **Spanish restaurant** — spanish restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,586 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Restroom available
 3120 16th St, San Francisco, CA 94103, USA  
 Phone: (415) 431-4089  
 Website: [http://www.picarocafe.com/](http://www.picarocafe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4116125142723223573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7650784, -122.42252219999999
+[View on Google Maps](https://maps.google.com/?cid=4116125142723223573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 1:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "⭐⭐⭐⭐⭐ 5-Star Experience at Picaro Tapas!
 
 I’m happy to give Picaro Tapas a well-deserved 5-star review. From start to finish, everything exceeded my expectations. The sangria was perfectly balanced and refreshing, the seafood paella was flavorful and cooked just right, and the parrillada was absolut..." — **Eugenio Gonzalez Portales** (2 months ago)
@@ -64,6 +65,3 @@ Highlights include:
 * Pulpo al Aj..." — **Christopher Chung** (a month ago)
 - ★★★★★ "Excellent selection of tapas and loved the happy hour pitcher of red sangria. The patatas bravas (spicy potatoes) came with extra pitcher of sauce — most appreciated. You could dunk every piece! Albondingas (meatballs) and gambas al ajillo (garlic shrimp) both had plenty of delicious sauce for soppi..." — **Roopinder Tara** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

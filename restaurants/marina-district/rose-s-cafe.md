@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Rose's Cafe
 Casual cafe with outdoor seating & locally sourced Italian fare, including a breakfast pizza.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, breakfast restaurant, brunch restaurant, family restaurant, cafe
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 990 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2298 Union St, San Francisco, CA 94123, USA  
 Phone: (415) 775-2200  
 Website: [http://rosescafesf.com/](http://rosescafesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6090187789463990833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7970494, -122.4370587
+[View on Google Maps](https://maps.google.com/?cid=6090187789463990833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 9:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★ "The food was good, but I wouldn’t call it one of the best brunch spots in SF, definitely not worth all the hype. The soup was actually quite good, and the breakfast pizza stood out as the best dish.
 
 The space itself is lovely with a great vibe right on Union Street, which definitely adds to the exp..." — **Pooya Fayyaz** (8 months ago)
@@ -61,6 +62,3 @@ Food was really good too." — **UG** (4 months ago)
 
 Unfortunately, the food was underseasoned. My smoked salmon breakfast pizza, my son’s chicken sausage with polenta, and my h..." — **Nancy** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

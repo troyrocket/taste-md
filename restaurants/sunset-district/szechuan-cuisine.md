@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Szechuan cuisine
 A menu featuring an array of Szechuan-style Chinese fare in a modern setting with high ceilings.
 
 ## Cuisine
+
 **Chinese restaurant** — diner, family restaurant, seafood restaurant, asian restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 376 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 1920 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 661-8322  
 Website: [https://www.szechuancuisinecalifornia.com/](https://www.szechuancuisinecalifornia.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1392507239956550835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7637411, -122.4786774
+[View on Google Maps](https://maps.google.com/?cid=1392507239956550835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Stopped in for some classic Szechuan dishes and overall had a really solid experience. The food was bold, flavorful, and packed with spice, though a little on the salty side across a couple of dishes.
 
 Highlights:
@@ -59,6 +60,3 @@ Highlights:
 🌟 🌟 🌟 ..." — **Steven Low** (7 months ago)
 - ★★★★★ "Best fresh spicy fish in the bay area! Even better than some resturants in China! The fish is so tender and fresh. The fu qi fei pian was a little mid, but the spicy dumpling was amazing" — **C Li** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

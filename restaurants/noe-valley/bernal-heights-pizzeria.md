@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Bernal Heights Pizzeria
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, pizza delivery, salad shop, brunch restaurant, meal takeaway, sandwich shop, italian restaurant, meal delivery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 184 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 1361 Church St, San Francisco, CA 94114, USA  
 Phone: (415) 400-5644  
 Website: [https://www.bernalheightspizzeria.com/](https://www.bernalheightspizzeria.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18056944402187404349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.749055999999996, -122.4269602
+[View on Google Maps](https://maps.google.com/?cid=18056944402187404349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The food here is just incredible!
 We had so many delicious appetizers!!!
 The Brazilian options are a must-try, and the pizza is to die for, I highly recommend the calabresa one!
@@ -62,6 +63,3 @@ The brunch menu chicken and waffles are excellent too" — **James Rice** (a mon
 
 The food is amazing—my go-to is the chicken with Catupiry pizza, but the chicken & bacon and the calabresa pizzas are also deliciou..." — **Hellen Pacella** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Ingredients
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 71 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1298 Church St, San Francisco, CA 94114, USA  
 Phone: (415) 660-7124  
 Website: [https://ingredientssf.com/](https://ingredientssf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17530559257968160960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.750212999999995, -122.4275689
+[View on Google Maps](https://maps.google.com/?cid=17530559257968160960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 4:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "The staff and chef were so accommodating to my large party of 10! We had our holiday get together here and the team really took care of us. They were all so kind, warm, and attentive. The chef delivered super tasty dishes that really pleased our group of foodies! Thank you again for hosting us. We w..." — **Margarita Mendoza** (2 months ago)
 - ★★★★★ "We came here for a Thanksgiving dinner and had a wonderful experience. The Chilean sea bass was perfectly cooked, the rack of lamb was tender and flavorful, and both the butternut squash soup and Brussels sprouts salad were fresh and comforting. Service was warm and attentive, and the atmosphere fel..." — **Leah** (3 months ago)
 - ★★★★★ "We had an amazing dinner here. Ambiance is warm and inviting. This family-owned restaurant doesn’t disappoint. We were pleasantly surprised with the bonus of the chef serving the dishes and explaining the preparation and cooking!
@@ -58,6 +59,3 @@ Beet Salad
 Short Ribs
 Momos" — **John Paul Harriman** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

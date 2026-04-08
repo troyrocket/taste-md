@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # McCarthy's Irish Bar
 
 ## Cuisine
+
 **Irish pub** — irish pub, sports bar, pub, bar
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 154 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for watching sports · Restroom avail
 46 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 702-6227  
 Website: [https://www.mccarthysirishbarsf.com/](https://www.mccarthysirishbarsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17760406747199829530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7403984, -122.4665246
+[View on Google Maps](https://maps.google.com/?cid=17760406747199829530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:00 AM – 2:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "McCarthy’s is everything you want in a neighborhood spot—welcoming, laid-back, and just plain fun. The vibe is classic and unpretentious, with friendly staff who make you feel like a regular the minute you walk in. Drinks are always cold and poured strong, prices are fair, and it’s the kind of place..." — **Blake Johnston** (6 months ago)
 - ★★★★★ "Just got back from Dublin and miss it so randomly decided to go to McCarthy. The Irish coffee is so good, if you like Buena Vista Irish Coffee ask for 2 sugar cubes, it's Ireland Irish coffee level good.
 Love it.
@@ -55,6 +56,3 @@ Food is from Franco's La..." — **Margie Wu** (2 years ago)
 - ★★★★★ "Giving this a 5 stars, cant comment on the food as I just came for the Guinness. If looking for a good of the black stuff, well this has to be on the list when you’re visiting San Francisco. I went to three pubs for the Guinness on my trip here & this along with the Irish Times were given the thumbs..." — **Oisin O** (2 years ago)
 - ★★★★ "Good atmosphere, local bar. Nice staff and patrons," — **Happy Penguin** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Hunan House
 Dumplings, noodle dishes, spicy entrees & veggie options served in casual digs with classic decor.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4 stars — 639 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 826 Washington St, San Francisco, CA 94108, USA  
 Phone: (415) 398-1299  
 Website: [https://hunanhousecatogo.com/](https://hunanhousecatogo.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6408448779811717340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7951633, -122.4070039
+[View on Google Maps](https://maps.google.com/?cid=6408448779811717340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of the best Chinese food in Chinatown. We stayed at the Hilton in financial district and was looking for a place to have dinner, and was attracted by all the different Chinese dishes (both Cantonese and Sichuan) shown in their menu. The restaurant wasn’t fancy looking, just like an average resta..." — **Lisa T** (4 months ago)
 - ★★★★★ "Visited January 2nd, 2026
 
@@ -60,6 +61,3 @@ The food in the picture was not  well cooked,actually there was even blood in th
 They included..." — **Hui Peng** (a month ago)
 - ★★★★★ "Great place w beautiful ambience. Fast service, super tasting food w clean restrooms. The food tasted so fresh and each and every dish tasted awesome! We ordered so many dishes and we all loved what we ate. Lot of Vegetarian options. A must try if you are in China town." — **Veena KG** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Gurung Kitchen
 
 ## Cuisine
+
 **Restaurant** — indian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 394 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1033 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 379-4674  
 Website: [https://www.gurungkitchen.com/](https://www.gurungkitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16334124635757855999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7637205, -122.46908130000001
+[View on Google Maps](https://maps.google.com/?cid=16334124635757855999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Gurung Kitchen is an absolute gem!
 The dhido deserves a solid 5/5—perfectly cooked and flavorful.
 Every dish is freshly prepared and absolutely delicious, showcasing authentic and high-quality ingredients.
@@ -62,6 +63,3 @@ It was daunting as I was not familiar with traditional Nepalese food, and the wa
 Overall the food was rich in flavor and there was ..." — **Andrew Tang** (10 months ago)
 - ★★★★★ "Wonderful food and service! Went with two friends and we got seated right away. Wonderful Nepali dishes. Went with two friends and had pakoras for an appetizer. Delicious mint sauce for dipping! I ordered vegetable byriani with no salt and no spice. (Yo soy un gringa.) My friends got medium spicy an..." — **Lynn Riordan** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

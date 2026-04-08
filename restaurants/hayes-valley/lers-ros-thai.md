@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # Lers Ros Thai
 Refined Thai specialties (including some exotic meats) in a modern setting with stone accents.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 855 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 307 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 874-9661  
 Website: [https://lersros.com/Hayes.html](https://lersros.com/Hayes.html)  
-[View on Google Maps](https://maps.google.com/?cid=10393259441545295445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.77695980000001, -122.4217523
+[View on Google Maps](https://maps.google.com/?cid=10393259441545295445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This Thai food is seriously delicious. Authentic taste with a great menu.
 Food is well prepared and portioned. Quick and friendly service, checked all the boxes for me.
 I actually really liked the dried beef appetizer." — **Shu Lin Yao** (a month ago)
@@ -56,6 +57,3 @@ I actually really liked the dried beef appetizer." — **Shu Lin Yao** (a month 
 - ★★★★★ "This is a chain of Thai restaurants. The service is super fast and friendly. Very clean. The portions are good. The food is light and fresh. I like hot soups and the seafood soups were pretty good here. The restaurant is conveniently located on Hayes Street." — **Nataliia “NSH” Chernysh** (9 months ago)
 - ★★★★★ "The customer service was excellent.  The recommendations were even better.  Everything was delicious and came out in a timely manner. The garlic Frog legs were to die for.  It's so tender and so tasty.  The special bass was nothing short of spectacular.  Every bite was full of flavor and made my mou..." — **REEF** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

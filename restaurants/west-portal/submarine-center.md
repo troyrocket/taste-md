@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Submarine Center
 Handmade subs, hot & cold, in a no-frills storefront spot especially known for its hot pastrami.
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 618 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 820 Ulloa St, San Francisco, CA 94127, USA  
 Phone: (415) 564-1455  
 Website: [https://www.submarinecenter.com/](https://www.submarinecenter.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15721194497255722035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.740802699999996, -122.4653999
+[View on Google Maps](https://maps.google.com/?cid=15721194497255722035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 3:45 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★ "If this place hadn’t used miracle whip, the sub I ordered would’ve been incredible. Instead, it was covered with it and really killed the vibe.
 
 In general, the service was great and the customers in the shop mentioned visiting for years. Unfortunately it just wasn’t for me." — **Lamarrathon** (2 months ago)
@@ -59,6 +60,3 @@ We ordered two subs, and they were absolutely amazing. I had the avocado with tu
 Sandwich was incredible. Perfectly cooked pastrami, delectable bacon, huge chunks of avocado, melting Swiss cheese, balanced mustard, and topped w..." — **Hoshun Lam** (2 years ago)
 - ★★★★★ "The to go mighty sandwich shop! Such a great variety (and generous with Avo!). We split the Italian super sub, and it was great! Ratios were perfect, and bread was nice and crusty. There were plenty of staff here ready to make fast and fresh sandwiches during the lunch hour. Nowhere to eat or sit, s..." — **Connie Kwok** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

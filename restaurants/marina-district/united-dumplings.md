@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # United Dumplings
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dim sum restaurant, cantonese restaurant, asian fusion restaurant, fusion restaurant, asian restaurant, noodle shop, dumpling restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 230 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2015 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 757-0008  
 Website: [http://www.uniteddumplings.com/](http://www.uniteddumplings.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2782937542313556873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8006601, -122.43659579999999
+[View on Google Maps](https://maps.google.com/?cid=2782937542313556873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "United Dumpling was great. We ordered a bunch of dishes to share, Five Treasure soup dumplings, veggie potstickers, shrimp and chicken truffle dumplings, mushroom tempura, crispy tofu, green beans, cucumber salad, sesame balls, and mapo tofu.
 
 My favorites were the tofu, the mushroom tempura, and th..." — **Pinhwa Su** (4 months ago)
@@ -61,6 +62,3 @@ The xlb weren’t that great for me, though they looked perfectly wrapped. The m
 - ★★★★ "Came here 8:30pm on a Wednesday and was basically the last set of customers to come in. It was about time for their last call but they were still very nice and didn’t rush us a whole lot.
 The interior was small and cozy with some framed articles and photos on the wall. The “In Dumplings We Trust” si..." — **Angela** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Zajang Grill
 
 ## Cuisine
+
 **Korean barbecue restaurant** — korean barbecue restaurant, korean restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 175 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Restroom available
 
 852 Clement St, San Francisco, CA 94118, USA  
 Phone: (628) 283-0427  
-[View on Google Maps](https://maps.google.com/?cid=3305058280716936925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782960300000006, -122.46859479999999
+[View on Google Maps](https://maps.google.com/?cid=3305058280716936925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Zajang Grill on Clement is honestly one of my new favorite spots. Their food is so good — every single item on the menu hits. The sauces are on another level, especially their ranch sauce and the corn cheese… unreal. You can tell they put a lot of care into their flavors because everything tastes fr..." — **Brian Pentecostal** (4 months ago)
 - ★★★★ "Brisket is too fatty and that’s what beef belly is supposed to be for
 
@@ -55,6 +56,3 @@ It’s nice that you ..." — **Patricia Pan** (a month ago)
 - ★★★★★ "$240 for unlimited for 4 people including tax + tip 😋 we were seated right away at 5pm on a Saturday and it was sooo good. I loved that you could just keep ordering off your phone from the QR code and they'd bring it to you fast!" — **Artemis Huntsman** (6 months ago)
 - ★★★★ "Everything was great, as much as I want to give them a 5 star, I cannot. Sure maybe during a regular weekend it's may not be too mad, however, we went the Saturday of Valentines day and of course we expected a wait time. It's just the process of waiting that needs to be worked out for this place to ..." — **Matthew Silva** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

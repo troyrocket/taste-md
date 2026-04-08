@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Chotto Matte San Francisco
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, asian fusion restaurant, asian restaurant, peruvian restaurant, middle eastern restaurant, fusion restaurant, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.1 stars — 842 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for groups · Restroom available
 50 O'Farrell St, San Francisco, CA 94108, USA  
 Phone: (628) 241-1422  
 Website: [https://chotto-matte.com/sanfrancisco/](https://chotto-matte.com/sanfrancisco/)  
-[View on Google Maps](https://maps.google.com/?cid=18092285056988110571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7869198, -122.40577839999999
+[View on Google Maps](https://maps.google.com/?cid=18092285056988110571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Ambience and details is the key here.this place is well located on the roof and has a private elevator to the 8th floor. Feels like you are entering a nightclub instead of a restaurant. We were there for brunch but judging by the menu, we can recommend Dinner. This place e is a mix of Japanese food ..." — **Leandro Miguez** (3 weeks ago)
 - ★★★★ "Beautiful rooftop setting. Yummy cocktails. The food was delicious but the portions small. We LOVED the DJ, #Rey-Reck. Her set was perfect for our brunch. Very trendy." — **Luna Salaver** (3 weeks ago)
 - ★★★ "The rooftop vibe here is unbeatable, especially in the evening when the DJ starts playing and it transforms into a cool lounge. However, the food didn't quite live up to the atmosphere. The sushi rolls were mediocre, and the steak was pretty forgettable. Honestly, the dessert was the most memorable ..." — **Subin H** (3 weeks ago)
@@ -55,6 +56,3 @@ Starting with the lobby entrance you feel as if you’ve escaped the city. The r
 - ★★★★★ "Cozy and nice atmosphere with great service from start to finish.
 The Black Cod Aji Miso is a must-order--the miso sauce pairs perfectly with the cod and is incredibly tasty. The Tentáculos de Pulpo has a strong spicy aroma, but when mixed with the purée it becomes a great combination, and the octop..." — **Ann A** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

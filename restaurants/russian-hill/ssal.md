@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # SSAL
 Sophisticated restaurant serving a tasting menu of Korean-inspired cuisine, plus wine pairings.
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant, korean restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.7 stars — 222 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 2226 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 814-2704  
 Website: [http://ssalsf.com/](http://ssalsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18272089473044084056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7973527, -122.421862
+[View on Google Maps](https://maps.google.com/?cid=18272089473044084056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "The ambiance was lovely. Calm decor with earth tones with good lighting and a low noise level. The service was great; friendly and playful.
 
 The food was mostly good. I’d say all the small bites in the early courses were excellent. I especially loved the “pancake” ball and the eel wrap. Both packed ..." — **Paul Cheong** (2 months ago)
@@ -59,6 +60,3 @@ This meal quite..." — **Diane** (a month ago)
 As we expected..." — **Sam Lee** (9 months ago)
 - ★★★★★ "Truly some of the best fried chicken there is to offer. Absolutely every single piece was juicy, crunchy, and outstandingly delicious. Fried chicken, cavier, and champagne is definitely a winning combination. All other food servings were also incredibly well done, including the tteokbokki, but of co..." — **Paul Wylie** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

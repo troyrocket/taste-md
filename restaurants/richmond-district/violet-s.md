@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Violet's
 
 ## Cuisine
+
 **American restaurant** — american restaurant, cocktail bar, wine bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 285 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 2301 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 682-4861  
 Website: [https://www.violets-sf.com/](https://www.violets-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4142020174265605665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7818401, -122.48393940000001
+[View on Google Maps](https://maps.google.com/?cid=4142020174265605665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A cocktails menu that hits a happy note to everyone.  From fun fruity notes like the Mango Habanero 🥭 Margarita, to spirit forward Rum neurons, with cacoa infused Campari like the Forbidden Love.
 
 Food... shareable plates to keep the mix and mingle going from Drunken Mussels, Crude Cups, to main di..." — **Dolly Valdez Bautista** (a month ago)
@@ -54,6 +55,3 @@ Food... shareable plates to keep the mix and mingle going from Drunken Mussels, 
 - ★★★★★ "This is a very nice restaurant. I came here with a large group of people and enjoyed eating there. The restaurant was quite fancy and the food was excellent. The service was fairly friendly and the overall ambiance was excellent. I highly recommended this place and make sure you get a reservation he..." — **Steven Straus** (10 months ago)
 - ★★★★ "The apps hit, deviled eggs & fried chicken, my main (tacos) were not the best,  there are tacos on every street corner in California, these were edible but that's about it. The others enjoyed their mains." — **AJM** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

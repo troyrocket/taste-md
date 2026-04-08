@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Zona Rosa Mexican Grill
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 86 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids
 
 2337 Market St, San Francisco, CA 94114, USA  
 Phone: (415) 932-6951  
-[View on Google Maps](https://maps.google.com/?cid=11055652018573412963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.76337770000001, -122.4338841
+[View on Google Maps](https://maps.google.com/?cid=11055652018573412963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We were just passing, and had a really great tasty happy hour nachos here today after their reopening. Can’t beat it! Plenty of nice clean seating. Really nice service too. Happy Pride!
 Happy Hour is now on Taco Tuesday." — **Chris Wardell** (8 months ago)
 - ★★★★★ "Everything about this restaurant is much better than I expected, the food was amazing, CJ is great, and the overall atmosphere was perfect. I had the "El Chingon" (Super Burrito) for dine in, and it was amazing, super delicious and very filling. I took a Torta to go and that was still very delicious..." — **Jose Aguirre** (2 years ago)
@@ -55,6 +56,3 @@ Happy Hour is now on Taco Tuesday." — **Chris Wardell** (8 months ago)
 The food here was fantastic! I got the callejero and it was loaded with delicious ..." — **Rick Balwani** (a year ago)
 - ★★★★★ "2nd time visiting Zona Rosa on Market St. In San Francisco.  Super yummy, we had the Papas Locas that were delicious and filling!" — **Karla & Kiko Adventures** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

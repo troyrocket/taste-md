@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Flippin Burger
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 353 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 1419 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 875-9933  
 Website: [http://www.eatatflippinburger.com/](http://www.eatatflippinburger.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14760850743770975633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.77000470000001, -122.4457728
+[View on Google Maps](https://maps.google.com/?cid=14760850743770975633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I stopped by Flippin Burger and had the Beyond Burger, and it was incredible. Cooked perfectly, super flavorful, and didn’t feel like a ‘fake’ burger at all. The bun was soft, toppings were fresh, and everything tasted high quality. Great location, fair prices, and friendly vibe. Highly recommend ev..." — **barak hersh** (2 months ago)
 - ★★★★★ "Order of fries can easily feed 2 adults.
 Grill cheese we got was small but tasty good size for kids.
@@ -55,6 +56,3 @@ Ladies working the front were awesome and on their A game. Very satisfied." — 
 - ★★★ "I’ve passed by this spot a bunch of times and wanted to give it a try. Who doesn’t like a good burger right? Anyways, the place is clean and the food came out pretty fast, but ….the burger was just okay and the fries really reminds me of supermarket frozen fries. Yeah, not even fresh cut and seasone..." — **Wayne T** (7 months ago)
 - ★★★★★ "Tasty, juicy burger with great flavor. The fries are more like chips, but they’re really good. Solid spot if you want a satisfying burger." — **Maximilian** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

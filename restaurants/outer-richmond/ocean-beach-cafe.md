@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Ocean Beach Cafe
 
 ## Cuisine
+
 **Cafe** — cafe, coffee shop, breakfast restaurant, vegan restaurant, vegetarian restaurant, sandwich shop, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 662 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 734 La Playa St, San Francisco, CA 94121, USA  
 Phone: (415) 753-9352  
 Website: [https://www.oceanbeachcafe.com/](https://www.oceanbeachcafe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14644257446403870115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7745416, -122.50995809999999
+[View on Google Maps](https://maps.google.com/?cid=14644257446403870115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Went in for a macha and it was great! Wish they had different size cups. It was cold outside and we were able to get a small table. Love that they had a wall of non alcoholic wines! Pretty cool! We did park a few blocks away but if you are at the beach it’s a quick walk to get a warm drink." — **Ray Torres** (a month ago)
 - ★★★★★ "Just a minute from the beach, Ocean Beach Cafe feels exactly how a neighborhood spot should feel: welcoming & alive with community energy.
 
@@ -62,6 +63,3 @@ We got both the regular and the lavender lemonade. The regular lemona..." — **
 
 What really stood out was how w..." — **Geraldine Gamboa Bejarano** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

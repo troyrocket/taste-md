@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # SPRO - Mission Dolores/Castro
 Modern, pared-down spot for specialty java drinks & inventive takes on breakfast & lunch fare.
 
 ## Cuisine
+
 **Cafe** — cafe, hamburger restaurant, salad shop, bakery, sandwich shop, american restaurant, coffee shop, dessert shop
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 463 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 500 Church St, San Francisco, CA 94114, USA  
 Phone: (415) 828-3106  
 Website: [http://sprocoffeelab.com/](http://sprocoffeelab.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10321550134777343607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7627573, -122.42866500000001
+[View on Google Maps](https://maps.google.com/?cid=10321550134777343607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Had the vegan chocolate and banana loaf. It was really great and rich, much like the non vegan variant. The drip coffee to was fantastic, perfect for a cloudy day lift me up. My friend had the matcha latte and an avocado sandwich. She liked it too. Made for a good meal." — **CDB** (3 months ago)
 - ★★★★★ "Great specialty espresso. They let you select from 4 or 5 different roasts for both espresso and pour over, which means I’ve got reason to come back! The space is a little small (fits maybe 15-20 people) but they have WiFi so you can work there." — **Kendall Whitbeck** (4 weeks ago)
 - ★★★★★ "I ordered Barista Competition Flight and it might have been the best espresso I’ve ever had (and trust me, I spent a lot of time in Italy). 21$ is a bit pricey for an espresso and cappuccino but it definitely is an experience and I would gladly do it again. I loved the vibe inside the cafe!" — **Krysia Pietraszkiewicz** (5 months ago)
@@ -58,6 +59,3 @@ The environment is poorly designed and maintained, the food wasn’t good, and t
 
 Customers are expected t..." — **Yurko Turskiy** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

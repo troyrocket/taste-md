@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Osso Steakhouse
 Fine-dining restaurant offering premium steaks, plus hand-crafted cocktails & a curated wine list.
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant, wine bar, seafood restaurant, steak house, cocktail bar, family restaurant, bar, american restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.4 stars — 815 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for watching sports · Restroom available
 1177 California St, San Francisco, CA 94108, USA  
 Phone: (415) 771-6776  
 Website: [https://www.ossosteakhouse.com/](https://www.ossosteakhouse.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15447837686399102441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7913257, -122.4136195
+[View on Google Maps](https://maps.google.com/?cid=15447837686399102441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Osso Steakhouse is one of those rare SF spots that feels like a step back in time—in the best way. The moment you walk in, you’re surrounded by old-school Art Deco charm, dim lighting, and that classic supper-club vibe that’s getting harder to find in the city.
 It’s a little tucked away and parking ..." — **Donny Pusawong** (3 months ago)
 - ★★★★★ "While on vacation we had a short stay in San Francisco. We wanted a nice steak and decided on OSSO because it is not a chain restaurant. Wowza! What an incredible dinner experience we had.
@@ -63,6 +64,3 @@ I must dedicate an appre..." — **Ahmed Jaber** (4 months ago)
 - ★★★★★ "Excellent service and beautiful place. We enjoyed an excellent ribeye steak - an incredibly juicy, tender, and flavorful steak with a buttery taste and a great texture." — **No Name** (3 months ago)
 - ★ "Our party of four visited for dinner and was greeted with a very warm welcome. We were seated immediately and offered water, and our server took our drink orders right away. However, we did wait quite a while for those drinks to arrive. While the food came out in a reasonable amount of time, the qua..." — **Sayana** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

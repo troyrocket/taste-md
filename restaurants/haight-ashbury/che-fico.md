@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Che Fico
 Handmade pastas, pizzas & seasonal Cal-Italian fare, plus wine & cocktails, in chic top-floor digs.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.2 stars — 1,192 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 838 Divisadero St, San Francisco, CA 94117, USA  
 Phone: (415) 416-6959  
 Website: [https://www.chefico.com/](https://www.chefico.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7715751202534748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7773909, -122.43814599999999
+[View on Google Maps](https://maps.google.com/?cid=7715751202534748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 2:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "This was an interesting experience. We wanted to try something new and Che Fico is always on every list of must try places so we thought we'd try it out. I'll start with the pros and then move into what didn't work for me.
 
 Pros: The Giardinera Martini is really good and something you don't see ever..." — **Neesh Shah** (a month ago)
@@ -57,6 +58,3 @@ Beyond the food, the atmosphere completely makes the experience. The open kitche
 - ★★★★ "This place has a great atmosphere and some standout dishes, but the service timing needs work. The Tortelli di Zucca with honeynut squash was easily the best thing we ate. The Focaccia was also tasty and both our non-alcoholic drinks Tramanto and Pomona were very refreshing and well-crafted. We also..." — **Kaveri Kesarwani** (a month ago)
 - ★★★ "It is not very veg friendly. I really enjoyed the pizza and the cheesecake but the pasta was ok not filling. I think my company enjoyed more. Considering cost, I don't believe it is worth it to go back or recommend to others. That all being said, I'm vegetarian and may not be true for others." — **krex** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

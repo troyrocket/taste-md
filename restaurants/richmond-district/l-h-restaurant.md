@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # L H Restaurant（联兴烧腊）
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.4 stars — 54 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids
 
 4142 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 387-1234  
-[View on Google Maps](https://maps.google.com/?cid=3359156803962016577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.781228299999995, -122.46398560000002
+[View on Google Maps](https://maps.google.com/?cid=3359156803962016577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 10:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Chinese BBQ at its best ! Roasted ducks, BBQ pork, ribs and more …..
 
 Next to KFC on Geary blvd. If you have not dine here before you should give it a try, dishes are reasonably priced.
@@ -52,6 +53,3 @@ CC accepted." — **Peter Lau** (2 months ago)
 - ★★★★★ "Reviews for this place should be higher!! Delicious Cantonese bbq and roast pork for a great price, would recommend for a casual dinner. Staff is also super sweet :)" — **Bianca Lee** (6 months ago)
 - ★★★★★ "I've been on the hunt for authentic Hong Kong BBQ, and this place truly delivers. The roast duck was the highlight—juicy meat. We also ordered the roasted pork, which was rich in flavor and really crisp. I'll definitely be back to try more of their dishes!"" — **Jalin Escorty** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

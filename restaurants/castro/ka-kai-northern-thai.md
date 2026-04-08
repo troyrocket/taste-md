@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Ka Kai Northern Thai
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 11 reviews
 
 ## Dining Options
@@ -19,8 +20,7 @@ Unknown
 
 4133 18th St, San Francisco, CA 94114, USA  
 Phone: (415) 660-7912  
-[View on Google Maps](https://maps.google.com/?cid=2170505209307367825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760663799999996, -122.43580399999999
+[View on Google Maps](https://maps.google.com/?cid=2170505209307367825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -33,6 +33,7 @@ Saturday: 12:00 – 2:30 PM, 5:00 – 8:30 PM
 Sunday: 12:00 – 2:30 PM
 
 ## What Diners Say
+
 - ★★★★★ "So so so good. Best Thai food in the city!" — **Patrick Old** (in the last week)
 - ★★★★ "The Castro has seen it's share of Thai restaurants coming and going. But for this new addition, KaKai, I really hope it stays around. What a refreshing take on Thai food and thank you chef for keeping the menu small but as close to home cooking as you can.
 Every dish brought back memories from the c..." — **R M** (in the last week)
@@ -42,6 +43,3 @@ Every dish brought back memories from the c..." — **R M** (in the last week)
 
 The drinks menu is surprisingly creative. Some cocktails have hints of Thai herbs that pair nicely with the richer, s..." — **Pam** (in the last week)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

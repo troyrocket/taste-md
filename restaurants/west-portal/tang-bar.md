@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Tang Bar
 
 ## Cuisine
+
 **Hot pot restaurant** — hot pot restaurant, chinese restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 432 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 3251 20th Ave Second Floor, San Francisco, CA 94132, USA  
 Phone: (628) 270-9876  
 Website: [http://tangbar.us/](http://tangbar.us/)  
-[View on Google Maps](https://maps.google.com/?cid=14720701547979394009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7277813, -122.4773794
+[View on Google Maps](https://maps.google.com/?cid=14720701547979394009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "It was my first time having malatang and it was an awesome experience with wide variety of meats, seafood and veggies. All ingredients were fresh and broth was full of flavor.
 
 It didn’t feel like we were in a mall at all, they’ve done a great job with this place. Highly recommend it." — **Delia Grande** (4 months ago)
@@ -66,6 +67,3 @@ Good:
 - I liked the laksa soup a lot
 - Great ingredients, loved the swe..." — **Jenny Xu** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

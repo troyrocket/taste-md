@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # Komaaj Pila Bazaar
 Down-to-earth restaurant serving up traditional Iranian dishes, plus beer & wine.
 
 ## Cuisine
+
 **Persian restaurant** — persian restaurant, vegetarian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 437 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 10 29th St, San Francisco, CA 94110, USA  
 Phone: (415) 598-8286  
 Website: [https://www.komaaj.com/location/komaaj/](https://www.komaaj.com/location/komaaj/)  
-[View on Google Maps](https://maps.google.com/?cid=3435399230473847003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7441424, -122.4210406
+[View on Google Maps](https://maps.google.com/?cid=3435399230473847003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★ "I love Persian food and this is Northern Iranian food. It's different from Southern Iranian food. Just like other reviews, the food is sweeter than I am used too. Food was good and service was great. There are a lot of vegan options. This is a different food region of Iran, so don't expect Southern ..." — **Sam** (3 months ago)
 - ★★★★★ "Great sit down location for amazing food, drink menu, and great atmosphere that feels so homey. I’m Iranian and I still find myself trying new dishes and twists on ingredients at Komajj. I highly recommend any fish and chicken dishes here. Northern Iranian food is known for their fish preparation an..." — **Mobina Riazi** (a month ago)
 - ★★★★ "That was my first try of an Iranian restaurant, and no regrets, I'd go back in a heartbeat.  I love the interior of Komaaj, feels like somebodys house or living room.  Very inviting and cozy.  We tried only two dishes. Their mezze platter for two and the tumeric. Chicken over pomegranate rice.
@@ -59,6 +60,3 @@ I’m not sure it’s common but all the dishes we had were a bit sweet even all
 
 The mezze plate with different dips were good but definitely overpriced ($36?) since the portion is pretty small and they gave you few cra..." — **Eunju Tae** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

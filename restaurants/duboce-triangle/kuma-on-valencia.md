@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Kuma on Valencia
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 202 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 198 Valencia St, San Francisco, CA 94103, USA  
 Phone: (415) 520-8621  
 Website: [https://www.kumasf.com/kuma-on-valencia](https://www.kumasf.com/kuma-on-valencia)  
-[View on Google Maps](https://maps.google.com/?cid=6446727578254972582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7700643, -122.42259179999999
+[View on Google Maps](https://maps.google.com/?cid=6446727578254972582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 2:00 PM, 5:30 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Always wanted to dine here. Stopped by the other night. Overall, a pleasant experience, but nothing that wowed me.
 
 The food was good - but in a city like San Francisco with so many standout sushi spots, it didn’t quite rise to the top. I’ve had better sushi elsewhere in town, so it didn’t leave a l..." — **Tina Pak** (9 months ago)
@@ -63,6 +64,3 @@ Pack..." — **Illan Weiner** (6 months ago)
 The Chirashi Deluxe was very disappointing - despite being described as having "all the fixings of our regular chirashi PLUS extra delicacies like toro, uni and scallops" the portions were surprisingly small for the premium pri..." — **cantik** (7 months ago)
 - ★★★★★ "Great vibes, amazing sake, and the food is super fresh and reasonably priced. Hands down the best sushi bar in town!" — **Dobobo** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Kasa Indian Eatery
 Brightly colored spot specializing in wraps, plus other Indian fare with sustainable ingredients.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, vegan restaurant, halal restaurant, family restaurant, catering service, vegetarian restaurant, meal takeaway, food delivery
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.1 stars — 688 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 4001 18th St, San Francisco, CA 94114, USA  
 Phone: (415) 621-6940  
 Website: [https://kasaindian.com/kasaindianeatery-ypquc8](https://kasaindian.com/kasaindianeatery-ypquc8)  
-[View on Google Maps](https://maps.google.com/?cid=5246521125511575215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7608852, -122.43296009999999
+[View on Google Maps](https://maps.google.com/?cid=5246521125511575215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:45 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "I’ve been coming to Kasa for years, which makes this especially disappointing.
 
 My recent experience was honestly awful. I ordered a samosa chaat and naan with masala — a very simple order that typically takes just a couple of minutes to prepare. Instead, I waited over 15 minutes while the employee ..." — **Loarna Hassen** (a month ago)
@@ -56,6 +57,3 @@ My recent experience was honestly awful. I ordered a samosa chaat and naan with 
 - ★★★ "When I  DoorDashed their rice and spice with samosa . The bogo deal is not good. The proportion of rice was too much and they dont give you much of the main dish and sauce. Both my samosas were missing in the order. Order was mid day on a thursday at 230pm." — **Tien Huynh** (3 months ago)
 - ★★★★★ "My favorite Naan Kati rolls in San Francisco. Their chicken tikka masala as a protein inside the rolls is highly recommended when you order Naan Kati rolls. The meat is so tender, juicy and well cooked. Their hot and super hot sauces are top notch and hit the spice to a next level. I order their rol..." — **Sudhanshu Nelapudi** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

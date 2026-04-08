@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # House of Prime Rib
 Old-school, English-style restaurant serving acclaimed prime rib & martinis since the 1940s.
 
 ## Cuisine
+
 **British restaurant** — british restaurant, french restaurant, steak house, american restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.7 stars — 7,172 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 1906 Van Ness Ave, San Francisco, CA 94109, USA  
 Phone: (415) 885-4605  
 Website: [http://houseofprimerib.net/](http://houseofprimerib.net/)  
-[View on Google Maps](https://maps.google.com/?cid=4535787543201006809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7934329, -122.42273200000001
+[View on Google Maps](https://maps.google.com/?cid=4535787543201006809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Got a last minute RSVP @10pm. Arrived early and the host graciously seated us almost half hour earlier than our reservation. My last meal here was more than 5 years ago and nothing has changed. Outstanding service, great ambiance, good foods; however, the salad was not as appetizing as before. Not s..." — **Michael N.** (a month ago)
 - ★★★★★ "Great experience. Highly recommend for solo or duo travelers, not so much parties.
 
@@ -61,6 +62,3 @@ I have a tremendous amount of respect for restaurants who pro..." — **Tosin Oy
 
 we bought the porterhouse steak and prime rib. they were bot..." — **mimi** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

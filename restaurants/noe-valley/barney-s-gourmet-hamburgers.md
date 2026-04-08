@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Barney's Gourmet Hamburgers
 Upmarket counter-serve with all-natural beef & vegetarian burgers, salads, shakes & more quick eats.
 
 ## Cuisine
+
 **Hamburger restaurant** — hamburger restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 889 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 4138 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 282-7770  
 Website: [http://www.barneyshamburgers.com/](http://www.barneyshamburgers.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5463359132482804048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7514693, -122.43503109999999
+[View on Google Maps](https://maps.google.com/?cid=5463359132482804048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "August 2025:
 It's been a while since I have eaten at this Barney's and was happy to see that the menu has expanded. There's many more salad options. Lots of burger options.
 
@@ -59,6 +60,3 @@ Overall, I was disappointed with meal. I shared the guacamole burger and the chi
 The service was also really good — everyone was super friendly, attentive, and made sure we had everything we needed without being overbearing. You could tell they cared about creatin..." — **Ximena** (8 months ago)
 - ★★★★★ "The food was amazing. I will definitely be coming here again. The service was great and the waitress was the sweetest ever! The chef was also really nice! I recommend this place if you want to eat burgers 🙌🏻" — **Maysa heishan** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

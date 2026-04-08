@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Fillmore](index.html)
-
 # Indian Oven Restaurant
 Bright, airy Indian restaurant serving a menu of curries, tandoori fare & rice dishes.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, vegan restaurant, vegetarian restaurant, fine dining restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 472 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 233 Fillmore St, San Francisco, CA 94117, USA  
 Phone: (415) 626-1628  
 Website: [http://www.indianovensf.com/](http://www.indianovensf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7584500409204875062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.771697499999995, -122.43053549999999
+[View on Google Maps](https://maps.google.com/?cid=7584500409204875062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 9:45 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Beyond the absolutely delicious and flavorful food (the best I've had in a long time), the service and the kindness of the staff truly blew me away.
 I visited quite close to their closing time, and instead of rushing us or making us feel unwelcome, they were incredibly patient and warm. What really ..." — **Abdulmajeed Aljasim** (4 months ago)
 - ★★★★★ "Would go again! Seated immediately for 2 on Tuesday at 12:15pm. I was in a rush, but luckily service was fast and we were out by 12:50pm. Great for a quick lunch. The interior was spacious and there's a nice mural as well.
@@ -61,6 +62,3 @@ Although service was kind and responsive, and our waiter took care of our needs 
 P.s. Photos don’t do justice!" — **keyko Ruiz** (2 months ago)
 - ★★★★★ "Chef Happy and server Gurpreet made the dining experience really good. We had the paneer makhni, chicken tikka masala and naan. Very much “comfort” food. The mango lassi and gulab jamun were also delicious. Will definitely revisit to try other dishes !" — **Kapil Kirpekar** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Taco Boys
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 494 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids
 2312 Market St, San Francisco, CA 94114, USA  
 Phone: (415) 829-3609  
 Website: [http://tacoboyssf.com/](http://tacoboyssf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4676400588982347772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763863799999996, -122.43388150000001
+[View on Google Maps](https://maps.google.com/?cid=4676400588982347772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Look, I love me some Taco Boys. Their vegan breakfast burrito might actually be the best burrito in town… HOWEVER, I am almost at my wit’s end with the dude that rings up my order. I don’t know if he just doesn’t want to do his job or what, but if you’re gonna charge me over $20 for a freaking burri..." — **Pisces Bella** (3 weeks ago)
 - ★ "Paid $16 for the stalest vegan nachos I’ve ever eaten in my life. I usually enjoy the food here but lately the quality has gone down. Ordered the vegan super nachos and the tortilla chips were the stalest chips I've ever eaten lol | think I almost broke a tooth. These chips literally taste like chip..." — **Tanya Decendario** (3 months ago)
 - ★★★★★ "Huge burritos, well prepared, and delicious. You can pre-order and get a text when your meal is done. Small dining room with a couple outside tables. Best for to-go orders." — **Craig Reichel** (5 months ago)
@@ -57,6 +58,3 @@ Taco Boys completely blew me away. This was hands down one of the best Mexican m
 
 As a vegan, I was thrilled to fin..." — **Luana Helsinger** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

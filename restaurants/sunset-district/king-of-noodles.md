@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # King of Noodles
 This informal restaurant serves traditional Chinese noodle soups, dumplings, dim sum & chow fun.
 
 ## Cuisine
+
 **Noodle shop** — noodle shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 500 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Restroom available
 1639 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 566-8318  
 Website: [https://kingofnoodlessf.com/](https://kingofnoodlessf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1145061492149680543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763452, -122.47573999999999
+[View on Google Maps](https://maps.google.com/?cid=1145061492149680543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "The textures of everything we ordered is what stood out about King of Noodles. Plus their house hot sauce too!
 
 We ordered the cucumbers, the lamb and cabbage dumplings, the XO noodles with chicken, and the Dan Dan noodles - figuring to try a variety.
@@ -57,6 +58,3 @@ Shockingly, the chef is not even Chinese — he’s Mexican — and the noodles 
 - ★★★★ "Ordered farmer’s cucumbers to share, so tasty! I ordered the beef noodle soup with fresh pulled noodles. The flavor was great but the meat was heavy on the fat/skin which I don’t typically consume. Other order was seafood fried rice which was delicious and we ended it with mango sago, which was a mi..." — **Faith** (11 months ago)
 - ★★★★★ "Excellent food. Go to orders are mala fried chicken, dandan noodles, Napa cabbage and pork dumplings in chili oil, spicy beef soup" — **Maria Reyes** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

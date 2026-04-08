@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Xiaoyu’s Kitchen
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 88 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 560 Balboa St, San Francisco, CA 94118, USA  
 Phone: (415) 742-4392  
 Website: [https://www.xiaoyuskitchen.com/](https://www.xiaoyuskitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6021297633343222384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7773835, -122.46483569999998
+[View on Google Maps](https://maps.google.com/?cid=6021297633343222384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 2:30 PM, 4:30 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "hole in the wall restaurant on balboa street! large portions and polite workers. diverse food and drink menu. my favorite is the katsu chicken curry" — **ghostface.mp3** (3 months ago)
 - ★★★★★ "Impressed by the food, especially for a takeout spot. Beef teriyaki was fatty and had a nice char. Salmon teriyaki was moist and the skin had a nice crunchy
 
@@ -57,6 +58,3 @@ I got the salt and pepper chicken wings- they were GREAT!!!- lov..." — **Graha
 - ★★★★★ "Such a great spot, really fast service and fresh food. A wide amount of food options as well! We got a combo plate with tempura & eggplant and chicken katsu curry. Loved them both" — **Taylor Nakamoto** (8 months ago)
 - ★★★★★ "Incredible service as well as delicious food! They were happy to make substitutions to my meal and the prices can’t be beat. Great range of vegetarian options. The veggie dumplings are a must order!" — **Diyarhi Roy** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

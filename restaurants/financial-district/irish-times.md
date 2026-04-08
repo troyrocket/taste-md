@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Irish Times
 Irish pub with exposed brick, multiple large-screen TVs, indoor/outdoor seating & late-night eats.
 
 ## Cuisine
+
 **Irish pub** — irish pub, pub, bar and grill, sports bar, bar, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 1,122 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Good for wa
 500 Sacramento St, San Francisco, CA 94111, USA  
 Phone: (415) 217-5060  
 Website: [http://sfirishtimes.com/](http://sfirishtimes.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5528152261308577202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.794061299999996, -122.401694
+[View on Google Maps](https://maps.google.com/?cid=5528152261308577202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "The Irish Times in San Francisco is the kind of spot you go to when you want things easy and unfussy. The vibe is laidback and welcoming—no pretense, just a solid neighborhood bar feel where you can settle in without feeling rushed. It’s comfortable whether you’re stopping in solo or meeting a coupl..." — **Andrew** (a month ago)
 - ★★★★ "I DoorDashed a full Irish breakfast, and the food was pretty good. The black and white pudding was definitely my favorite part. It’s a lot of food for one person, so next time I’ll go with the half order." — **Kevin** (4 months ago)
 - ★★★★★ "Awesome vibe.
@@ -62,6 +63,3 @@ The chicken wings on the other hand (in my opinion) were not good. I thought tha
 
 They seem to have relaxed policy about bringing in dogs inside the bar, if you’re worried about those things." — **Yuta Higuchi** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # SUNGHO
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 136 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 250 Hyde St, San Francisco, CA 94102, USA  
 Phone: (415) 971-2283  
 Website: [https://sunghosf.com/](https://sunghosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17058307252006514144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783296, -122.4157145
+[View on Google Maps](https://maps.google.com/?cid=17058307252006514144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★ "I saw this on the Michelin website as recommended.
 Food: Menu was limited, likely focused on their specialties. I ordered the pork bone soup and kimchi pancake. The soup was hot and flavorful. Quite filling. This soup is good as a full meal. It comes with a side of white rice so you should think it ..." — **Mike** (2 months ago)
 - ★★★★★ "Very soothing soup! If you enjoy something light yet layered with flavor, this is the place to go.
@@ -59,6 +60,3 @@ The staff were incredibly kind despite having an issue with the WiFi this week a
 
 We ordered galbitang (beef short rib soup), dwaeji gukbap (pork soup with rice), and kimchi jeon (ki..." — **Hye Lee** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Good Mong Kok Bakery
 Celebrated Chinese fixture boasts a variety of homemade dim sum & baked goods in a compact interior.
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, dumpling restaurant, chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 2,426 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $
 1039 Stockton St, San Francisco, CA 94108, USA  
 Phone: (415) 397-2688  
 Website: [https://goodmongkokbakery.com/](https://goodmongkokbakery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9766319468625916757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.795455, -122.40835600000001
+[View on Google Maps](https://maps.google.com/?cid=9766319468625916757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -41,6 +41,7 @@ Sunday: 7:00 AM – 6:00 PM
 **Parking:** Paid parking lot · Paid street parking · Free street parking
 
 ## What Diners Say
+
 - ★★★★ "⭐⭐⭐⭐☆ 4 Stars
 Good Mong Kok Bakery is a Chinatown staple and a must-visit for anyone craving fresh, no-frills dim sum at unbeatable prices. It’s a classic grab-and-go spot — no seating, usually a line out the door, and absolutely worth the wait.
 The highlight? Their freshly made egg custard tart for..." — **Thomas Reeh** (a month ago)
@@ -54,6 +55,3 @@ Don't expect the waitress to make some talk to you. She just asks what you want 
 The Charsiubao could be filled more, I got 85% dough a..." — **Annabelle Sri** (4 months ago)
 - ★★★★ "The pastries were really tasty and prepared well. Don’t expect the ladies at the counter to speak english and to be friendly, they’re just doing their work. But everything is so cheap and worth a try!" — **Zein Chehab** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

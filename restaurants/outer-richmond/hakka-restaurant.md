@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Hakka Restaurant
 Unassuming Chinese venue providing standard Cantonese dishes plus Hakka regional specialties.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 348 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 4401 Cabrillo St, San Francisco, CA 94121, USA  
 Phone: (415) 876-6898  
 Website: [http://hakkasf.com/](http://hakkasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5053753383295779276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.773239, -122.505942
+[View on Google Maps](https://maps.google.com/?cid=5053753383295779276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Very good Chicken with sticky rice, something different that can’t be found at most restaurant. The chicken very crispy!!
 
 Great tofu and salted egg pumpkin,
@@ -64,6 +65,3 @@ Food is all really yummy and doesn't take a long time. The serving sizes are pre
 
 I got the stirred noddles which had a lot of wok hay in the dish aka, it was wok fried ..." — **RC** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

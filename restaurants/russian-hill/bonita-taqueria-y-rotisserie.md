@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Bonita Taqueria y Rotisserie
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 197 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 2227 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 655-9052  
 Website: [http://sfbonita.com/](http://sfbonita.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9409780233042322605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7972922, -122.42228209999998
+[View on Google Maps](https://maps.google.com/?cid=9409780233042322605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Yummy Mexican spot in the heart of Polk street! We came here later on a Sunday when places were filled up. The veggie quesadillas were a solid portion size and had corn, which I don’t usually see!
 
 In addition, the salsa bar in the back was great and had yummy salsas! Finally, I had cantaloupe juice..." — **Avantika Naik** (a month ago)
@@ -61,6 +62,3 @@ Mexican Street TACOS with Pork, Beef and Chicken
 Classic Cheese Quesadila
 Complimentary Chips ..." — **Jen Popiolek (Jen's Food Blog)** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

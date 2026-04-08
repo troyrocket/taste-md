@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Fior d'Italia
 Landmark trattoria with roots in the 19th century, serving classic Italian fare, cocktails & wine.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 1,042 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Live music · Good for groups · Good for kids · Restroom available
 2237 Mason St, San Francisco, CA 94133, USA  
 Phone: (415) 986-1886  
 Website: [https://fior.com/](https://fior.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18192073242942701551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.804228599999995, -122.413519
+[View on Google Maps](https://maps.google.com/?cid=18192073242942701551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We would definitely come back. Good food, massive portions, very fair prices. Make a reservation.
 
 The pasta dishes seem to be more regional than just Napolentean/Roman what I normally see in American Italian restaurants. The noodles were good even the next day. Get what you like, they were all done..." — **H T** (2 months ago)
@@ -73,6 +74,3 @@ We started with the Bruschetta, which was o..." — **Michelle Brady** (4 months
 
 We visited this restaurant for lunch after seeing an appetizer photo on Google Maps that looked amazing. When we asked the waitress which menu item it was, she told us that dish was no ..." — **mahboobeh mahmoodi** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

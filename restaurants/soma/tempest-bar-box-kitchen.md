@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Tempest Bar & Box Kitchen
 Pub grub, draft beer & cocktails are on tap at this low-key, brick-walled hangout.
 
 ## Cuisine
+
 **Bar & grill** — bar and grill, hamburger restaurant, bar, american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 2,018 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for watching sports · Dog-friendly · Restroom availabl
 2940 431 Natoma St, San Francisco, CA 94103, USA  
 Phone: (415) 580-7170  
 Website: [https://tempest.pourguys.com/](https://tempest.pourguys.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14103143633153141545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.781147499999996, -122.4063767
+[View on Google Maps](https://maps.google.com/?cid=14103143633153141545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 2:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Hell of a Bar... Courtney and Dallas made it even more so.  Great drinks, great selection great new friends...get there, you won't regret it.
 
 They also serve some killer grub till midnight YUMM
@@ -61,6 +62,3 @@ The pool table’s the main attraction, co..." — **Key Manning** (8 months ago
 - ★★★★★ "The bartender Dallas was super cool, there was a girl bartender there too who i didnt get her name but she made my favorite drink and it was amazing! Was there for the music event but ill definitely be back." — **Michelle V** (6 months ago)
 - ★★★ "Did go twice for the margaritas but only liked them from a specific bartender (In the pic, the guy way to the right pouring one). The food was good and you can order at the bar, or takeout only - no table service. Kinda hit or miss on the crowd/ vibe which is typical for a bar I suppose!" — **Susan J H** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

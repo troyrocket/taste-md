@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Cafe Mystique
 Cozy eatery specializing in Moroccan dishes as well as American meals & happy hours.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant, italian restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 742 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 
 464 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 865-9963  
-[View on Google Maps](https://maps.google.com/?cid=11776176087579674917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7614765, -122.43529849999999
+[View on Google Maps](https://maps.google.com/?cid=11776176087579674917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great atmosphere and excellent food. The meat was very tender, the calamari was perfectly crispy, and the garlic flatbread was amazing. Service was friendly and attentive. We will definitely be back!
 Thank you Narmela" — **Sedat Taylan** (a month ago)
 - ★★★★★ "I had the best shrimp pasta in marinara. Perfectly balanced and cooked shrimp so great tasting. Not too hot. First time here. I sat outside on the sidewalk and watched all the cute people walk by." — **John Shearer** (4 weeks ago)
@@ -55,6 +56,3 @@ Nice atmosphere we had a beautiful end of summer night when we came. The service
 - ★★★★★ "Thanks for our fun night Cafe Mystique! Stopped in here on a Friday night before our show at Castro theater and it did not disappoint. The service was great even though they were busy. We had fun with the wait staff that were engaging and joking around with us. The food was way better than expected!..." — **Catherine Borst** (4 weeks ago)
 - ★★★★★ "Such a chill place, the cocktails are delicious, the service is warm and welcoming. A great place to people watch, the fashion and outfits on the street are next level. Perhaps the best espresso martini I’ve ever had! 🤩" — **Susan Gregory** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

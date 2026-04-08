@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Glen Park](index.html)
-
 # Banh Mi Viet Diamond
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.9 stars — 125 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids
 
 2906 Diamond St, San Francisco, CA 94131, USA  
 Phone: (415) 859-9454  
-[View on Google Maps](https://maps.google.com/?cid=6044666094402794703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7333838, -122.43439969999999
+[View on Google Maps](https://maps.google.com/?cid=6044666094402794703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "This is hands down the best bánh mì I’ve had in San Francisco.
 
 The meat-to-bread ratio is incredible — the sandwich is generously packed with beef and super satisfying. The flavors are beautifully balanced: a little sweet, a little spicy, with a bright tangy kick. As you keep eating, you can even n..." — **Ava Z** (a month ago)
@@ -55,6 +56,3 @@ The meat-to-bread ratio is incredible — the sandwich is generously packed with
 
 Also tried the beef and special combination sandwiches. Both were excellent." — **Mat Lit** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

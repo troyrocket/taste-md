@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Muguboka Restaurant
 Homey, no-frills spot known for large portions of banchan (Korean side dishes) & other hearty fare.
 
 ## Cuisine
+
 **Korean barbecue restaurant** — korean barbecue restaurant, korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 464 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 
 401 Balboa St, San Francisco, CA 94118, USA  
 Phone: (415) 668-6007  
-[View on Google Maps](https://maps.google.com/?cid=8334338543300314501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.777136899999995, -122.4631127
+[View on Google Maps](https://maps.google.com/?cid=8334338543300314501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I started eating immediately because I couldn’t wait!  The pictures show the food missing a few bites!  Haha!  Delicious!  The sautéed spicy pork belly was rich and perfect with rice.  The cold noodles chewy and tasty.  Old school decor felt just right.   Nothing flashy. The food spoke for itself. I..." — **Lilian** (5 months ago)
 - ★★★★★ "Ajummas hard at work at this casual Korean restaurant and we can taste it in their food. Great portions, no frills banchans, tasty selection of menu items. Definitely my go to place when I don't fee like cooking💯 맛있습니다 근처 한x관보다 몇배는 더 맛있어요." — **Calvin Chang** (4 months ago)
 - ★★★★★ "This place is it. If you’re looking for cozy Korean food with a solid array of soup options, look no further, this place is it.
@@ -57,6 +58,3 @@ I’ve been here once to try various soups (unpictured), and they were great. Th
 
 You get a decently large amount of food for the pri..." — **Christopher Lee** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

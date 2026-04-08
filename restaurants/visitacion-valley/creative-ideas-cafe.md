@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Visitacion Valley](index.html)
-
 # Creative Ideas Cafe
 
 ## Cuisine
+
 **Cafe** — cafe, diner, brunch restaurant, catering service, colombian restaurant, breakfast restaurant, food delivery, service
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 132 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 58 Leland Ave, San Francisco, CA 94134, USA  
 Phone: (415) 988-7165  
 Website: [https://creativeideascateringcafe.com/](https://creativeideascateringcafe.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8357476165213698270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.711807799999995, -122.4048045
+[View on Google Maps](https://maps.google.com/?cid=8357476165213698270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I was working on the visitation valley area a couple days ago and was thinking what am I going to have for lunch? I looked on my phone and there weren't many choices but came across creative Ideas Cafe. It had really good reviews and a pretty decent size menu. I've never had Colombian food before so..." — **Dom Atman** (3 months ago)
 - ★★★★★ "We had such a great experience at this Colombian restaurant! If you are looking for authentic Latin flavors and a true taste of Colombia, this is the place to come. The atmosphere is cozy, family-friendly, and makes you feel right at home. We tried the tamal and a traditional Colombian breakfast, an..." — **Bryam Cabrera** (6 months ago)
 - ★★★★★ "The nacho fries are to die for! And I can honestly say that wholeheartedly. This place is to die for The food is exceptional the atmosphere is amazing The workers are super sweet very kind. And the fact that it's a block and a half away from my home makes it even better. If you like carne asada frie..." — **Josh Frazier** (3 months ago)
@@ -55,6 +56,3 @@ Sunday: Closed
 
 While it seem..." — **Brendan** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

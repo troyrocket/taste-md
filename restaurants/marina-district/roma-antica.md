@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Roma Antica
 Welcoming neighborhood spot serving modern Italian eats & wine in petite digs with marble accents.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, wine bar, bar, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,694 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 3242 Scott St, San Francisco, CA 94123, USA  
 Phone: (415) 896-4281  
 Website: [http://www.romasf.com/](http://www.romasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12108406718764696771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7998895, -122.4409673
+[View on Google Maps](https://maps.google.com/?cid=12108406718764696771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Found this restaurant by accident when looking for a restaurant close to a concert we were attending. We have since returned having really enjoyed the experience. Nice wine list for such a small place. The food and service is excellent." — **Steven Perkins** (a month ago)
 - ★★★★★ "Absolutely phenomenal! Everything was on point. The service was excellent our waiter was charming, friendly and helpful. The food was wonderful.  I ordered pizza and others ordered lasagna. They ate it quickly so no pictures of the lasagna. We dined outside under the heaters. It was relaxing and ple..." — **Joie Tellez** (2 months ago)
 - ★★★★★ "This Italian restaurant is easily one of the best in the Bay Area. The service was excellent from the moment we walked in, the staff is super friendly and all Italian, which adds an authentic vibe. The food arrived fast and everything tasted incredible, from the fresh bread they serve when you sit d..." — **Caue Rodrigo Herckert** (3 months ago)
@@ -60,6 +61,3 @@ We ordered two cocktails, one appetizer, two pasta dishes, and two tiramisus to 
 
 �..." — **Emily Wong** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

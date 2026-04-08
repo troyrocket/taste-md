@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Bernal Heights](index.html)
-
 # United Dumplings
 Simple venue with outdoor seating featuring Northern Chinese dumplings, hand-pulled noodles & more.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, dim sum restaurant, dumpling restaurant, chinese noodle restaurant, asian restaurant, meal delivery, food delivery, cantonese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 334 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 525 Cortland Ave, San Francisco, CA 94110, USA  
 Phone: (415) 658-7363  
 Website: [http://www.uniteddumplings.com/](http://www.uniteddumplings.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18153241608451330159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.739236399999996, -122.41604360000001
+[View on Google Maps](https://maps.google.com/?cid=18153241608451330159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Im a sucker for good dumplings and  years of living in HK set the bar higher than what united dumplings served up.  I only tried four of their dishes, the grandma pork dumplings, the Sichuan wonton, the sui mai and their har goa.
 So the grandma pork by texture is not bad but served up with just a bi..." — **R M** (5 months ago)
 - ★★★★★ "We were in the neighborhood and found them had good reviews. Their Xiao Long Bao were excellent both the steamed version and the pan fried version. Also had chicken dumpling buymt wished I had tried the pork dumplings instead. Mushroom tempura is not bad." — **Laveille Voss** (3 months ago)
@@ -61,6 +62,3 @@ Some of our favorites:
 
 String beans: super yummy, rich flavors, lightly c..." — **Jeanette Mathews** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

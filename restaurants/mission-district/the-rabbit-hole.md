@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # The Rabbit Hole
 
 ## Cuisine
+
 **Restaurant** — breakfast restaurant, brunch restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 149 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 3472 Mission St, San Francisco, CA 94110, USA  
 Phone: (415) 364-8512  
 Website: [https://therabbithole-sf.com/](https://therabbithole-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3666393787704859949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7412213, -122.4230343
+[View on Google Maps](https://maps.google.com/?cid=3666393787704859949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We went on New Year’s Day and it was such a great find. The space has a cool, dark, cozy vibe that immediately makes you want to settle in and stay awhile.
 
 I ordered the cocktail “Hello Kitty Is Not a Cat” and it was a standout. A really well balanced gin based drink and easily my favorite of the n..." — **MeeshElle** (2 months ago)
@@ -60,6 +61,3 @@ We got sesame noodles with pork, smash burger, and wontons in chili oil. All dis
 
 For drinks, we had the mao tai winter Negroni and the singapore sling. Wooh-..." — **Emily Lim** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

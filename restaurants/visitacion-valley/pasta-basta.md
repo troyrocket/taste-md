@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Visitacion Valley](index.html)
-
 # Pasta Basta
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.5 stars — 8 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $$
 2731 Geneva Ave, Daly City, CA 94014, USA  
 Phone: (650) 994-7007  
 Website: [http://www.pastabastasf.com/](http://www.pastabastasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16261402507904410999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7071797, -122.41516980000002
+[View on Google Maps](https://maps.google.com/?cid=16261402507904410999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★ "The chicken parm was a soggy, mushy mess.  The chicken was mealy, I couldn’t even tell if it was chicken.  The sauce was disgusting.  The   Accompanying pasta was overcooked.  The marinara sauce for the cheese bread had the consistency and taste of canned tomato sauce.  All but two pieces of cheese ..." — **Anthony Esparza** (a year ago)
 - ★ "Just ordered their lasagna, we're going to meet what's the worst...
 No cheese in the middle super small, it looks nothing like their menu picture...!
@@ -57,6 +58,3 @@ Chicken Hawaiian Pizza and philly steak sandwich were my favorites. Yumyum 😋�
 Definitely will go back." — **LP** (a year ago)
 - ★ "the food was not good at all. bland, flavorless spaghetti and meatballs." — **Alex Behrend** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Pacific Cafe
 Casual classic since the '70s with simple preparations of fresh seafood & no-reservations policy.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 696 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 7000 Geary Blvd, San Francisco, CA 94121, USA  
 Phone: (415) 387-7091  
 Website: [http://pacificcafesf.com/](http://pacificcafesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14531325978089483401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.779845699999996, -122.49455970000001
+[View on Google Maps](https://maps.google.com/?cid=14531325978089483401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Adorable seafood little restaurant.
 Friendly atmosphere, customers and personnel. They will offer you and refill a glass of white wine, while you are waiting for your table.
 The food is very good and tasty." — **THE GLAMOROUS VISUAL** (a month ago)
@@ -59,6 +60,3 @@ Its Our Favorite Seafood Restaurant. The Menu is expanding and Delicious. Waiter
 For the price, it's an unbeatable value and the seafood is fresh, sourdough bread is delicious and a SF..." — **Victor** (7 months ago)
 - ★★★★★ "I was first introduced to Pacific Cafe by my uncles who have been coming here since the first year it opened. 50 years later and it still stands the test of time and is one of the best restaurants in the Bay Area. I always make it a point to stop when I'm back and visiting friends. You absolutely ca..." — **Casey Russell** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

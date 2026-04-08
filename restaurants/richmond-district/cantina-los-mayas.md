@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Cantina Los Mayas
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, fine dining restaurant, wine bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 250 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 431 Balboa St, San Francisco, CA 94118, USA  
 Phone: (415) 571-8027  
 Website: [https://cantinalosmayas.com/](https://cantinalosmayas.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17996664818425239861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7770107, -122.463509
+[View on Google Maps](https://maps.google.com/?cid=17996664818425239861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Cantina Los Mayas was really good. The waiters and chef were genuinely kind, friendly, and welcoming, and the overall vibe made the experience even better. Portions are big and the prices are very budget-friendly, so it felt like great value.
 
 We started with the ceviche—it was spicy, but super bala..." — **Karla_kmm** (2 months ago)
@@ -56,6 +57,3 @@ We started with the ceviche—it was spicy, but super bala..." — **Karla_kmm**
 Theyre open for dinner with a really nice quite extensive Mexican wine menu.  Come eat and enjoy.  5th Ave & balboa across from Cinderella" — **Monique Gin** (4 months ago)
 - ★★★★ "This is a very nice restaurant with a beautiful design and a convenient location. The menu offers a good variety of dishes at reasonable prices, and overall the food was delicious. The orchata  wasn’t the best, but it was still okay. Our server was attentive, and the service made the experience even..." — **Veder Garcia** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

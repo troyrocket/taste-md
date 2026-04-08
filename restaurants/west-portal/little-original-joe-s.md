@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Little Original Joe's
 Specialty pizzas, pasta & other Italian dishes offered in a snug locale featuring a small market.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, italian restaurant, grocery store, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 552 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 393 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 759-1155  
 Website: [http://www.littleoriginaljoes.com/](http://www.littleoriginaljoes.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5851781544791128635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7365752, -122.4703196
+[View on Google Maps](https://maps.google.com/?cid=5851781544791128635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great atmosphere and great service. The zucchini fries are amazing (but will create a mess all over the table), and will fill you up before dinner if you’re not careful. Service is great. Burger is average. Skillet cookie and ice cream is awesome. No reservations on weekends, two hour wait is not un..." — **Wallace Gustafson** (3 weeks ago)
 - ★★★★★ "This place is sooo popular, we were not able to get in for dinner but we miraculously got in for brunch, which was just as good.
 
@@ -60,6 +61,3 @@ Once ordered, the process was pretty simple.  It was a nice day, so only having 
 
 Otherwise, the food is definitely 10/10. I had the vodka sauce, garlic knots, my partner Joe's House ravioli..." — **V T** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

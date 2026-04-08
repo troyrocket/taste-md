@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Giorgio's Pizzeria
 Classic kid-friendly parlor where thin-crust pies & basic pastas land on red-checked tablecloths.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, italian restaurant, meal delivery, food delivery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 833 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 151 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 668-1266  
 Website: [http://www.giorgiospizza.com/](http://www.giorgiospizza.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17845943405359656295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7829824, -122.46108119999998
+[View on Google Maps](https://maps.google.com/?cid=17845943405359656295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "It’s been years since I last visited Giorgio’s Pizzeria, but I finally came back for lunch to meet a good friend, and I’m so glad I did. The decor has changed a bit, but the food still has that same heart and quality that made Giorgio’s an institution in San Francisco.
 
 For those who don’t know, Gio..." — **Liz P.** (5 months ago)
@@ -60,6 +61,3 @@ This is a popular place for families and their menu is very kid friendly! We lov
 
 I will say Giorgio's pizza is even better as next-day-..." — **William Xyz** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

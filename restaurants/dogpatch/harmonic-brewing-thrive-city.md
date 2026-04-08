@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Harmonic Brewing Thrive City
 Craft beer, local wine & unique bites served in an airy, simple space featuring a patio & bay views.
 
 ## Cuisine
+
 **Brewpub** — brewpub, pub, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 123 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Restroom available
 7 Warriors Wy Suite 206, San Francisco, CA 94158, USA  
 Phone: (415) 966-7128  
 Website: [http://www.harmonicbrewing.com/thrivecity](http://www.harmonicbrewing.com/thrivecity)  
-[View on Google Maps](https://maps.google.com/?cid=2934913476813950543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7687962, -122.3869017
+[View on Google Maps](https://maps.google.com/?cid=2934913476813950543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:30 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "🍻 Great Drinks:
 The drinks at Harmonic Brewing are consistently good. They offer a great selection of beers that are well-crafted and enjoyable.
 
@@ -55,6 +56,3 @@ This is a great spot to catch a game, with a lively and fun atmosphere. Even on 
 - ★★★★★ "My first concert experience at Chase Center was to see Bryan Adams and Joan Jett.  I know I’m late to the party but at least I’m here now.  Unlike my typical routine, we showed up well before the concert doors opened so we walked o er to Harmonic Brewing for a beer and bite to eat.  We sat outside w..." — **Michael Delehanty Real Estate** (2 years ago)
 - ★★★★★ "What a total cool brewery to hang out at. Food really good and great IPA's. The atmosphere is outstanding with indoor and outdoor seating. It is right next to (literally) Chase Center where the Warriors play and other concerts etc. perform." — **Mark McHugh** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Toy Soldier
 Highbrow lounge & local comfort food kitchen with house beers, cocktails & a patio.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, wine bar, oyster bar restaurant, pub, cocktail bar, event venue, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 978 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 52 Belden Pl, San Francisco, CA 94104, USA  
 Phone: (415) 875-9514  
 Website: [https://www.toysoldiersf.com/](https://www.toysoldiersf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1122802370828126962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.791432199999996, -122.40369820000001
+[View on Google Maps](https://maps.google.com/?cid=1122802370828126962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place was so yummy! We ordered the oysters, crab cakes, and calamari — everything was a 10/10. Arturo helped us with everything and was super hospitable. Everyone was very nice, and I would definitely come back here." — **Brittany Tejada (britt)** (3 weeks ago)
 - ★★★★★ "We recently visited Toy Soldier and had the Western Bacon Burger, Philly Cheese Steak, Caesar salad, and the white wine mussels. We also tried their Espresso Martini, a mocktail, and the Chocolate Molten Lava Cake for dessert.
 
@@ -55,6 +56,3 @@ The space here is massive and perfect for private events, especially sin..." —
 - ★★★★★ "A truly delightful restaurant.  The white mussels and glass of wine were the perfect end to a long day.  Arturo gave a warm welcome and excellent recommendation.  I will most definitely add this spot to my favorites." — **Tiffany Brown** (a month ago)
 - ★★★★ "What a great bar and restaurant to visit.  High celings and great food smells Music playing in the background adds to the vibes. Arturo was the only one for a while but he was able to serve our group of 12 + and other party of 6 seamlessly. I ordered the white muscles and the goat cheese salad w/ sa..." — **Desiree Abrams** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

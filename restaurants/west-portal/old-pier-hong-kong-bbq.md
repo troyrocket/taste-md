@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Old Pier Hong Kong BBQ
 
 ## Cuisine
+
 **Cantonese restaurant** — cantonese restaurant, barbecue restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 70 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids · Restroom available
 
 1033 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 702-6378  
-[View on Google Maps](https://maps.google.com/?cid=5596132824482006579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742809099999995, -122.47739499999999
+[View on Google Maps](https://maps.google.com/?cid=5596132824482006579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "TLDR: average food for a decent price, it also serves hot pot if you want that
 
 We ordered a set menu for 3 people and came out to around $70 after tax and tip. I enjoyed the soup and the fried rice but the beef was a little tough and the chicken didn’t seem very fresh. They do give you fruit to end..." — **Wilson Tsang** (5 months ago)
@@ -53,6 +54,3 @@ We ordered a set menu for 3 people and came out to around $70 after tax and tip.
 The BBQ and crispy duck dish was delicious! The garlic noodles were a bit underwhelming.. service was decent but could use some improvement, but the affordable prices make this worth a visit." — **Daniel Kofman** (a year ago)
 - ★★★★ "We went with the 2-3 ppl combo which includes a soup, meat dish, specialty dish, rice/noodle, and vegetable dish. The waiter said the fish maw soup is the most popular and it didn't disappoint. For meat, we got the roast duck and although tasty, it was a lot of fat. We got the braised tofu for speci..." — **Sisi Chen** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

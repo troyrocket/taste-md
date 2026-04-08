@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Cow Hollow](index.html)
-
 # Marina Submarine
 Deli/sandwich shop offering meatball subs, cheesesteaks & more to stay or to go.
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, vegan restaurant, breakfast restaurant, ice cream shop, coffee shop, cafe, vegetarian restaurant, dessert shop
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 283 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 
 2299 Union St, San Francisco, CA 94123, USA  
 Phone: (415) 921-3990  
-[View on Google Maps](https://maps.google.com/?cid=11501137971750332405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7968003, -122.43700039999997
+[View on Google Maps](https://maps.google.com/?cid=11501137971750332405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 9:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Solid, made-to-order toasted sandwiches. Mortadella with Swiss Cheese and extra peppers is good. Clean dining area and deli counter." — **Christopher Chung** (2 months ago)
 - ★★★★★ "The Spicy Bella Sandwich is wild!
 Normally folks don't know how to tame the Franks red hots sauce, nor balance bold ingredients with mild chicken and subtle white cheese. This sandwich made by David though was an large exception. Perfectly balanced, protein packed, yet sauced enough to make everythi..." — **Chase Lumbert** (9 months ago)
@@ -56,6 +57,3 @@ Workers were efficient. Super fast with sandwich making.
 
 Seating was minimal but it's more a to-go shop so ..." — **Nat awee** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

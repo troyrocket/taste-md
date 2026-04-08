@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Casa Mexicana
 Warm counter-serve place supplying made-to-order tacos, burritos & other Mexican favorites.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 392 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 3917 24th St, San Francisco, CA 94114, USA  
 Phone: (415) 648-0477  
 Website: [http://casamexicanasf.com/](http://casamexicanasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8270850755796712797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7514202, -122.4301976
+[View on Google Maps](https://maps.google.com/?cid=8270850755796712797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "I used to like coming here. I just went and the last part of the serving area has a metal wall blocking off your view of the food. What is even there? What condition is the food in? Is it wilty or brown? Will they even put any food on my plate. I had a sneaking suspicion and then, sure enough, they ..." — **Neko TerminationShock** (5 months ago)
 - ★ "I’ve been here for lunch countless times and I always wonder…what Mexican spots similar to this space REFUSE to have salsa bars? They nickel and dime you for everything.
 
@@ -59,6 +60,3 @@ If that isn’t enough the employees are super friendly and go the extra mi..." 
 - ★★★★★ "The service here was perfect! The ladies were patient with me and helped me decide what I wanted. The food is beyond delicious! I grew up in a Mexican home and this place is authentic. Even the horchata was on point. I know that was made from scratch. Not packed and good ambience." — **Yvonne Andrade** (8 years ago)
 - ★★★★ "If you want to grab a quick bite or a full meal, this is the place to go. We went in there for an early dinner of 2 tacos which were super heavy, delicious and fulfilling! Nice vegetarian options as well." — **Vatsal Mishra** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

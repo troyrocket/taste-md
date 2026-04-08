@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Wooly Pig
 
 ## Cuisine
+
 **Cafe** — cafe, breakfast restaurant, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 443 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 2295 3rd St, San Francisco, CA 94107, USA  
 Phone: (415) 592-8015  
 Website: [http://woolypigsf.com/](http://woolypigsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8579269968999229375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7606408, -122.3883508
+[View on Google Maps](https://maps.google.com/?cid=8579269968999229375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Good food.  I got the chicken and ginger jook (the added crispy and warm you tiao was a nice touch) and my husband got the Szechuan tofu with rice and greens.  I thought the house side salad had too much dressing, which I ended up wiping away.  Service was friendly and helpful.  I was not a big fan ..." — **Cynthia Lopez** (2 months ago)
 - ★★★★★ "so cute and amazing service! the food is great too
 
@@ -55,6 +56,3 @@ i came here when i really had to poop all of a sudden and graciously they had a 
 - ★★ "The Wooly Pig sandwich was a let down. Too much meat and not enough crunch from the arugula; the flavors and the textures were out of balance. The texture reminded me of pulled pork rather than sliced pork belly, which was how it was advertised on the menu (“Shanghai-style braised caramel pork belly..." — **Johnny Tan** (8 months ago)
 - ★★★★★ "Revisited, had an amazing breakfast experience with nobody there. I could see why people fell in love with this place. My recommendation is to get in early." — **Israel Cisneros** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

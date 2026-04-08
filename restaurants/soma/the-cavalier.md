@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # The Cavalier
 Hotel Zetta's British-themed brasserie delivers gastropub bites & colonial cocktails in clubby digs.
 
 ## Cuisine
+
 **American restaurant** — fine dining restaurant, american restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 1,044 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Dog-friendly · Restroom available
 360 Jessie St, San Francisco, CA 94103, USA  
 Phone: (415) 321-6000  
 Website: [https://www.thecavaliersf.com/?y_source=1_MjQ4NzYzNDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D](https://www.thecavaliersf.com/?y_source=1_MjQ4NzYzNDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D)  
-[View on Google Maps](https://maps.google.com/?cid=18154702054332687430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7833359, -122.40699330000001
+[View on Google Maps](https://maps.google.com/?cid=18154702054332687430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Long over due review. Been coming here for a few years and more regularly recently.
 Strong drinks. ( Carlos and Kristoff)
 Amazing fast attentive staff.
@@ -61,6 +62,3 @@ We were longtime fans of The Cavalier before ev..." — **M & Z** (9 months ago)
 - ★★★★★ "So, I am in San Francisco for a couple of days for work. After a long day, a colleague says her partner says we should go to The Cavalier for...English food? Well, I'm game for just about anything. We get there and the feel is sophisticated, but not overly so. A real adult feel for people that want ..." — **James Read** (2 months ago)
 - ★★★★★ "This is a hidden gem that makes you want to return again and again. Tonight’s meal was very sincere, with rich flavors that weren't overwhelming; the chef has clearly worked hard on the recipes. The ambiance is stylish yet warm. Service-wise, it was textbook—attentive and quick. The portions are ver..." — **Divorce Innovative** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

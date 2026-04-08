@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # The Rustic - San Francisco
 
 ## Cuisine
+
 **Restaurant** — pizza restaurant, italian restaurant, food store, american restaurant, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 185 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 215 Church St, San Francisco, CA 94114, USA  
 Phone: (415) 872-7123  
 Website: [https://www.therusticsf.com/](https://www.therusticsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4028932843112015144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.767201899999996, -122.4287849
+[View on Google Maps](https://maps.google.com/?cid=4028932843112015144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "December 2025:
 Used to come to this spot often when Chow was here. But that was a long time ago. Came here on a rainy Sunday evening for dinner.
 
@@ -64,6 +65,3 @@ O..." — **Bits or Bites** (6 months ago)
 
 The food was incredible—people were raving about the salad, pasta, and the mushroo..." — **Sophia Jiang** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

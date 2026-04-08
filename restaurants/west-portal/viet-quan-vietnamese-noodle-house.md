@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Viet Quan Vietnamese Noodle House
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 169 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 1757 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 682-8200  
 Website: [https://www.vietquanvietnamese.com/order](https://www.vietquanvietnamese.com/order)  
-[View on Google Maps](https://maps.google.com/?cid=15586255262489895380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742472, -122.4851333
+[View on Google Maps](https://maps.google.com/?cid=15586255262489895380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Standout dishes were: French Style Black Pepper Beef, BBQ Pork Chop, Beef Rib Pho.
 The Five Spice Chicken lacked flavor, so would benefit from more seasoning." — **David** (2 months ago)
 - ★★★★★ "Delicious!! So far there was not anything I've ordered that was not good. Been there twice?" — **Cynthia Lee** (a month ago)
@@ -56,6 +57,3 @@ French steak with pepper sauce and tomatoes rice - The steak was very tender, 85
 Got the combo noodle soup, only size option is large, it's mainly noodles with a fair amount of toppings, would probably get another noodle soup option next time. Also got the BBQ pork and egg roll vermicelli bowl, this wa..." — **Angela Yue** (4 months ago)
 - ★★★★★ "One of my newly discovered (where have I been? Late to the game) places. I come for the ginormous bone marrow dish, the banh xeo (viet crepe) and the shaken beef plates. You really can't go wrong here. They do a superb job with any of their dishes" — **yen nguyen** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

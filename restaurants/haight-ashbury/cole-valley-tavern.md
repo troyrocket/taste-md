@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Cole Valley Tavern
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 233 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 900 Cole St, San Francisco, CA 94117, USA  
 Phone: (415) 704-6073  
 Website: [https://www.colevalleytavern.com/](https://www.colevalleytavern.com/)  
-[View on Google Maps](https://maps.google.com/?cid=502309299127133000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7657223, -122.44975859999998
+[View on Google Maps](https://maps.google.com/?cid=502309299127133000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I have been to Cole Valley tavern quite a few times with friends and family, but my boyfriend and I just moved to the neighborhood so we have been coming a lot more. On this night it was a Wednesday evening and we were able to be seated quickly.
 
 They offer quite a few fun non alcoholic beverage opt..." — **Isabel Hernandez** (7 months ago)
@@ -60,6 +61,3 @@ I would come again for happy hour with m..." — **Max** (9 months ago)
 A friend and I met for happy hour cocktails and snacks. The weather was beautiful so we sat outside, with dappled sunlight for an hour, and a lively, neighborhoody street scene. 🫰🏻
 I grabbed..." — **Kirk Hudson** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

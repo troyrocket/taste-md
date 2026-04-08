@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Tenderloin Deli & Connect
 
 ## Cuisine
+
 **American restaurant** — american restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4 stars — 1 reviews
 
 ## Dining Options
@@ -19,8 +20,7 @@ Unknown
 ## Location & Contact
 
 463 Ellis St, San Francisco, CA 94102, USA  
-[View on Google Maps](https://maps.google.com/?cid=9129865728872276817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.784622299999995, -122.4137428
+[View on Google Maps](https://maps.google.com/?cid=9129865728872276817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -38,8 +38,6 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★ "" — **Lil rustand** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

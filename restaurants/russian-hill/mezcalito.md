@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Mezcalito
 Lively cocktail bar serving a wide mezcal selection & Oaxacan snacks in casual, artsy environs.
 
 ## Cuisine
+
 **Cocktail bar** — cocktail bar, mexican restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 618 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 2323 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 441-2323  
 Website: [http://www.mezcalitosf.com/](http://www.mezcalitosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17811892544879312189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.798161199999996, -122.4224791
+[View on Google Maps](https://maps.google.com/?cid=17811892544879312189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This place was an awesome find. This was my first time visiting San Francisco, and I stumbled upon this place on my 10 mile walk around the city. The atmosphere was great, service was fantastic, and the food & drinks were amazing.
 
 I came here during happy hour and got to sample the taquitos, hambur..." — **Randy T** (3 weeks ago)
@@ -60,6 +61,3 @@ My go to order is the pescado tacos with a glass of the ho..." — **Grace Benve
 
 Minus one because we felt pressure to drink and eat quickly the entire time we were there. I don’t know where we had the bill in our table, ev..." — **Pedro Vicente** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

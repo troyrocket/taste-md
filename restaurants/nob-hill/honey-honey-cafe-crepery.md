@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Honey Honey Cafe & Crepery
 Diners order at the counter at this casual, cheery spot that cooks up a mix of crêpes & cafe fare.
 
 ## Cuisine
+
 **Breakfast restaurant** — breakfast restaurant, brunch restaurant, cafe, dessert shop, confectionery, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 4,230 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 599 Post St, San Francisco, CA 94102, USA  
 Phone: (415) 351-2423  
 Website: [http://www.honeyhoneycafeandcrepery.com/](http://www.honeyhoneycafeandcrepery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10476930150022368857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7877649, -122.4115037
+[View on Google Maps](https://maps.google.com/?cid=10476930150022368857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:30 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great breakfast place. Had a delicious nutella & strawberry crepe with whipped cream and wife had Belgian waffle and crispy bacon 🥓 . Staff organized seating and refilled drinks rapidly even though a busy Saturday mid morning. Welcoming, cozy environment.
 
 Everything was good and will definitely co..." — **Matt Landis** (4 months ago)
@@ -58,6 +59,3 @@ The ..." — **Kevin** (2 months ago)
 - ★★★★★ "The food was absolutely delicious! I had the chicken sandwich and tomato soup my kids love it specially Nutella and strawberry crepes 😊You can really tell that the kitchen puts care into what they serve.
 The staff was very friendly and attentive, which made the experience even better. Everyone was ..." — **Maricela Ocampo** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

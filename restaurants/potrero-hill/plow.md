@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Plow
 Popular brunch spot serving farm-to-table American comfort food in a cozy ambience.
 
 ## Cuisine
+
 **Restaurant** — breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 2,837 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 1299 18th St, San Francisco, CA 94107, USA  
 Phone: (415) 821-7569  
 Website: [http://eatatplow.com/](http://eatatplow.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1653683732221744139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.762564999999995, -122.395405
+[View on Google Maps](https://maps.google.com/?cid=1653683732221744139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 8:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Plow
 
 If you’re over in the State Streets area of San Francisco and need a late breakfast around 9–10 AM, this is a fantastic place to stop.
@@ -61,6 +62,3 @@ I recently dropped my wife at the airport and swung by afterward — and it was 
 
 The fried egg sandwich is unreal, and the prosciutto and gruyere toast is next level. Every dish feels thoughtful and perfectly executed. You ca..." — **Tony de Smet** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

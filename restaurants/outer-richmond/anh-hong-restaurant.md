@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Anh Hong Restaurant
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 47 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 3123 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 885-5180  
 Website: [https://anhhongrestaurant.com/](https://anhhongrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16987631172045313608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7814671, -122.492871
+[View on Google Maps](https://maps.google.com/?cid=16987631172045313608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 5:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Food: 4/5
 Service: 4/5
 Ambiance: 4/5
@@ -65,6 +66,3 @@ The young sever was very friendly and helpful. All the dishes was beautifully pr
 The sour ..." — **Pepper Morris** (2 years ago)
 - ★★★★ "Good food and experience for wrapping your own Banh Trang (rice paper) rolls.  Many different selections of beef and other meats. Raw beef appetizer was a first for me.  Like eating a steak uncooked, seasoned with spices and lemon. I'd rather have it cooked or med rare. Good service and staff" — **D Gman** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

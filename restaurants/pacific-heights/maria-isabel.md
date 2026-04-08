@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Maria Isabel
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 5 stars — 56 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 500 Presidio Ave, San Francisco, CA 94115, USA  
 Phone: (415) 275-0075  
 Website: [http://mariaisabelsf.com/](http://mariaisabelsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3171543334035930372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7871339, -122.44660319999998
+[View on Google Maps](https://maps.google.com/?cid=3171543334035930372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Saturday: 5:00 – 9:30 PM
 Sunday: Closed
 
 ## What Diners Say
+
 - ★★★★★ "San Francisco, get ready to meet your new favorite restaurant!
 Acapulco’s coastal vibrancy, reimagined with a talented crew behind the scene brining this gem to SF, called Maria Isabel.
 
@@ -51,6 +52,3 @@ From the first bite, the dishes are vibrant, chef-driven and unapologetically fo
 The drinks were both balanced and complex with unique spirits beyond..." — **Joanna Caballero** (4 weeks ago)
 - ★★★★★ "The people who made Dalida one of the most popular places in SF now bring us a Mexican restaurant that will expand your understanding of what Mexican food can be. I was so excited to experience food different — a bit elevated from all the great but casual burrito/taco places in the city — but not a ..." — **Bill Ho** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

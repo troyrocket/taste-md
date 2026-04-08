@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # ABSteak by Chef Akira Back
 
 ## Cuisine
+
 **Steak house** — steak house
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.6 stars — 114 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 124 Ellis St, San Francisco, CA 94102, USA  
 Phone: (415) 421-9014  
 Website: [https://absteaksf.com/](https://absteaksf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4504295465285014175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7855444, -122.40838660000001
+[View on Google Maps](https://maps.google.com/?cid=4504295465285014175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "High end kbbq spot. You are definitely paying for quality and the experience as opposed to quantity. Located downtown, we had a reservation on a Thursday and there’s a parking garage nearby but it was a Thursday where there was a free rave in the street so we ended up taking public transportation. L..." — **Liann Amagan** (2 months ago)
 - ★★★★★ "Delicious high end Korean BBQ. This is a place where the food is cooked for you at your table and is served à la carte. I would highly recommend any of the Wagyu. The meat, banchan, sides, oysters and drinks are all amazing. The space is also very well decorated and there is a large selection of win..." — **Drew Hinkson** (a month ago)
 - ★★★★★ "Unbelievable upscale KBBQ value.
@@ -55,6 +56,3 @@ I think the price is just right. Not too expensive for what we ge..." — **Ardo
 - ★★★★★ "Peter and his team are flawless. The food is exceptional and the service is even better. From cocktails to apps to the main event, everything is executed at a very high level. The ambiance is superb, honestly the designer needs an award. I would highly recommend this place to anyone and everyone." — **Cory Contini** (a month ago)
 - ★★★★★ "Wow, mind blown by the food. Hidden down in a basement, doesn’t feel like you’re in San Francisco, but absolutely amazing dining experience. Didn’t get to try as many things as I would have liked, but everything we had was outstanding - from the mushroom & asparagus starter, to the bulgogi and wagyu..." — **Eve Denton** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

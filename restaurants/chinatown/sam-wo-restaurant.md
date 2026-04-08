@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Sam Wo Restaurant
 New location of the legendary Chinese eatery that's been serving casual eats since in 1907.
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, asian restaurant, cantonese restaurant, meal takeaway
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 1,353 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 713 Clay St, San Francisco, CA 94108, USA  
 Phone: (415) 989-8898  
 Website: [https://samworestaurant.com/](https://samworestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14770507745655037515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.794360999999995, -122.40515149999999
+[View on Google Maps](https://maps.google.com/?cid=14770507745655037515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "If you want a taste of "Old San Francisco," Sam Wo is a must-visit. Dating back to roughly 1907, it stands as one of the oldest establishments in Chinatown.
 
 ​The restaurant is split into two levels and is quite compact.
@@ -62,6 +63,3 @@ The food was delicious, everything came out fast (entrees before the appetizers,
 Delicious comfort food especially good if you like traditional dim sum flavors!" — **Cherry C** (2 months ago)
 - ★★★★★ "This is my second time at Sam Wo when visiting San Fran and omg I just had maybe my favorite Chinese dish ever. Bella was our sever and she was very accommodating to work to get us this delicious no longer on the menu item I had seen in other reviews. The pork noodle roll was delicious I think they ..." — **The Neurodiverse Nurse** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

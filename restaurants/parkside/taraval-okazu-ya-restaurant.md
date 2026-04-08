@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Taraval Okazu Ya Restaurant
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 388 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids · Restroom available
 
 1735 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 759-6850  
-[View on Google Maps](https://maps.google.com/?cid=269370803516912213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742478399999996, -122.48490109999997
+[View on Google Maps](https://maps.google.com/?cid=269370803516912213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Decided to eat at this restaurant, and was highly impressed with the serving sizes, and extremely nice staff. Ordered the chicken katsu, and loved the dish for the nice crisp, flavor, and not too salty. As aforementioned, the staff were quite personal, and frequently checking on us, attending to oth..." — **Dallas Sagin (MegaSalad)** (6 months ago)
 - ★★★★★ "I know this place for a many years.  My family loves to come here for dinner. Their sashimi are good.  My son doesn't eat sashimi, but he loves seafood.  They have different types of fishes dish plates that he looks forward to whenever we come over from Livermore.
 The staffs are very nice." — **Jessica Tran-Muniz** (a month ago)
@@ -52,6 +53,3 @@ The staffs are very nice." — **Jessica Tran-Muniz** (a month ago)
 - ★★★★ "The food is great, service is not good. We ask at 5 times for a cup of water. Ask for napkins but never come. I need to walk to the counter to get napkins for myself.  I probably will get to go instead dine in ." — **Linda Tang** (2 years ago)
 - ★★★★★ "2nd time we are here, order the Salmon dish , it was really well done , fresh , great seasoning  the best no dry or burnt . Love it 😍😋.   The Oder was a chicken Teriyaki combo with salmon sashimi , tempura  , some  order of unagi and Crazy roll ( unagi with sashimi) at the end the entree got ice c..." — **Lydia Gtrek W** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Lucca Delicatessen
 Imported Italian products sold alongside prepared sandwiches, pastas & soups for take-out.
 
 ## Cuisine
+
 **Deli** — deli, sandwich shop, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 459 reviews
 
 ## Dining Options
@@ -21,8 +22,7 @@ $$
 2120 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 921-7873  
 Website: [http://www.luccadeli.com/](http://www.luccadeli.com/)  
-[View on Google Maps](https://maps.google.com/?cid=837884945727205972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8006904, -122.43838919999997
+[View on Google Maps](https://maps.google.com/?cid=837884945727205972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Sunday: 9:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "After walking along the San Francisco Bay Trail to the Palace of Fine Arts, we ordered lunch online through ChowNow. The nice thing about using that site is 100% went to the restaurant not a % commission going to the food web site.
 
 The site said it would take 30 minutes but by the time we got there..." — **Patrick Graham** (a year ago)
@@ -53,6 +54,3 @@ There were six of us, and as it was a Sunday, it was very busy. It was a long wa
 - ★★★ "Great sandwich! Meat is excellent and they don't skimp out on the ingredients. Place gets pretty packed though, I'd recommend ordering online and doing pickup if you can." — **Nicholas Pun** (11 months ago)
 - ★★★★★ "I lived around the corner on Mallorca Way from 1985-1991 when I was single, in my late 20’s. I loved this place! Fast-forward 23 years to ~2014 and I insisted on taking my wife and two teenagers here while on vacation from NJ. We had sandwiches and sides while picnicking on the Marina Green. Delicio..." — **Peter Heyman** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

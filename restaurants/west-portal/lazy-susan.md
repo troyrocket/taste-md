@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Lazy Susan
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant, meal takeaway
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 113 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 811 Ulloa St, San Francisco, CA 94127, USA  
 Phone: (415) 858-7858  
 Website: [http://www.lazysusanchinese.com/](http://www.lazysusanchinese.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16688326964401405328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.74056780000001, -122.46545490000001
+[View on Google Maps](https://maps.google.com/?cid=16688326964401405328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "A gluten free haven! Most items are GF as-is (please know that the restaurantis not 100% gluten free). I've been here multiple times now; the food is always flavorful and piping hot. My favorite has been the orange chicken, and the sesame and General Tso's is delicious too. My non-GF guests did not ..." — **Heather Cameron** (11 months ago)
 - ★★★★★ "Such a delicious find!! The chicken was amazingly crispy with perfect sauce. And the beans are to die for! Crispy saucy flavorful. I can’t wait to be back!" — **Yekaterina Vronskiy** (6 months ago)
 - ★★ "Where’s the beef?!? The food was okay, but they gave me a whole onion and a little amount of beef. Not worth it to me if you are going to cut corners!
@@ -58,6 +59,3 @@ Food is a bit salty, and they clearly skimped on the beef for the black pepper b
 
 Sauces had potential, so they just need to work on their rati..." — **Jordan** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

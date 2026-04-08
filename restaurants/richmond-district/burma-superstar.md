@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Burma Superstar
 Bustling eatery offering homestyle Burmese specialties in snug & simple surrounds.
 
 ## Cuisine
+
 **Burmese restaurant** — burmese restaurant, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 3,893 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 309 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 387-2147  
 Website: [http://www.burmasuperstar.com/](http://www.burmasuperstar.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10744315307919991702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782813999999995, -122.4625643
+[View on Google Maps](https://maps.google.com/?cid=10744315307919991702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Great Burmese food. The side of rice was very dry but the cauliflower and chicken were excellent. Samosas were great tasting and good sauce.
 
 Soda is steep at $4.50 and mandate fee 5.5%." — **Albert K** (3 weeks ago)
@@ -56,6 +57,3 @@ Soda is steep at $4.50 and mandate fee 5.5%." — **Albert K** (3 weeks ago)
 - ★★★★★ "If you’re on Clement Street in San Francisco and your stomach is craving bold, spiced flavors, **Burma Superstar** is definitely one of those neighborhood treasures worth battling the crowds for. From the moment you step in, the aroma of garlic, toasted nuts, and chilies sets the tone — you know you..." — **S Pattanshetty** (4 months ago)
 - ★★★★★ "The food here is great but the service here here is stupendous. All the food is well-cooked and the attention to allergens is spot on. Hell, our server received confirmation from the kitchen that they could make something. But, just to make sure, he double checked and prevented us from having to eat..." — **Khiem Nguyen** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

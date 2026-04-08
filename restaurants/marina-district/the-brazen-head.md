@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # The Brazen Head
 Pub serving an American menu in a retro space with wood paneling & stained glass.
 
 ## Cuisine
+
 **Restaurant** — steak house, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 830 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for watching sports · Restroom available
 3166 Buchanan St, San Francisco, CA 94123, USA  
 Phone: (415) 921-7600  
 Website: [https://brazenheadsf.com/](https://brazenheadsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1985027031931660382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.799287199999995, -122.4323537
+[View on Google Maps](https://maps.google.com/?cid=1985027031931660382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Perfect cozy spot to get out of the SF cold for dinner, so warm and a cozy! Lovely ambience.
 
 The food is great quality; The appetizers are fun to try a few amongst couple people, highly reccoment the burrata, meatballs, sliders, and prime rib. The cocktails are strong and tasty, and a great price t..." — **Arielle Day** (a month ago)
@@ -57,6 +58,3 @@ The food is great quality; The appetizers are fun to try a few amongst couple pe
 
 Prices are super reasonable! We spent $168 for two people, which included a bottle of wine, two apps, two entrées, and dessert. The sta..." — **Lauren Talley** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

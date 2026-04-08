@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Superprime Steakhouse
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 59 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 545 Mission St, San Francisco, CA 94105, USA  
 Phone: (415) 658-7654  
 Website: [https://www.superprimesf.com/](https://www.superprimesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4398312535685253869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7887962, -122.39845550000001
+[View on Google Maps](https://maps.google.com/?cid=4398312535685253869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Ben and the team were exceptionally professional, attentive, and accommodating throughout our meal. I especially appreciated Ben’s hospitality when he offered to switch out a bottle of sake I didn't care for, a level of service that didn't go unnoticed.
 
 Unfortunately, the kitchen didn't quite match..." — **Judy Pham** (4 weeks ago)
@@ -57,6 +58,3 @@ So far our fave is the spicy chicken sandwich.  The fries are so good o..." — 
 
 The fat cap had been trimmed off before cooking, which removed the defining character of the cut. The restaurant ultimately removed the steaks from th..." — **//** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

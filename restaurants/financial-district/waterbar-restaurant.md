@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Waterbar Restaurant
 Stylish seafood spot with oysters, a horseshoe-shaped bar, and patio with up-close views of Bay Bridge.
 
 ## Cuisine
+
 **Seafood restaurant** — seafood restaurant, brunch restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 4,345 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Dog-friendly · Restroom 
 399 The Embarcadero, San Francisco, CA 94105, USA  
 Phone: (415) 284-9922  
 Website: [https://www.waterbarsf.com/](https://www.waterbarsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12626790939350947437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7904926, -122.3890417
+[View on Google Maps](https://maps.google.com/?cid=12626790939350947437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Great experience with our baby! The staff sooo nice to us and super helpful~
 The food is great ~ the oyster of the day is only $1.5!!! Can’t believe it. It was pretty decent.
 Steak also nice here - so as the stuff served together with the steak: mushroom, onion ring and potato" — **Yusi** (3 weeks ago)
@@ -61,6 +62,3 @@ Now, let’s talk about the food — ..." — **L** (a month ago)
 
 Food-wise, the black cod was excellent—perfectly cooked and full of flavour. Great ..." — **Mahadji Bahi** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

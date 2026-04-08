@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Zevi Cafe & Bistro
 
 ## Cuisine
+
 **Turkish restaurant** — turkish restaurant, wine bar, greek restaurant, diner, mediterranean restaurant, brunch restaurant, vegetarian restaurant, breakfast restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 460 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 67 5th St, San Francisco, CA 94103, USA  
 Phone: (415) 757-0266  
 Website: [https://www.zevisf.com/](https://www.zevisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4853658423144248933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7832467, -122.4067606
+[View on Google Maps](https://maps.google.com/?cid=4853658423144248933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Zevi Café was my first meal in San Francisco, and I couldn’t have picked a better place to start the trip. The food was delicious — a mix of Turkish dishes and American favorites.
 
 It’s a family-owned business, and our waiter kindly shared the story behind the restaurant and even gave us a few recom..." — **Rocío Serrano** (3 weeks ago)
@@ -57,6 +58,3 @@ It’s a family-owned business, and our waiter kindly shared the story behind th
 Friendly and funny staff. Accommodating to changes made to the order. Food was brought promptly." — **Eric Bower** (a month ago)
 - ★★★★★ "Great place! I wasn’t expecting to find such high-quality Turkish food in SF. Meze, döner, kebab, and baklava were all spot on. I truly felt at home." — **Soner Ocak** (2 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

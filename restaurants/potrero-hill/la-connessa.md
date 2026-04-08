@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # La Connessa
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 271 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 1695 Mariposa St, San Francisco, CA 94107, USA  
 Phone: (628) 221-0123  
 Website: [https://www.laconnessa.com/](https://www.laconnessa.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2329398201019078924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7635326, -122.40035830000001
+[View on Google Maps](https://maps.google.com/?cid=2329398201019078924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Beautiful ambiance but disappointing food quality for the price point. La Connessa excels in atmosphere and decor - perfect for impressing a date with the setting. However, the food and service don't match the upscale presentation.
 
 Eggplant Caponata ($18): Small portion, average taste
@@ -58,6 +59,3 @@ I think the best thing is the vibe and the look of the restaurant. When the sunl
 - ★ "Reserved this place for valentines day. My wife is vegetarian. I called ahead because the options were subpar. Hostess tells me they can accomadate just tell the server and the server will talk to the chef. Chef Is aware. Showed up told the server. Server gave us Hella attitude, completely ignored m..." — **Michael Aragon** (a month ago)
 - ★★★★★ "I meant to do this earlier but ya. We when here on December 16th. The place was so beautiful with the lights and beautiful bar. The host (pink hair lady) was really nice and gave us the best table the place. Waiter ( Eugene I think?) was super helpful and friendly. Gave us great suggestions on what ..." — **Katelyn Hernandez** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

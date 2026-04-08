@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Mezze and Mooore II
 
 ## Cuisine
+
 **Lebanese restaurant** — lebanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 100 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 627 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 571-8148  
 Website: [https://www.mezzeandmooore.com/](https://www.mezzeandmooore.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2729944800787968740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7639706, -122.46460760000001
+[View on Google Maps](https://maps.google.com/?cid=2729944800787968740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "i hardly eat a meal nowadays where i think every single dish served is a 10/10 but mezze and moore made me a believer again!
 
 my party of 4 had their “mezze feast” where each person gets to try 3 cold and 3 hot mezze dishes for $35. unlike ordering a bunch of dishes to share and maybe needing to spl..." — **Cindy Tsui** (5 months ago)
@@ -56,6 +57,3 @@ my party of 4 had their “mezze feast” where each person gets to try 3 cold a
 Tried the mezze tasting menu (so many great vegan options) and EVERYTHING was such a hit. Perfectly prepared and spiced, this place was such a delight to eat at." — **Kri B** (5 months ago)
 - ★★★★★ "My new favorite SF restaurant after living here for 7 years. Delicious, inventive, healthy and authentic Lebanese cuisine, with friendly staff in a nice romantic ambiance. Portions are generous and overall well-priced. Also, their menu is actually quite distinct from the original Mezze and Moore, wh..." — **Kavon Javaherian** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

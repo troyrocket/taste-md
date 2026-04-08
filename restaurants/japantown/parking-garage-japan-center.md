@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Parking Garage @ Japan Center
 Vibrant shopping center features a range of Japanese restaurants & shops, plus a market & theater.
 
 ## Cuisine
+
 **Parking garage** — parking garage, parking lot, corporate office, parking, japanese restaurant, transportation service, service
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.2 stars — 775 reviews
 
 ## Location & Contact
@@ -17,8 +18,7 @@ Unknown
 1610 Geary Blvd, San Francisco, CA 94115, USA  
 Phone: (415) 956-8003  
 Website: [http://japancentergarage.org/](http://japancentergarage.org/)  
-[View on Google Maps](https://maps.google.com/?cid=990914860033084534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7849544, -122.43015820000001
+[View on Google Maps](https://maps.google.com/?cid=990914860033084534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -37,6 +37,7 @@ Sunday: 9:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "I parked at the Japan Center garage when I went to the China Consulate in San Francisco.
 
 The garage was easy to find and very convenient. It is about a 3 minute walk to the consulate, which made it a good option. I paid 3 dollars per hour, which I thought was reasonable for San Francisco.
@@ -49,6 +50,3 @@ Entering was easy as leaving. It is a busy parking lot so you may need to make s
 - ★★★★★ "Our go-to parking spot for all our Japan Town and Fillmore activities. Easy access, with plenty of open spots, it’s perfect for your city experience. Just hope this positive review doesn’t create crowding. 😉" — **Kevin Jaskela** (3 months ago)
 - ★★★★★ "Nice parking garage. Feel safe parking my car here. I arrived after close at 11pm and I was able to retrieve my car which was a relief and very easy.  Perfect parking garage if you are attending a show at the Fillmore!" — **Maric** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

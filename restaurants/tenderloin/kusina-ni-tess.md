@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Kusina Ni Tess
 Basic, buffet-style restaurant serving generous portions of Filipino standards.
 
 ## Cuisine
+
 **Filipino restaurant** — filipino restaurant, brunch restaurant, breakfast restaurant, dessert restaurant, seafood restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.7 stars — 268 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Dog-friendly · Restroom available
 237 Ellis St, San Francisco, CA 94102, USA  
 Phone: (415) 351-1169  
 Website: [https://kusinanitess.co/](https://kusinanitess.co/)  
-[View on Google Maps](https://maps.google.com/?cid=14846377775916316969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7850971, -122.4101791
+[View on Google Maps](https://maps.google.com/?cid=14846377775916316969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I am very ignorant of Filipino cuisine and this was the perfect place to learn (they offer to taste what you don't know ) and love (everything is delicious!)
 
 The dinuguan (thick pork blood stew) was an absolute delicacy, highly recommended.
@@ -62,6 +63,3 @@ We'll be back while staying at Park 55" — **Jason Sokolowski** (3 weeks ago)
 
 I also ordered the grilled pork on a stick, I was al..." — **Jesse Lee** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

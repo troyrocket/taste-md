@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Caffé Sport
 Lively spot for Sicilian specialties served in an eclectic, kitsch-filled setting.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, seafood restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 756 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 574 Green St, San Francisco, CA 94133, USA  
 Phone: (415) 981-1251  
 Website: [https://www.caffesportmenu.com/](https://www.caffesportmenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1229323402159215516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7996707, -122.40861770000001
+[View on Google Maps](https://maps.google.com/?cid=1229323402159215516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Really busy Saturday night in North Beach, but we were lucky to get a table here with practically no wait. The staff worked to get us seated promptly.
 
 They were really busy so I didn't expect the food to come out as fast. I did have to remind them of sending out our oysters after our pasta came out..." — **Ying Zhang** (3 months ago)
@@ -72,6 +73,3 @@ The deco is quirky yet fun.
 Excellent value for money." — **Sjaak Blaauw** (5 months ago)
 - ★★★★ "Savory Sicilian food in San Francisco.  The Pomodoro Bruschetta was delicious.  I recommend it.  For the main, I had the lasagna which was also good.  Next time I am going to order a pizza - the one at a nearby table looked very appetizing.  Elliott, our server was friendly, efficient and profession..." — **John Berger** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

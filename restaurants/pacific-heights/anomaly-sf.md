@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Pacific Heights](index.html)
-
 # Anomaly SF
 
 ## Cuisine
+
 **Fine dining restaurant** — fine dining restaurant
 
 ## Price Range
+
 $$$$
 
 ## Rating
+
 4.8 stars — 200 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 2600 Sutter St, San Francisco, CA 94109, USA  
 Phone: (415) 510-9468  
 Website: [http://www.anomalysf.com/](http://www.anomalysf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7554990784514359528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7849566, -122.44338420000001
+[View on Google Maps](https://maps.google.com/?cid=7554990784514359528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "From the moment we walked in, the experience felt truly first class. We were welcomed with complimentary champagne that was so good I happily stuck with it throughout the evening. It immediately set a refined and elegant tone.
 
 Sitting directly in front of the open kitchen was an incredible part of ..." — **Brandi Jean** (2 months ago)
@@ -57,6 +58,3 @@ The food was creative and well-executed, though some dishes felt a bit rich for 
 - ★★★★★ "I decided to celebrate my birthday at Anomaly this time and it was a wonderful experience. The food was top notch with so many interesting flavors. The presentation, the ambience and friendly service made this a very memorable evening for me. They were also super accommodative of my dietary restrict..." — **Suramya Mukesh** (5 months ago)
 - ★★★★★ "Surprisingly delightful!  The chef here not only takes an incredibly creative approach combining herbaceous fresh flavor profiles and textures but also temperatures. An interesting and delicious experience that will keep you and your dinner mates discussing the meal throughout! Definitely recommend ..." — **Christina Luah** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

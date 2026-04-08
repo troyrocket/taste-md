@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Phat Thai
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 317 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 2380 Lombard St, San Francisco, CA 94123, USA  
 Phone: (415) 757-0022  
 Website: [http://www.phatthaisf.com/](http://www.phatthaisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12083553569469412557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7995057, -122.44070599999999
+[View on Google Maps](https://maps.google.com/?cid=12083553569469412557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Have an amazing time here with friends and family. The foods are delicious ~ mine friends were basically licking their dish clean. Service is 100/100 ⭐️⭐️⭐️⭐️⭐️
 
 Highly recommend Pad Thai, Calamari fry and the cheese cake." — **Co Nhan** (2 months ago)
@@ -61,6 +62,3 @@ Vibe- love the simple and bright decor. Clean and good lighting.
 
 Food- so dang tasty. We got pad Thai, pad see eww, and drunken noodles for entrees. And spring rolls and cucumber salad as appetizers. All good was super flavorful, good portion sizes, and wel..." — **Sharlene Simon** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

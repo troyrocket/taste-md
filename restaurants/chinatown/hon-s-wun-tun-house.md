@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Hon’s Wun-Tun House 洪記面家
 
 ## Cuisine
+
 **Restaurant** — cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 709 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 733 Washington St, San Francisco, CA 94108, USA  
 Phone: (415) 397-3232  
 Website: [https://honswuntunhouse-sf.com/](https://honswuntunhouse-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9755410395794651298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7950328, -122.4060592
+[View on Google Maps](https://maps.google.com/?cid=9755410395794651298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 9:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Hon’s Wun-Tun House is an absolute go-to for dumplings and Hong Kong–style comfort food.  Visited in May, 2025.
 
 If you’re looking for a place that really delivers on wontons and dumplings, Hon’s Wun-Tun House absolutely deserves the praise.
@@ -56,6 +57,3 @@ Sui kow are a standout here: juicy Chinese dumplings fill..." — **Piotr Grodek
 - ★★★★★ "Unassumingly great spot for authentic Cantonese food. The servers were attentive and quick. The Shanghai-style pan-fried soup dumplings were surprisingly good (and very hot, so be careful 😂). The wonton noodle soup was also really tasty. Highly recommended!" — **Yizhou Jiang** (a month ago)
 - ★★★★ "The restaurant is in the busy Chinatown, but besides visiting on the weekend it was relatively fast to get a table. I ordered the wonton noodles with beef, and the service was a not super receptive and didn’t offered any drinks or water. The noodles were good and have a nice portion, and the taste w..." — **Gustavo Gomes** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

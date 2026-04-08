@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Diamond Heights](index.html)
-
 # Au Sushi
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 82 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Restroom available
 5214 Diamond Heights Blvd A, San Francisco, CA 94131, USA  
 Phone: (415) 466-5633  
 Website: [https://www.ausushi.com/](https://www.ausushi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8730107405539249646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7438657, -122.4400721
+[View on Google Maps](https://maps.google.com/?cid=8730107405539249646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Just had an amazing meal at Au Sushi and everything was outstanding. The fish was incredibly fresh, and you can really tell they care about quality.
 
 Sara, the owner, provided exceptional service—warm, attentive, and made us feel truly welcome. The sushi chef Andy is extremely talented; his sashimi ..." — **Citi Cleaners Paul** (a month ago)
@@ -56,6 +57,3 @@ Sara, the owner, provided exceptional service—warm, attentive, and made us fee
 Decent size space, has a sushi bar, and high chairs.
 The favorites I ordered were the fish tacos and hot king roll!" — **Esther Yeoh** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

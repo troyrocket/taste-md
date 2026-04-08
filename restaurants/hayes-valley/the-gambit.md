@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # The Gambit
 
 ## Cuisine
+
 **Restaurant** — bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 104 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 581 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 500-2850  
 Website: [http://www.gambitlounge.com/](http://www.gambitlounge.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6059946542683568398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.776340399999995, -122.4260054
+[View on Google Maps](https://maps.google.com/?cid=6059946542683568398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of my favorite local spots, especially for showing off the neighborhood to family and friends from out of town.
 
 Excellent drinks and ambiance, and I particularly enjoy the roasted beet salad.
@@ -61,6 +62,3 @@ a unique seafood fondue that caught the eye of Columbus of food and some pulled 
 nice terrace for a sunny day, don't know what more to say." — **euro** (2 years ago)
 - ★★★★★ "This was my wife's and my first time visiting San Francisco and came to Gambit on a recommendation from a friend.  It did not disappoint!!  The craft cocktails served up by the team are amazing (I could drink the Man About Town all night) and we loved the small plate food selections as well.  On top..." — **Darrin Barraza** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

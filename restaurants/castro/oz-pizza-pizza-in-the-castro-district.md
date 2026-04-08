@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Oz Pizza - Pizza in the Castro District
 Easygoing pizza shop with classic & creative slices & pies in a no-frills space with outdoor tables.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, fast food restaurant, pizza delivery, meal delivery, food delivery, meal takeaway
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.1 stars — 365 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Restroom available
 508 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 861-2525  
 Website: [http://www.ozpizzasf.com/](http://www.ozpizzasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10737610729534280653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7606205, -122.4351561
+[View on Google Maps](https://maps.google.com/?cid=10737610729534280653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 3:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Overpriced, bad pizza.
 
 I was drawn in by the "Hot Slices" sign but a little wary since it was completely empty at dinnertime. All the pizzas looked underwhelming but I was hungry, so I decided to get a Potato Pesto Garlic slice. It cost $8.24 before tip.
@@ -63,6 +64,3 @@ The price is crazy, though.  Almost $9 for one slice with scant toppings!
 
 Would be ok for late night, but there’s probably better/cheaper around during the day." — **Santos L. Halper** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

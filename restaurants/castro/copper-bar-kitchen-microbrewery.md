@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Copper Bar Kitchen & Microbrewery
 
 ## Cuisine
+
 **Bar** — bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 96 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Restroom available
 4092 18th St, San Francisco, CA 94114, USA  
 Phone: (415) 875-9690  
 Website: [https://coppersf.com/](https://coppersf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1089226804331018746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.761023699999996, -122.43462829999999
+[View on Google Maps](https://maps.google.com/?cid=1089226804331018746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 11:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "If you’re looking to stop by and have a drink or grab food and stay awhile … this is the SF Castro Bar for you! The staff is incredibly welcoming and friendly. Service is consistently great.
 
 Amazing indoor/outdoor vibe here. Very cute and cozy on the inside. Highly recommend the Espresso Martini. Y..." — **Ash Purcell** (4 months ago)
@@ -54,6 +55,3 @@ Amazing indoor/outdoor vibe here. Very cute and cozy on the inside. Highly recom
 The..." — **M. Chen** (a year ago)
 - ★★★★★ "Met a friend here and it’s a super little bar - great vibe and the street space area was a great addition.  Service was great, good selection and really well decked out - classy and cool but not pretentious.  Staff were super lovely! The food options were super too - nice and easy but tasty as.  Per..." — **Danny McKeown-Henshall** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

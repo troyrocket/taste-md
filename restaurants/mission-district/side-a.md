@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # side a
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 107 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Dog-friendly · Restroom available
 2814 19th St, San Francisco, CA 94110, USA  
 Phone: (415) 231-4969  
 Website: [https://sideasf.com/](https://sideasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13283435632227195330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7606162, -122.41054589999999
+[View on Google Maps](https://maps.google.com/?cid=13283435632227195330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 4:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Side A is absolutely worth the hype. The bar seats are the best because you’re basically watching the kitchen the whole time.
 
 The chef (rocking a Cubs hat) is from Chicago and the menu has this perfect Midwest comfort food energy, but executed with real skill.
@@ -59,6 +60,3 @@ Highlights: bone marrow (immediately ..." — **Mallory Loar** (2 months ago)
 
 We tried the chicken cutlet and the cheeseburger, and both were outstanding. The cutlet..." — **Lina Eryani** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

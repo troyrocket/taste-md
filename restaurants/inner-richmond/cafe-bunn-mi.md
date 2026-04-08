@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Cafe Bunn Mi
 This casual Inner Richmond spot offers a modern take on Vietnamese dishes. Cash only.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant, sandwich shop
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 627 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 417 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 668-8908  
 Website: [https://bunnmi.com/](https://bunnmi.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3182496879453908333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782866299999995, -122.46373829999997
+[View on Google Maps](https://maps.google.com/?cid=3182496879453908333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "I’m really frustrated. We specifically asked for no cilantro. The cashier confirmed it. When I opened my to go order, there was so much cilantro in my pho. If it wasn’t frigid in the restaurant itself we would’ve opened it up and caught in and returned it immediately. Unfortunately that was not an o..." — **Ari Russo** (a month ago)
 - ★★★★★ "Wednesday is the dayyyyyy
 Perfect balance of meat and veggies 🔥
@@ -59,6 +60,3 @@ The balance between the meat and veggies is perfect and everything is super fres
 Th..." — **Ana Sofía Vázquez** (a year ago)
 - ★★★ "The  sandwiches are fancy and on the big portion side. I feel it would be ok without the cabbage and purple cabbage  that alone to me is a bit extra but the pork belly sandwich I ate was delicious and tender. The Vietnamese coffee was too bitter for me I had to fill it up with water and was still bi..." — **Lucy** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

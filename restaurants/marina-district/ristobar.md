@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Ristobar
 Thin-crust pizza & Italian small plates served amid muraled walls & a Venetian glass chandelier.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, wine bar, seafood restaurant, cocktail bar, dessert restaurant, pizza restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 270 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 2300 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 923-6464  
 Website: [http://ristobarsf.com/](http://ristobarsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4808572699602030590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8003348, -122.4414157
+[View on Google Maps](https://maps.google.com/?cid=4808572699602030590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Good Italian restaurant in the Marina. It has a lot of seating indoors & outdoors and a nice vibe and ambience.
 
 They have a menu that isn't too long, offering a number of options for pasta, pinsa, salads, and other appetizers. They also have a number of specials. We tried the mushroom raviolini and..." — **Laura** (3 weeks ago)
@@ -60,6 +61,3 @@ My wife had Ceasars sala..." — **Chris Voet** (a month ago)
 - ★★★★★ "Ham and melon and mixed fried fish accompanied by a Pinot Noir, this was my starter. I continued with fresh pasta with braised ragu and continued with a second course of exceptional meat and polenta... I don't have photos but I will return soon and post them again... I AM SICILIAN, so the quality an..." — **Hila Gelato Caffè** (5 months ago)
 - ★★★★★ "A delicious spot with stellar service! So happy I got to try this. The white lotus was to die for as well as the carbonara. I will be coming back again and again!  Mica made me and my family feel so loved. A wonderful place to come for a great night with great food." — **Doll Doll** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

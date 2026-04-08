@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Royal Indian Cuisine on Fillmore
 Casual neighborhood stop for Himalayan and Northern India classics, along with lunch specials.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 700 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 1740 Fillmore St, San Francisco, CA 94115, USA  
 Phone: (415) 567-7789  
 Website: [https://www.royalindianonline.com/](https://www.royalindianonline.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10359426152631345231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7858391, -122.43299970000001
+[View on Google Maps](https://maps.google.com/?cid=10359426152631345231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 4:30 PM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "This was my first time at this particular restaurant and it was quite interesting since it's in Japantown San Francisco. I was shocked by the amount of vegetarian as well as vegan dishes on the menu so I was able to order things with ease.
 Everything we ordered tasted delicious but I think we came i..." — **HapaKay Foodie** (3 months ago)
 - ★★★★★ "Got the tandoori chicken and the kashmiri chicken with one naan and one roti. The tandoori chicken is done well and delicious when paired with the chutneys but they are coated in a sweet and sour sauce thats a little unexpected. Loveeee the kashmiri chicken, basically butter chicken with saag. Wish ..." — **Phuong Luong** (3 weeks ago)
@@ -59,6 +60,3 @@ I also enjoyed the lamb biryani, it was very flavorful. The garlic naan and chic
 Restaurant vibes are good and service..." — **Grace Ling** (a year ago)
 - ★★★★★ "This place is absolutely amazing. Me and my sister use to eat at this other Indian place but they got shut down (they didn't make enough money to stay open 😞) this place taste the exact SAME. We could cry it was so delicious. We had saag Aloo and butter chicken garlic & butter naan and a side of ri..." — **Alicia Rodrigues** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

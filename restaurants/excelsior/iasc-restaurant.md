@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # IASC Restaurant
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 N/A stars — 0 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Restroom available
 
 25 Russia Ave, San Francisco, CA 94112, USA  
 Website: [https://www.iascsf.net/menu](https://www.iascsf.net/menu)  
-[View on Google Maps](https://maps.google.com/?cid=4144918933788508332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.721422499999996, -122.43663180000001
+[View on Google Maps](https://maps.google.com/?cid=4144918933788508332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,8 +44,6 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 No reviews available yet.
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

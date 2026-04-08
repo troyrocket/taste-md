@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # DACHA Kitchen & Bar
 
 ## Cuisine
+
 **Eastern European restaurant** — eastern european restaurant, russian restaurant, brunch restaurant, coffee shop, catering service, cafe, food delivery, cocktail bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.8 stars — 408 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 1085 Sutter St, San Francisco, CA 94109, USA  
 Phone: (510) 616-4264  
 Website: [https://www.dachaprojects.com/](https://www.dachaprojects.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1584274119059197753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7878642, -122.418238
+[View on Google Maps](https://maps.google.com/?cid=1584274119059197753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 2:30 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I liked the experience overall.  Appetizers: borsch, chicken pate, pickled vegetables and eggplant were delicious.  Garlic pampushka should be more garlicky in my opinion, but that's debatable.  For the main courses, the feeling was mixed.  I liked my Pozharky Cutlet but not the garnish.  It was swe..." — **Pasha Gleyzer** (3 months ago)
 - ★★★★★ "A cozy and vibrant gem in San Francisco
 
@@ -59,6 +60,3 @@ Big thanks to Dacha’s founders, management, and entire team for giving us an a
 
 We were truly showered with support, hospitality, care, and..." — **Nika Airikainen** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

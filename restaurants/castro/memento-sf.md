@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Memento SF
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 102 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Live music · Good for groups · Restroom available
 1305 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 829-3099  
 Website: [http://www.mementosf.com/](http://www.mementosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5802534064464641867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7510547, -122.43379809999999
+[View on Google Maps](https://maps.google.com/?cid=5802534064464641867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We went to Memento for a pre-Valentine’s dinner, and it was such a lovely experience.
 
 The servers were warm and attentive, and the food was excellent. As a vegetarian, I’ve never really had the chance to enjoy paella but their vegetarian paella was outstanding, and honestly worth returning for on i..." — **Shalini Jiddu** (a month ago)
@@ -59,6 +60,3 @@ Rafael, the owner, p..." — **Marisa M** (7 months ago)
 - ★★★ "À warm and friendly restaurant at the heart of Noe Valley, where the proprietor greets his guests and they accommodate your needs. We were celebrating a birthday and brought a cake with us. Momento charged only a $5 service fee." — **Mark HK** (5 months ago)
 - ★★★★★ "Had an amazing dinner experience with a large group of friends Friday night and everything we ordered was so delicious! We ordered the shishito peppers, empanadas, mussels, truffle fries, roasted salmon, crispy curry chicken, beets rigatoni, beef tacos & Portobello mushroom burger and every single d..." — **Lulu Baydoun** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Izzy's Steaks & Chops
 Old-school joint serving generous helpings of classic carnivore-friendly options.
 
 ## Cuisine
+
 **Steak house** — steak house, american restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.3 stars — 850 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 3345 Steiner St, San Francisco, CA 94123, USA  
 Phone: (415) 563-0487  
 Website: [https://www.izzyssteaks.com/](https://www.izzyssteaks.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11690286575527306346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8003108, -122.4380507
+[View on Google Maps](https://maps.google.com/?cid=11690286575527306346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "A little disappointed as I had dined at the San Carlos location many times and the food has always been good at that location.  The SF location was meh. Some notes:
 
 Prawn Cocktail – GINORMOUS.  Comes in threes and you only need one per person.
@@ -59,6 +60,3 @@ Bone marrow 10/10 prime rib 10/10 the creamy spinach and potatoes also 10/10. No
 - ★★★★★ "Great food and service. The steak was cooked perfectly and seasoned well. It was very loud due to a big table next to us in the dining area and the waitress noticed and moved us to another area. The server went above and beyond to ensure we had a nice time." — **Ken Oliver** (3 months ago)
 - ★★★★★ "My husband and I truly enjoyed our time at Izzy’s. The ambiance was intimate yet lively. The ambiance felt cozy yet sophisticated. The food, my goodness! The ribeye was so flavorful, however the cream spinach was the star of the show! I also recommend the bone marrow to start. It was so rich, savory..." — **Tamika Simeon** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

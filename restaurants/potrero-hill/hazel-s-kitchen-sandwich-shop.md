@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Hazel's Kitchen (Sandwich Shop)
 Small storefront peddling simple American breakfast & lunch dishes via counter service.
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, breakfast restaurant, meal takeaway
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 300 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids
 1319 18th St, San Francisco, CA 94107, USA  
 Phone: (415) 647-7941  
 Website: [http://hazelskitchen.com/](http://hazelskitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14769925341815099054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.76251190000001, -122.39607570000001
+[View on Google Maps](https://maps.google.com/?cid=14769925341815099054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 9:00 AM – 3:00 PM
 **Payment:** Credit cards · Debit cards · NFC / contactless
 
 ## What Diners Say
+
 - ★★★★★ "Cheers to the best sandwich shop in San Francisco! Amazing food and one of the few places with customer service in the city. The workers remembered me after leaving years ago. Definitely a must every time I’m in the city! Also the views from Potrero Hill are peak! Chicken Melt or the Philly are amaz..." — **Daniel Ryan** (a month ago)
 - ★★★★ "Decided to come here after seeing how crazy the wait was for Plow which is just down the block and was pleasantly surprised!
 
@@ -55,6 +56,3 @@ They have an extensive menu but my friend and I decided to split the scramble pl
 I was shocked they had the courage to wrap this and give it to me.  I wish I ate it in restaurants so I could show them how bad it ..." — **Y R** (4 months ago)
 - ★★★★ "Their steak sandwich definitely one of my favorites as you can see from picture of the glistening and caramelized onions. Good mix of flavors sweet from the peppers, salty from the seasoned steak. The only thing I wish would be better is the bread. It seems very tough in the center of the bread. For..." — **RC** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

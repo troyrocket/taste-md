@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # bao
 Dim sum is served along with an array of Chinese small plates at this light, artful establishment.
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 600 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 590 Valencia St, San Francisco, CA 94110, USA  
 Phone: (415) 658-7453  
 Website: [https://www.baovalencia.com/](https://www.baovalencia.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11869860890938907727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763505699999996, -122.42199869999999
+[View on Google Maps](https://maps.google.com/?cid=11869860890938907727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We ended up at bao unexpectedly and ended up having a scrumptious feast. Everyone wanted to try out different dishes so we ended up getting pretty much everything we wanted.
 
 None of the dishes were disappointing. Some bao and dim sum plates were cooked with original Chinese seasoning, which may be ..." — **Ben Park** (8 months ago)
@@ -56,6 +57,3 @@ None of the dishes were disappointing. Some bao and dim sum plates were cooked w
 - ★★★★★ "A lovely place with delicious food - for both meat-eaters, vegans and vegetarians. We ordered some very good baos and vegetarian dumplings, and then we had this intricately made mango stuffed hot pastry, looking like swans. The waitress was super sweet and intelligent - she brought us two boxes when..." — **Lisa T K** (7 months ago)
 - ★★★★★ "4.5/5 all things considered. Dim sum quality is decent. It’s clean, well run, relatively fast. Kudos on not charging any such SF mandate fee, and that suggested tip is calculated based on subtotal. Honesty right there. Downside is pricing which is on the mid to high side for this level of dim sum, b..." — **Kun K** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

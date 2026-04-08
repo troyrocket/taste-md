@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bayview](index.html)
-
 # Pizza Zone N Grill
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 209 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids
 4404 3rd St, San Francisco, CA 94124, USA  
 Phone: (415) 282-6000  
 Website: [https://www.pizzazonengrillmenu.com/](https://www.pizzazonengrillmenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11511007046359749174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.737890199999995, -122.38984839999999
+[View on Google Maps](https://maps.google.com/?cid=11511007046359749174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,7 +43,21 @@ Sunday: 11:00 AM – 12:00 AM
 **Payment:** Credit cards · Debit cards · NFC / contactless  
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
+## Frequently Asked Questions
+
+**Q: Is Pizza Zone N Grill good?**
+Mixed. Fans love the yeasty crust and big value. They cater events with variety chicken wing flavors. But some find the toppings skimpy and overpriced.
+
+**Q: What's good at Pizza Zone N Grill?**
+The pizza with unique combo toppings, fried shrimp with fries, and the burgers. The chicken wings with various flavors are great for events.
+
+**Q: Any complaints about Pizza Zone N Grill?**
+Pepperoni pizza sometimes comes with very little pepperoni. One Philly cheesesteak had no steak, substituted with mushrooms. Quality control is inconsistent.
+
+
+
 ## What Diners Say
+
 - ★★★★★ "They have the best tasting pizza and chicken wings.  We had them caterer our wedding reception with variety of flavors with chicken wings.  We pick up delicious pizza from them for events. Church events successful." — **Sandra Rouse** (2 months ago)
 - ★★ "I bought Philly cheese steak and literally it was no steak it was substituted with mushroom, and every darn time I order pepperoni pizza it's mostly cheese with little to  no pepperoni on it, and it's so darn irritating. Today was my last time eating there." — **Yolan Coleman** (6 months ago)
 - ★★★★★ "Yeasty crust, unique combo topping options. Perfect when craving a comforting slice, and with the munchies. Big value for money.
@@ -59,19 +73,3 @@ complain when I'm serious about the problem. My
 entire order was wrong. My pizza was made with
 pizza sauce (marinara) when I specifically ordered
 pesto..." — **Nefertiti Pollard** (3 years ago)
-
-## Frequently Asked Questions
-
-**Q: Is Pizza Zone N Grill good?**
-Mixed. Fans love the yeasty crust and big value. They cater events with variety chicken wing flavors. But some find the toppings skimpy and overpriced.
-
-**Q: What's good at Pizza Zone N Grill?**
-The pizza with unique combo toppings, fried shrimp with fries, and the burgers. The chicken wings with various flavors are great for events.
-
-**Q: Any complaints about Pizza Zone N Grill?**
-Pepperoni pizza sometimes comes with very little pepperoni. One Philly cheesesteak had no steak, substituted with mushrooms. Quality control is inconsistent.
-
-
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

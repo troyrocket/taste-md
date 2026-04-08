@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Slice House by Tony Gemignani
 A prominent pizza chef is behind this slice shop with many pie styles & seasonal ingredients.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant, pizza delivery, salad shop, chicken wings restaurant, meal delivery, food delivery, meal takeaway, italian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 737 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Good for watching sports
 1535 Haight St, San Francisco, CA 94117, USA  
 Phone: (415) 552-2520  
 Website: [https://slicehouse.com/haight/](https://slicehouse.com/haight/)  
-[View on Google Maps](https://maps.google.com/?cid=3470456051766939047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.769745, -122.44754999999999
+[View on Google Maps](https://maps.google.com/?cid=3470456051766939047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of the best pizza chains I've been and I've been to my fair share of them.
 Great value in their slices which are massive, the regular New York style ones and not the squares.
 
@@ -57,6 +58,3 @@ Their wise guy is a staple order for me and I'd highly recommend them to anyone 
 - ★★★★★ "Delicious pizza! Love the variety of choices between different styles and flavors. Great spot, and I can’t wait to go back!" — **Micah Connelly** (2 months ago)
 - ★★★★★ "I had a medium Drunken Italian Pizza that was amazing. The homemade range was also very good. Would recommend." — **Waycros Poe** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

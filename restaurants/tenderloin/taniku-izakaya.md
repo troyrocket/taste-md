@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Taniku Izakaya
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant, tonkatsu restaurant, japanese izakaya restaurant, ramen restaurant, japanese curry restaurant, yakitori restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 413 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 
 1035 Geary St, San Francisco, CA 94109, USA  
 Phone: (415) 658-7555  
-[View on Google Maps](https://maps.google.com/?cid=5187698105337903090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7857189, -122.4204709
+[View on Google Maps](https://maps.google.com/?cid=5187698105337903090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 4:30 – 10:00 PM
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I finally made it to their happy hour, which has some great deals.
 
 Their happy hour menu contains some of their ramen bowls off their main menu for $13. I got the garlic pork ramen, and they did not skimp on the pork. There were two thick pieces of soft pork belly that was coated with garlic and se..." — **Victoria P.** (3 months ago)
@@ -56,6 +57,3 @@ Their happy hour menu contains some of their ramen bowls off their main menu for
 
 FOOD - I strongly recommend their Yakitori. All of them are good. They were grilled perfectly and m..." — **John** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

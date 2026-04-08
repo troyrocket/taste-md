@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Lower Haight](index.html)
-
 # Horsefeather SF
 Low-key tavern for New American plates & eclectic cocktails in a space with vintage American style.
 
 ## Cuisine
+
 **Restaurant** — cocktail bar, bar, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 1,054 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Restroom available
 528 Divisadero St, San Francisco, CA 94117, USA  
 Phone: (415) 895-2531  
 Website: [http://www.horsefeather.com/](http://www.horsefeather.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1813415702402284432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7744995, -122.43745659999999
+[View on Google Maps](https://maps.google.com/?cid=1813415702402284432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "We came to Horsefeather for one of our first dates and have returned many times since. We love the ambiance, and the Duck Fat Fries are one of our favorites.
 
 We stopped by on a Monday night and the restaurant was pretty busy, so we waited about 15 minutes for a table, which wasn’t bad at all. The h..." — **Cinthya Nunez** (3 weeks ago)
@@ -57,6 +58,3 @@ We stopped by on a Monday night and the restaurant was pretty busy, so we waited
 we were at the restaurant for 3.5 hours!! we’ve been chatting nonstop while enjoying the delicious food. Our server was really nice that she gave us our space and came to check in with us when they saw the right timing, and not to cut into our chat, ..." — **Amanda Chang** (6 months ago)
 - ★★★★★ "Visited this place on a hot Monday afternoon Super cute local watering hole. Cute and friendly  bartender. Ended my day here for a quick drink before my friend had to leave for the airport. It was a hot day and we both had a cider but would like to return as their drink menu looked amazing!" — **Shakira** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

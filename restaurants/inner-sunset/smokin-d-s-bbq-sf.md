@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Smokin D’s BBQ SF
 
 ## Cuisine
+
 **Barbecue restaurant** — barbecue restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 136 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Dog-friendly
 2181 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 349-3491  
 Website: [https://www.smokindsbbqsf.com/](https://www.smokindsbbqsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4083390648942537113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763187599999995, -122.4811979
+[View on Google Maps](https://maps.google.com/?cid=4083390648942537113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 3:00 PM, 3:30 – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★ "This was my first time ordering from this restaurant after seeing it on a show “ Check Please Bay Area”. so I had high expectations. Unfortunately, the experience was very disappointing.
 
 The biggest problem is that the Signature Overnight Smoked Brisket (the main item I ordered) was completely miss..." — **Sean Zhang** (3 weeks ago)
@@ -53,6 +54,3 @@ The biggest problem is that the Signature Overnight Smoked Brisket (the main ite
 - ★★★★★ "I just moved to Hollister California about 10 months ago from San Antonio Texas. I had been missing all the great food from back home especially some brisket, it seems California only serves tri-tip. I heard about this place and decided to make a trip to SF. When we pulled up I saw the sign "Texas S..." — **Anthony Whitt** (7 months ago)
 - ★★★★★ "We came here with them closing in 20 mins and they were so helpful! Told us what was sold out and what they have left. Took our order and we were gone before they closed. Super chill environment and excellent customer service! The banana brulee dessert was so good. The brisket was soft and tender. T..." — **Antonio Pacheco** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

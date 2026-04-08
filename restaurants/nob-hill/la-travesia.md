@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # La Travesia
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 153 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1022 Bush St, San Francisco, CA 94109, USA  
 Phone: (415) 374-7464  
 Website: [https://latravesiasf.com/](https://latravesiasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17326966048789017043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.789720599999995, -122.41422949999999
+[View on Google Maps](https://maps.google.com/?cid=17326966048789017043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "This place has a nice cozy vibe, so intimate that you can even see your food being made in the kitchen from some tables. Definitely a great place to go solo or on a date but probably not for larger parties.
 
 I ordered the carne asada fajitas but wasn’t impressed. They were too chewy for my liking. T..." — **Jack Wittmayer** (4 months ago)
@@ -55,6 +56,3 @@ I ordered the carne asada fajitas but wasn’t impressed. They were too chewy fo
 Food rivals what you’ll get in Latin America. Authentic and homely. Will visit ..." — **Russell Yang** (2 months ago)
 - ★★★★★ "The food was tasty and delicious and felt really authentic. I also appreciated the staff that helped me understand the menu ;)" — **Bartosz Kwietniewski** (3 weeks ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Sonamu Korean Restaurant
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 114 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Restroom available
 5716 Geary Blvd, San Francisco, CA 94121, USA  
 Phone: (415) 578-6808  
 Website: [http://sonamusf.com/](http://sonamusf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7267636322435614159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7805719, -122.4809326
+[View on Google Maps](https://maps.google.com/?cid=7267636322435614159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★ "Newly remodeled from the previous Turtle Tower restaurant.  Service on the slow side.
 
 As for food,
@@ -64,6 +65,3 @@ Tteokbokki - very different from..." — **Angela Wang** (a month ago)
 We started with the tteok bokki, and it was everything I hoped for—perfectly chewy rice ..." — **Ryan Barbonio** (8 months ago)
 - ★★★★★ "This place is a hidden gem. My wife and I regularly make the trip from nob hill to eat here. Their kbbq (especially galbi) is the best I've eaten in the city - note that you do NOT cook it yourself. Other items on the menu are always delicious too, and they have soju and various other beers and wine..." — **Neeraj DeLima** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

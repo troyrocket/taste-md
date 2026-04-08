@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # The Melt
 Sleek, counter-serve chain known for its grilled cheese, burgers, mac and cheese, and fries.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, sandwich shop
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 4,803 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 925 Market Street, 5th St, San Francisco, CA 94103, USA  
 Phone: (415) 689-5879  
 Website: [https://www.themelt.com/](https://www.themelt.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2123593674217502316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.783308, -122.40845200000001
+[View on Google Maps](https://maps.google.com/?cid=2123593674217502316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 3:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Ordered the double BBQ bacon burger with fries and it absolutely hit. The burger was juicy, stacked perfectly, and the BBQ sauce + bacon combo was on point without being overwhelming. Fries were hot, crispy, and fresh.
 
 What really stood out was the customer service—super friendly when I asked quest..." — **elijah t** (a month ago)
@@ -55,6 +56,3 @@ What really stood out was the customer service—super friendly when I asked que
 - ★★★★★ "One of the best burgers I’ve ever had. When I came to the states, this is how I imagined a burger should taste like! Fries are also delicious, and it’s honestly well priced for the quality. You can either self-serve or order from the counter. 10/10" — **assma benmussa** (6 months ago)
 - ★★★★★ "Great for a fast comfort food option. The Parm garlic fries were fantastic. Mac and cheese sandwich was exactly what I needed for a guilty pleasure kind of meal. Staff were friendly. My bf sandwich didn't have any meat on it (a patty melt that definitely should have had some), and when he told them ..." — **Michelle Ansai** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

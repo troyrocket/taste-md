@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Proposition Chicken
 
 ## Cuisine
+
 **Chicken restaurant** — chicken restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.2 stars — 47 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 16 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 571-8136  
 Website: [http://propositionchicken.com/](http://propositionchicken.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2372798729330663770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.740744899999996, -122.46621529999997
+[View on Google Maps](https://maps.google.com/?cid=2372798729330663770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "this place was great. A solid find when looking for a menu that supports a GF family. Fried chicken that is gluten free......oh that's happening haha.
 
 The brown sugar brussel sprouts were not overcooked, they were perfect. Sweet, salty, and delicious
@@ -62,6 +63,3 @@ Mind you..." — **Ame Lica** (3 weeks ago)
 
 Nicely battered, well fried and juicy inside. Served with a nice buttermilk biscuit and cucumber/ tomato salad side...." — **Paul Chan** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

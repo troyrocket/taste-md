@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # Aria Korean Street Food
 Cozy, informal restaurant serving quick, homestyle Korean-American small plates & street food.
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant, american restaurant, meal takeaway, fast food restaurant, asian restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.3 stars — 703 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ $
 932 Larkin St, San Francisco, CA 94109, USA  
 Phone: (415) 292-6914  
 Website: [https://ariasf.com/](https://ariasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7217489703363860441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7865775, -122.4179809
+[View on Google Maps](https://maps.google.com/?cid=7217489703363860441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -43,6 +43,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Wow, I finally found it fried chicken done the right way in a Sando sandwich unbelievable hidden spot. It might be close to the tenderloin but seems clean around here and there’s a cool coffee shop across the street anyways try the second chicken sandwich. Look at the pictures, it’s amazing just as ..." — **Hector Aldana** (4 months ago)
 - ★★★★★ "I ordered the Korean fried chicken with soy glaze dip and the kimchi fried rice with egg—both were absolutely delicious! The portions were generous, and everything was full of flavor. Highly recommend! 😋" — **Janet Yi** (2 months ago)
 - ★★★★★ "I ordered delivery from this place and tried a few items. The Korean fried chicken taco with green sauce was delicious — the chicken was perfectly crispy on the outside and juicy on the inside. The gangjung chicken was also crispy, but the sauce was a bit too sweet and sticky for my taste. The fried..." — **komal dulgach** (a year ago)
@@ -51,6 +52,3 @@ Sunday: Closed
 
 i like aria! i think in the past it would be really expensive just because i was a youth in school who made no money. but the quality matched the price,, ONLY IF YO..." — **樂** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

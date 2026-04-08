@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # ChouChou French Bistro
 Local neighborhood haunt serving classic French bistro fair in a casual, cozy & colorful space.
 
 ## Cuisine
+
 **French restaurant** — bistro, dessert restaurant, french restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 345 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 400 Dewey Blvd, San Francisco, CA 94116, USA  
 Phone: (415) 242-0960  
 Website: [https://www.orderchouchoubistro.com/](https://www.orderchouchoubistro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5600704453807713644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.747414000000006, -122.45932450000001
+[View on Google Maps](https://maps.google.com/?cid=5600704453807713644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "This is such a great restaurant in San Francisco. Chou Chou is a cozy family restaurant with really elegant decor that makes it feel special. The service is incredibly friendly and welcoming from the moment you walk in.
 
 The French food here is excellent. I loved the Lamb Rack the most because the f..." — **regis kwong** (3 months ago)
@@ -66,6 +67,3 @@ We can't recommend this place enough" — **Guido** (7 months ago)
 - ★★★ "This place has good food, great service BUT they really missed on the ambiance. The lighting in the room is super bright and cold. It makes you feel
 Like Your eating your in a hospital. We almost did not enter. Dimmers and warmer colored light bulbs would make all the difference. Also, the backgroun..." — **Mmag36** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

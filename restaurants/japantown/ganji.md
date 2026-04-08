@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Ganji
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 85 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 1740 Buchanan St, San Francisco, CA 94115, USA  
 Phone: (415) 413-0717  
 Website: [http://www.instagram.com/ganjionjtown](http://www.instagram.com/ganjionjtown)  
-[View on Google Maps](https://maps.google.com/?cid=13650617458984825207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.786186, -122.42971479999999
+[View on Google Maps](https://maps.google.com/?cid=13650617458984825207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 12:00 – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great little place. Cute atmosphere and friendly, efficient staff. We made reservations for 5:14 pm so it wasn’t crowded. Was getting busy when we left.
 
 The Mushroom Tempura was really tasty. Nice light batter.
@@ -59,6 +60,3 @@ The staff were ve..." — **Sona Tigranyan** (6 months ago)
 - ★★★★★ "Ganji in Japantown is a hidden gem that delivers incredible flavors and top-tier hospitality! We had an amazing lunch, trying a variety of their katsu dishes, and every bite was delicious. The cheese tonkatsu was rich and indulgent, while the curry katsu had the perfect balance of spice and comfort...." — **Rod Monteverde** (a year ago)
 - ★★★★★ "What a wonderful place! Food is great…oysters, salmon Katsu, hamachi truffle, omasake, sake… it all brought us back to Japan. The warmth, friendliness and attention from Danny and Eunji made it even more special. Don’t miss it." — **Gabriela Jimenez A** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Chinatown](index.html)
-
 # Four Kings 四大天王
 
 ## Cuisine
+
 **Cantonese restaurant** — cantonese restaurant, japanese izakaya restaurant, japanese restaurant, chinese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.1 stars — 285 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 710 Commercial St, San Francisco, CA 94108, USA  
 Phone: (415) 688-1500  
 Website: [http://www.itsfourkings.com/](http://www.itsfourkings.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4146869141711067415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7940708, -122.40510350000001
+[View on Google Maps](https://maps.google.com/?cid=4146869141711067415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 5:30 – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Absolute slam dunk 5/5. Food is both incredibly good and inventive. They have dishes I haven't seen in many places, it's all just so flavorful, and it's reasonably priced (though not cheap by any stretch) to boot
 
 XO escargot was so memorable - probably the best snail dish I've ever had. Squab was e..." — **Benjamin Harms** (3 months ago)
@@ -56,6 +57,3 @@ XO escargot was so memorable - probably the best snail dish I've ever had. Squab
 
 One..." — **Grace S** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Caché
 
 ## Cuisine
+
 **Bistro** — bistro, wine bar, cocktail bar, french restaurant, pastry shop, bakery, american restaurant, dessert shop
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 224 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 1235 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 571-8164  
 Website: [https://cache-sf.com/](https://cache-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11978953456330409802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.765254, -122.46678689999999
+[View on Google Maps](https://maps.google.com/?cid=11978953456330409802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We had such a good time at Caché. From the outside, it looks like a small, simple spot, but as soon as you walk in, you are greeted by a cozy, warm, and incredibly welcoming atmosphere. It truly feels like a hidden gem.
 The food was outstanding—everything we ordered was fresh, flavorful, and delicio..." — **Issara Thongdaeng** (2 months ago)
 - ★★★★ "Tried the early bird dinner menu, very good value at $50 pp.
@@ -61,6 +62,3 @@ I was really excited to try Caché based upon all th..." — **Jiro** (4 months 
 
 The food came out quickly and it was nice to feel like we..." — **Anya** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

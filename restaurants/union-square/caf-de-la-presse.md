@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Café de la Presse
 Gallic faves, espresso & wine are dispensed indoors and out at this popular 1930s-style French cafe.
 
 ## Cuisine
+
 **French restaurant** — french restaurant, bistro, brunch restaurant, dessert restaurant, wine bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 1,712 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 352 Grant Ave, San Francisco, CA 94108, USA  
 Phone: (415) 398-2680  
 Website: [https://www.cafedelapresse.com/](https://www.cafedelapresse.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14715957396870086353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7904669, -122.40539709999999
+[View on Google Maps](https://maps.google.com/?cid=14715957396870086353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 8:00 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Café de la Presse is a spot we finally tried for brunch after making a reservation this past Sunday (12/21/2025). The space has a really cool vibe classic, lively, and very San Francisco which made it an enjoyable place to spend a late morning.
 
 They were busy, but that's to be expected because, hon..." — **Joshua Michael** (2 months ago)
@@ -69,6 +70,3 @@ Steak Frites - 3/5 - The dish was standard fare. Steak and fries...not..." — *
 French onion soup
 Steak tar..." — **Julia Hermansson** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

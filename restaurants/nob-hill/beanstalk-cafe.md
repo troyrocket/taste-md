@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # BeanStalk Cafe
 Tiny, minimalist cafe serving a focused menu of coffee drinks, pastries & international sandwiches.
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, breakfast restaurant, sandwich shop, cafe, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 772 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Restroom available
 724 Bush St, San Francisco, CA 94108, USA  
 Phone: (415) 576-1966  
 Website: [https://m.facebook.com/Beanstalk-Cafe-722100901151670/](https://m.facebook.com/Beanstalk-Cafe-722100901151670/)  
-[View on Google Maps](https://maps.google.com/?cid=17930350603688897251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7902, -122.40933890000001
+[View on Google Maps](https://maps.google.com/?cid=17930350603688897251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 7:30 AM – 3:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "High up at the tippy top of the hills of San Francisco,  those of us who prefer to stay there rather than climb the steep ascent up are fortunate that Beanstalk is there. This gem is quaint yet full of flavor, feels, excellence service. I had delicious coffee and a sandwich there for lunch.
 
 You wil..." — **anthony crescenzi** (a month ago)
@@ -59,6 +60,3 @@ The sandwich had slices of sausage which I had never seen before..." — **L G**
 
 I arrived around 9:30am and was planning to leave before the 90-minute mark — or order another d..." — **Alexandra Alfaro** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

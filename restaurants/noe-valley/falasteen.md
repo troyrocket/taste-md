@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Noe Valley](index.html)
-
 # Falasteen
 
 ## Cuisine
+
 **Middle Eastern restaurant** — middle eastern restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 50 reviews
 
 ## Dining Options
@@ -21,8 +22,7 @@ Unknown
 
 4018 24th St, San Francisco, CA 94114, USA  
 Website: [https://falasteen-sf.com/](https://falasteen-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16015108292274483375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.751503199999995, -122.43245160000001
+[View on Google Maps](https://maps.google.com/?cid=16015108292274483375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -40,6 +40,7 @@ Sunday: 5:00 – 9:00 PM
 **Parking:** Paid street parking · Free street parking
 
 ## What Diners Say
+
 - ★★★★★ "We were very excited to see a new Middle Eastern restaurant in Noe Valley, and this place did not disappoint!
 
 Cozy atmosphere and seating, delicious food, and reasonable pricing. You cannot go wrong with any of the dishes. The Mezze Platter was rich and the pita had just the right softness. I would..." — **Magoo R** (a month ago)
@@ -48,6 +49,3 @@ Cozy atmosphere and seating, delicious food, and reasonable pricing. You cannot 
 - ★★★★★ "I’ve had the privilege of attending a couple of private events here and every time I come I feel like a VIP. The ambiance is elegant yet casual, the food is flavorful and unlike anything I’ve ever had in SF, and the service makes me feel like I’m dining with family. Highly recommend booking for a pr..." — **Amjad Asad** (3 weeks ago)
 - ★★★★★ "Samir Salameh has created magic at Falasteen.  As other reviews have noted, the food is excellent, even by the high standards of San Francisco's food culture.  What sets Falasteen apart is how approachable Samir and his team are.  You're getting more than a meal here, because if you want to know how..." — **Matthew Gast** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

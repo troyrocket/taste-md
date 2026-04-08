@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Pink Onion
 Contemporary, family-owned stop for pizza, pasta & Italian bites, brightened with street art.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 834 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Restroom available
 64 14th St, San Francisco, CA 94103, USA  
 Phone: (415) 529-2635  
 Website: [https://www.pinkonionpizza.com/](https://www.pinkonionpizza.com/)  
-[View on Google Maps](https://maps.google.com/?cid=5386588975478160168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7686935, -122.4148318
+[View on Google Maps](https://maps.google.com/?cid=5386588975478160168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 4:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We ordered takeout and tried their Magic Mushroom Pizza, Patataccia Pizza, and Parma E Burrata Plate.
 
 Parma E Burrata Plate came with Prosciutto di parma, burrata, arugula, candied pear, cherry tomato, and aged balsamic. The aged balsamic tasted amazing, sweet and tangy, but not overpowering. It pa..." — **Alice Hou** (2 months ago)
@@ -65,6 +66,3 @@ This is a cozy little restaurant and the vibe is always cool. Subtle music playi
 Food 5/5
 We h..." — **Rolly Junio** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

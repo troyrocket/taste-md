@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Presidio Heights](index.html)
-
 # Pizzeria Avellino
 New York-style thin-crust & Sicilian deep-dish pies made with hand-tossed dough & fresh ingredients.
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 470 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Restroom available
 2769 Lombard St, San Francisco, CA 94123, USA  
 Phone: (415) 776-2500  
 Website: [https://www.pizzeriaavellinomenu.com/](https://www.pizzeriaavellinomenu.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10638823291166129707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7984, -122.44703330000002
+[View on Google Maps](https://maps.google.com/?cid=10638823291166129707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Quick and fast little pizza joint with outside seating.
 
 The pizza is very crispy crust something I like but it's not that thin slices are large. I ended up getting two slices when I really only needed one.
@@ -59,6 +60,3 @@ Pesto I would give 7.5 out of 10. Not too greasy ..." — **Christopher Washingt
 - ★★★★ "Solid slices and a nice spot to sit and enjoy the view of the Presidio. Friendly staff. We'll be back!" — **Chris Verne** (a month ago)
 - ★★★★★ "Got a combination pizza and it was great! Fast and friendly service as well. Would definitely recommend stopping by if you want good quality for an affordable price." — **Adrian Arteaga** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

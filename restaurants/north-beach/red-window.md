@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Red Window
 Vibrant, informal hub for Spanish small plates & low-proof cocktails, plus sidewalk seating.
 
 ## Cuisine
+
 **European restaurant** — european restaurant, wine bar, beer garden, cocktail bar, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 451 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Restroom av
 500 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 757-0600  
 Website: [http://theredwindow.com/](http://theredwindow.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18076731446518872101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7998396, -122.40921899999998
+[View on Google Maps](https://maps.google.com/?cid=18076731446518872101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "Stopped by around 11am for brunch cocktails. Great people watching spot. Fun ambiance. The bartender Gio is a mixologist with craft cocktails that are absolutely delicious. Sitting at the bar is like being a kid in a candy shop." — **rachael willer** (3 weeks ago)
 - ★★★★★ "Lovely date night spot with delicious tapas, we got the Brussels, Mac and cheese, and the patatas bravas. We shared these and the short rib which was so flavorful and a generous portion. Very good value, we left stuffed!" — **Connor and Sarah Beach Street** (7 months ago)
 - ★★★★★ "Come to the busy part of north beach and just soak it in. You hangout on the patio here to listen tonic as tourist and locals walk by.
@@ -62,6 +63,3 @@ Food is pretty good. Seasoned nicely and the seafood tasted fresh. Apps are the 
 
 Service was a bit slow and it took me half ..." — **Thao Ha** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

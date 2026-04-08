@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Bayview](index.html)
-
 # El Azteca Taqueria
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.2 stars — 288 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids · Restroom available
 5298 3rd St #2602, San Francisco, CA 94124, USA  
 Phone: (415) 822-1460  
 Website: [https://themenustar2.com/webspace/menus.php?code=orderelaztecataqueria.com](https://themenustar2.com/webspace/menus.php?code=orderelaztecataqueria.com)  
-[View on Google Maps](https://maps.google.com/?cid=14647781751481152014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.729451, -122.39282209999998
+[View on Google Maps](https://maps.google.com/?cid=14647781751481152014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "CASH ONLY!!!
 
 This place is a HIDDEN GEM! The birria tacos with the sauce is just out of the world delicious!!!!!! I can't get enough of the goodness. They are located inside a small supermarket. They have a small seating section so it's best to do pickup. However, if they were to open a restaurant,..." — **Lei Fesaitu** (4 years ago)
@@ -53,6 +54,3 @@ This place is a HIDDEN GEM! The birria tacos with the sauce is just out of the w
 - ★★★★★ "I was driving by feel starving walked in to the restaurant, they were very friendly and their food was delicious, I ordered prawns burrito" — **POS- GATE** (11 months ago)
 - ★ "My fiancé & I come here often to get our usual, a shrimp & steak burrito. We got here on a Saturday at 4:50pm & they were closed. If you’re going to be closed on a SATURDAY, at least update the hours on Google. We drove all the way from Palo Alto." — **Myya James** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

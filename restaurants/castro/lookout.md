@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # Lookout
 Castro hangout for drinks & a variety of DJs, with a wraparound balcony overlooking Market Street.
 
 ## Cuisine
+
 **Bar** — pizza restaurant, lounge bar, night club, pub, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 518 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 3600 16th St, San Francisco, CA 94114, USA  
 Phone: (415) 431-0306  
 Website: [http://www.lookoutsf.com/](http://www.lookoutsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11728488527513942549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7643682, -122.43344599999998
+[View on Google Maps](https://maps.google.com/?cid=11728488527513942549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 1:00 PM – 12:00 AM
 **Parking:** Paid street parking · Free street parking
 
 ## What Diners Say
+
 - ★★★★★ "Inexpensive drag Brunch. Well worth the trip and spend that extra money on the amazing Queens. The staff takes good care of everyone and it is a good time. The wings were pretty darn good.
 
 Bring cash. There is no atm!" — **Kay** (5 months ago)
@@ -56,6 +57,3 @@ Bring cash. There is no atm!" — **Kay** (5 months ago)
 ATMOSPHERE:
 The bar takes up the entire second floor of a two level ..." — **Maui World Travelers** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

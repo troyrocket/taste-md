@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Tín Vietnamese
 This family-run eatery serves traditional Vietnamese fare in a casual, contemporary dining room.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 1,090 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 937 Howard St, San Francisco, CA 94103, USA  
 Phone: (415) 882-7188  
 Website: [http://tinsf.com/](http://tinsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18377597462963588295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7807333, -122.40571670000001
+[View on Google Maps](https://maps.google.com/?cid=18377597462963588295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★ "I decided to try this restaurant based on its high ratings, but unfortunately, the experience was disappointing.
 During the meal, I noticed that some slices of meat had an unusual green, metallic-looking surface, which immediately raised concern. I informed the server right away, but he only said, “..." — **Rosina Su** (2 months ago)
 - ★★★★★ "The clear broth has been carefully simmered to bring out a deep, refreshing flavor that isn’t too salty. The soup broth tastes like Korean 짬뽕. I think this is the best Pho restaurant you can go to in SF downtown." — **JEONGBUM SEO** (5 months ago)
@@ -61,6 +62,3 @@ Also the fire cracker shrimp was the best" — **Sepideh Yazdi** (2 months ago)
 Really recommend the Tin roll & this rice plate! The place is quite small but there wasn’t a wait around lunch time." — **blue** (5 months ago)
 - ★★★★★ "I cannot say enough good things about Tin Vietnamese. Their pho has literally been getting me through my pregnancy. It always arrives incredibly fresh, the portions are generous, and the pho gà is perfection every single time. Big, tender chunks of chicken breast, flavorful broth, and consistently f..." — **Christina Leigh Harrison** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Arizmendi Bakery
 A worker-owned co-op & no-frills setting for freshly made breads, sweets & thin-crust pizzas.
 
 ## Cuisine
+
 **Bakery** — bakery, coffee shop, cafe, pizza restaurant, confectionery, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.7 stars — 1,952 reviews
 
 ## Dining Options
@@ -22,8 +23,7 @@ $
 1331 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 566-3117  
 Website: [http://www.arizmendibakery.com/](http://www.arizmendibakery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13622220163385564142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.763405, -122.4664416
+[View on Google Maps](https://maps.google.com/?cid=13622220163385564142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -42,6 +42,7 @@ Sunday: 7:30 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "An absolute must-stop if you’re anywhere near Inner Sunset. Also totally worth it if you have go an hour out of your way.
 Sourdough croissants! Brilliant. Flawless scones that are delightful crunchy and melt-away all at once. Memorable savory breadsticks and focaccia, perfect coffee-cake, cookies an..." — **Jim Robinson** (3 months ago)
 - ★★★★★ "Line out the door, very busy, and for a good reason! Absolutely delicious everything! Fresh out of the oven,  and selling like the hot commodities they literally were. 10/10 would go again and every day if I lived close enough!" — **Smash Bridges** (5 months ago)
@@ -51,6 +52,3 @@ Sourdough croissants! Brilliant. Flawless scones that are delightful crunchy and
 
 Howard and the rest of the baker/owners are super kind and are baking up some incredible daily and holiday treats! Try the ridiculous pear + ch..." — **John DiDomenico** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

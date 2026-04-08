@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # Per Diem - Transit Center
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 62 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 41 Minna St, San Francisco, CA 94105, USA  
 Phone: (415) 799-9191  
 Website: [http://www.perdiemsf.com/](http://www.perdiemsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=11827886789589605637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7888442, -122.3975809
+[View on Google Maps](https://maps.google.com/?cid=11827886789589605637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "We hosted our company lounge brand experience here at Per Diem and had an amazing outcome. The staff was attentive, professional, and genuinely invested in making the event a success, the planning process was smooth, and the food and drinks received so many compliments from our guests.
 
 The space an..." — **Elena Fernández Jones** (3 months ago)
@@ -55,6 +56,3 @@ The space an..." — **Elena Fernández Jones** (3 months ago)
 The food was good, the atmosphere was nice. The servi..." — **Troy** (5 months ago)
 - ★★★★★ "Enjoyed a lovely dinner here. Service is wonderful, the ambiance was exactly what I wanted, and the food was amazing! I asked for my cocktail to be made without vermouth and was notified the cocktails are made by the batch, so they created a new cocktail for me and it was amazing - my partners batch..." — **Krystine L** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

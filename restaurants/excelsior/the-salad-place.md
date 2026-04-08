@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # The Salad Place
 
 ## Cuisine
+
 **Salad shop** — salad shop, breakfast restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 178 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Good for kids · Restroom available
 400 London St, San Francisco, CA 94112, USA  
 Phone: (415) 333-4030  
 Website: [https://www.thesaladplaceca.com/](https://www.thesaladplaceca.com/)  
-[View on Google Maps](https://maps.google.com/?cid=496734216933346431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7227855, -122.4355101
+[View on Google Maps](https://maps.google.com/?cid=496734216933346431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 8:00 AM – 4:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Incredible food at a great price. A hidden gem in the neighborhood! Cute restaurant full of plants, great place to sit down and eat.
 
 I love their salads, sandwiches and soups. Fresh and high quality ingredients.
@@ -54,6 +55,3 @@ And no, the neighborhood is not dangerous lol. You're in the middle of the San F
 - ★★★★★ "Another review mentioned that this place is a gem and I couldn’t agree more! This spot is nestled in the Excelsior and offers a truly charming place to grab coffee and a bite. The people who work here are awesome, it’s always clean, and the ingredients are fresh. Great place to stop after a long wal..." — **Kay Getchell** (7 months ago)
 - ★★★★★ "Ceviche tostada was really good!! Top notch juice as well. Very impressed with the salad place, and I'm glad my wife wanted to give it a try we enjoyed our experience eating here!!!" — **Craig Berry** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

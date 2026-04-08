@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Tad's Steakhouse
 Steakhouse open since the 1950s serves burgers, sandwiches, pies & more, with counter service.
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 2,584 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 38 Ellis St, San Francisco, CA 94102, USA  
 Phone: (415) 956-2139  
 Website: [https://www.tadssf.com/](https://www.tadssf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8036135412322244458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7857218, -122.4068903
+[View on Google Maps](https://maps.google.com/?cid=8036135412322244458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Outstanding Ribeye and Eggs!   Delicious flavor and seasoning.  The melted butter made it awesome.  Added cheese and avocado.  $50 for a 5-star steak breakfast on a Sunday morning.  Highly recommend!" — **Ian Toogood** (2 months ago)
 - ★★★★ "Honestly it’s not bad. I have the service a slightly lower rating because this is basically self-service. My wife and I came in for an early dinner and got the chicken fried steak to share. I asked for a blue cheese side salad and got ranch.
 
@@ -61,6 +62,3 @@ I had dinner at Tad’s Steakhouse two days ago, and the steak was absolutely de
 
 Overall, I was very satisfied and would definitely r..." — **Davide Langella** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

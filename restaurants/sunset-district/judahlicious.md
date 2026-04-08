@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Judahlicious
 Cafe specializing in locally sourced, organic coffee, smoothies & juices plus raw & vegan snacks.
 
 ## Cuisine
+
 **Vegan restaurant** — vegan restaurant, juice shop, vegetarian restaurant, cafe
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 684 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for kids · Dog-friendly · Restroom available
 3906 Judah St, San Francisco, CA 94122, USA  
 Phone: (415) 665-8423  
 Website: [http://www.judahlicious.com/](http://www.judahlicious.com/)  
-[View on Google Maps](https://maps.google.com/?cid=7406524730778188996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.760655, -122.503954
+[View on Google Maps](https://maps.google.com/?cid=7406524730778188996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Walked in and was mesmerized by the aroma of fresh vegetables and fruit—kind and knowledgeable staff. The Nekked burrito and salad complemented each other. Wheatgrass is fresh. Coffee is good." — **Joseph Klee** (a month ago)
 - ★★★★★ "Judahlicious is a true standout in San Francisco’s Sunset District, especially for anyone seeking vibrant, plant-based cuisine. From the moment I walked in, I was struck by the welcoming vibe and earthy aesthetic that mirrored their commitment to conscious eating.
 
@@ -58,6 +59,3 @@ Waffles and Açaí Bowls are super yummy and healthy!
 We tried their new menu item “burmosa” which is supposed to be a Samosa Burrito… however  don’t recommend eating that. It does not taste like Samosa at all .. I would stick..." — **Jimit Pandya** (11 months ago)
 - ★★★★★ "We love Judahlicious! I am not a huge raw food fan, but my son adores their acai bowls and we have frequented the spot afterschool with friends 1-2x/week for months. The staff is always welcoming of our wild kiddos, the service is fast and the quality is great. Highly recommend!" — **Alicia Davon** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

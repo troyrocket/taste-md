@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Potrero Hill](index.html)
-
 # Miller & Lux Restaurant
 Upscale destination with an old-school vibe offering steak & Caesar salad, plus wine & cocktails.
 
 ## Cuisine
+
 **Steak house** — steak house
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 390 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 700 Terry A Francois Blvd, San Francisco, CA 94158, USA  
 Phone: (415) 872-6699  
 Website: [http://www.millerandluxrestaurant.com/](http://www.millerandluxrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=498485797938547268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7681857, -122.38644589999998
+[View on Google Maps](https://maps.google.com/?cid=498485797938547268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "I came here to celebrate my lovers’ birthday and we had the creamed kale, beat salad, Australian Wagyu Tomahawk, truffle mac and cheese and the chocolate chip cookie with vanilla ice cream. The food was good, the service however was very good. All the employees were very attentive and our waitress w..." — **Evelyn** (a month ago)
 - ★★ "I made reservations well in advance so we could enjoy dinner before a comedy show at Chase Center. Unfortunately, the experience fell far short of expectations.
 
@@ -55,6 +56,3 @@ When we arrived, there was no host at the door for nearly five minutes. Not a hu
 - ★★★★★ "We love coming to Miller and Lux for great date nights and special occasions! The speakeasy style space filled with jazz music and fancy detailing make for a fine dining experience that feels fun and comfortable. The staff are always wonderful and attentive, and they have a sommelier that starts the..." — **Sarah Ma** (5 months ago)
 - ★★★★★ "An amazing experience from the valet to the hostess on the way out. Manuel our server was excellent,  the sommelier suggested excellent wine pairings and food was spectacular! I had the Lobster risotto, we shared a Caesar and my wife had the burger. Caesar and the risotto were quite memorable. The o..." — **Randy Churchill** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

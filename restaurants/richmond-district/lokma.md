@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Lokma
 Mediterranean brunch items & a few Californian classics served in a petite, homey atmosphere.
 
 ## Cuisine
+
 **Turkish restaurant** — turkish restaurant, family restaurant, mediterranean restaurant, brunch restaurant, breakfast restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 1,423 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1801 Clement St, San Francisco, CA 94121, USA  
 Phone: (415) 702-6263  
 Website: [http://www.lokmasf.com/](http://www.lokmasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1484469486853409295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782193, -122.47859140000001
+[View on Google Maps](https://maps.google.com/?cid=1484469486853409295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 9:30 AM – 2:30 PM, 4:00 – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "A story about how one of my favorite spices (cinnamon) ruined brunch on a Sunday.
 
 I love cinnamon. In pastries, in coffee, in savory chili.i just did not expect it to hijack a savory Turkish ratatouille and dominate my entire plate.
@@ -62,6 +63,3 @@ Lokma is an amazing spot in San Francisco for authentic Turkish and Mediterranea
 Service aside, food i..." — **Nicholas Pun** (4 months ago)
 - ★★★★ "Such a cute place. The food is mediocre. Started with a high note on appetizers, the kofta was on the dry side but it had all the right spices, the zucchini dolmas tasted delicious. The grilled chicken was also dry, the mousaka was rather bland and had not enough beef. But overall the food was gorge..." — **Yassi Sadri** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

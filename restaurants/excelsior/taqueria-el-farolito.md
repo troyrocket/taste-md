@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # Taqueria El Farolito
 Taqueria known for huge portions and Mexican comfort food served into the wee hours.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant, latin american restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 1,136 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Good for kids
 4817 Mission St, San Francisco, CA 94112, USA  
 Phone: (415) 337-5500  
 Website: [https://elfarolitosf.com/](https://elfarolitosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=4487867929445416061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.72118, -122.437281
+[View on Google Maps](https://maps.google.com/?cid=4487867929445416061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 10:00 AM – 1:45 AM
 **Accessibility:** Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I went here with high hopes after hearing that El Farolito is highly raved about by other locals, and man, it blew any expectations I had out of the water. The food was phenomenal. I tried their Super Burrito, which was huge! For $12 or so, the prices are also super good. The food packs a crazy good..." — **Ayden Smith** (a month ago)
 - ★★★★★ "11/20/2025: Grilled chicken super burrito $12.75. They recently up the price of super burritos by $0.50 since July. Somehow El Farolito keeps making the list for people's top five burritos on Reddit and other sites. I don't disagree. The reasons I like coming here is because they are solid, chefs ar..." — **Jeff Ho** (4 months ago)
 - ★★★★ "I have been here many times, usually when I was hungry and needed a quick bite. This spot is your typical Mexican spot where you order at the counter and the items will be brought to your table. Their menu consists of tacos, burritos, plates, soups, and much more. Most of their meats are pre-made an..." — **Alzila** (8 months ago)
@@ -55,6 +56,3 @@ I went with a tostada and a chicken quesadilla. The tostada was crunchy with the
 
 It was great food, great service." — **Rajnish Gupta** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Nob Hill](index.html)
-
 # K Soul Chicken
 
 ## Cuisine
+
 **Korean restaurant** — korean restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.6 stars — 194 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids · Restroom available
 1710 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 796-3538  
 Website: [https://koreansoulchicken.com/](https://koreansoulchicken.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15342713181652171888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7926394, -122.42095479999998
+[View on Google Maps](https://maps.google.com/?cid=15342713181652171888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 1:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "I’m just gonna say it: it smelled weird in here. Damp, like a locker room. It wasn’t bad enough to deter us but enough to color the experience negatively — I imagine I’d probably rate this high if I had it for takeout (and, it seems like most people coming in were there for pickup).
 
 Still, sometime..." — **Matty Easton** (a month ago)
@@ -54,6 +55,3 @@ Still, sometime..." — **Matty Easton** (a month ago)
 - ★★★★★ "Korean Soul Chicken, very clean and crispy chicken. Great service and a cozy place to sit. The #10 plan wings and the #1 Galbi boneless chicken were great! Will, a local of San Francisco, helped us make a great selection and the wings were awesome!  Our daughter loved the Korean corn dog and said it..." — **Felecia Young** (8 months ago)
 - ★★★★★ "I am always looking for Korean food when I am in big cities and this place did not disappoint! I always crave Ddeokbokki (tteokbokki) so I got that and was very pleased! I also wanted to try their Korean corn dogs and it was okay, I enjoyed eating it with ddeokbokki sauce. My bf got the number 7 and..." — **Marisol Guerrero** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

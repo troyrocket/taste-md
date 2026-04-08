@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Sasa Japanese Restaurant
 Multi-course Japanese-American kaiseki & a la carte options offered in warm, modern quarters.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.4 stars — 364 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Restroom available
 22 Peace Plaza Suite 530, San Francisco, CA 94115, USA  
 Phone: (628) 600-6945  
 Website: [http://www.sasasf.com/](http://www.sasasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2898638544851543502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7852831, -122.4293591
+[View on Google Maps](https://maps.google.com/?cid=2898638544851543502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 12:00 – 2:00 PM, 5:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "December 2025 Japanese restaurant specializing in Omakase style cuisine.  What makes them different is their mystery box style sushi 🍣 collection which is much of an IG feast in itself.
 
 Service is standard and very informative
@@ -59,6 +60,3 @@ Some standout bites for me we..." — **Tina Nguyen** (3 weeks ago)
 - ★★★★ "Pretty solid location. We tried eating somewhere else first but the place just never opened. We thought it opened at 5 and then waited till six thirty. Never ended up eating there so we went to this place. I forgot how cool Japan town is. Definitely a great spot to hit if you are in town. Anyways th..." — **Alex Yang** (10 months ago)
 - ★ "Service is horrible, the waitress definitely needs to be trained. We booked reservation for 5:30 and wait until 6:45. We were told “Reservation does not guarantee your spot” Then what’s the point of making reservations? Waitress are super rude and no apologize at all, they basically feel like custom..." — **jiarui Hou** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

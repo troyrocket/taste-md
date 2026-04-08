@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Parkside](index.html)
-
 # Obrien's Irish Pub
 
 ## Cuisine
+
 **Restaurant** — brunch restaurant, family restaurant, sports bar, irish pub, cocktail bar, pub, meal takeaway, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 123 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Good for wa
 1940 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 463-6712  
 Website: [http://www.obriensirishpubsf.com/](http://www.obriensirishpubsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=3232104336204982332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.742861, -122.4871731
+[View on Google Maps](https://maps.google.com/?cid=3232104336204982332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 10:00 AM – 11:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "This was my first time visiting San Francisco, and I wanted to try all different genres of food. I stumbled upon this Irish Pub while I finished relaxing at Ocean Beach.
 
 The food, service, and atmosphere were fantastic. It did take a few minutes to get seated. However, it was the beginning of the w..." — **Randy T** (3 weeks ago)
@@ -57,6 +58,3 @@ We were able to get a table to watch the game and had a lot of good food. My fav
 - ★★★★★ "Mushy peas! O'Brien's Irish Pub has mushy peas with their fish & chips $22. Some people won't like them, but I do. It reminds me of my work trip to London years ago. They taste like regular peas but with a mashed potatoes texture with a hint of sweetness. Beautiful to look at. The fish & chips thems..." — **Jeff Ho** (8 months ago)
 - ★★★★★ "Words just dont do this place justice,proper Irish kitchen food with 5 star service ,great atmosphere 7 days a week and thats without a 49ers game on tv...match days are another level...staff are so friendly,this was my local away from home for the duration of my holiday...best wishes to brendan and..." — **Willie Martin** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

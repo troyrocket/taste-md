@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Bonita Taqueria y Rotisserie
 Wood-decked cafe offering gourmet tacos, rotisserie chicken, soups & sides plus bottled & tap beers.
 
 ## Cuisine
+
 **Mexican restaurant** — mexican restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 633 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for kids · Good for watching sports · Restroom availab
 2257 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 801-5599  
 Website: [http://sfbonita.com/](http://sfbonita.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10478627633872002127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.8001699, -122.44046289999999
+[View on Google Maps](https://maps.google.com/?cid=10478627633872002127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Very delicious food! The chicken was good quality and everything also fresh. Prices were fine. Atmosphere and service good for a fastfood restaurant. Thus 5*." — **Daniel Buchta** (2 months ago)
 - ★★★★★ "I was pretty happy with my bowl. They have a small salad bar where you can take salsa and toppings. Server was very friendly. The portion was pretty big for the price. They also have vegetarian options if you’re looking for that." — **Sebastian G** (5 months ago)
 - ★★★★★ "I really like the breakfast at Bonita Taqueria.
@@ -64,6 +65,3 @@ The service was exceptional. We asked whether we could get a side of tortillas a
 
 The staff was super friendly and welcoming, and the atmosphere had a great Latin vibe. It felt ..." — **Selma Mesihovic** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Visitacion Valley](index.html)
-
 # Trattoria da Vittorio
 Calabrian-inspired pizzas & handmade pastas star at this cozy eatery with brick & stone accents.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, pizza restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 844 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 150 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 742-0300  
 Website: [http://trattoriadavittorio.com/](http://trattoriadavittorio.com/)  
-[View on Google Maps](https://maps.google.com/?cid=547262463030123412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7393667, -122.4677856
+[View on Google Maps](https://maps.google.com/?cid=547262463030123412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Vittorio and his team catered our wedding in September in San Anselmo and we couldn’t have asked for a better caterer! He was incredibly easy to work with, super responsive, and his catering service was truly full service. His team was professional and on point all night. The food was absolutely del..." — **Nelly Sandoval** (3 months ago)
 - ★★★★★ "We had the absolute pleasure of working with Vittorio and the team at Trattoria da Vittorio for our black-tie wedding in San Francisco of 160 people, and we truly cannot recommend them enough!
 
@@ -60,6 +61,3 @@ The chicken Milanese was ou..." — **Mike Hackard** (2 months ago)
 He and his team also handled all of the linens, passed out appetizers, cleared tables and filled wat..." — **Meg B** (a month ago)
 - ★★★★★ "Very delightful experience, super cheesy texture in both pasta and lasagna, and very memorable! The service is heartwarming, and lovely, overall 5 stars." — **Chelsea Guevara** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

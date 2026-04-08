@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Hayes Valley](index.html)
-
 # La Boulangerie de San Francisco
 Daytime cafe chain offering baked goods & light American & French fare in a chic, casual setting.
 
 ## Cuisine
+
 **Cafe** — cafe, breakfast restaurant, pastry shop, dessert shop, bakery, confectionery, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.2 stars — 1,000 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 500 Hayes St, San Francisco, CA 94102, USA  
 Phone: (415) 400-4451  
 Website: [http://www.laboulangeriesf.com/](http://www.laboulangeriesf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=15695247985626038492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7767753, -122.4247974
+[View on Google Maps](https://maps.google.com/?cid=15695247985626038492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 7:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Good morning
 This is really nice cafe. I have had breakfast sandwiches and pastries few times. I don’t really want to give 4 star but I think the service can be improved. The cashier is fine but there is busboy should have a basic understanding of customer service.
 Thank you." — **kudrat kurbonov** (a month ago)
@@ -60,6 +61,3 @@ There’s plenty of searing insid..." — **Sarina Iwai** (2 months ago)
 
 Having gluten free pastries (only gluten free item is frittata) & London fog latte but came in for French toast and fruit which did not disappoint. Good service and friendly staff and quiet early morning made the overall experience enjoyable. Will definitely retur..." — **Quinn Calhoun** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

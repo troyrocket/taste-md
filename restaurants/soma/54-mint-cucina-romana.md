@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [SoMa](index.html)
-
 # 54 Mint Cucina Romana
 Modern Italian trattoria serving elevated Roman dishes and Italian wines.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 1,455 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 16 Mint Plaza, San Francisco, CA 94103, USA  
 Phone: (415) 543-5100  
 Website: [http://www.54mint.com/](http://www.54mint.com/)  
-[View on Google Maps](https://maps.google.com/?cid=18366868381398844677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7825956, -122.4079406
+[View on Google Maps](https://maps.google.com/?cid=18366868381398844677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Cute inside, great service staff. Bread from montesacro Pinseria was the highlight to us. Also liked the negroni and funghi side. Chicory & endive salad and cacio e pepe were fine. Didn't love the gnocchi or swordfish (dry/bland)." — **Adell Hanson-Kahn** (a month ago)
 - ★★★★★ "Sometimes the best experiences happen unexpectedly. My friends and I were walking around the city when we decided to give this place a try, and I'm so glad we did because everything was absolutely delicious. The lamb chops were fantastic, and the tiramisu literally melts in your mouth. The atmospher..." — **V C** (3 months ago)
 - ★★★★★ "We had such a wonderful experience at this Italian restaurant! Our waiter, John, was attentive, funny, and spot-on with his recommendations. The pasta was incredibly fresh and full of flavor — you can really taste the quality of the ingredients. We also loved the desserts, which were the perfect fin..." — **Janelle Poyant** (5 months ago)
@@ -56,6 +57,3 @@ Sunday: 5:00 – 9:00 PM
 
 We kicked off the evening with cocktails — mine was..." — **Debisree Ray** (9 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

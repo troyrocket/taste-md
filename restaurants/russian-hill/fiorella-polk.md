@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Russian Hill](index.html)
-
 # Fiorella Polk
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.1 stars — 349 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Restroom available
 2238 Polk St, San Francisco, CA 94109, USA  
 Phone: (415) 829-7097  
 Website: [http://www.fiorella-sf.com/](http://www.fiorella-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14915385542908023233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7974533, -122.42190039999998
+[View on Google Maps](https://maps.google.com/?cid=14915385542908023233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Excellent pasta and pizza. It is not easy to make a cacio e pepe this good, cooked al dente and just right. Cheese and pepper well balanced, full of flavour. We also had that bottarga and Meyer lemon, another amazing dish. Deep fried bottarga added texture and the aroma from Meyer lemon captured all..." — **Kenneth Chan** (5 months ago)
 - ★★★★ "Went here for happy hour today and honestly a really good deal. Arancini could have been a bit more creamy and flavorful on the inside but fried well and was good.
 
@@ -59,6 +60,3 @@ You can tell Fiorella cares about their pizza by quality of the crust. It's the 
 - ★★★★★ "Staff is AWESOME.
 We had dinner at the counter, and it was honestly the best option: it’s a bit more lively (not too much, don’t worry about being inconvenienced by a bartender showing off in front of you), it’s a good way to interact with your waiter (Camilio was an ANGEL, the guy speaks English, S..." — **François** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

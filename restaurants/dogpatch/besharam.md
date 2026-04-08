@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Besharam
 Gujarati classics & modern Indian dishes in lively quarters with bold murals & communal tables.
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, vegan restaurant, vegetarian restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4 stars — 771 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Restroom available
 1275 Minnesota St, San Francisco, CA 94107, USA  
 Phone: (415) 580-7662  
 Website: [http://besharamrestaurant.com/](http://besharamrestaurant.com/)  
-[View on Google Maps](https://maps.google.com/?cid=8581795061234155490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.754227799999995, -122.3896472
+[View on Google Maps](https://maps.google.com/?cid=8581795061234155490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "My parents were in town for the weekend of Diwali and we figured we would finally try out Besharam after months of wanting to. They had a special menu which we didn't order from BUT even with a smaller a la cart menu, we had an amazing time.
 
 The service is great, with the right amount of both follo..." — **Neesh Shah** (3 months ago)
@@ -59,6 +60,3 @@ Masala mushroom to begin was a bomb! Loved every bit of it.
 The khadi-bhindi, again creative but the raw garlic in there overpowered the dish to an extent we hardly ate any of it.
 Definitely have had softer/smoother malai koftas." — **Mohammad Hamza Kirmani** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

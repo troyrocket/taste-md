@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Royal Exchange Restaurant
 Pub grub, lots of beers on tap & TVs tuned to sports highlight this popular Financial District bar.
 
 ## Cuisine
+
 **Bar & grill** — bar and grill, sports bar, salad shop, irish pub, pub, cocktail bar, american restaurant, bar
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 745 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 301 Sacramento St, San Francisco, CA 94111, USA  
 Phone: (415) 956-1710  
 Website: [https://www.royalexchange.com/](https://www.royalexchange.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1075075182447585225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7941431, -122.3992091
+[View on Google Maps](https://maps.google.com/?cid=1075075182447585225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "OMG!
 Super fun.
 Me and my husband kept saying as Google Guide level 10, how did we missed this bar these years.
@@ -64,6 +65,3 @@ Great pub atmosphere with EPL on the screens (good and bad).  A cool place to ha
 They're praising their burger, saying it's the best burger in SF, I won't agree or disagree, but the burger was very delicious. One thing I'll say it was outstanding was FRENCH FRIES !!!
 The waiter was polite and patient with us. Food came super fast, and it was fresh and tasty. Portions..." — **Ajdin** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

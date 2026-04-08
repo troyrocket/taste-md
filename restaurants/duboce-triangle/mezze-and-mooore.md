@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Duboce Triangle](index.html)
-
 # Mezze and Mooore
 
 ## Cuisine
+
 **Lebanese restaurant** — lebanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 520 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 198 Guerrero St, San Francisco, CA 94103, USA  
 Phone: (415) 654-5089  
 Website: [https://www.mezzeandmooore.com/](https://www.mezzeandmooore.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10328319367979684233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7681355, -122.42462699999999
+[View on Google Maps](https://maps.google.com/?cid=10328319367979684233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:30 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I bookmarked this spot a year ago, so after a nearby walk, we finally jumped at the chance to have lunch at Mezze and Mooore!
 
 From the moment we walked in, we were greeted by the owner, Nabil, whose million-dollar smile sets the tone for this charming corner café. We were pleasantly surprised by th..." — **Lisa Watson** (5 months ago)
@@ -56,6 +57,3 @@ I only took one star off because I was charged 4$ for a tiny bowl of Toum which 
 Although w..." — **Asma Ali** (10 months ago)
 - ★★★★★ "I really liked this place because you can dress it up and down. The food was excellent, the service was really nice and quick, and the decor and seating was really pleasant. It's the kind of place I would go to on a first date, a business meeting, or casual catch up with friends -- it has an upscale..." — **Hariklia Frangos** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

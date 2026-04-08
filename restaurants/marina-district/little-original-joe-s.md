@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Marina District](index.html)
-
 # Little Original Joe's
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.3 stars — 379 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 2301 Chestnut St, San Francisco, CA 94123, USA  
 Phone: (415) 712-1895  
 Website: [https://www.littleoriginaljoes.com/loj-marina](https://www.littleoriginaljoes.com/loj-marina)  
-[View on Google Maps](https://maps.google.com/?cid=14887751396679442309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.799959799999996, -122.44142919999999
+[View on Google Maps](https://maps.google.com/?cid=14887751396679442309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 10:30 AM – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "Good, but not great. The food was solid overall, but I’ve definitely had better at the Westlake and North Beach locations. We ordered pasta and pizza. The pasta was good and flavorful, but I wouldn’t order the pizza again.
 
 The atmosphere is trendy and nice, making it a fun spot for a night out. Tha..." — **Caitlin** (a month ago)
@@ -56,6 +57,3 @@ First of all, the service was absolutely outstanding. Our server, Ben, was incre
 - ★★★★★ "Not that they need more hype, but what we orderd was so on point…. Highly recommend the ricotta & olive dip, the sole piccata, and the vodka penne (even with GF pasta it hit). Our server Britney was awesome too." — **Anne Marie J** (3 weeks ago)
 - ★★★★★ "Came on a sunday lunch time. Didnt have reservation but the staff at the counter was very friendly and accomodating and sat us at a nice table.  The food was very decadent and tasty. Our favorite was the zucchini fries. Seemed every table had the big mountain of fries in front of them so gave it a t..." — **johndhchoi** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

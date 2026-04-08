@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Outer Richmond](index.html)
-
 # Empero Taste
 
 ## Cuisine
+
 **Chinese restaurant** — chinese restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 468 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for groups · Good for kids · Restroom available
 4052 Balboa St, San Francisco, CA 94121, USA  
 Phone: (415) 876-3298  
 Website: [https://emperotaste.shop/](https://emperotaste.shop/)  
-[View on Google Maps](https://maps.google.com/?cid=12852533388679118354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.775633299999996, -122.50249170000001
+[View on Google Maps](https://maps.google.com/?cid=12852533388679118354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "I usually appreciate it when food is truly authentic, but this was "too authentic" for me. I couldn't really finish my meal as the flavors weren't for me. However, if you want to experience real China in San Francisco, you must come here!" — **Jakub Waśko** (2 months ago)
 - ★★★★★ "Empero Taste in San Francisco is a great spot for tasty Chinese food, with plenty of dishes that hit the mark. Salt and Pepper Pork Chops, Honey Walnut Prawns, Lobster Noodle, Fried Calamari/Crabs, and French Style Pork Spareribs are all favorites, packed with flavor and cooked just right.
 Overall, ..." — **Terry Chan** (10 months ago)
@@ -52,6 +53,3 @@ Overall, ..." — **Terry Chan** (10 months ago)
 - ★★★★★ "The food was good and the proportion sizes are hugeee!! Great place for family style dinners. We had a group of 11 and it was perfect. A lot of food for really good price." — **Rajni L** (7 months ago)
 - ★★★★★ "Always my go to place for my parents birthday, relatives get together and friends coming to the town. Very authentic Cantonese food and love the noise level from different tables as this indicates the real Canton culture." — **Emma Ye** (10 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

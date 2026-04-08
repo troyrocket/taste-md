@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Rintaro
 Japanese izakaya serving traditional menus in a hip, buzzy space decked in exposed woods.
 
 ## Cuisine
+
 **Izakaya restaurant** — japanese izakaya restaurant, japanese restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.5 stars — 1,354 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 82 14th St, San Francisco, CA 94103, USA  
 Phone: (415) 589-7022  
 Website: [http://izakayarintaro.com/](http://izakayarintaro.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16233121339072713172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.768875, -122.4151361
+[View on Google Maps](https://maps.google.com/?cid=16233121339072713172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 9:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Great service. Great ambiance. Great food. Shared 8 courses between 2 people. Left full and very satisfied.
 
 Hojicha panna cotta, and squid salad were the most unique in terms of flavor.
@@ -61,6 +62,3 @@ Mochi kinchaku was ..." — **Arrchana Pradeepan** (a month ago)
 - ★★★★★ "I was in town to visit friends and family. The friend I was staying with had been wanting to go here for years - before the flooding shut them down for a while - so she was super excited to get a reservation. The only one available was at 9:30 on a Tuesday night. But that worked perfectly for our sc..." — **melissa manousos** (2 months ago)
 - ★★★★★ "We got the Winter Set Menu we spent the extra $15 to get everything on thr set menu and it was worth it! Everything on the set menu was flavorful and will definitely come back. Since we were on our honeymoon we got complimentary Umai Fizz drink which was delicious, I had to order the full size. If i..." — **Carolyn Marie Santos** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

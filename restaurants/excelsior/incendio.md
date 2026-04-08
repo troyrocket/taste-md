@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Excelsior](index.html)
-
 # INCENDIO
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 18 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Restroom available
 518 S Van Ness Ave, San Francisco, CA 94110, USA  
 Phone: (415) 712-3988  
 Website: [https://incendiosf.com/](https://incendiosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14258240178524351528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7646346, -122.4177913
+[View on Google Maps](https://maps.google.com/?cid=14258240178524351528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "8/19/2025- 1st time here.
 I'm here in San Francisco visiting from Los Angeles. Came in for $2 taco Tuesdays, and I have to say, they were delicious!! I had 6 tacos.
 Also, my friends were stating that their dinners were also really good. We'll definitely be back when out in this area." — **Frank MacGyver** (7 months ago)
@@ -53,6 +54,3 @@ Also, my friends were stating that their dinners were also really good. We'll de
 - ★★★★★ "Great bang for buck. Tacos were pretty good and filling. Definitely an easy choice for the taco Tuesday at $2. Having Apple Pay was a major plus" — **Jimson Yang** (2 months ago)
 - ★ "I Ordered tostilocos and they gave me nachos with no ingredients. The advertised mango and cucumber and Japanese peanuts. They literally gave me nachos with Chamoy. That’s it They charged me like 20 bucks." — **Fatima Paola Barajas** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

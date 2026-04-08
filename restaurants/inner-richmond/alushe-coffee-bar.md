@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Richmond](index.html)
-
 # Alushe coffee bar
 
 ## Cuisine
+
 **Coffee shop** — coffee shop, sandwich shop, breakfast restaurant, juice shop, cafe, pastry shop, dessert shop, confectionery
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 107 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 4201 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 571-8492  
 Website: [http://alushecoffee.com/](http://alushecoffee.com/)  
-[View on Google Maps](https://maps.google.com/?cid=6396942660202370301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7808333, -122.46444439999999
+[View on Google Maps](https://maps.google.com/?cid=6396942660202370301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Their lattes are so good!
 
 This place was recommended by a healthcare worker at Kaiser so we had to try it out and I will say that it was simply amazing! Their syrups are house-made and so unique. The worker was so kind and he patiently described each of the flavors they have made in house.
@@ -57,6 +58,3 @@ I ended..." — **mika** (3 months ago)
 I just love the vibe, Everybody's so friendly" — **patricia us** (a month ago)
 - ★★★★★ "The owners Jessica & Marcos are the best! The most hospitable coffee shop owners I’ve ever had the pleasure of interacting with. They truly care about their craft & their customers. Their specialty drinks are out of this world. Try their pistachio lime or my personal favorite, the secret menu item H..." — **Azra P** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

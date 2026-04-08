@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Bar at Hotel Kabuki
 Elevated cocktail lounge with tea & Asian-influenced snacks served in chic, modern surrounds.
 
 ## Cuisine
+
 **Cocktail bar** — cocktail bar, lounge bar, night club, bar, asian restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 293 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Outdoor seating · Good for groups · Restroom available
 
 1625 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 922-3200  
-[View on Google Maps](https://maps.google.com/?cid=16889672616327543175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7854257, -122.42873949999998
+[View on Google Maps](https://maps.google.com/?cid=16889672616327543175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 5:00 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "An excellent bar attached to the hotel Kabuki (you DO NOT have to be staying at the hotel to enjoy the bar), staffed by the kind of bartenders that are natural mixologists and able to just sort of innovate their way to an excellent drink on the spot based on vague descriptions.
 
 A great collection o..." — **joe e-k** (2 years ago)
@@ -54,6 +55,3 @@ A great collection o..." — **joe e-k** (2 years ago)
 - ★ "The worst service ever!
 I got there for happy hour and has  asked about menu. The bartender gave me regular menus, denying they have any happy hour. Why would they have advertise happy hour when?" — **Irene Gromov** (3 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

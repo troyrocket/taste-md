@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Hikari Bullet Train Sushi & Bar
 Modern Japanese & sushi destination with booths, counter seats & train-style conveyor delivery.
 
 ## Cuisine
+
 **Sushi restaurant** — sushi restaurant, japanese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 980 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 
 1734 Post St, San Francisco, CA 94115, USA  
 Phone: (415) 872-9116  
-[View on Google Maps](https://maps.google.com/?cid=8204105760573356448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7856117, -122.43048940000001
+[View on Google Maps](https://maps.google.com/?cid=8204105760573356448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Delicious sushi! The fish is so fresh... we had the Zuke Salmon Nigiri and it was smooth and flavorful. I dare say the Nigiri here is just as good as what I had in Japan.
 
 The rolls are great too and they come out on the most adorable little bullet trains. Its not like your typical Sushi Boat restau..." — **Jaclyn Pearson** (a month ago)
@@ -62,6 +63,3 @@ The food is also excellent. I personally recommend the Double Spicy Salmon (see 
 
 Service: I love that its just a touch screen you can pick food a..." — **Jamie Dawson** (2 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

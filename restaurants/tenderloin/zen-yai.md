@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Tenderloin](index.html)
-
 # Zen Yai
 Traditional Thai dishes, soups & street food plus constantly changing specials.
 
 ## Cuisine
+
 **Thai restaurant** — thai restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.5 stars — 749 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 925 O'Farrell St, San Francisco, CA 94109, USA  
 Phone: (415) 885-0725  
 Website: [http://zenyaisf.com/](http://zenyaisf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17452767205928162354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7848154, -122.42007129999999
+[View on Google Maps](https://maps.google.com/?cid=17452767205928162354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Awesome food. And im picky about my Thai food  we ordered the green papaya salad, Silver noodle salad, the barbecued pork, and Tom Kah soup. Every single plate was excellent 👍 Service was great, lots of space and very open with large windows. The area is a little difficult for parking, Service is f..." — **Ghidossi Paul** (2 months ago)
 - ★★★★★ "The new location is 1 block away from the old location which is great!
 
@@ -60,6 +61,3 @@ I sampled the two poplar boat noodles (small sizes). They were so unique, punchf
 The prices are very affordable, the new space is clea..." — **jantima Ongpichatmatha** (3 months ago)
 - ★★★★★ "Love love love this place!!!! I am Thai and spicy food. We ordered the papaya salad. It tastes exactly like what I ate in Thailand. We made the special request that we wanted it to be very spicy and they didn’t fail us. It was so spicy and delicious 🤤. I will definitely come back here. To my fellow..." — **Nyein Nyein Su** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

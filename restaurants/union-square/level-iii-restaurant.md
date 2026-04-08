@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Union Square](index.html)
-
 # Level III Restaurant
 Vibrant New American hotel restaurant, serving all-day fare & cocktails in contemporary surrounds.
 
 ## Cuisine
+
 **American restaurant** — american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3.9 stars — 43 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Good for groups · Good for kids · Restroom available
 515 Mason St, San Francisco, CA 94102, USA  
 Phone: (415) 929-2087  
 Website: [https://www.marriott.com/en-us/hotels/sfojw-jw-marriott-san-francisco-union-square/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108](https://www.marriott.com/en-us/hotels/sfojw-jw-marriott-san-francisco-union-square/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108)  
-[View on Google Maps](https://maps.google.com/?cid=13404191503602732294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.788418, -122.41058
+[View on Google Maps](https://maps.google.com/?cid=13404191503602732294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 6:30 – 11:00 AM, 11:30 AM – 2:00 PM, 5:00 – 10:0
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Really nice restaurant. I’ve stayed at this hotel a few times and had dinner and it was amazing service and food every time. I didn’t stay at the hotel this time but, came to the restaurant for a birthday dinner and as always service and food was amazing. They have many gluten free options and will ..." — **Makenna Stone** (7 months ago)
 - ★★★★★ "Love all the dishes at Level III inside Marriott San Francisco Union Square👍👍👍
 
@@ -55,6 +56,3 @@ We had delicious breakfast egg white omelettes. We also enjoyed their incredible
 - ★★★★ "This hotel restaurant falls in the bucket of not great but also not bad restaurant. We went on a Sunday night so the place was pretty empty. Our server was personal yet professional, not too chatty. The food was good and portions were generous. We had two appetizers, 3 cocktails, 1 soda and 2 entree..." — **suzanne yeh** (3 years ago)
 - ★★★ "The best characteristic of this restaurant perched on floor number three (hello, level iii) is great service. Michelle has been consistently been providing exceptional service for - soon to be 25 years - and though I haven’t been eating at level iii for nearly as long as that, she is as friendly and..." — **George B** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # The Hungry Spot
 
 ## Cuisine
+
 **Sandwich shop** — sandwich shop, salad shop, food store, store
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.9 stars — 177 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for kids · Good for watching sports · Dog-friendly
 2077 Hayes St, San Francisco, CA 94117, USA  
 Phone: (415) 682-4111  
 Website: [https://thehungryspot.com/](https://thehungryspot.com/)  
-[View on Google Maps](https://maps.google.com/?cid=1102685132498260973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.773221899999996, -122.45054619999998
+[View on Google Maps](https://maps.google.com/?cid=1102685132498260973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 6:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Service was really good! Really friendly guy and was hospitable.
 
 Food was even better. We had the Turkey Brisket and the Golden Valkyrie.
@@ -57,6 +58,3 @@ I've never had turkey brisket before and it was amazing. Love the warm crunch of
 - ★★★★★ "We found this deli by luck!  We decided on the Hayes Street Veggie Sandwich and were completely star struck!  The Sandwich was delicious, the store was kitschy and warm, and the owner was sweet and talkative without being overbearing. Highly recommend this San Francisco icon." — **Valerie Curtis** (4 weeks ago)
 - ★★★★★ "The first thing I noticed was the wall decor - really cool, provocative and fun quotes! Not a ton of seating, and it is a little bit pricey ($~20 minimum)but the owners were very welcoming! We ordered the classic turkey sandwich and split it between the two of us, and we felt satisfied by the end - ..." — **Gil Sander Joseph** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

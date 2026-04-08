@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Cinderella Bakery & Cafe
 Time-tested Russian bakery turning out traditional pastries, meat pies, entrees & treats since 1953.
 
 ## Cuisine
+
 **Bakery** — bakery, pastry shop, russian restaurant, cafe, dessert shop, confectionery, food store, store
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.7 stars — 3,015 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Restroom available
 436 Balboa St, San Francisco, CA 94118, USA  
 Phone: (415) 751-9690  
 Website: [https://cinderellabakery.com/](https://cinderellabakery.com/)  
-[View on Google Maps](https://maps.google.com/?cid=14287218678531349815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.777432999999995, -122.4636615
+[View on Google Maps](https://maps.google.com/?cid=14287218678531349815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 7:00 AM – 7:00 PM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "Amazing store for Russian Food. We ordered the borscht, pelmeni, olivye, and medovik. It did take a bit for our main dishes to come out but its a family run restaurant so i was a-ok waiting. We had a tub of olivye and slice of medovik to snack on anyways so all good.
 
 The olivye was quite salty but ..." — **Hannah Lin** (2 months ago)
@@ -57,6 +58,3 @@ Nice seating area out on the sidewalk. I often stop here when visiting..." — *
 - ★★★ "I was excited to find a cafe that has Eastern European food but it was a disappointing experience. The pirojkis (beef and potato) didn’t have enough filling and the borscht was just okay. The salad was good enough but they initially mixed up the order." — **Fidan Aghayeva** (a month ago)
 - ★★★★ "I ordered borscht and the potato vareniki. Each dish was a generous portion, sufficient as a meal on its own— however, having walked around all day on an empty stomach, I managed both in one (long) sitting. The borscht was hearty and flavorful. The bread that it came with was a fine vessel to soak u..." — **nori** (3 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

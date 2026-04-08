@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Tosca Cafe
 Lively bar & eatery featuring Italian fare, cocktails & wine in a revamped, yet old-school setting.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, bar, event venue
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 600 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Restroom available
 242 Columbus Ave, San Francisco, CA 94133, USA  
 Phone: (415) 986-9651  
 Website: [http://www.toscacafe-sf.com/](http://www.toscacafe-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=2766364805144128390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.797634099999996, -122.40599259999999
+[View on Google Maps](https://maps.google.com/?cid=2766364805144128390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★ "I like the old school atmosphere of this place. The food was ok if you like that east coast comfort food type of Italian food, not Italian from Italy type of Italian food. The pasta was way overcooked. The food runner team needs to work on knowing table numbers and seat numbers. The incorrect food w..." — **Susie S** (4 months ago)
 - ★★ "Atmosphere is great. Food is decent. No salt and pepper at the table and food kind of bland.
 
@@ -60,6 +61,3 @@ Margo, the big bartender, keeps an eye on the entire restaurant from the cocktai
 100-year-old ..." — **Adam Lambert** (11 months ago)
 - ★ "Something weird is going on here. We went in. It reeks of cheap cleaning product. Overpowering. 630pm the place is empty. I see all the recent bad reviews but when I was planning my trip months ago things were good. The menu has changed. Its very small and they were out of several things. A table ne..." — **Annie M** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Bursa
 Intimate restaurant offering falafel, kebobs & other Mediterranean standards, plus a wine list.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant, turkish restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 689 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 60 W Portal Ave, San Francisco, CA 94127, USA  
 Phone: (415) 564-4006  
 Website: [http://www.bursasf.com/](http://www.bursasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13634164444868624366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.740273099999996, -122.46670859999999
+[View on Google Maps](https://maps.google.com/?cid=13634164444868624366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "So good! I loved the combo appetizer since you get to try a little of everything. I really liked the hummus sunce it wasn't too salty for me. But in general everything on the combo plate was amazing. The goat cheese stuffed falafel in my friend's falafel salad was also really yummy. Also recommend t..." — **Elaine Wang** (a month ago)
 - ★★★★★ "This place is always busy.
 But I always feel special when I come here.
@@ -58,6 +59,3 @@ There is also outdoor dining for those perfect San Francisco nights." — **Krai
 - ★★★★★ "I’m always looking for a good falafel wrap in the city and this was definitely a winner. The pita was not thick but still soft on the inside and crispy on the outside. The pickles were a sharp contrast to the falafel and tahini sauce. The pistachio rice had just the right amount of sweetness and my ..." — **Alicia DiGiammarino** (a year ago)
 - ★★★★ "I love this restaurant in a way. Food is good the attitude and vibe is great. I just feel it lacked a little bit of flavor in the meat and mix and portion size for the price. But in San Francisco it’s rare to find any restaurant that has value. The server was amazing." — **D J** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

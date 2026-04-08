@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Fillmore](index.html)
-
 # 1300 On Fillmore
 Refined soul food in a contemporary airport setting with vintage photos & a supper-club vibe.
 
 ## Cuisine
+
 **American restaurant** — lounge bar, brunch restaurant, wine bar, night club, cocktail bar, live music venue, event venue, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 3 stars — 511 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups
 780 S. AIRPORT BLVD TERMINAL G, San Francisco, CA 94128, USA  
 Phone: (415) 771-7100  
 Website: [http://www.1300fillmore.com/](http://www.1300fillmore.com/)  
-[View on Google Maps](https://maps.google.com/?cid=17805279972446577450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.6185275, -122.3932845
+[View on Google Maps](https://maps.google.com/?cid=17805279972446577450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 8:00 AM – 11:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★ "There are restaurant experiences that linger in your memory like a warm hug, a nostalgic melody, or the smell of freshly baked bread drifting through a childhood kitchen.
 And then there are restaurant experiences that linger because your taste buds are still trying to file a formal complaint with HR..." — **rob oliver** (2 months ago)
 - ★★★ "We buzzed through security and had a bit of time until our flight. You can scan the WR code to order and pay. We ordered wine, beer and a chicken quesadilla. The drinks came quickly. The quesadilla a smidge on the greasy side but had a decent amount of chicken." — **Kay Bee** (6 months ago)
@@ -55,6 +56,3 @@ And then there are restaurant experiences that linger because your taste buds ar
 
 ..." — **Jacob Van Oosterhout** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

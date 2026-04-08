@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Park Gyros
 Relaxed, counter-service spot offering Mediterranean specialties for dine-in, take-out or delivery.
 
 ## Cuisine
+
 **Mediterranean restaurant** — mediterranean restaurant, greek restaurant, gyro restaurant, middle eastern restaurant, turkish restaurant
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.4 stars — 871 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 1201 9th Ave, San Francisco, CA 94122, USA  
 Phone: (415) 571-8212  
 Website: [http://theparkgyros.com/](http://theparkgyros.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12599163234422398778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7657664, -122.46661069999998
+[View on Google Maps](https://maps.google.com/?cid=12599163234422398778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:30 AM – 9:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I can hardly believe I'm able to leave a review for a restaurant featuring a Mediterranean cuisine. It is not that I don't like Greek and Turkish food; the problem is my food allergies, which so often keep me from being able to eat it. Park Gyros, on 9th Ave., near Lincoln Way and19th Ave, was a gre..." — **Sharon Spivack** (3 months ago)
 - ★★★★★ "One of my go places in San Francisco when I go. I always get the lamb and beef gyros they are awesome. Had 1 of there combo plates that was really good to but for the price and quality the gyros are the best. This place is a total recommend.
 I got the lamb and beef gyros with sauce on the side again..." — **Steve Crick** (4 months ago)
@@ -63,6 +64,3 @@ It is so close to Golden Gate park, in a nice street to hang out or walk.
 The manager was suuuper nice and friendly, he even gave our group baklava on the house🥲
 They were really comfortable and helpful with moving the tables and suiting in for ..." — **Ghazal Ghasempour** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

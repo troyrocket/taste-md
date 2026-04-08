@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Castro](index.html)
-
 # FRATELLI PIZZA
 
 ## Cuisine
+
 **Pizza restaurant** — pizza restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 79 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids
 460 Castro St, San Francisco, CA 94114, USA  
 Phone: (415) 374-7915  
 Website: [https://www.fratellipizza-sf.com/](https://www.fratellipizza-sf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12857360672122834686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7615267, -122.4352861
+[View on Google Maps](https://maps.google.com/?cid=12857360672122834686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 PM – 2:00 AM
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★ "Cody's Castro District Pizza Sampler, FIRST PEP SLICE:
 
 A better than average pizza by the slice (but still kind of average). NY STYLE; Crust is light and airy, and I would say the most prominent part of the taste, sauce, cheese, and pepperoni didnt have anything special about them. All in all, tast..." — **Cody Odyssey** (2 months ago)
@@ -59,6 +60,3 @@ Flavorful slices, made with care. That’s it.
 
 Walking out with a full stomach and a lots of good energy" — **Victor Gomez** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

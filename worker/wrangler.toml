@@ -1,0 +1,20 @@
+name = "taste-md-api"
+main = "src/index.ts"
+compatibility_date = "2026-04-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "taste-md"
+database_id = "de083027-fa7a-4f13-b047-b5cb8dc61e24"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "taste-md-content"
+
+routes = [
+  { pattern = "tastemd.xyz/*", zone_name = "tastemd.xyz" },
+  { pattern = "www.tastemd.xyz/*", zone_name = "tastemd.xyz" }
+]
+
+# ADMIN_SECRET is set via `wrangler secret` for production
+# For local dev, create a .dev.vars file with ADMIN_SECRET=your-test-secret

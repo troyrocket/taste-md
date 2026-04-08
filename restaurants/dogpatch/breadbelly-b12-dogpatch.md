@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # Breadbelly B12 - Dogpatch
 
 ## Cuisine
+
 **Bakery** — bakery, sandwich shop, coffee shop, cafe, food store, store
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.3 stars — 79 reviews
 
 ## Dining Options
@@ -24,8 +25,7 @@ Restroom available
 
 1070 Maryland St suite 122, San Francisco, CA 94107, USA  
 Website: [https://www.breadbellysf.com/](https://www.breadbellysf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10374164545259945708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7584022, -122.38422249999999
+[View on Google Maps](https://maps.google.com/?cid=10374164545259945708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -44,6 +44,7 @@ Sunday: 8:00 AM – 2:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Fun to explore this Asian inspired bakery/café on Pier 70 in Dogpatch. Like the industrial space, plenty of seating. Tried the shrimpwich and Fried Chicken Cutlet sandwich. Both, very hearty sandwiches! The shrimp patties were large and tended to overwhelm the slaw and other flavors. The Chicken cut..." — **Elaine OHara** (3 weeks ago)
 - ★★★★ "Cute bakery shop and sandwiches. Got the chicken cutlet. Prices are a bit steep for sandwiches and coffee. 5% fee on top as well.
 
@@ -56,6 +57,3 @@ The shrimp sandwich and salads (seasonally changing, always crunchy fresh and in
 
 I had the breakfast sandwich with the fried egg and smoked ham. It is very delicious, however I would like it a bit less salty. The sauce, the kale..." — **Zhuo Z** (4 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

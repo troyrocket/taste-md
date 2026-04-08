@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Inner Sunset](index.html)
-
 # Sunset Indian Cuisine
 
 ## Cuisine
+
 **Indian restaurant** — indian restaurant, service
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.8 stars — 613 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Good for kids · Good for watching sports · Restroom availab
 642 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 664-7225  
 Website: [https://www.sunsetindiancuisine.com/](https://www.sunsetindiancuisine.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10935323477128740045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7642366, -122.46497289999999
+[View on Google Maps](https://maps.google.com/?cid=10935323477128740045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:00 AM – 12:00 AM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "Sunset Indian Restaurant, has taken over the former Naan N' Curry location, and the transformation is impressive. The interior has been thoughtfully updated with attractive décor, a carpeted dining room that softens the space, and the welcome addition of two bathrooms — a definite improvement for gu..." — **Eddie Valadez** (4 weeks ago)
 - ★★★★★ "Very delicious and authentic! Wonderful and attentive crew, very clean, professional! We will be back! Highly recommend!!! The food was very delicious..
 
@@ -61,6 +62,3 @@ Chicken curry
 
 6 out of 5 stars! Excellent food and atmosphere. Completely authentic, 100% fresh and delicious. Great conversation with the staff as well. I have a food allergy and he reassured me that he took it very seriously and that my food was safe to eat, they even ..." — **Sunil Gautam** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

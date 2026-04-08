@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Osteria Bella
 
 ## Cuisine
+
 **Gastropub** — gastropub, bar
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.5 stars — 82 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for watching sports · Restroom available
 
 3848 Geary Blvd, San Francisco, CA 94118, USA  
 Phone: (415) 221-0305  
-[View on Google Maps](https://maps.google.com/?cid=16945154163339275022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.781370599999995, -122.460819
+[View on Google Maps](https://maps.google.com/?cid=16945154163339275022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 12:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "I'm so happy we chanced upon this place. The servers are warm, friendly and the service is nothing short of fantastic. Loved the Diavlo pizza, bone marrow and pannacota. Definitely a great place to visit with family or to celebrate a birthday." — **Saroni Ghosh** (4 months ago)
 - ★★★★★ "You should bookmark this place if you plan on heading to the DeYoung Museum and don't want to eat in the museum cafeteria again. It's a reasonable walking distance and they serve solid Italian food.
 
@@ -56,6 +57,3 @@ I ordered the tagliata steak, which was meant to be medium rare but was rare at 
 - ★★★★ "Osteria Bella is adjacent to Bella Trattoria. I'm not sure of the distinction between the two, but both dining rooms share a menu that serves excellent food. The wait staff is friendly and knowledgeable.  I love this place. I can't wait to share it with another friend.
 March 2024: I have eaten here ..." — **Laura Peters** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Cole Valley](index.html)
-
 # RT Rotisserie
 
 ## Cuisine
+
 **Chicken restaurant** — chicken restaurant, hamburger restaurant, american restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 319 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Outdoor seating · Good for kids · Restroom available
 
 302 Broderick St, San Francisco, CA 94117, USA  
 Website: [http://www.rtrotisserie.com/](http://www.rtrotisserie.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16309507116516099918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.773096699999996, -122.4389433
+[View on Google Maps](https://maps.google.com/?cid=16309507116516099918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -46,6 +46,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "RT Rotisserie is an absolute gem. The chicken is incredibly fresh and juicy with that perfect crispy skin. Honestly, the sides almost steal the show—the charred cauliflower and chicken rice are total game-changers. Of all the entrees, the rice bowl was definitely the best.
 
 I love that they have ton..." — **Peter Farejowicz** (2 months ago)
@@ -61,6 +62,3 @@ The sauces are amazing, and the rotisserie chicken is juicy and tender on the in
 Great for dine-in or takeout." — **Tamires Érvila** (2 months ago)
 - ★★★★★ "Amazing food every single time!! The flavor, the portion, all of it is fantastic. The kind of place you crave and want to return to. The chicken rice bowl is my absolute favorite!!" — **Tabitha Popescu** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

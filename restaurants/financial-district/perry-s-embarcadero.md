@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Perry's Embarcadero
 Bustling chain branch offering classic American sandwiches, burgers & appetizers, plus cocktails.
 
 ## Cuisine
+
 **American restaurant** — american restaurant, bar
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.2 stars — 1,171 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for watching sports · Restroom avail
 155 Steuart St, San Francisco, CA 94105, USA  
 Phone: (415) 495-6500  
 Website: [https://www.perryssf.com/location/embarcadero/](https://www.perryssf.com/location/embarcadero/)  
-[View on Google Maps](https://maps.google.com/?cid=2635451506251415020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.792874999999995, -122.3921668
+[View on Google Maps](https://maps.google.com/?cid=2635451506251415020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:30 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★ "Great steak salad. Better if less sweet. Large portions.
 
 There is a mandatory 6% employer mandate surcharge. Would be better if they state this upfront or just include it in the menu price instead." — **L** (a month ago)
@@ -56,6 +57,3 @@ There is a mandatory 6% employer mandate surcharge. Would be better if they stat
 - ★★★★★ "A lovely place with very professional attentive stuff and great food - we had grilled salmon with Israeli couscous, a smash burger and deviled eggs (they disappeared immediately :))  Couscous was just perfect - oily, springy little pearls with dots of diced sweet peppers and some sautéed spinach, a ..." — **Lisa T K** (6 months ago)
 - ★★★★ "Perry's on the Embarcadero, located at 155 Steuart Street, is a great spot close to my workplace. It offers more than just a beautiful waterfront view. Since its opening in 2008, Perry's has built on the tradition of the original Perry's on Union Street, which started in 1969. The aim was to bring a..." — **Afshin Afshar-Ghasemlou** (11 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

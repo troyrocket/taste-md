@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Sunset District](index.html)
-
 # Gao Viet Kitchen
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $$$
 
 ## Rating
+
 4.4 stars — 433 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Good for groups · Restroom available
 1900 Irving St, San Francisco, CA 94122, USA  
 Phone: (415) 592-8090  
 Website: [https://gaokitchen.com/](https://gaokitchen.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13665605208594713042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7636502, -122.47838780000001
+[View on Google Maps](https://maps.google.com/?cid=13665605208594713042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "One of the few restaurants where the service complemented the food in San Francisco. Sat at the bar and Gabriel took care of us really well. The rolls were very tasty and the coconut salad was interesting but good as well. Finished with Mama’s Claypot and the shrimp noodles, both tasty dishes. The s..." — **Tha Sweet Lou** (a month ago)
 - ★★★★★ "Probably one of the best meal I've had in my life. You think it'll be gimmicky because given the price but it's worth it.
 
@@ -56,6 +57,3 @@ Bring the whole family here. I haven't had a dish where I was disappointed. Port
 - ★★★★★ "Dining at Gao Viet Kitchen was a delightful experience from start to finish. The food was exceptional!!
 From the moment we entered, the welcoming atmosphere and friendly staff made us feel right at home." — **Elizabeth Becker** (a month ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

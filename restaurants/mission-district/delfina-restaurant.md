@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Mission District](index.html)
-
 # Delfina Restaurant
 Longtime destination for seasonal Italian cuisine & classic desserts with wines by the glass & beer.
 
 ## Cuisine
+
 **Italian restaurant** — italian restaurant, event venue
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 378 reviews
 
 ## Dining Options
@@ -27,8 +28,7 @@ Outdoor seating · Good for groups · Restroom available
 3621 18th St, San Francisco, CA 94110, USA  
 Phone: (415) 552-4055  
 Website: [https://www.delfinasf.com/](https://www.delfinasf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=12373724143351226560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7613707, -122.42433860000001
+[View on Google Maps](https://maps.google.com/?cid=12373724143351226560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -47,6 +47,7 @@ Sunday: 5:00 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★ "Inviting atmosphere and good service, but disappointing food.  Perplexed by the rave reviews here?!????
 
 The environment is inviting and the wait staff was friendly and attentive, which we appreciated. Unfortunately, the food itself was overly salted and disappointing overall.
@@ -65,6 +66,3 @@ While presentation was beautiful, portions were disappointingly small for the pr
 The Delf..." — **cantik** (6 months ago)
 - ★★★★★ "This gem of a restaurant was a treat! We were seated without a wait, the service was excellent. Staff is friendly and attentive.  The food was amazing! The halibut crudo was exceptional: with  bright and zingy marinated apricots, creamy avocado, tart guacamole-ish sauce,bits of crunchy veggie and te..." — **Maria Stoimenova** (8 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

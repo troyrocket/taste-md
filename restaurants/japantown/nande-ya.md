@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Japantown](index.html)
-
 # Nande-Ya
 
 ## Cuisine
+
 **Japanese restaurant** — japanese restaurant
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 3.3 stars — 503 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for groups · Good for kids · Restroom available
 
 1737 Post St, San Francisco, CA 94115, USA  
 Phone: (628) 444-3580  
-[View on Google Maps](https://maps.google.com/?cid=1673412823498372018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.785168899999995, -122.4306573
+[View on Google Maps](https://maps.google.com/?cid=1673412823498372018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★ "Have to wait for more than 1 hr to be seated, even it’s a working day, NOT weekend.
 
 The place is really crowded, the same as the seating area. The food is just so so but with quite high price, maybe because of the location and the rent?" — **Juehui Zheng** (2 months ago)
@@ -53,6 +54,3 @@ The place is really crowded, the same as the seating area. The food is just so s
 - ★★★★★ "Everything we tried was really good. The fried veggies were different, you can’t tell what it is until you bite it. They had plenty of options and we enjoyed that with our plate, it was satisfying for 2 people." — **J P** (3 months ago)
 - ★ "We were one of the few that came in when it just opened and the food was not fresh. Rice, tempura, chicken teriyaki all were cold. Rice and chicken tasted like it was day old.  Tempura tasted cold and looks burnt. ONLY thing that tasted fresh was my daughter’s udon not noodle soup." — **Mimi Vasquez** (7 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

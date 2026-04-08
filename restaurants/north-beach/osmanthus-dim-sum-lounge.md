@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [North Beach](index.html)
-
 # Osmanthus Dim Sum Lounge
 Relaxed eatery doling out Pan-Asian staples like samosas, dumpling & noodles, plus beer.
 
 ## Cuisine
+
 **Dim sum restaurant** — dim sum restaurant, cantonese restaurant, dumpling restaurant, wine bar, bar, chinese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.4 stars — 522 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Live music · Good for groups · Good for kids · Restroom av
 504 Broadway, San Francisco, CA 94133, USA  
 Phone: (415) 872-9648  
 Website: [https://order.mealkeyway.com/customer/release/index?mid=426e6c6577496e6652502b49676c684779766a7465773d3d#/main](https://order.mealkeyway.com/customer/release/index?mid=426e6c6577496e6652502b49676c684779766a7465773d3d#/main)  
-[View on Google Maps](https://maps.google.com/?cid=5409186209426992063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7981209, -122.4057057
+[View on Google Maps](https://maps.google.com/?cid=5409186209426992063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:30 AM – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★ "A nice spot for dim sum. The selection isn’t very large, but I actually appreciated that — sometimes too many options can be overwhelming. Everything we tried was tasty and well prepared. I also had the lychee cocktail, which was pleasant and refreshing — not a big “wow” moment, but definitely solid..." — **Viktoria Weizel** (3 months ago)
 - ★★★★★ "An unbelievably delicious meal here. We ordered too much for two people, but all of it was so good that we couldn't stop eating. We ordered the garlic noodles, peeking duck, fried fish and shrimp balls, and the spicy coconut fish broth. My personal favorites were the garlic noodles and spicy coconut..." — **Elena Aragon** (5 months ago)
 - ★★★★★ "Long overdue and much deserved review.
@@ -64,6 +65,3 @@ The sesame balls were incredible. The mochi filling was perfectly dense and chew
 
 The food and drinks were amazing, especially the tea-infused cocktails, whi..." — **Lucas Li** (6 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

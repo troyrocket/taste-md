@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [Financial District](index.html)
-
 # Grasso SF
 
 ## Cuisine
+
 **Restaurant** — Restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.7 stars — 30 reviews
 
 ## Dining Options
@@ -26,8 +27,7 @@ Good for kids
 214 California St, San Francisco, CA 94111, USA  
 Phone: (415) 658-7923  
 Website: [https://www.grassosf.com/](https://www.grassosf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=16765924810341897097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.793436899999996, -122.399203
+[View on Google Maps](https://maps.google.com/?cid=16765924810341897097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance
 
 ## What Diners Say
+
 - ★★★★★ "I wish I could leave more stars!!!
 
 My boyfriend and I were walking by  and walked in because he was craving a sandwich, they told  us they were sold out :( I'm guessing that's how good it is!!!
@@ -60,6 +61,3 @@ The shop is super new, clean, and nice too - good stuff." — **Matt** (7 months
 
 T..." — **Wes Harris** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

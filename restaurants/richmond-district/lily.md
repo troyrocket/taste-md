@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Richmond District](index.html)
-
 # Lily
 Easygoing restaurant offering classic Vietnamese dishes, including sandwiches, soups & spring rolls.
 
 ## Cuisine
+
 **Vietnamese restaurant** — vietnamese restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 445 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Restroom available
 225 Clement St, San Francisco, CA 94118, USA  
 Phone: (415) 742-5285  
 Website: [https://www.lilyonclement.com/](https://www.lilyonclement.com/)  
-[View on Google Maps](https://maps.google.com/?cid=936182205509205040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.782971499999995, -122.461732
+[View on Google Maps](https://maps.google.com/?cid=936182205509205040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 11:00 AM – 8:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I feel honored to have sat at the counter to watch the chef in a true flow state. Every single thing on the menu had a unique approach and was done artfully and masterfully. You can’t go wrong ordering. Cocktails were creative and well done. Dessert (hot chocolate torte) absolutely blew my mind. Thi..." — **Lizzy Masotta** (a month ago)
 - ★★★★★ "Gorgeous food, fresh, delicate, and soft atmosphere. The chef is so sweet he greets you and checks in on you during dinner. We enjoyed everything we tried, especially the fried dishes which are so light and crispy. Fried fish and the shaved ice were my faves from the night. Not an every day spot but..." — **Ingrid Carolina Ramón Parra** (4 months ago)
 - ★★★★★ "Everything was amazing. You could close your eyes and point to anything on the menu and it would be good.
@@ -62,6 +63,3 @@ After some impromptu searching. The venue of the evening we landed on was lilies
 - ★★★★★ "The menu at Lily restaurant is a true culinary masterpiece.
 Each dish I tried was expertly crafted with fresh, high-quality ingredients that burst with flavor. The attention to detail in every plate was evident, and I appreciated the chef's creativity in creating unique and delicious flavor combinat..." — **Tung Ho** (2 years ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

@@ -1,14 +1,15 @@
-[taste.md](../index.html) / [West Portal](index.html)
-
 # Apres Vous
 
 ## Cuisine
+
 **Takeout restaurant** — meal takeaway, catering service, european restaurant, french restaurant, food delivery, service
 
 ## Price Range
+
 Unknown
 
 ## Rating
+
 4.9 stars — 75 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Good for kids · Restroom available
 345 Taraval St, San Francisco, CA 94116, USA  
 Phone: (415) 943-9960  
 Website: [https://www.apresvoussf.com/](https://www.apresvoussf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=9392422327629887149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7431954, -122.46995299999998
+[View on Google Maps](https://maps.google.com/?cid=9392422327629887149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: Closed
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom
 
 ## What Diners Say
+
 - ★★★★★ "Excellent customer service with very high energy and friendly staff. Large place, so it doesn’t feel crowded.
 
 I got the lasagna, pulled pork and some veggies
@@ -63,6 +64,3 @@ Espinaler sauce, Torres chips, crema catalana  from Catalonia
 Tinned sardines and quince marmalade from Portugal
 Cheese and Orangina from France..." — **Rafel Fors Perez** (a year ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

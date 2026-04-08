@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Haight-Ashbury](index.html)
-
 # Bistro Central Parc Restaurant
 Bustling neighborhood eatery featuring Mediterranean, French & Italian cuisine, wine & a patio.
 
 ## Cuisine
+
 **Restaurant** — brunch restaurant, french restaurant, italian restaurant, fine dining restaurant, german restaurant, american restaurant, european restaurant
 
 ## Price Range
+
 $$
 
 ## Rating
+
 4.5 stars — 487 reviews
 
 ## Dining Options
@@ -28,8 +29,7 @@ Outdoor seating · Good for groups · Good for kids · Good for watching sports 
 560 Central Ave, San Francisco, CA 94117, USA  
 Phone: (415) 525-3064  
 Website: [https://bistrocentralparcsf.com/](https://bistrocentralparcsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=10022867692493321543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7749805, -122.4442761
+[View on Google Maps](https://maps.google.com/?cid=10022867692493321543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -48,6 +48,7 @@ Sunday: 10:00 AM – 2:30 PM, 4:30 – 9:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating
 
 ## What Diners Say
+
 - ★★★★★ "I had such a great time at Central Parc Bistro! From the second we walked in, the vibe was super welcoming and relaxed. The staff were all really nice — super friendly and made us feel right at home.
 
 The food? Absolutely delicious. Every single thing we ordered was spot-on. You can tell they put a ..." — **Marko Nenadic** (7 months ago)
@@ -58,6 +59,3 @@ We were completely stuffed by the end, but then we couldn't resist the pistachio
 Food is delicious. The special that night was stake, but we opted for the regular menu. Personally, I like these bass very much. The deserts are also g..." — **Cz juarez** (4 months ago)
 - ★★★★ "Amazing dining experience at a golden hour in fall season. Their $45 promo 🥩 ribeye steak with gelato is a must try!" — **Moorissa Tjokro** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*

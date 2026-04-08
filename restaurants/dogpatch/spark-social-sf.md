@@ -1,15 +1,16 @@
-[taste.md](../index.html) / [Dogpatch](index.html)
-
 # SPARK Social SF
 Rotating menu of local food trucks plus beer & sangria in a festive outdoor setting.
 
 ## Cuisine
+
 **Food court** — food court, beer garden, event venue, bar
 
 ## Price Range
+
 $
 
 ## Rating
+
 4.6 stars — 3,911 reviews
 
 ## Dining Options
@@ -25,8 +26,7 @@ Live music · Good for groups · Good for kids
 
 601 Mission Bay Blvd North, San Francisco, CA 94158, USA  
 Website: [http://sparksocialsf.com/](http://sparksocialsf.com/)  
-[View on Google Maps](https://maps.google.com/?cid=13058251630736931626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)  
-Coordinates: 37.7707793, -122.39143070000002
+[View on Google Maps](https://maps.google.com/?cid=13058251630736931626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 ## Hours
 
@@ -45,6 +45,7 @@ Sunday: 11:00 AM – 5:00 PM
 **Accessibility:** Wheelchair accessible entrance · Wheelchair accessible restroom · Wheelchair accessible seating · Wheelchair accessible parking
 
 ## What Diners Say
+
 - ★★★★★ "What a treat it was to find an outdoor venue with so many different dining options.
 We were at the nearby UCSF hospital for Business & were looking for a casual bite to eat nearby, here in the Mission bay area. We decided on the Parkland gardens side. It had several outdoor seating options. There we..." — **Brent Thompson** (3 weeks ago)
 - ★★★★★ "Lots of options and consistently good food quality, but the prices are on par with sit-down restaurants. Still, it’s a fun place to hang out with coworkers and friends, with far more variety than a single restaurant can offer." — **Hana K** (5 months ago)
@@ -52,6 +53,3 @@ We were at the nearby UCSF hospital for Business & were looking for a casual bit
 - ★★★★★ "We hosted our night-before-the-wedding welcome event at Spark Social SF in the Corner Cove, and it was perfect! Having a dedicated corner made it easy for friends and family to gather, relax, and enjoy the evening together. One of the best parts was being able to bring our “Dog of Honor” so everyone..." — **Emily Krupin** (6 months ago)
 - ★★★★★ "Awesome team event - super easy to book and pick up vouchers - we had the double decker bus. It was a huge hit with the team." — **Elizabeth** (5 months ago)
 
----
-
-*This page is optimized for AI discovery. Data sourced from public listings. Contact the restaurant to confirm details.*
